@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/java-openjdk-hotspot-30640c/loang/cap-run-20260921T033201Z-785f247452f3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 46869,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/javase/specs/jls/se13/html/jls-9.html",
+  "title": "Chapter 9. Interfaces",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:01:36Z",
+  "category": null
+}

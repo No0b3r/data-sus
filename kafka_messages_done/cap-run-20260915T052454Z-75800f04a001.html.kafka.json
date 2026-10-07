@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/driver-signing-cdfcab/loang/cap-run-20260915T052454Z-75800f04a001.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52963,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/install/trusted-root-certification-authorities-certificate-store",
+  "title": "Trusted Root Certification Authorities Certificate Store - Windows drivers",
+  "author": "Trusted Root Certification Authorities Certificate Store",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:52:38Z",
+  "category": "certificate stores WDK"
+}

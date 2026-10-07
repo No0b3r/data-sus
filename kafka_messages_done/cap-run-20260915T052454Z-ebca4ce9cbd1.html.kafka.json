@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-devops-security-dd3760/loang/cap-run-20260915T052454Z-ebca4ce9cbd1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 121989,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/devops/server/release-notes/azuredevops2022u1",
+  "title": "Azure DevOps Server 2022 Update 1 Release Notes - Azure DevOps Server & TFS",
+  "author": "New PAT Scope; Approvals; Checks",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:54:58Z",
+  "category": "azure devops"
+}

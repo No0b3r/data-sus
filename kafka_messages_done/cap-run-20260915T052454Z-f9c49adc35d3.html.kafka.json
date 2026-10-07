@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-f9c49adc35d3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62994,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate-in-code",
+  "title": "Use TLS/SSL Certificates in App Code - Azure App Service",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:41:58Z",
+  "category": "TLS/SSL in code, secure app, HTTPS integration, Azure App Service security"
+}

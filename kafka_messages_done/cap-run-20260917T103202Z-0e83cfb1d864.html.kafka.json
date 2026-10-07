@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-0e83cfb1d864.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3344,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.7/library/numeric.html",
+  "title": "Numeric and Mathematical Modules¶",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:52:53Z",
+  "category": null
+}

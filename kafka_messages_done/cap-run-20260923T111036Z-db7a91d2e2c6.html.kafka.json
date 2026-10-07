@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c8-t2-005-boringssl-2eff5c/loang/cap-run-20260923T111036Z-db7a91d2e2c6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "boringssl.googlesource.com",
+  "url": "https://boringssl.googlesource.com/boringssl/+/81913f592dcbcfb3d636e3183d08fe5264fa1cb7/rust/bssl-sys/",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T20:53:56Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='boringssl.googlesource.com', port=443): Max retries exceeded with url: /boringssl/+/81913f592dcbcfb3d636e3183d08fe5264fa1cb7/rust/bssl-sys/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C3855698D0>, 'Connection to boringssl.googlesource.com timed out. (connect timeout=15.0)'))"
+}

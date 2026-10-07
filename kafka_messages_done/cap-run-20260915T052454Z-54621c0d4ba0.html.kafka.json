@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-encryption-sdk-2efcbb/loang/cap-run-20260915T052454Z-54621c0d4ba0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5368,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/encryption-sdk/latest/developer-guide/supported-algorithms.html",
+  "title": "에서 지원되는 알고리즘 제품군 AWS Encryption SDK",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:02:34Z",
+  "category": null
+}

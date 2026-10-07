@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/services-in-scope-4e2eab/loang/cap-run-20260917T103202Z-db09bf891fe6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 412869,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/lightsail/features/?opdp2=features/?pg=ln&sec=hs",
+  "title": "Features",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:18:39Z",
+  "category": null
+}

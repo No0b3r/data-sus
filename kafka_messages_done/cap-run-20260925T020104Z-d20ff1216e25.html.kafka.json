@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-006-rfc-4301-ipsec-architecture-74782a/loang/cap-run-20260925T020104Z-d20ff1216e25.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 192276,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc3019",
+  "title": "RFC 3019: IP Version 6 Management Information Base for The Multicast Listener Discovery Protocol | RFC Editor",
+  "author": "B Haberman; R Worzella",
+  "published_year": 2001,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:28Z",
+  "category": "IPv6, Internet Protocol, MIB, Management Information Base, MLD, Multicast Listener Discovery Protocol"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-c3086f5ff3fb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 31677,
+  "domain": "python.org",
+  "url": "https://docs.python.org/2.6/whatsnew/2.4.html",
+  "title": "What’s New in Python 2.4¶",
+  "author": null,
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:12:25Z",
+  "category": null
+}

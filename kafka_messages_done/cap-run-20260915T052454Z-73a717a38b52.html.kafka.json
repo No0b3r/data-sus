@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/parliament-1877f0/loang/cap-run-20260915T052454Z-73a717a38b52.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 235402,
+  "domain": "github.com",
+  "url": "https://github.com/duo-labs/lookalike-domains",
+  "title": "GitHub - duo-labs/lookalike-domains: generate lookalike domains using a few simple techniques (homoglyphs, alt TLDs, prefix/suffix)",
+  "author": "Duo-Labs",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:48:03Z",
+  "category": "repository:90671280"
+}

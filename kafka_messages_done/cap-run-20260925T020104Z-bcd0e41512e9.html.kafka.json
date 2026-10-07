@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-bcd0e41512e9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 39249,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/chen-sanchuan",
+  "title": "Controlled Data Races in Enclaves: Attacks and Detection",
+  "author": "Sanchuan Chen; Zhiqiang Lin; Yinqian Zhang",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:52Z",
+  "category": null
+}

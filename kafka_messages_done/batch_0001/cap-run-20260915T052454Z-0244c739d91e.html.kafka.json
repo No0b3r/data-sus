@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-0244c739d91e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55373,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/update-manager/tutorial-assessment-deployment-using-policy",
+  "title": "Enable Periodic Assessment and Scheduled Patching Using a Policy",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:30:44Z",
+  "category": null
+}

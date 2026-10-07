@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t2-thuc-hanh/Tier2/saelo-3-years-of-attacking-javascript-engine-30930e/loang/cap-run-20260915T052454Z-e3f312213edf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 210921,
+  "domain": "github.com",
+  "url": "https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206/forks",
+  "title": "Build software better, together",
+  "author": "Pusnow",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:20:30Z",
+  "category": null
+}

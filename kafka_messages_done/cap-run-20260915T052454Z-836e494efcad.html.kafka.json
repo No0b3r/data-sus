@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ir-playbooks-workshop-f13366/loang/cap-run-20260915T052454Z-836e494efcad.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 422725,
+  "domain": "github.com",
+  "url": "https://github.com/aws-samples/aws-incident-response-playbooks-workshop/commit/6e48941187917377db9f49b879d6c2882307d8b0",
+  "title": "removed CDK metadata | CDK version update | EC2 instance type change · aws-samples/aws-incident-response-playbooks-workshop@6e48941",
+  "author": "Aws-Samples",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:37:46Z",
+  "category": "repository:393178646"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-f098104e28a8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49920,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity25/instructions-presenters-and-authors",
+  "title": "USENIX Security '25 Instructions for Presenters and Authors of Accepted Papers",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:22:25Z",
+  "category": null
+}

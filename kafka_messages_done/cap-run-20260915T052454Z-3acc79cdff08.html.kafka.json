@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-shield-37ba48/loang/cap-run-20260915T052454Z-3acc79cdff08.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6491,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/de_de/waf/latest/developerguide/what-is-aws-waf.html",
+  "title": "Was sind AWS WAF, AWS Shield Advanced, AWS Shield Direktor für Netzwerksicherheit und AWS Firewall Manager?",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:46:54Z",
+  "category": null
+}

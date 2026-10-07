@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260922T015341Z-16608ba5ad8e.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 882424,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/reference/compose-file/services/",
+  "title": "Define services in Docker Compose",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:19:56Z",
+  "category": "compose,compose,specification,services,compose,file,reference"
+}

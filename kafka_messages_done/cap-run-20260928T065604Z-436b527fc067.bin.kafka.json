@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/github-security-lab-504330/cap-run-20260928T065604Z-436b527fc067.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14713,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2026-105_Signal-iOS/",
+  "title": "GHSL-2026-105: Removed Signal group members can modify previously sent messages on a recipient’s iOS device",
+  "author": "Jarlob",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:26:43Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/vpc-695ea0/loang/cap-run-20260915T052454Z-ecf331d1be75.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3774,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/de_de/vpc/latest/userguide/deleting-security-groups.html",
+  "title": "Löschen einer Sicherheitsgruppe",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:22:53Z",
+  "category": null
+}

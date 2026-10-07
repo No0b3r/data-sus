@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-72602a6b0796.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4236,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ebs/latest/userguide/block-public-access-snapshots-view.html",
+  "title": "View the block public access setting for Amazon EBS snapshots",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:19:10Z",
+  "category": null
+}

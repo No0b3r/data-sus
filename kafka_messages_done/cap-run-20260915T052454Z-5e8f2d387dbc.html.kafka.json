@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-5e8f2d387dbc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4367,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/network-firewall/latest/developerguide/firewall-updating.html",
+  "title": "Updating a firewall in AWS Network Firewall",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:32:58Z",
+  "category": null
+}

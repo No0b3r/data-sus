@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/iam-c2c93e/loang/cap-run-20260915T052454Z-d540f0996c7a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7304,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/de_de/IAM/latest/UserGuide/id_users.html",
+  "title": "IAM-Benutzer",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:35:36Z",
+  "category": null
+}

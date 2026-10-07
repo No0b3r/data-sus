@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-7b1c5bf0652e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 75192,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-portal",
+  "title": "Quickstart: Create an internal load balancer - Azure portal - Azure Load Balancer",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:34:40Z",
+  "category": null
+}

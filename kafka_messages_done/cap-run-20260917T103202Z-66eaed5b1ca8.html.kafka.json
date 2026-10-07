@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-003-java-jca-reference-guide-4d7a5e/loang/cap-run-20260917T103202Z-66eaed5b1ca8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2204,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/java/javase/26/security&id=JSCOR-GUID-96D2C9AC-641A-4BDB-BB08-9FA04358A6F4",
+  "title": "Core Libraries",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:23:59Z",
+  "category": "urn:ohc:tag:,urn:ohc:application:,urn:ohc:application-type:,urn:ohc:industry:"
+}

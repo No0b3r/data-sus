@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/vpc-security-4df776/loang/cap-run-20260915T052454Z-810ac96944c4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3462,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC-compliance.html",
+  "title": "Validação de conformidade da Amazon Virtual Private Cloud",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:23:01Z",
+  "category": null
+}

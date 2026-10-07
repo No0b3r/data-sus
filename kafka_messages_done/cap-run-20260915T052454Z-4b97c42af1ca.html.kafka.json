@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-4b97c42af1ca.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50751,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/ucxcontroller/ns-ucxcontroller-_ucx_controller_acpi_information",
+  "title": "_UCX_CONTROLLER_ACPI_INFORMATION (ucxcontroller.h) - Windows drivers",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:52:46Z",
+  "category": "UCX_CONTROLLER_ACPI_INFORMATION structure"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260921T033201Z-fa87419ad789.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 302,
+  "domain": "go.googlesource.com",
+  "url": "https://go.googlesource.com/crypto/+/refs/heads/internal-branch.go1.17-vendor/pkcs12/?format=JSON",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:35:32Z",
+  "category": null
+}

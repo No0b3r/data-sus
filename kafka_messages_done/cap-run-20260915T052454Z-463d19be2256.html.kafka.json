@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/iam-vulnerable-cdd7a2/loang/cap-run-20260915T052454Z-463d19be2256.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 270509,
+  "domain": "github.com",
+  "url": "https://github.com/BishopFox/iam-vulnerable/discussions",
+  "title": "BishopFox/iam-vulnerable · Discussions",
+  "author": "BishopFox",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:35:56Z",
+  "category": "repository:344529392"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-5a810a46bf61.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59465,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-sql/database/audit-log-format?view=azuresql",
+  "title": "SQL Database audit log format - Azure SQL Database & Azure Synapse Analytics",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:39:52Z",
+  "category": null
+}

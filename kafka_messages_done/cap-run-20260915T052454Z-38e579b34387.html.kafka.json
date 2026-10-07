@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-instance-metadata-service-c6d667/loang/cap-run-20260915T052454Z-38e579b34387.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54665,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/service-bus-messaging/duplicate-detection",
+  "title": "Azure Service Bus duplicate message detection - Azure Service Bus",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:28Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-bfb783f03817.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4283,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/fr_fr/AWSEC2/latest/UserGuide/ami-boot.html",
+  "title": "Comportement au lancement de l’instance en fonction des modes de démarrage Amazon EC2",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:21:25Z",
+  "category": null
+}

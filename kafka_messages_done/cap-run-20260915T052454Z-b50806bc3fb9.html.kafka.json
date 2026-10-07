@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t3-aespower-src01-power-analysis-based-si-c50381/loang/cap-run-20260915T052454Z-b50806bc3fb9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 43248,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/1801.00932v1",
+  "title": "Power Analysis Based Side Channel Attack",
+  "author": "Gamaarachchi; Hasindu; Ganegoda; Harsha",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:54:21Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-006-rfc-5869-hkdf-88ed7b/loang/cap-run-20260925T020104Z-8b5be57b80f6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 254576,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4058",
+  "title": "RFC 4058: Protocol for Carrying Authentication for Network Access (PANA) Requirements | RFC Editor",
+  "author": "A Yegin; Y Ohba; R Penno; G Tsirtsis; C Wang",
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:36Z",
+  "category": "network connectivity, link layer agnostic protocol"
+}

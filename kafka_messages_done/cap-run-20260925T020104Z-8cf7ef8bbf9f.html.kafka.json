@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-008-rfc-9420-mls-078877/loang/cap-run-20260925T020104Z-8cf7ef8bbf9f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 373630,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4422",
+  "title": "RFC 4422: Simple Authentication and Security Layer (SASL) | RFC Editor",
+  "author": "A Melnikov; K Zeilenga",
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:35Z",
+  "category": "SASL, encryption, protocol specific"
+}

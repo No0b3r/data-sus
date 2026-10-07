@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/iam-c2c93e/loang/cap-run-20260915T052454Z-0d686d0d65ec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4123,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_s3_full-access-except-production.html",
+  "title": "Amazon S3: S3 Bucket access, but production bucket denied without recent MFA",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:34:34Z",
+  "category": null
+}

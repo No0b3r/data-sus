@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t2-004-go-crypto-x509-2188da/loang/cap-run-20260921T033201Z-7bbe1e05f70f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 213359,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/crypto/x509@go1.22.4",
+  "title": "x509",
+  "author": "AuthorityKeyId [] byte",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:27:37Z",
+  "category": null
+}

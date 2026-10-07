@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-005-rfc-7296-ikev2-2f9fcd/loang/cap-run-20260925T020104Z-7316747e76d5.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 36388,
+  "domain": "www.rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc3155.txt",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:55Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-t2-003-github-codeql-query-help-b309ff/loang/cap-run-20260929T014911Z-a1fb8d644d23.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8846,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-query-help/cpp/cpp-hresult-boolean-conversion/",
+  "title": "Cast between HRESULT and a Boolean type¶",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:14:38Z",
+  "category": null
+}

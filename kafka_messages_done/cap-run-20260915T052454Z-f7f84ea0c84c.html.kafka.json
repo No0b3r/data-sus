@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/iam-c2c93e/loang/cap-run-20260915T052454Z-f7f84ea0c84c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4936,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/pt_br/eventbridge/latest/userguide/eb-s3-object-created-tutorial.html",
+  "title": "Tutorial: enviar um e-mail usando o Amazon EventBridge quando ocorrerem eventos",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:35:48Z",
+  "category": null
+}

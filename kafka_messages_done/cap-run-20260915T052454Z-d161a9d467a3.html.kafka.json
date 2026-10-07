@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/driver-signing-cdfcab/loang/cap-run-20260915T052454Z-d161a9d467a3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 48332,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/vi-vn/windows-hardware/drivers/install/cm-prob-partial-log-conf",
+  "title": "CM_PROB_PARTIAL_LOG_CONF - Windows drivers",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:52:46Z",
+  "category": "CM_PROB_PARTIAL_LOG_CONF"
+}

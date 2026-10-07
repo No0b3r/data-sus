@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-005-rfc-7296-ikev2-2f9fcd/loang/cap-run-20260925T020104Z-27f01d7cf458.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 258024,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5528/",
+  "title": "RFC 5528: Camellia Counter Mode and Camellia Counter with CBC-MAC Mode Algorithms | RFC Editor",
+  "author": "A Kato; M Kanda; S Kanno",
+  "published_year": 2009,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:48Z",
+  "category": "Camellia, Block Cipher, Mode of operation"
+}

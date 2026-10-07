@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-identity-platform-73f542/loang/cap-run-20260915T052454Z-cbf3257d699a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54667,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-sla-performance",
+  "title": "Service Level Agreement performance for Microsoft Entra ID - Microsoft Entra ID",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:46:24Z",
+  "category": null
+}

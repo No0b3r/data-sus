@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-a8d28f6321c5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 194427,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/470918/hyper-v-with-windows-xp-os-network-adapter-not-sho",
+  "title": "Hyper-v with Windows XP OS network adapter not showing in device management - Microsoft Q&A",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:04:55Z",
+  "category": null
+}

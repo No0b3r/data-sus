@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/app-service-security-5ad287/loang/cap-run-20260915T052454Z-60d1283684b8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 57077,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-monitor/reference/supported-metrics/microsoft-web-serverfarms-metrics",
+  "title": "Supported metrics - Microsoft.Web/serverfarms - Azure Monitor",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:54:04Z",
+  "category": null
+}

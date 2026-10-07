@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/terraform-example-foundation-aea8fa/loang/cap-run-20260915T052454Z-61e1661c778d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 342254,
+  "domain": "github.com",
+  "url": "https://github.com/terraform-google-modules/terraform-google-bootstrap/blob/main/variables.tf",
+  "title": "terraform-google-bootstrap/variables.tf at main · terraform-google-modules/terraform-google-bootstrap",
+  "author": "Terraform-Google-Modules",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:30:10Z",
+  "category": "repository:204996581"
+}

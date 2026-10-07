@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c8-t2-005-boringssl-2eff5c/loang/cap-run-20260923T111036Z-a712426dd1fd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10260,
+  "domain": "googlesource.com",
+  "url": "https://boringssl.googlesource.com/All-Projects/+/63767a517dcccd0e4508d4fd52ea37452e2ccb32",
+  "title": "63767a517dcccd0e4508d4fd52ea37452e2ccb32 - All-Projects",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T20:51:21Z",
+  "category": null
+}

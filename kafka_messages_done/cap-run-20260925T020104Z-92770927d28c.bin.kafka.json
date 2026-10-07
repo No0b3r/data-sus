@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t1-003-rfc-8017-pkcs-1-v2-2-4c7731/loang/cap-run-20260925T020104Z-92770927d28c.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 316011,
+  "domain": "rfc-editor.org",
+  "url": "http://www.rfc-editor.org/info/rfc7292",
+  "title": "RFC 7292: PKCS #12: Personal Information Exchange Syntax v1.1 | RFC Editor",
+  "author": "K Moriarty; M Nystrom; S Parkinson; A Rusch; M Scott",
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:52:17Z",
+  "category": "PKCS#12, PKCS12v1.1, PKCS#12v1.1"
+}

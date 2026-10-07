@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/securing-privileged-access-d98331/loang/cap-run-20260915T052454Z-48f4185633d1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 60427,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/security/threat-protection/intelligence/prevent-malware-infection",
+  "title": "Prevent malware infection - Microsoft Defender for Endpoint",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:12:00Z",
+  "category": "security, malware, prevention, infection, tips, Microsoft, MMPC, Microsoft Malware Protection Center, virus, trojan, worm, stop, prevent, full scan, infection, avoid malware, avoid trojan, avoid virus, infection, how, detection, security software, antivirus, updates, how malware works, how virus works, firewall, turn on, user privileges, limit, prevention, WDSI, MMPC, Microsoft Malware Protection Center"
+}

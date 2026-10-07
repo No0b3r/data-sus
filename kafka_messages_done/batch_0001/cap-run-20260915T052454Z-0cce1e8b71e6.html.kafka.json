@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-security-devops-bf2c4f/loang/cap-run-20260915T052454Z-0cce1e8b71e6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 241183,
+  "domain": "github.com",
+  "url": "https://github.com/microsoft/security-devops-azdevops/blob/main/LICENSE",
+  "title": "security-devops-azdevops/LICENSE at main · microsoft/security-devops-azdevops",
+  "author": "Microsoft",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:47:12Z",
+  "category": "repository:450255313"
+}

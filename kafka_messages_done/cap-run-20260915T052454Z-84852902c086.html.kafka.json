@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-84852902c086.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4567,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_AddTagsToResource.html",
+  "title": "AddTagsToResource",
+  "author": null,
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:53:07Z",
+  "category": null
+}

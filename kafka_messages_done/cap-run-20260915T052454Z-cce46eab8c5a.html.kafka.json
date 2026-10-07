@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-ransomware-anatomy-456b48/loang/cap-run-20260915T052454Z-cce46eab8c5a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1317357,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/blogs/security/how-to-implement-federated-api-and-cli-access-using-saml-2-0-and-ad-fs/",
+  "title": "How to Implement Federated API and CLI Access Using SAML 2.0 and AD FS | Amazon Web Services",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:15:41Z",
+  "category": "AWS Identity and Access Management (IAM)"
+}

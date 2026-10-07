@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-bf5c12f2fac5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 58447,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-content-reference-guide",
+  "title": "Connect and Query - Azure SQL Database & Azure SQL Managed Instance",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:41:15Z",
+  "category": null
+}

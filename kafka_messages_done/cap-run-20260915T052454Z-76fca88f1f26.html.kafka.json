@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-76fca88f1f26.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 73529,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/aks/use-azure-ad-pod-identity",
+  "title": "Use Microsoft Entra pod-managed identities in AKS (Preview) - Azure Kubernetes Service",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:34:34Z",
+  "category": null
+}

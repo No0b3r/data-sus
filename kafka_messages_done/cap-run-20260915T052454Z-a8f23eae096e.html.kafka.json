@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-controllers-for-kubernetes-723477/loang/cap-run-20260915T052454Z-a8f23eae096e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 438422,
+  "domain": "github.com",
+  "url": "https://github.com/orgs/aws-controllers-k8s/repositories",
+  "title": "AWS Controllers for Kubernetes",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:01:31Z",
+  "category": "organization:78112587"
+}

@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-005-go-crypto-cipher-1bf15e/loang/cap-run-20260915T052454Z-f2afca906a77.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "pkg.go.dev",
+  "url": "https://pkg.go.dev/codeberg.org/derat/advent-of-code/2016/23?tab=licenses",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:26:17Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='pkg.go.dev', port=443): Max retries exceeded with url: /codeberg.org/derat/advent-of-code/2016/23?tab=licenses (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C3F39BCE10>, 'Connection to pkg.go.dev timed out. (connect timeout=15.0)'))"
+}

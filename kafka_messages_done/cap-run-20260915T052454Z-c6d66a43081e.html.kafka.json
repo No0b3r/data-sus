@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/vpc-695ea0/loang/cap-run-20260915T052454Z-c6d66a43081e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4258,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/de_de/vpc/latest/userguide/vpc-security-best-practices.html",
+  "title": "Security best practices for your VPC",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:22:51Z",
+  "category": null
+}

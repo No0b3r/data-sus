@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/java-openjdk-hotspot-30640c/loang/cap-run-20260922T015341Z-7fc43ffe5480.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6141,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/java/javase/11/docs/specs/jdwp/jdwp-spec.html",
+  "title": "API reference for Java Platform, Standard Edition",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:03:03Z",
+  "category": null
+}

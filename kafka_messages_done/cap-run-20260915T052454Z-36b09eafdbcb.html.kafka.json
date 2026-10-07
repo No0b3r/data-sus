@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/mcsbv1-a1f97c/loang/cap-run-20260915T052454Z-36b09eafdbcb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 48130,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/bastion/bastion-vm-full-screen",
+  "title": "View virtual machine session full screen in browser - Azure Bastion",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:28:27Z",
+  "category": null
+}

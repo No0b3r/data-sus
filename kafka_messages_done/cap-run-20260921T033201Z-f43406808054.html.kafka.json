@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-003-java-jca-reference-guide-4d7a5e/loang/cap-run-20260921T033201Z-f43406808054.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14070,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/java/javase/26/core&id=JSINT-GUID-1CB4B574-44E2-49E3-ACB4-AE6EF83A7F86",
+  "title": "Internationalization Guide",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:25:09Z",
+  "category": "urn:ohc:tag:,urn:ohc:tag:,urn:ohc:tag:,urn:ohc:application:,urn:ohc:application:,urn:ohc:application:,urn:ohc:application-type:,urn:ohc:application-type:,urn:ohc:application-type:,urn:ohc:industry:,urn:ohc:industry:,urn:ohc:industry:"
+}

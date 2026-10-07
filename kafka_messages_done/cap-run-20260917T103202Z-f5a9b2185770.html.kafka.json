@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-008-crypto-rand-47dfdc/loang/cap-run-20260917T103202Z-f5a9b2185770.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 73978,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/aychpay/aychpaybackend@v0.0.0-20180815172529-5ecede5950f4/packages/block",
+  "title": "block",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:45:32Z",
+  "category": null
+}

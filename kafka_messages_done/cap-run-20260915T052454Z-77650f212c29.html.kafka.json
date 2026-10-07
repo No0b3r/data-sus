@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-data-security-research-f22b06/loang/cap-run-20260915T052454Z-77650f212c29.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49812,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/",
+  "title": "Turning threat intelligence into decisive action with Defender Experts | Microsoft Security Blog",
+  "author": "Aarti Borkar",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:42:48Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-684b963b0083.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 130936,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/2202618/wsl2-not-installed-recognized-with-docker-desktop",
+  "title": "WSL2 Not Installed-Recognized With Docker Desktop For Windows - Microsoft Q&A",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:04:17Z",
+  "category": null
+}

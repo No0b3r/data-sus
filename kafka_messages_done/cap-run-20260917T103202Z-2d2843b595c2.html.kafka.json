@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-008-crypto-rand-47dfdc/loang/cap-run-20260917T103202Z-2d2843b595c2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 142,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/fleaz/AoC-2019@v0.0.0-20241208184530-e98d69262f4b/2024/day03",
+  "title": "429",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:35:45Z",
+  "category": null
+}

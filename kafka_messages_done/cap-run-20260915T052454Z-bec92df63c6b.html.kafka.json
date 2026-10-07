@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-encryption-sdk-2efcbb/loang/cap-run-20260915T052454Z-bec92df63c6b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7413,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/sdk-for-net/v4/developer-guide/net-dg-config-other.html",
+  "title": "設定其他應用程式參數",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:04:01Z",
+  "category": null
+}

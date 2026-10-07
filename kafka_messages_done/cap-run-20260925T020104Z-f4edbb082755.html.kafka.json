@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t1-001-rfc-5280-x-509-pki-dc9320/loang/cap-run-20260925T020104Z-f4edbb082755.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 205839,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4116",
+  "title": "RFC 4116: IPv4 Multihoming Practices and Limitations | RFC Editor",
+  "author": "J Abley; K Lindqvist; E Davies; B Black; V Gill",
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:19:03Z",
+  "category": "internet protocol"
+}

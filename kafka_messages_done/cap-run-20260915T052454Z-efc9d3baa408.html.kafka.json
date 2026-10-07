@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-efc9d3baa408.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12072,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/fr_fr/redshift/latest/dg/c-getting-started-using-spectrum.html",
+  "title": "Mise en route avec Amazon Redshift Spectrum",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:14:44Z",
+  "category": null
+}

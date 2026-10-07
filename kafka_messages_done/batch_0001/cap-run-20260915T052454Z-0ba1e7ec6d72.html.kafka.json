@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/workload-identity-federation-09f786/loang/cap-run-20260915T052454Z-0ba1e7ec6d72.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 66611,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sql-tutorial",
+  "title": "Tutorial: Connect to On-premises Data in SQL Server - Power BI",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:24:18Z",
+  "category": null
+}

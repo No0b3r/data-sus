@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/control-tower-controls-504d83/loang/cap-run-20260915T052454Z-6f35ed6dc257.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4278,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/controltower/latest/controlreference/control-identifiers.html",
+  "title": "Resource identifiers for APIs and controls",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:15:02Z",
+  "category": null
+}

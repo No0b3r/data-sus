@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-identity-platform-73f542/loang/cap-run-20260915T052454Z-c96738aa7654.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 65657,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/entra/external-id/customers/how-to-sign-in-with-passkey",
+  "title": "Sign in with passkeys in Microsoft Entra External ID - Microsoft Entra External ID",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:46:23Z",
+  "category": null
+}

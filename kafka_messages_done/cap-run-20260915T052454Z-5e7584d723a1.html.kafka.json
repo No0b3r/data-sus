@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/security-analytics-bootstrap-e0ebee/loang/cap-run-20260915T052454Z-5e7584d723a1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 209139,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/athena-glue-service-logs/forks",
+  "title": "Forks · awslabs/athena-glue-service-logs",
+  "author": "Awslabs",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:17:43Z",
+  "category": "repository:134778020"
+}

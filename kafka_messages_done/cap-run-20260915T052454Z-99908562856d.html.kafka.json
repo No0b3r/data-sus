@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/customer-playbook-framework-4f152b/loang/cap-run-20260915T052454Z-99908562856d.html.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 40,
+  "domain": "github.com",
+  "url": "https://github.com/osint-shifu",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:16:01Z",
+  "category": null
+}

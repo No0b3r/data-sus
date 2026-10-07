@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-data-security-research-f22b06/loang/cap-run-20260915T052454Z-2ed3ddad8b35.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52240,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2022/04/19/the-future-of-compliance-and-data-governance-is-here-introducing-microsoft-purview",
+  "title": "The future of compliance and data governance is here: Introducing Microsoft Purview | Microsoft Security Blog",
+  "author": "Alym Rayani",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:42:19Z",
+  "category": "Compliance"
+}

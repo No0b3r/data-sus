@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-003-go-crypto-46f4ef/loang/cap-run-20260917T103202Z-e83f36e87fde.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50996,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/authelia.com/provider/oauth2@v0.3.2/token/jose/testutils/require",
+  "title": "require",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:06:56Z",
+  "category": null
+}

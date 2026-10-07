@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-002-go-crypto-tls-461835/loang/cap-run-20260917T103202Z-c2c3e7cdb544.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 75410,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/code.cloudfoundry.org/gorouter@v0.0.0-20250429140807-a602bb6a6243/fakes",
+  "title": "fakes",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:57:00Z",
+  "category": null
+}

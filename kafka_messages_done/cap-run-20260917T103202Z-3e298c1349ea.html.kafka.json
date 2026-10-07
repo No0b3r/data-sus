@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c6-t3-003-github-secret-scanning-22ca84/loang/cap-run-20260917T103202Z-3e298c1349ea.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51549,
+  "domain": "github.com",
+  "url": "https://docs.github.com/ko/code-security/concepts/code-scanning/setup-types",
+  "title": "코드 검색을 위한 설정 유형 정보 - GitHub 문서",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:41:41Z",
+  "category": null
+}

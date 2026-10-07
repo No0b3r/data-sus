@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/terraform-example-foundation-aea8fa/loang/cap-run-20260915T052454Z-582aec8443ab.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 329537,
+  "domain": "github.com",
+  "url": "https://github.com/terraform-google-modules/terraform-example-foundation/compare/v5.0.0...v6.0.0",
+  "title": "Comparing v5.0.0...v6.0.0 · terraform-google-modules/terraform-example-foundation",
+  "author": "Terraform-Google-Modules",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:30:09Z",
+  "category": "repository:225491284"
+}

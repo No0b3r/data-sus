@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/roadtools-ef444b/loang/cap-run-20260915T052454Z-7c4418758eec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 236532,
+  "domain": "github.com",
+  "url": "https://github.com/dirkjanm/ROADtools/blob/master/.editorconfig",
+  "title": "ROADtools/.editorconfig at master · dirkjanm/ROADtools",
+  "author": "Dirkjanm",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:50:01Z",
+  "category": "repository:250760872"
+}

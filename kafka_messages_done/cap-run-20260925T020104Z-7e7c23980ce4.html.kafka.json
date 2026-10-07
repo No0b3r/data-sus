@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-full-003-rfc-9147-d9eb1c/loang/cap-run-20260925T020104Z-7e7c23980ce4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 264613,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc7345/",
+  "title": "RFC 7345: UDP Transport Layer (UDPTL) over Datagram Transport Layer Security (DTLS) | RFC Editor",
+  "author": "C Holmberg; I Sedlacek; G Salgueiro",
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:48:51Z",
+  "category": "SDP, SIP, DTLS, UDPTL, fax, transport"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t1-003-rfc-9162-certificate-transparency-9064f4/loang/cap-run-20260925T020104Z-2b55fa650e85.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 174685,
+  "domain": "rfc-editor.org",
+  "url": "http://www.rfc-editor.org/info/rfc6961",
+  "title": "RFC 6961: The Transport Layer Security (TLS) Multiple Certificate Status Request Extension | RFC Editor",
+  "author": "Y Pettersen",
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:19:06Z",
+  "category": "RFC 6066, RFC 2560, RFC 6960, RFC 5246, OCSP, OCSP stapling, multi-stapling, certificate status checking, revocation information, status_request, status_request_v2"
+}

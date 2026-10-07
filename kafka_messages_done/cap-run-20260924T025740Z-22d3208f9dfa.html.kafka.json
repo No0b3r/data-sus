@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-freemarker-33255e/loang/cap-run-20260924T025740Z-22d3208f9dfa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9926,
+  "domain": "apache.org",
+  "url": "https://freemarker.apache.org/docs/api/freemarker/core/TemplateConfiguration.html",
+  "title": "Class TemplateConfiguration",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:33:09Z",
+  "category": null
+}

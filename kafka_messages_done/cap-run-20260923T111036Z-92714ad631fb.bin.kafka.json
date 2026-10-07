@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-005-node-tls-6d7b7f/loang/cap-run-20260923T111036Z-92714ad631fb.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 119860,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v10.x/api/process.html",
+  "title": "Process",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T18:56:25Z",
+  "category": null
+}

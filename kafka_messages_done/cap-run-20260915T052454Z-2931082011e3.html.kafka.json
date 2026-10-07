@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/gcp-iam-privilege-escalation-f1ff3a/cap-run-20260915T052454Z-2931082011e3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 266939,
+  "domain": "github.com",
+  "url": "https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation",
+  "title": "GitHub - RhinoSecurityLabs/GCP-IAM-Privilege-Escalation: A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.",
+  "author": "RhinoSecurityLabs",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:26:28Z",
+  "category": "repository:259373760"
+}

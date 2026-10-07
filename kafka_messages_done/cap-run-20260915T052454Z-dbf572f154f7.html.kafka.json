@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ecs-security-7c5872/loang/cap-run-20260915T052454Z-dbf572f154f7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7519,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/AmazonECS/latest/developerguide/managed-instances-security.html",
+  "title": "Amazon ECS 托管实例的安全注意事项",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:24:39Z",
+  "category": null
+}

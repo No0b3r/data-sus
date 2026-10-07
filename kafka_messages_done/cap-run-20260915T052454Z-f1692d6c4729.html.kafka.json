@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-security-devops-bf2c4f/loang/cap-run-20260915T052454Z-f1692d6c4729.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 234110,
+  "domain": "github.com",
+  "url": "https://github.com/PyCQA/bandit/blob/main/SECURITY.md",
+  "title": "bandit/SECURITY.md at main · PyCQA/bandit",
+  "author": "PyCQA",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:47:31Z",
+  "category": "repository:131129792"
+}

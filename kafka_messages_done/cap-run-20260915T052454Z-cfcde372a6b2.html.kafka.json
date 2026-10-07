@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/google-secops-community-bf2da9/loang/cap-run-20260915T052454Z-cfcde372a6b2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 246494,
+  "domain": "github.com",
+  "url": "https://github.com/chronicle/cli/tree/main/parsers",
+  "title": "cli/parsers at main · chronicle/cli",
+  "author": "Chronicle",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:28:16Z",
+  "category": "repository:517554299"
+}

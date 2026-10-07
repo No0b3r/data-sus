@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-ed9c9175c7f0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4992,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/purpose-built-qapps-web-experience.html",
+  "title": "Using the web experience to create and run Amazon Q Apps",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:14:39Z",
+  "category": null
+}

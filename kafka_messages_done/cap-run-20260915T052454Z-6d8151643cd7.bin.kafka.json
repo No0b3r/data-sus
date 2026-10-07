@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-6d8151643cd7.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7947,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/access-control-resource-based.html",
+  "title": "Lambda에서 리소스 기반 정책 작업",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:51:12Z",
+  "category": null
+}

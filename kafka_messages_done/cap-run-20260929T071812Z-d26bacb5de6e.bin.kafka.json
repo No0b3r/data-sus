@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/codeql-b5e352/loang/cap-run-20260929T071812Z-d26bacb5de6e.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12233,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/docs/codeql-language-guides/using-type-tracking-for-api-modeling",
+  "title": "Using type tracking for API modeling¶",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:39:05Z",
+  "category": null
+}

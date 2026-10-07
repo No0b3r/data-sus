@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-cordova-4462de/loang/cap-run-20260930T034226Z-3a2346557f27.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4737,
+  "domain": "apache.org",
+  "url": "https://cordova.apache.org/announcements/2025/11/23/cordova-ios-8.0.0.html",
+  "title": "Apache Cordova",
+  "author": "Darryl Pogue",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:27:27Z",
+  "category": null
+}

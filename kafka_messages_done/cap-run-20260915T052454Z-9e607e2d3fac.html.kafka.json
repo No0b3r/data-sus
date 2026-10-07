@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/access-control-overview-d1b0cd/loang/cap-run-20260915T052454Z-9e607e2d3fac.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36993,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc732200(v=ws.11)",
+  "title": "Run a program with administrative credentials",
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:45:55Z",
+  "category": null
+}

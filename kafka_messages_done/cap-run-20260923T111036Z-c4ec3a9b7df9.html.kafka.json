@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/java-openjdk-hotspot-30640c/loang/cap-run-20260923T111036Z-c4ec3a9b7df9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4647,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/java/javase/21/gctuning/introduction-garbage-collection-tuning.html",
+  "title": "HotSpot Virtual Machine Garbage Collection Tuning Guide",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:03:54Z",
+  "category": "urn:ohc:application-type:, urn:ohc:application:, urn:ohc:industry:, urn:ohc:tag:"
+}

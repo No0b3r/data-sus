@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-ce6ceeb519be.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8531,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ja_jp/inspector/latest/user/findings-managing-automating-responses.html",
+  "title": "Amazon EventBridge を使用して Amazon Inspector の検出結果に対するカスタムレスポンスを作成する",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:21:53Z",
+  "category": null
+}

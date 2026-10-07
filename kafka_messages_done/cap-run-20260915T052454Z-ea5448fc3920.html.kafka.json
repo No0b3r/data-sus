@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/gcp-iam-privilege-escalation-f1ff3a/loang/cap-run-20260915T052454Z-ea5448fc3920.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 228161,
+  "domain": "github.com",
+  "url": "https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation/tree/5c90e931f61ec6dca08772762a74ba3da1407c81/PrivEscScanner",
+  "title": "GCP-IAM-Privilege-Escalation/PrivEscScanner at 5c90e931f61ec6dca08772762a74ba3da1407c81 · RhinoSecurityLabs/GCP-IAM-Privilege-Escalation",
+  "author": "RhinoSecurityLabs",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:26:38Z",
+  "category": "repository:259373760"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/workload-identity-federation-09f786/loang/cap-run-20260915T052454Z-826888b584f2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 42690,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/managedidentity/federated-identity-credentials/delete?view=rest-managedidentity-2024-11-30",
+  "title": "Federated Identity Credentials - Delete - REST API (Azure Managed Identity)",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:24:33Z",
+  "category": null
+}

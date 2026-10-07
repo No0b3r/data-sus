@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-307f7617b7b5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 368,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/ask/?id=aHR0cHM6Ly9taWNyb3NvZnQtZGV2cmVsLnBvb2xwYXJ0eS5iaXovUW5BQ29tcG91bmQvNGY5YTY4M2YtNDYzYy00ZTBkLTg4NDgtNzNmYzJiZDM0ZDgx&styleGuideLabel=WindowsforbusinessWindowsClientforITProsStoragehighavailabilityVirtualizationandHyper-V",
+  "title": "Sign In",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:03:46Z",
+  "category": null
+}

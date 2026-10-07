@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/object-manager-b95c12/loang/cap-run-20260915T052454Z-5319eb516e60.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49155,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/ntifs/ns-ntifs-move_file_data",
+  "title": "MOVE_FILE_DATA - Windows drivers",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:10:00Z",
+  "category": null
+}

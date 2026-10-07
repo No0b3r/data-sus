@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-006-rfc-4301-ipsec-architecture-74782a/loang/cap-run-20260925T020104Z-918a9afc2563.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 531136,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc3376",
+  "title": "RFC 3376: Internet Group Management Protocol, Version 3 | RFC Editor",
+  "author": "B Cain; S Deering; I Kouvelas; B Fenner; A Thyagarajan",
+  "published_year": 2002,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:20Z",
+  "category": "IGMP, Internet Group Management Protocol, multicast, routing, IP, Internet Protocol"
+}

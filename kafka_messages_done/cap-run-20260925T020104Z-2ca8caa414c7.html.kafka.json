@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-2ca8caa414c7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40395,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity22/presentation/harrity",
+  "title": "{GET} /out: Automated Discovery of {Application-Layer} Censorship Evasion Strategies",
+  "author": "Michael Harrity; Kevin Bock; Frederick Sell; Dave Levin",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:36Z",
+  "category": null
+}

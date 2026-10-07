@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260921T033201Z-225ca93f2d7c.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 1004,
+  "domain": "go.googlesource.com",
+  "url": "https://go.googlesource.com/crypto/+/refs/heads/internal-branch.go1.16-vendor/chacha20/?format=TEXT",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:20:17Z",
+  "category": null
+}

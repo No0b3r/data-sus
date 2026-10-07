@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t2-004-go-crypto-x509-2188da/loang/cap-run-20260917T103202Z-39f3589ec451.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 44771,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/astuart.co/gosaml2/s2example",
+  "title": "s2example",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:22:24Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-d77e540ab36e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15818,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.6/library/difflib.html",
+  "title": "6.3. difflib — Helpers for computing deltas¶",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:15:06Z",
+  "category": null
+}

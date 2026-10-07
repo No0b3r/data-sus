@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-131f9e2338f9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4142,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2EbsEncryptionByDefault.html",
+  "title": "Get-EC2EbsEncryptionByDefault Cmdlet",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:17:27Z",
+  "category": null
+}

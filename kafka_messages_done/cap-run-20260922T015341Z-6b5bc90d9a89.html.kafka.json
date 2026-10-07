@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260922T015341Z-6b5bc90d9a89.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7880,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/crypto/+/03ca0dcccbd37ba6be80adf74dde8d78a4d72817/scrypt/",
+  "title": "scrypt - crypto",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:39:47Z",
+  "category": null
+}

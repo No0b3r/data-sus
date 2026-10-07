@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/runc-306763/loang/cap-run-20260915T052454Z-fb9debd77835.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 211679,
+  "domain": "github.com",
+  "url": "https://github.com/opencontainers/runc/compare/v1.5.0-rc.1...v1.5.0-rc.2",
+  "title": "Comparing v1.5.0-rc.1...v1.5.0-rc.2 · opencontainers/runc",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:11:48Z",
+  "category": "repository:36960321"
+}

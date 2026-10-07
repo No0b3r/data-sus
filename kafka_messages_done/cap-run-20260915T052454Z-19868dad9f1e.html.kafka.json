@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-ransomware-anatomy-456b48/loang/cap-run-20260915T052454Z-19868dad9f1e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 355862,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/cli/?trk=c4ea046f-18ad-4d23-a1ac-cdd1267f942c&sc_channel=el",
+  "title": "AWS CLI",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:15:21Z",
+  "category": null
+}

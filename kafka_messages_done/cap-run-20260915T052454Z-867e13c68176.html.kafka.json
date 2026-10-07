@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-867e13c68176.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 63445,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/ipv6-ip-planning",
+  "title": "Conceptual planning for IPv6 networking - Azure Architecture Center",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:58:41Z",
+  "category": null
+}

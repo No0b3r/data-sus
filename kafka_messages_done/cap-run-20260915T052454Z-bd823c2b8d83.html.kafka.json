@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-identity-platform-73f542/loang/cap-run-20260915T052454Z-bd823c2b8d83.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50751,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/entra/external-id/hybrid-organizations",
+  "title": "B2B collaboration for hybrid organizations - Microsoft Entra External ID",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:46:15Z",
+  "category": null
+}

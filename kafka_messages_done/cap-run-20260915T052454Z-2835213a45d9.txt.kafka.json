@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/stormspotter-0e1ac5/loang/cap-run-20260915T052454Z-2835213a45d9.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 193,
+  "domain": "github.com",
+  "url": "https://github.com/Azure/Stormspotter/raw/refs/heads/main/CODE_OF_CONDUCT.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:19:58Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-customer-security-incidents-99a15e/loang/cap-run-20260915T052454Z-d9f33248e254.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 450049,
+  "domain": "github.com",
+  "url": "https://github.com/minio/minio/tree/8b4d0255b7247b1a06d923e69ed5ba01434e70b8",
+  "title": "GitHub - minio/minio at 8b4d0255b7247b1a06d923e69ed5ba01434e70b8",
+  "author": "Minio",
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:01:58Z",
+  "category": "repository:29261473"
+}

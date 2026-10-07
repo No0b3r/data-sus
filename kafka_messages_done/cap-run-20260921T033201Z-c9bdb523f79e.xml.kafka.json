@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260921T033201Z-c9bdb523f79e.xml.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": 339,
+  "domain": "docs.python.org",
+  "url": "https://docs.python.org/pt-br/3.14/_static/opensearch.xml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:25:36Z",
+  "category": null
+}

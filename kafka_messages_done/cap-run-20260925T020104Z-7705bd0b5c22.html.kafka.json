@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-006-rfc-5869-hkdf-88ed7b/loang/cap-run-20260925T020104Z-7705bd0b5c22.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 251061,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4282/",
+  "title": "RFC 4282: The Network Access Identifier | RFC Editor",
+  "author": "B Aboba; M Beadles; J Arkko; P Eronen",
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:35Z",
+  "category": "NAI, nai, roaming, tunneling"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/application-isolation-43c3b0/loang/cap-run-20260915T052454Z-7db79151afda.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59010,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/windows-app-sdk/api/winrt/microsoft.windows.applifecycle.activationregistrationmanager?view=windows-app-sdk-2.0",
+  "title": "ActivationRegistrationManager Class (Microsoft.Windows.AppLifecycle) - Windows App SDK",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:05:45Z",
+  "category": null
+}

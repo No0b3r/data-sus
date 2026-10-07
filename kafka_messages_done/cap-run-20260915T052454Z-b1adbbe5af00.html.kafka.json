@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-b1adbbe5af00.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14632,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/bedrock-agentcore/latest/devguide/agentcore-vpc.html",
+  "title": "VPC용 Amazon Bedrock AgentCore 런타임 및 도구 구성",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:14:55Z",
+  "category": null
+}

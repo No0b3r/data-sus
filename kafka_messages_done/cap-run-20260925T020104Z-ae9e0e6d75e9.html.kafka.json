@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-ae9e0e6d75e9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 41880,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity25/presentation/benoit",
+  "title": "{BLens}: Contrastive Captioning of Binary Functions using Ensemble Embedding",
+  "author": "Tristan Benoit; Yunru Wang; Moritz Dannehl; Johannes Kinder",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:44Z",
+  "category": null
+}

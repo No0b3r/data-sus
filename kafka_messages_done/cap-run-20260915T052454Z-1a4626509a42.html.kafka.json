@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/serverless-lens-d14067/loang/cap-run-20260915T052454Z-1a4626509a42.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3584,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/wellarchitected/latest/userguide/lenses-preview.html",
+  "title": "AWS WA Tool에서 워크로드에 대한 사용자 지정 렌즈 미리 보기",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:17:51Z",
+  "category": null
+}

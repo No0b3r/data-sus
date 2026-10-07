@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-full-012-go-crypto-hmac-and-hash-713fab/loang/cap-run-20260921T033201Z-a5b6d9685f99.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "pkg.go.dev",
+  "url": "https://pkg.go.dev/bitbucket.org/ofuro28/aimsis-backend-utils@v0.0.0-20221003041658-ffea8c08d904/response",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:16:09Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='pkg.go.dev', port=443): Max retries exceeded with url: /bitbucket.org/ofuro28/aimsis-backend-utils@v0.0.0-20221003041658-ffea8c08d904/response (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001C3F17A6210>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))"
+}

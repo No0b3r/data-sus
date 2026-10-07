@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260917T103202Z-8356e475d7b2.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 519334,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/subscription-billing/desktop-license/",
+  "title": "Docker Desktop license agreement",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:14:19Z",
+  "category": "docker,desktop,license,subscription,service,agreement,commercial,use,licensing,terms,free,for,small,business,paid,subscription,open,source,components"
+}

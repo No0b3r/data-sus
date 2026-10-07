@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-003-go-crypto-46f4ef/loang/cap-run-20260921T033201Z-e6242ea95358.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 102139,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/crypto/x509/internal/macos@go1.21.10",
+  "title": "macOS",
+  "author": null,
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:13:58Z",
+  "category": null
+}

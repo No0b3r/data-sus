@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260921T033201Z-c38d904cafea.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3944,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.16/library/crypt.html",
+  "title": "crypt — Function to check Unix passwords",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:23:43Z",
+  "category": null
+}

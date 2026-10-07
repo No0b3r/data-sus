@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-f2980fecaabf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 57457,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-netapp-files/data-protection-disaster-recovery-options",
+  "title": "Understand data protection and disaster recovery options in Azure NetApp Files",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:00:16Z",
+  "category": null
+}

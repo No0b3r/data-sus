@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260924T025740Z-f7c94d905dc0.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 4016,
+  "domain": "docs.docker.com",
+  "url": "https://docs.docker.com/reference/samples/ai-ml.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:30:43Z",
+  "category": null
+}

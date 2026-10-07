@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudsplaining-457d52/loang/cap-run-20260915T052454Z-936ef4ea5dac.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 360691,
+  "domain": "github.com",
+  "url": "https://github.com/1Panel-dev/CordysCRM",
+  "title": "GitHub - 1Panel-dev/CordysCRM: 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:11:37Z",
+  "category": "repository:1043515641"
+}

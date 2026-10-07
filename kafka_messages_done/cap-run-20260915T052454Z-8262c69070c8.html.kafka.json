@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-8262c69070c8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6645,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/de_de/AmazonRDS/latest/UserGuide/USER_LogAccess.Concepts.PostgreSQL.html",
+  "title": "RDS für PostgreSQL-Datenbankprotokolldateien",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:52:58Z",
+  "category": null
+}

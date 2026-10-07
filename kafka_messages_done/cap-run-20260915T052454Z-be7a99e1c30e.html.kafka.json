@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-landing-zones-bicep-4230d1/loang/cap-run-20260915T052454Z-be7a99e1c30e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 273224,
+  "domain": "github.com",
+  "url": "https://github.com/Azure/ALZ-Bicep/wiki/AzureMonitorBaselineAlerts",
+  "title": "AzureMonitorBaselineAlerts",
+  "author": "Azure",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:47Z",
+  "category": "repository:396743838"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-c190c039a579.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 107204,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops",
+  "title": "Machine learning operations - Azure Architecture Center",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:41:17Z",
+  "category": null
+}

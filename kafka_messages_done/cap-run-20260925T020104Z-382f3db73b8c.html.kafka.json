@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-full-003-rfc-9147-d9eb1c/loang/cap-run-20260925T020104Z-382f3db73b8c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 158439,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3605/",
+  "title": "RFC 3605: Real Time Control Protocol (RTCP) attribute in Session Description Protocol (SDP) | RFC Editor",
+  "author": "C Huitema",
+  "published_year": 2003,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:48:48Z",
+  "category": "RTCP, Real Time Control Protocol, SDP, Session Description Protocol, nat, network access translation, port mapping"
+}

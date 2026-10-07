@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/image-builder-security-d82739/cap-run-20260915T052454Z-224bf9bef33d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1161,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/imagebuilder/latest/userguide/security.html",
+  "title": "EC2 Image Builder",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:37:03Z",
+  "category": null
+}

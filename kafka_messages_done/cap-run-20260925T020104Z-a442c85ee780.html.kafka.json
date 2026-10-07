@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-a442c85ee780.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 41009,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity25/presentation/teymourian",
+  "title": "{SoK}: Come Together – Unifying Security, Information Theory, and Cognition for a Mixed Reality Deception Attack Ontology & Analysis Framework",
+  "author": "Ali Teymourian; Andrew M Webb; Taha Gharaibeh; Arushi Ghildiyal; Ibrahim Baggili",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:36Z",
+  "category": null
+}

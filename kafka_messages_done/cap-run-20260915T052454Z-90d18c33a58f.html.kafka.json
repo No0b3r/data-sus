@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-devops-security-dd3760/loang/cap-run-20260915T052454Z-90d18c33a58f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 44093,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/azure/devops/git/blobs",
+  "title": "Blobs - REST API (Azure DevOps Git)",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:54:18Z",
+  "category": null
+}

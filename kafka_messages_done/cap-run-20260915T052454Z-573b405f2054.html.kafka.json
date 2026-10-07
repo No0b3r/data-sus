@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/securing-privileged-access-d98331/loang/cap-run-20260915T052454Z-573b405f2054.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 177540,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-server/networking/core-network-guide/core-network-guide",
+  "title": "Core network components",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:12:02Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/sysinternals-documentation-c29092/loang/cap-run-20260915T052454Z-a852f4732b3c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50833,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/symsrv",
+  "title": "Symbols for Windows Debugging - Windows drivers",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:12:53Z",
+  "category": "symbols"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-guard-4f4e87/loang/cap-run-20260915T052454Z-1ab5905a8d04.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 594161,
+  "domain": "github.com",
+  "url": "https://github.com/aws-cloudformation/cloudformation-guard/tree/main",
+  "title": "GitHub - aws-cloudformation/cloudformation-guard: Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules. Take this survey to provide feedback about cfn-guard: https://amazonmr.au1.qualtrics.com/jfe/form/SV_bpyzpfoYGGuuUl0",
+  "author": "Aws-Cloudformation",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:01:40Z",
+  "category": "repository:271888852"
+}

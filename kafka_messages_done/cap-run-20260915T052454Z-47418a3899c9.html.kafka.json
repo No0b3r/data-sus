@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudsplaining-457d52/loang/cap-run-20260915T052454Z-47418a3899c9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 227163,
+  "domain": "github.com",
+  "url": "https://github.com/salesforce/policy_sentry/tree/master/hooks",
+  "title": "policy_sentry/hooks at master · salesforce/policy_sentry",
+  "author": "Salesforce",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:11:30Z",
+  "category": "repository:209652627"
+}

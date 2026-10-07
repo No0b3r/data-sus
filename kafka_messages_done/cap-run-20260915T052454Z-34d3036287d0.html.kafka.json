@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/leonidas-bd1433/loang/cap-run-20260915T052454Z-34d3036287d0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 213886,
+  "domain": "github.com",
+  "url": "https://github.com/Skybound1?tab=packages",
+  "title": "Skybound1 - Packages",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:38:19Z",
+  "category": null
+}

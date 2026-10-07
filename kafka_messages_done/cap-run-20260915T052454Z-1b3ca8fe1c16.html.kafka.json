@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-004-sslstream-7d64f3/loang/cap-run-20260915T052454Z-1b3ca8fe1c16.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54036,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/dotnet/api/system.byte.iseveninteger?view=net-10.0",
+  "title": "Byte.IsEvenInteger(Byte) Method (System)",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:59:04Z",
+  "category": null
+}

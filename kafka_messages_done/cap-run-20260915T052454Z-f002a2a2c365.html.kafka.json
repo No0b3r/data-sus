@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-f002a2a2c365.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7114,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-settings-mfa-totp.html",
+  "title": "TOTP software token MFA",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:34:27Z",
+  "category": null
+}

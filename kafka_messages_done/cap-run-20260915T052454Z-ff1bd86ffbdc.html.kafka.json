@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/workload-identity-federation-09f786/loang/cap-run-20260915T052454Z-ff1bd86ffbdc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40850,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/microsoft-365-app-certification/overview",
+  "title": "Microsoft 365 App Compliance Program overview - Microsoft 365 App Certification",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:24:59Z",
+  "category": "microsoft 365 m365 app Publisher Attestation certification"
+}

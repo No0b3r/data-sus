@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-003-go-crypto-46f4ef/loang/cap-run-20260917T103202Z-26c89aa70ae7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50666,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/crypto/hmac@go1.21.11",
+  "title": "hmac",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:55:02Z",
+  "category": null
+}

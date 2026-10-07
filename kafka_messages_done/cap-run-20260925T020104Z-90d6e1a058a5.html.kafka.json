@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-90d6e1a058a5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40305,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity22/presentation/han",
+  "title": "Hiding in Plain Sight? On the Efficacy of Power Side {Channel-Based} Control Flow Monitoring",
+  "author": "Yi Han; Matthew Chan; Zahra Aref; Nils Ole Tippenhauer; Saman Zonouz",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:26Z",
+  "category": null
+}

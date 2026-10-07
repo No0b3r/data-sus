@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t2-004-go-crypto-x509-2188da/loang/cap-run-20260921T033201Z-9afd42f4f1ae.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 78146,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/encoding/asn1@go1.23.6",
+  "title": "asn1",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:29:00Z",
+  "category": null
+}

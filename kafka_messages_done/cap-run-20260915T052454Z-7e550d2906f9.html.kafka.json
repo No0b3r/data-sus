@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-7e550d2906f9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54311,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0",
+  "title": "Create an Azure Bot resource in the Azure portal - Bot Service",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:58:31Z",
+  "category": "Quickstart, create bot resource, bot service, Azure Bot"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-security-blog-517e51/loang/cap-run-20260917T103202Z-1d253d83e50f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1289428,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/blogs/apn/state-of-utah-application-modernization-the-express-lane-from-mainframe-to-cloud/",
+  "title": "State of Utah Application Modernization: The Express Lane from Mainframe to Cloud | Amazon Web Services",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:37:07Z",
+  "category": "AWS Partner Network"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/workload-identity-federation-09f786/loang/cap-run-20260915T052454Z-870469746070.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50335,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/managedidentity/2022-01-31-preview/user-assigned-identities/create-or-update",
+  "title": "User Assigned Identities - Create Or Update - REST API (Azure Managed Identity)",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:24:34Z",
+  "category": null
+}

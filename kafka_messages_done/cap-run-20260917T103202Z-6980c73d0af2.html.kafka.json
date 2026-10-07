@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-008-crypto-rand-47dfdc/loang/cap-run-20260917T103202Z-6980c73d0af2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 142,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/aychex/aex.signs@v0.0.0-20190515155749-650c8b8c7bbd/examples/go",
+  "title": "429",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:38:50Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-5cd09f29bca3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 17844,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/users/na/?userid=a58ec9c5-dbc0-4078-b0f0-c4433e47e55a",
+  "title": "Profile",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:33:39Z",
+  "category": null
+}

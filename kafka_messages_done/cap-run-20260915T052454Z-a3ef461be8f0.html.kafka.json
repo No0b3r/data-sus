@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-a3ef461be8f0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 35166,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/eventgrid/controlplane-preview/ca-certificates",
+  "title": "Ca Certificates - REST API (Azure Event Grid)",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:59:06Z",
+  "category": null
+}

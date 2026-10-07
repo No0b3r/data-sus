@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c12-full-020-lost-encryption-keys-83f973/loang/cap-run-20260915T052454Z-c6cdeb1ecb54.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6107,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/kms/latest/developerguide/multi-region-update.html",
+  "title": "Cambio de la clave principal en un conjunto de claves de varias regiones",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:22:08Z",
+  "category": null
+}

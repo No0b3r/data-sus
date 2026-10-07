@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-identity-platform-73f542/loang/cap-run-20260915T052454Z-4d9662f96366.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 63932,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/graph/api/security-alert-movealerts",
+  "title": "alert: moveAlerts - Microsoft Graph v1.0",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:44:56Z",
+  "category": null
+}

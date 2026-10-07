@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260921T033201Z-cb3170445b57.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12196,
+  "domain": "python.org",
+  "url": "https://docs.python.org/pl/3.10/tutorial/stdlib.html",
+  "title": "10. Krótka wycieczka po Bibliotece Standardowej¶",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:26:02Z",
+  "category": null
+}

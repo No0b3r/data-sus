@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-cirt-tag-archive-14060c/loang/cap-run-20260915T052454Z-e0fbe430a869.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 453344,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/vi/products/?nc2=h_ql_prod",
+  "title": "Sản phẩm đám mây",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:59:40Z",
+  "category": null
+}

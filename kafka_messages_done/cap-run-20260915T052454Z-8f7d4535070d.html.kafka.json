@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-8f7d4535070d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 69533,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/foundry/concepts/authentication-authorization-foundry",
+  "title": "Authentication and authorization in Microsoft Foundry - Microsoft Foundry",
+  "author": "Authentication; Authorization",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:40:37Z",
+  "category": null
+}

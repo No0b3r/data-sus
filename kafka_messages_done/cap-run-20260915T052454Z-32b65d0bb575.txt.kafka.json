@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/terraform-example-foundation-aea8fa/loang/cap-run-20260915T052454Z-32b65d0bb575.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 6925,
+  "domain": "github.com",
+  "url": "https://github.com/terraform-google-modules/terraform-example-foundation/raw/refs/heads/main/README.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:30:00Z",
+  "category": null
+}

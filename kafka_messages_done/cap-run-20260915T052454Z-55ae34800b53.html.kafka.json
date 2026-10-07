@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-55ae34800b53.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 95287,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-improved-exports?WT.mc_id=costmanagementcontent_docsacmhorizontal_-inproduct-learn",
+  "title": "Tutorial - Create and manage Cost Management exports - Microsoft Cost Management",
+  "author": "Why do I get the error while trying",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:57:43Z",
+  "category": null
+}

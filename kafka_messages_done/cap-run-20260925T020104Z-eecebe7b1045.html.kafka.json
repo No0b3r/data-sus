@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t1-003-rfc-9162-certificate-transparency-9064f4/loang/cap-run-20260925T020104Z-eecebe7b1045.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 312247,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc6962",
+  "title": "RFC 6962: Certificate Transparency | RFC Editor",
+  "author": "B Laurie; A Langley; E Kasper",
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:19:09Z",
+  "category": "TLS certificates"
+}

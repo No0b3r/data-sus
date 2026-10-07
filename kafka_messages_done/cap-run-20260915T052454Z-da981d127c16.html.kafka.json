@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/image-builder-components-b38cdc/loang/cap-run-20260915T052454Z-da981d127c16.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9937,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/imagebuilder/latest/userguide/security_iam_service-with-iam.html",
+  "title": "Image Builder가 IAM 정책 및 역할을 사용하는 방법",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:36:57Z",
+  "category": null
+}

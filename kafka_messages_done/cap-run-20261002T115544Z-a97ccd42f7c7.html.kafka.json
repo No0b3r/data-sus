@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/msrc-blog-3e75f9/loang/cap-run-20261002T115544Z-a97ccd42f7c7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7138,
+  "domain": "microsoft.com",
+  "url": "https://msrc.microsoft.com/leaderboard",
+  "title": "MSRC Researcher Portal",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:47:52Z",
+  "category": "Security, Report, Microsoft, MSFT, Update Guide, Security Response Center, vulnerabilities, vulnerability, security research, security patches, security updates, bugs, bounty, MSRC, Windows, Xbox, Azure, Dynamics, Zero Day Quest, ZDQ, leaderboard"
+}

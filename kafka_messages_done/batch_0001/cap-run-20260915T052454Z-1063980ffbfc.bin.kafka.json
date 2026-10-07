@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/codeql-b5e352/loang/cap-run-20260915T052454Z-1063980ffbfc.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9361,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-query-help/javascript/js-variable-use-in-temporal-dead-zone/",
+  "title": "Access to let-bound variable in temporal dead zone¶",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:23:25Z",
+  "category": null
+}

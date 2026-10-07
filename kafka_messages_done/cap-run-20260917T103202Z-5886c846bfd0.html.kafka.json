@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/microsoft-sdl-practices-570ca4/loang/cap-run-20260917T103202Z-5886c846bfd0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 22084,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/securityengineering/sdl/practices/secure-dev-infra",
+  "title": "Secure Dev Infrastructure",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:22:22Z",
+  "category": null
+}

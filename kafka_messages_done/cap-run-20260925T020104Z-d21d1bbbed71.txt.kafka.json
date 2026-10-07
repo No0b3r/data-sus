@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c6-t3-003-github-secret-scanning-22ca84/loang/cap-run-20260925T020104Z-d21d1bbbed71.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 5769,
+  "domain": "docs.github.com",
+  "url": "https://docs.github.com/api/article/body?pathname=/zh/code-security/concepts/code-quality/enablement-at-scale",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:48:28Z",
+  "category": null
+}

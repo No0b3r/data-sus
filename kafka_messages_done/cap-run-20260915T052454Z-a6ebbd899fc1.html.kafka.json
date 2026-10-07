@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/windows-credential-protection-940783/loang/cap-run-20260915T052454Z-a6ebbd899fc1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 88379,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/vi-vn/windows-server/identity/ad-ds/manage/how-to-configure-protected-accounts",
+  "title": "Guidance about how to configure protected accounts",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:13:35Z",
+  "category": null
+}

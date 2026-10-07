@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260921T033201Z-a17ee3a70cc9.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5811,
+  "domain": "python.org",
+  "url": "https://docs.python.org/zh-tw/3.13/bugs.html",
+  "title": "處理錯誤 (Bug)",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:13:08Z",
+  "category": null
+}

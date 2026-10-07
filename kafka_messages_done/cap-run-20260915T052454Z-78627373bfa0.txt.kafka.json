@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/flutter-c3cb7c/loang/cap-run-20260915T052454Z-78627373bfa0.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 2591,
+  "domain": "docs.flutter.dev",
+  "url": "https://docs.flutter.dev/ui/accessibility.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:39:59Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t2-thuc-hanh/Tier2/saelo-3-years-of-attacking-javascript-engine-30930e/loang/cap-run-20260915T052454Z-d886542cf7a7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 222682,
+  "domain": "github.com",
+  "url": "https://gist.github.com/saelo/dd598a91a27ddd7cb9e410dc92bf37a1/stargazers",
+  "title": "Build software better, together",
+  "author": "Saelo",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:20:28Z",
+  "category": null
+}

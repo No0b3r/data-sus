@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-b18221e3e6e7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 39811,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/communitytoolkit/controls/radialprogressbar",
+  "title": "RadialProgressBar - Windows Community Toolkit",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:59:32Z",
+  "category": "windows 10, uwp, windows community toolkit, uwp community toolkit, uwp toolkit, Radial Progress Bar, RadialProgressBar, xaml control, xaml"
+}

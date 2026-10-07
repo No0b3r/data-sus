@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c12-full-020-lost-encryption-keys-83f973/loang/cap-run-20260915T052454Z-4d1e93bd3c93.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9751,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/de_de/kms/latest/developerguide/requests-per-second.html",
+  "title": "Anforderungskontingente",
+  "author": null,
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:19:28Z",
+  "category": null
+}

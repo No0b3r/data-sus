@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/application-isolation-43c3b0/loang/cap-run-20260915T052454Z-a70cafc82d23.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 88743,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/microsoft-365/enterprise/m365-dr-overview",
+  "title": "Overview and Definitions - Microsoft 365 Enterprise",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:05:54Z",
+  "category": null
+}

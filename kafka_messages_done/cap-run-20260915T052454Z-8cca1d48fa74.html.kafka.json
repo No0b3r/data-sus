@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/access-control-model-fbceef/loang/cap-run-20260915T052454Z-8cca1d48fa74.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51684,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/desktop/api/Lmaccess/ns-lmaccess-localgroup_members_info_0",
+  "title": "LOCALGROUP_MEMBERS_INFO_0 (lmaccess.h) - Win32 apps",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:45:41Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/vpc-security-4df776/loang/cap-run-20260915T052454Z-4efe4cde28f5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4672,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/disaster-recovery-resiliency.html",
+  "title": "Amazon Virtual Private Cloud에서의 복원성",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:22:58Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-75b67ef6b3e0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51537,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/virtual-wan/gateway-settings",
+  "title": "About gateway settings for Virtual WAN - Azure Virtual WAN",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:58:22Z",
+  "category": null
+}

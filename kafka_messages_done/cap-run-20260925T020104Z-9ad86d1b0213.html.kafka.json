@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-005-rfc-7296-ikev2-2f9fcd/loang/cap-run-20260925T020104Z-9ad86d1b0213.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 276262,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc8247/",
+  "title": "RFC 8247: Algorithm Implementation Requirements and Usage Guidance for the Internet Key Exchange Protocol Version 2 (IKEv2) | RFC Editor",
+  "author": "Y Nir; T Kivinen; P Wouters; D Migault",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:59Z",
+  "category": "IPsec, IKE, internet key exchange"
+}

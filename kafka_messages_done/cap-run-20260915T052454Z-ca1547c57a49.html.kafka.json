@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/app-service-security-5ad287/loang/cap-run-20260915T052454Z-ca1547c57a49.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 96249,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad",
+  "title": "Configure Microsoft Entra Authentication - Azure App Service",
+  "author": "Use a built-in authorization policy",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:54:13Z",
+  "category": null
+}

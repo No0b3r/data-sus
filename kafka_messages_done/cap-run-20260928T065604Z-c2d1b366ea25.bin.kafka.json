@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-007-node-crypto-61fe7b/loang/cap-run-20260928T065604Z-c2d1b366ea25.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 160051,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/pt/about/governance",
+  "title": "Node.js — Gestão do Projeto",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:14:43Z",
+  "category": null
+}

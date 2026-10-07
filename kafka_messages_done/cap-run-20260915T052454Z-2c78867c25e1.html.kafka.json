@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-cordova-4462de/loang/cap-run-20260915T052454Z-2c78867c25e1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4155,
+  "domain": "apache.org",
+  "url": "https://cordova.apache.org/announcements/2025/01/08/meetup-1.html",
+  "title": "Cordova needs you in 2025! Let's start with a meetup",
+  "author": "Niklas Merz",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:23:11Z",
+  "category": null
+}

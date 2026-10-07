@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-007-node-crypto-61fe7b/loang/cap-run-20260925T020104Z-72cbb8c9ac86.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 292110,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/es/download/archive/v9.11.2",
+  "title": "Node.js — Ejecuta JavaScript en cualquier parte",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:59:41Z",
+  "category": null
+}

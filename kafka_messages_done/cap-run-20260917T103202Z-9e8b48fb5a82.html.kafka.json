@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20260917T103202Z-9e8b48fb5a82.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10676,
+  "domain": "apache.org",
+  "url": "https://solr.apache.org/guide/solr/latest/getting-started/tutorial-solrcloud.html",
+  "title": "Exercise 6: Getting Deeper with SolrCloud",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T02:13:33Z",
+  "category": null
+}

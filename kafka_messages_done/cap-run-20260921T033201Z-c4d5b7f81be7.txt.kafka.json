@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260921T033201Z-c4d5b7f81be7.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": null,
+  "domain": "go.googlesource.com",
+  "url": "https://go.googlesource.com/crypto/+/1f7c531b64a19f04f56ccc318130688c5ba0aa51/blake2b/blake2b_loong64.go?format=JSON",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:31:44Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='go.googlesource.com', port=443): Max retries exceeded with url: /crypto/+/1f7c531b64a19f04f56ccc318130688c5ba0aa51/blake2b/blake2b_loong64.go?format=JSON (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C3883D66D0>, 'Connection to go.googlesource.com timed out. (connect timeout=15.0)'))"
+}

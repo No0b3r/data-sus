@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-005d88cff9b1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 77570,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/devops/pipelines/library/variable-groups",
+  "title": "Manage variable groups - Azure Pipelines",
+  "author": "Authorization",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:47:35Z",
+  "category": null
+}

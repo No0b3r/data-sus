@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-config-rules-b00d12/loang/cap-run-20260915T052454Z-b5239d9a6061.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 262231,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/aws-config-rules/blob/master/README.md",
+  "title": "aws-config-rules/README.md at master · awslabs/aws-config-rules",
+  "author": "Awslabs",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:01:01Z",
+  "category": "repository:51314087"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t1-001-rfc-5280-x-509-pki-dc9320/loang/cap-run-20260925T020104Z-879acd71c3e2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 186905,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc10007/",
+  "title": "RFC 10007: Clarification to Processing Key Usage Values During Certificate Revocation List (CRL) Validation | RFC Editor",
+  "author": "C Bonnell; T Ito; T Okubo",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:18:47Z",
+  "category": "Public Key Infrastructure, Certificate validation, Security"
+}

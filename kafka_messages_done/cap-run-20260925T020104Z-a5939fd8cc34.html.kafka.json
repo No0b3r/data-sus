@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-006-rfc-5869-hkdf-88ed7b/loang/cap-run-20260925T020104Z-a5939fd8cc34.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 211769,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4675/",
+  "title": "RFC 4675: RADIUS Attributes for Virtual LAN and Priority Support | RFC Editor",
+  "author": "P Congdon; M Sanchez; B Aboba",
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:39Z",
+  "category": "remote authentication dial-in user service, local area network"
+}

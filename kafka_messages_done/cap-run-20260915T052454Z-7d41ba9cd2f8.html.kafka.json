@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-controllers-for-kubernetes-723477/loang/cap-run-20260915T052454Z-7d41ba9cd2f8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1486101,
+  "domain": "github.com",
+  "url": "https://github.com/mono/mono/blob/master/mcs/class/System/Test/System.Text.RegularExpressions/PerlTrials.cs",
+  "title": "mono/mcs/class/System/Test/System.Text.RegularExpressions/PerlTrials.cs at main · mono/mono",
+  "author": "Mono",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:01:24Z",
+  "category": "repository:791611"
+}

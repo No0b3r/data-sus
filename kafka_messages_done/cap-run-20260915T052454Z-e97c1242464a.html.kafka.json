@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-e97c1242464a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 17192,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/fr_fr/AmazonS3/latest/userguide/checking-object-integrity-upload.html",
+  "title": "Vérification de l’intégrité des objets lors de chargements de données dans Amazon S3",
+  "author": null,
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:14:30Z",
+  "category": null
+}

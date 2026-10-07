@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-devops-security-dd3760/loang/cap-run-20260915T052454Z-71035709b20a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 48960,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/azure/devops/tokenadministration/token%20revocations/revoke%20authorizations?view=azure-devops-rest-5.0&preserve-view=true",
+  "title": "Token Revocations - Revoke Authorizations - REST API (Azure DevOps Token Administration)",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:54:06Z",
+  "category": null
+}

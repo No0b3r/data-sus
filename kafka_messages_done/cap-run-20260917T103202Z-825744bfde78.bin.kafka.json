@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260917T103202Z-825744bfde78.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 679760,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/engine/release-notes/28/",
+  "title": "Docker Engine version 28 release notes",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:14:17Z",
+  "category": "docker,docker,engine,ce,whats,new,release,notes"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/gke-security-github-6c91de/loang/cap-run-20260915T052454Z-7783a354041f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 406539,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/gke-security-scenarios-demo/tree/master",
+  "title": "GitHub - GoogleCloudPlatform/gke-security-scenarios-demo: This project demonstrates a series of best practices for improving the security of containerized applications deployed to Kubernetes Engine. You will deploy multiple instances of the same container image with a variety of security settings to illustrate the use of RBAC, security contexts, and AppArmor policies.",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:26:50Z",
+  "category": "repository:142068424"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-014-go-crypto-rand-82377e/loang/cap-run-20260921T033201Z-9620bd7aa5c1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 637472,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/oracleNetworkProtocol/plugchain-sdk-go@v0.2.13/modules/bank",
+  "title": "bank",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T07:06:34Z",
+  "category": null
+}

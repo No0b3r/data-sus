@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/kerberos-constrained-delegation-c982c6/loang/cap-run-20260915T052454Z-ac8aaea0b417.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 41673,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-sfu/aceb70de-40f0-4409-87fa-df00ca145f5a",
+  "title": "[MS-SFU]: PA-FOR-USER",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:06:15Z",
+  "category": null
+}

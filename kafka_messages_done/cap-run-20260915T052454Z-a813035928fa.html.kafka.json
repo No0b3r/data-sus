@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudhsm-5d3cdd/loang/cap-run-20260915T052454Z-a813035928fa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3765,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/de_de/cloudhsm/latest/userguide/getting-started.html",
+  "title": "Erste Schritte mit AWS CloudHSM",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:11:20Z",
+  "category": null
+}

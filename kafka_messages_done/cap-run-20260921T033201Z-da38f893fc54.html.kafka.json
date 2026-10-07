@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-014-go-crypto-rand-82377e/loang/cap-run-20260921T033201Z-da38f893fc54.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49305,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/itsTurnip/albion-status-checker@v0.0.0-20200312104608-8009abb9b456",
+  "title": "albion-status-checker",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T07:10:46Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-6cd81e21528b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4735,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/userguide/MultiRegionAccessPoints.html",
+  "title": "다중 리전 액세스 포인트로 다중 리전 트래픽 관리",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:00:02Z",
+  "category": null
+}

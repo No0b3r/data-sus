@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260922T015341Z-fd8804dfa853.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7643,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/crypto/+/626e40fc986f72b464ecb2063e02e7923bf3025d/cast5/",
+  "title": "cast5 - crypto",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:45:27Z",
+  "category": null
+}

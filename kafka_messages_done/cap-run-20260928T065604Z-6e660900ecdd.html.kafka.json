@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t2-thuc-hanh/Tier2/usenix-security-symposium-proceedings-b3dda4/loang/cap-run-20260928T065604Z-6e660900ecdd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 26263,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity27/submitting-ml-work-usenix-security",
+  "title": "Submitting ML Work to USENIX Security",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:20:37Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-f9476cb285d5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5381,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/de_de/AmazonS3/latest/userguide/transforming-objects.html",
+  "title": "Transformieren von Objekten mit S3 Object Lambda",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:15:05Z",
+  "category": null
+}

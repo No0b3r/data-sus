@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-f1a1de417098.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3525,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/servicecatalog/latest/adminguide/tagoptions.html",
+  "title": "AWS Service Catalog TagOption Library",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:23:07Z",
+  "category": null
+}

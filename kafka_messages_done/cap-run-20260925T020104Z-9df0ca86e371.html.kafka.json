@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-9df0ca86e371.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 37720,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity21/presentation/khan-arslan",
+  "title": "{M2MON}: Building an {MMIO-based} Security Reference Monitor for Unmanned Vehicles",
+  "author": "Arslan Khan; Hyungsub Kim; Byoungyoung Lee; Dongyan Xu; Antonio Bianchi; Dave Tian",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:33Z",
+  "category": null
+}

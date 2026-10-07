@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/log4shell-cve-2021-44228-apache-advisory-74d4ba/loang/cap-run-20260915T052454Z-78a1341d274e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12780,
+  "domain": "apache.org",
+  "url": "https://logging.apache.org/log4cxx/1.8.0/classlog4cxx_1_1FileAppender.html",
+  "title": "◆ FileAppender() [1/5]",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:20:27Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-c6b0cbf94a96.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5016,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html",
+  "title": "Recopile las métricas, registros y seguimientos con el agente de CloudWatch",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:21:36Z",
+  "category": null
+}

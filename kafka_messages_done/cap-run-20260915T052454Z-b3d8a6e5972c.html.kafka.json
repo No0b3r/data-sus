@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/kerberos-constrained-delegation-c982c6/loang/cap-run-20260915T052454Z-b3d8a6e5972c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51347,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-sfu/a47e0084-d6c3-40ba-8c3c-f1eeb3d85ecf",
+  "title": "[MS-SFU]: Appendix A: Product Behavior",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:06:15Z",
+  "category": null
+}

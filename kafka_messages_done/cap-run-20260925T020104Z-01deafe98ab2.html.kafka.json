@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-full-028-rfc-6066-e7bb34/loang/cap-run-20260925T020104Z-01deafe98ab2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 192226,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4919",
+  "title": "RFC 4919: IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs): Overview, Assumptions, Problem Statement, and Goals | RFC Editor",
+  "author": "N Kushalnagar; G Montenegro; C Schumacher",
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:18:19Z",
+  "category": "ieee 802.15.4"
+}

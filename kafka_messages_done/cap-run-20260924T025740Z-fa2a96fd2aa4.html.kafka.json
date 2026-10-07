@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c8-t2-005-boringssl-2eff5c/loang/cap-run-20260924T025740Z-fa2a96fd2aa4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1855,
+  "domain": "googlesource.com",
+  "url": "https://boringssl.googlesource.com/All-Projects/+/2ae0c6d111b0f1f89e3fb9a2637ef041d1c7cc45",
+  "title": "Error RESOURCE_EXHAUSTED",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:02:10Z",
+  "category": null
+}

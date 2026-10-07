@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-006-rfc-5869-hkdf-88ed7b/loang/cap-run-20260925T020104Z-a3c2507bdc37.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 192608,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2607/",
+  "title": "RFC 2607: Proxy Chaining and Policy Implementation in Roaming | RFC Editor",
+  "author": "B Aboba; J Vollbrecht",
+  "published_year": 1999,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:39Z",
+  "category": "network, access, server, identifier, radius"
+}

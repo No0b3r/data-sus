@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260924T025740Z-9f499185c366.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 405171,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/guides/postgresql/advanced-configuration-and-initialization/",
+  "title": "PostgreSQL specific guide",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:29:30Z",
+  "category": "Docker,getting,started,postgresql,language"
+}

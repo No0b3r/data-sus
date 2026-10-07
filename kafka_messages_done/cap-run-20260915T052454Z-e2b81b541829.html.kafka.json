@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/sra-examples-cb5291/loang/cap-run-20260915T052454Z-e2b81b541829.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 301477,
+  "domain": "github.com",
+  "url": "https://github.com/AdamDivall/CfCT-Amazon-GuardDuty",
+  "title": "GitHub - AdamDivall/CfCT-Amazon-GuardDuty: CloudFormation Template that leverages a Custom Resource to invoke a Lambda Function that configures Amazon GuardDuty across the Organization. Specifically this has been designed for the purpose of implementing via Customisations for Control Tower",
+  "author": "AdamDivall",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:19:32Z",
+  "category": "repository:457285669"
+}

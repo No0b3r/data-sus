@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-848dcce6eb0e.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 37534,
+  "domain": "python.org",
+  "url": "https://docs.python.org/ro/3.11/library/sqlite3.html",
+  "title": "sqlite3 — DB-API 2.0 interface for SQLite databases",
+  "author": "Set Authorizer",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T09:57:52Z",
+  "category": null
+}

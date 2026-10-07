@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-4dfc28d05a10.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53387,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/usbcon/configuring-usb-endpoints-in-a-host-controller-driver",
+  "title": "Configure USB Endpoints in a USB Host Controller Driver - Windows drivers",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:52:55Z",
+  "category": null
+}

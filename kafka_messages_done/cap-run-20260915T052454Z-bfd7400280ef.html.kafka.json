@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-security-devops-bf2c4f/loang/cap-run-20260915T052454Z-bfd7400280ef.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 317181,
+  "domain": "github.com",
+  "url": "https://github.com/accurics/terrascan/blob/master/LICENSE",
+  "title": "terrascan/LICENSE at master · tenable/terrascan",
+  "author": "Tenable",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:47:27Z",
+  "category": "repository:103084166"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-34c43821b1a2.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 16841,
+  "domain": "python.org",
+  "url": "https://docs.python.org/pl/3.13/deprecations/index.html",
+  "title": "Deprecjacje",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T09:15:57Z",
+  "category": null
+}

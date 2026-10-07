@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/gcpwn-b60816/loang/cap-run-20260915T052454Z-aeadb8143167.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 282466,
+  "domain": "github.com",
+  "url": "https://github.com/jpoehnelt/apps-script",
+  "title": "GitHub - jpoehnelt/apps-script: A monorepo containing tools, projects, and more related to Apps Script.",
+  "author": "Jpoehnelt",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:26:39Z",
+  "category": "repository:943685240"
+}

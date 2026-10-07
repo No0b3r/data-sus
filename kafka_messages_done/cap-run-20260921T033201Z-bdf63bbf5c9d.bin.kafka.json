@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260921T033201Z-bdf63bbf5c9d.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 281748,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/id/download",
+  "title": "Node.js — Unduh Node.js®",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:58:56Z",
+  "category": null
+}

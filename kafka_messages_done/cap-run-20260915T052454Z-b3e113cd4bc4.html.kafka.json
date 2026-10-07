@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-b3e113cd4bc4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8147,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/inspector/latest/user/findings-managing-automating-responses.html",
+  "title": "Amazon EventBridge를 사용하여 Amazon Inspector 조사 결과에 대한 사용자 지정 응답 생성",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:21:04Z",
+  "category": null
+}

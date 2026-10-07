@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/terraform-example-foundation-aea8fa/loang/cap-run-20260915T052454Z-aec6796070e2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 255152,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/policy-library/blob/master/samples/always_violates.yaml",
+  "title": "policy-library/samples/always_violates.yaml at master · GoogleCloudPlatform/policy-library",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:30:23Z",
+  "category": "repository:178277843"
+}

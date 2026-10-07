@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/log4shell-cve-2021-44228-apache-advisory-74d4ba/loang/cap-run-20260915T052454Z-aa2cb9f38585.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2433,
+  "domain": "apache.org",
+  "url": "https://logging.apache.org/log4j/1.x/apidocs/org/apache/log4j/net/SimpleSocketServer.html",
+  "title": "org.apache.log4j.net Class SimpleSocketServer",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:20:46Z",
+  "category": null
+}

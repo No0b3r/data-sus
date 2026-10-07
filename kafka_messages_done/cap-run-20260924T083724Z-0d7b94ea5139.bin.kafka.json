@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-043-owasp-asvs-535fe9/loang/cap-run-20260924T083724Z-0d7b94ea5139.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 120034,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/board/meetings/202510",
+  "title": "October 2025 Minutes | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:41:25Z",
+  "category": "OWASP,OWASP Foundation,application security,software security"
+}

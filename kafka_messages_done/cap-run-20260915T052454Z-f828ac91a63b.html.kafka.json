@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloud-custodian-2e964d/loang/cap-run-20260915T052454Z-f828ac91a63b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 243117,
+  "domain": "github.com",
+  "url": "https://github.com/cloud-custodian/cloud-custodian/commits/main/SECURITY.md",
+  "title": "History for SECURITY.md - cloud-custodian/cloud-custodian",
+  "author": "Cloud-Custodian",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:01:39Z",
+  "category": "repository:52837350"
+}

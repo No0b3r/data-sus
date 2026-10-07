@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-017-node-js-crypto-randombytes-05404a/loang/cap-run-20260915T052454Z-b14908675b4b.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1107258,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/api/fs.html",
+  "title": "Node.js v26.10.0 documentation",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:08:52Z",
+  "category": null
+}

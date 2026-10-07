@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-security-blog-517e51/loang/cap-run-20260917T103202Z-93d70d5ac6b2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1304179,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/blogs/industries/transform-new-product-introduction-npi-with-aws-to-reduce-cycle-times-and-increase-innovation-throughput/",
+  "title": "Transform New Product Introduction (NPI) with AWS to reduce cycle times and increase innovation throughput | Amazon Web Services",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:41:00Z",
+  "category": "Best Practices"
+}

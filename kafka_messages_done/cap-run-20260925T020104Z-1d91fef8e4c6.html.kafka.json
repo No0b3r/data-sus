@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-full-003-rfc-9147-d9eb1c/loang/cap-run-20260925T020104Z-1d91fef8e4c6.html.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": 250802,
+  "domain": "www.rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9147.xml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:48:46Z",
+  "category": null
+}

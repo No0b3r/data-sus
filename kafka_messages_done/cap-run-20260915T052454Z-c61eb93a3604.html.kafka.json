@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-data-security-research-f22b06/loang/cap-run-20260915T052454Z-c61eb93a3604.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 293388,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/",
+  "title": "5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management | Microsoft Security Blog",
+  "author": "Microsoft Security Team",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:43:09Z",
+  "category": null
+}

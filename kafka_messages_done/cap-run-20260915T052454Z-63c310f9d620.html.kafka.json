@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-63c310f9d620.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 60010,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nd-mi300x-v5-series",
+  "title": "ND-MI300X-v5 size series - Azure Virtual Machines",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:33:55Z",
+  "category": null
+}

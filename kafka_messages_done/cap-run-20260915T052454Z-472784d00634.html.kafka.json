@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-encryption-sdk-2efcbb/loang/cap-run-20260915T052454Z-472784d00634.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4432,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/pt_br/encryption-sdk/latest/developer-guide/go.html",
+  "title": "AWS Encryption SDK para Go",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:02:28Z",
+  "category": null
+}

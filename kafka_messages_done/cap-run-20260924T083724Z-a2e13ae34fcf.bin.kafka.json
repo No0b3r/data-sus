@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-043-owasp-asvs-535fe9/loang/cap-run-20260924T083724Z-a2e13ae34fcf.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 94613,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/groups/project-committee",
+  "title": "Project Committee | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:42:01Z",
+  "category": "Project Committee,OWASP working group,OWASP,OWASP Foundation,application security,software security"
+}

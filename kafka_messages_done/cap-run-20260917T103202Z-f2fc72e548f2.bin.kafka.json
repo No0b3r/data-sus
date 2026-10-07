@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/node-js-d04dd7/loang/cap-run-20260917T103202Z-f2fc72e548f2.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 223192,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v24.x/api/assert.html",
+  "title": "Node.js v24.21.0 documentation",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:16:59Z",
+  "category": null
+}

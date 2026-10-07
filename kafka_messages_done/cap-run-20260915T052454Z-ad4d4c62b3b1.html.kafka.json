@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/scp-examples-99f4a7/loang/cap-run-20260915T052454Z-ad4d4c62b3b1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7958,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/organizations/latest/userguide/orgs_manage_policies_rcps.html",
+  "title": "리소스 제어 정책(RCP)",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:17:29Z",
+  "category": null
+}

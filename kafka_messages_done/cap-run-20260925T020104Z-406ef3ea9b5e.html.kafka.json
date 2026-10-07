@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-406ef3ea9b5e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38940,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/mclaughlin",
+  "title": "A Large Scale Study of the Ethereum Arbitrage Ecosystem",
+  "author": "Robert McLaughlin; Christopher Kruegel; Giovanni Vigna",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:48Z",
+  "category": null
+}

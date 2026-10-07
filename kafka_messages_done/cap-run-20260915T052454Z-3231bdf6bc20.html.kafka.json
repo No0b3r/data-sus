@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-resource-reference-b3ad42/loang/cap-run-20260915T052454Z-3231bdf6bc20.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5724,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/amplify/latest/userguide/setting-up-GitHub-access.html",
+  "title": "Setting up Amplify access to GitHub repositories",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:03:32Z",
+  "category": null
+}

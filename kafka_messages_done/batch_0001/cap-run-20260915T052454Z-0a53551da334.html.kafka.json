@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/sra-examples-cb5291/loang/cap-run-20260915T052454Z-0a53551da334.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 262559,
+  "domain": "github.com",
+  "url": "https://github.com/aws-samples/aws-security-reference-architecture-examples/issues/139",
+  "title": "[BUG] Guard Duty fails to deploy if more than 50 org accounts need to be enrolled · Issue #139 · aws-samples/aws-security-reference-architecture-examples",
+  "author": "Aws-Samples",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:18:57Z",
+  "category": "issue:1690014910"
+}

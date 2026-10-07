@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-008-crypto-rand-47dfdc/loang/cap-run-20260917T103202Z-8e17a4c3660f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 45778,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/gcalmettes/adventofcode@v0.0.0-20241227162007-335d21fb8196/2020/day21",
+  "title": "day21",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:40:32Z",
+  "category": null
+}

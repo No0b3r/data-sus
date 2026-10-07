@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-d38d14e5d49e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5297,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/creating_status_check_alarms.html",
+  "title": "Create CloudWatch alarms for Amazon EC2 instances that fail status checks",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:22:03Z",
+  "category": null
+}

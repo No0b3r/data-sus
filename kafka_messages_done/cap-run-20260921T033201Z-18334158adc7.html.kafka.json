@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-014-go-crypto-rand-82377e/loang/cap-run-20260921T033201Z-18334158adc7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 46359,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.colasdn.workers.dev/free/sql_exporter@v0.0.0-20191127220300-6f96b0d6b403/cmd/sql_exporter",
+  "title": "sql_exporter",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:59:32Z",
+  "category": null
+}

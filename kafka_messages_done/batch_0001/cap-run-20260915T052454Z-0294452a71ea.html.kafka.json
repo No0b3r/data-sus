@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-resource-reference-b3ad42/loang/cap-run-20260915T052454Z-0294452a71ea.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10469,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/AWSCloudFormation/latest/TemplateReference/aws-resource-codedeploy-deploymentgroup.html",
+  "title": "AWS::CodeDeploy::DeploymentGroup",
+  "author": null,
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:01:49Z",
+  "category": null
+}

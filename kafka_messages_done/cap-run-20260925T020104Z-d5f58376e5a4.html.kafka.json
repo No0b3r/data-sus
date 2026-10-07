@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-d5f58376e5a4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36745,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity21/presentation/khandelwal",
+  "title": "{PriSEC}: A Privacy Settings Enforcement Controller",
+  "author": "Rishabh Khandelwal; Thomas Linden; Hamza Harkous; Kassem Fawaz",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:22:08Z",
+  "category": null
+}

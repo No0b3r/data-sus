@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudsplaining-457d52/loang/cap-run-20260915T052454Z-15e68b2c0c3e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 269609,
+  "domain": "github.com",
+  "url": "https://github.com/revertinc",
+  "title": "Revert",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:11:27Z",
+  "category": "organization:120085269"
+}

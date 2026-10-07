@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-014-go-crypto-rand-82377e/loang/cap-run-20260921T033201Z-0a50fa3f6984.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 142,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/lnx1337/fsnotify@v1.1.0",
+  "title": "429",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:58:58Z",
+  "category": null
+}

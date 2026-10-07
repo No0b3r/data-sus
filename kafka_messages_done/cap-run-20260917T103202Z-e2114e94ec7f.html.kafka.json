@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-008-crypto-rand-47dfdc/loang/cap-run-20260917T103202Z-e2114e94ec7f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53738,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/ayflying/p2p@v0.1.8/internal/controller/p2p",
+  "title": "p2p",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:44:35Z",
+  "category": null
+}

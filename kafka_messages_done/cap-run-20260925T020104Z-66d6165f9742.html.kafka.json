@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-005-rfc-7296-ikev2-2f9fcd/loang/cap-run-20260925T020104Z-66d6165f9742.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 301579,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2481/",
+  "title": "RFC 2481: A Proposal to add Explicit Congestion Notification (ECN) to IP | RFC Editor",
+  "author": "K Ramakrishnan; S Floyd",
+  "published_year": 1999,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:54Z",
+  "category": "ECN-IP, internet, protocol, tcp, transmission, control, transport"
+}

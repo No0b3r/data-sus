@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-devops-security-dd3760/loang/cap-run-20260915T052454Z-d55d0c872ede.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 82115,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale?view=azuresql",
+  "title": "What is the Hyperscale service tier? - Azure SQL Database",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:54:46Z",
+  "category": null
+}

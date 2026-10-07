@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/google-cloud-security-response-automation-c037dc/loang/cap-run-20260915T052454Z-a6859dc38bc3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 376347,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/security-response-automation/tree/06042992387f63940ff34e25118eabd40374a6a9",
+  "title": "GitHub - GoogleCloudPlatform/security-response-automation at 06042992387f63940ff34e25118eabd40374a6a9",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:27:17Z",
+  "category": "repository:207355308"
+}

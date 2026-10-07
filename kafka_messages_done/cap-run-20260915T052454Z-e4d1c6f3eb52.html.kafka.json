@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-e4d1c6f3eb52.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5218,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/deadline-cloud/latest/APIReference/API_GetLimit.html",
+  "title": "GetLimit",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:14:18Z",
+  "category": null
+}

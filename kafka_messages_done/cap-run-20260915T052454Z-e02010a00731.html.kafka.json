@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-e02010a00731.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 27187,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/config/latest/developerguide/operational-best-practices-for-irs-1075.html",
+  "title": "Operational Best Practices for IRS 1075",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:14:09Z",
+  "category": null
+}

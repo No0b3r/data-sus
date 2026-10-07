@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-017-node-js-crypto-randombytes-05404a/loang/cap-run-20260915T052454Z-35a3348434e3.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 524659,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/fr/blog/release/v26.8.0",
+  "title": "Node.js — Node.js 26.8.0 (Current)",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T07:35:56Z",
+  "category": null
+}

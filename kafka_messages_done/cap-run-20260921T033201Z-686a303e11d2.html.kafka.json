@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260921T033201Z-686a303e11d2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54656,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v8.x/api/deprecations.html",
+  "title": "Deprecated APIs",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:52:58Z",
+  "category": null
+}

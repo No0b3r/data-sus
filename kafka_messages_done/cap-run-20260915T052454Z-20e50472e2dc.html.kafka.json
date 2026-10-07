@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/image-builder-components-b38cdc/loang/cap-run-20260915T052454Z-20e50472e2dc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3535,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/imagebuilder/latest/userguide/use-managed-components.html",
+  "title": "Utilice componentes administrados para personalizar su imagen de Generador de imágenes",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:36:22Z",
+  "category": null
+}

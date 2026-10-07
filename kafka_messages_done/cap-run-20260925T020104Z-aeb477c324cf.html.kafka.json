@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-full-014-rfc-9052-026cb7/loang/cap-run-20260925T020104Z-aeb477c324cf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 29344,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc8230.html",
+  "title": null,
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:48:59Z",
+  "category": null
+}

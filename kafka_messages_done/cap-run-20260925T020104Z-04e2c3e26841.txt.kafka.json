@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t1-aead-002-rfc-5116-c7465a/loang/cap-run-20260925T020104Z-04e2c3e26841.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 23399,
+  "domain": "www.rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4106.txt",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:23:25Z",
+  "category": null
+}

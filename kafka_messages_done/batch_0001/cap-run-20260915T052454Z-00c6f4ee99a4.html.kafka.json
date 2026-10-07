@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-landing-zones-bicep-4230d1/loang/cap-run-20260915T052454Z-00c6f4ee99a4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 297428,
+  "domain": "github.com",
+  "url": "https://github.com/Azure/ALZ-Bicep/pulls",
+  "title": "Pull requests · Azure/ALZ-Bicep",
+  "author": "Azure",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:44Z",
+  "category": "repository:396743838"
+}

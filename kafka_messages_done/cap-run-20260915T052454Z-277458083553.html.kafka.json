@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/devsecops-workshop-b0d511/loang/cap-run-20260915T052454Z-277458083553.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 301442,
+  "domain": "github.com",
+  "url": "https://github.com/alpersonalwebsite/cloudformation",
+  "title": "GitHub - alpersonalwebsite/cloudformation: CloudFormation templates for common AWS setups: networking, highly available web apps with and without a bastion host, highly available RDS, Aurora Serverless PostgreSQL, Fargate, IAM and StackSets.",
+  "author": "Alpersonalwebsite",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:16:55Z",
+  "category": "repository:238980182"
+}

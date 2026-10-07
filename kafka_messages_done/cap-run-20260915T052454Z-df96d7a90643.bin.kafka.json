@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-controllers-for-kubernetes-723477/loang/cap-run-20260915T052454Z-df96d7a90643.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4010,
+  "domain": "github.com",
+  "url": "https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Faws-controllers-k8s%2Ftest-infra&report=aws-controllers-k8s+%28user%29",
+  "title": "Sign in for Software Support and Product Help",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:01:39Z",
+  "category": null
+}

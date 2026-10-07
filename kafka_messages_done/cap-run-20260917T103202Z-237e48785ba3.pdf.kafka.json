@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/java-openjdk-hotspot-30640c/loang/cap-run-20260917T103202Z-237e48785ba3.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 5111425,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/javase/specs/jls/se17/jls17.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:56:05Z",
+  "category": null
+}

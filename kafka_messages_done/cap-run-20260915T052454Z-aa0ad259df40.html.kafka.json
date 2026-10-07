@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/microsoft-vulnerable-driver-blocklist-deeba9/loang/cap-run-20260915T052454Z-aa0ad259df40.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62634,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/defender-endpoint/indicator-ip-domain",
+  "title": "Create indicators for IPs and URLs/domains - Microsoft Defender for Endpoint",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:09:22Z",
+  "category": null
+}

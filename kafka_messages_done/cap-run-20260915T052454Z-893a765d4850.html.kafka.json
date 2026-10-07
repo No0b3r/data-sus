@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/leonidas-bd1433/loang/cap-run-20260915T052454Z-893a765d4850.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 204770,
+  "domain": "github.com",
+  "url": "https://github.com/Skybound1/net-utils/forks",
+  "title": "Forks · Skybound1/net-utils",
+  "author": "Skybound1",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:38:21Z",
+  "category": "repository:131632116"
+}

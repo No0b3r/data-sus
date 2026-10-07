@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-controllers-for-kubernetes-723477/loang/cap-run-20260915T052454Z-c20c55c4ab25.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 300275,
+  "domain": "github.com",
+  "url": "https://github.com/golang/protobuf",
+  "title": "GitHub - golang/protobuf: Go support for Google's protocol buffers",
+  "author": "Golang",
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:01:35Z",
+  "category": "repository:27051771"
+}

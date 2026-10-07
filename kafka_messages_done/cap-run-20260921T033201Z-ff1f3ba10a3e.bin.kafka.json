@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260921T033201Z-ff1f3ba10a3e.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 490321,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/reference/compose-file/networks/",
+  "title": "Define and manage networks in Docker Compose",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:19:38Z",
+  "category": "compose,compose,specification,networks,compose,file,reference"
+}

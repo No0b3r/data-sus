@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-6293fca5e41b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50364,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/data-integration/vnet/data-gateway-power-platform-dataflows",
+  "title": "Use virtual network (VNet) data gateway in Power Platform dataflows",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:33:52Z",
+  "category": null
+}

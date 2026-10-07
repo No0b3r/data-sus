@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-1730f14f07fc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 57411,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/active-directory-domain-services/overview",
+  "title": "Overview of Microsoft Entra Domain Services - Microsoft Entra ID",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:38:57Z",
+  "category": null
+}

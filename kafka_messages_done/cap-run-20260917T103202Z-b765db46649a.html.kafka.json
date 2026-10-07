@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-008-crypto-rand-47dfdc/loang/cap-run-20260917T103202Z-b765db46649a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36943,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/fahlmant/adventofcode/2019/day8/p1?tab=licenses",
+  "title": "p1",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:42:35Z",
+  "category": null
+}

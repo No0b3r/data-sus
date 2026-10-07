@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/codeql-b5e352/loang/cap-run-20260915T052454Z-ce0530b2cc20.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9546,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-query-help/python/py-inconsistent-equality/",
+  "title": "Inconsistent equality and inequality¶",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:28:49Z",
+  "category": null
+}

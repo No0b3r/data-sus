@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-003-go-crypto-46f4ef/loang/cap-run-20260921T033201Z-85c01ece2e76.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 104666,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/bit-labs.cn/owl",
+  "title": "owl",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:11:49Z",
+  "category": null
+}

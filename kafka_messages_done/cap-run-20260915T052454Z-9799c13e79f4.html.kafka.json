@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-9799c13e79f4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4463,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/dms/latest/userguide/CHAP_ReplicationInstance.Deleting.html",
+  "title": "복제 인스턴스 삭제",
+  "author": null,
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:13:30Z",
+  "category": null
+}

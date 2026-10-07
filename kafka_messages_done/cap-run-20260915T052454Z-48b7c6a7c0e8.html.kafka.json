@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-48b7c6a7c0e8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15207,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/config/latest/developerguide/managed-rules-by-aws-config.html",
+  "title": "的名单 AWS Config 托管规则",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:58:21Z",
+  "category": null
+}

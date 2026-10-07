@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-cordova-4462de/loang/cap-run-20260915T052454Z-ef2821065071.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 1077557,
+  "domain": "cordova.apache.org",
+  "url": "https://cordova.apache.org/static/downloads/logos.zip",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:23:44Z",
+  "category": null
+}

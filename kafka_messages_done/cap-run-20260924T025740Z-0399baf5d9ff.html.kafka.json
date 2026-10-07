@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-freemarker-33255e/loang/cap-run-20260924T025740Z-0399baf5d9ff.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "freemarker.apache.org",
+  "url": "https://freemarker.apache.org/docs/api/freemarker/core/TemplateDateFormatFactory.html",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:32:59Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='freemarker.apache.org', port=443): Max retries exceeded with url: /docs/api/freemarker/core/TemplateDateFormatFactory.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C3EAFC0A10>, 'Connection to freemarker.apache.org timed out. (connect timeout=15.0)'))"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-7c6597ab17ec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8187,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/securityhub/latest/userguide/autoscaling-controls.html",
+  "title": "Controles CSPM de Security Hub para Auto Scaling",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:52:13Z",
+  "category": null
+}

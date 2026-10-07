@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-a20dbf77773f.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2606,
+  "domain": "python.org",
+  "url": "https://docs.python.org/pl/3.12/genindex-%C5%81.html",
+  "title": "Indeks – Ł",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T10:12:55Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-security-blog-517e51/loang/cap-run-20260917T103202Z-0e2a6dc7496e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 368099,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/contact-us/sales-support-rds/?refid=0adc398c-f5a3-48bb-9d92-92215986ba48~ha_awssm-4107_aware",
+  "title": "Sales Support (RDS)",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:36:39Z",
+  "category": null
+}

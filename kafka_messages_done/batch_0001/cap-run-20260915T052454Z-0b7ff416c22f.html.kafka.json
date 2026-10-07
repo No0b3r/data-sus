@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-0b7ff416c22f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7314,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/de_de/IAM/latest/UserGuide/reference_policies_condition-single-vs-multi-valued-context-keys.html",
+  "title": "Single-valued Im Vergleich zu mehrwertigen Kontextschlüsseln",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:52:22Z",
+  "category": null
+}

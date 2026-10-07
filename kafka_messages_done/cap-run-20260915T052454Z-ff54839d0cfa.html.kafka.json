@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-ff54839d0cfa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52841,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/mysql/flexible-server/how-to-network-from-private-to-public",
+  "title": "How to Network from a Private Access to Public Access or Private Link in Azure Database for MySQL - Azure Database for MySQL",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:39:04Z",
+  "category": null
+}

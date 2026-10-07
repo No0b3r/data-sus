@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-2dba209127b5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38964,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/kim-young-min",
+  "title": "Extending a Hand to Attackers: Browser Privilege Escalation Attacks via Extensions",
+  "author": "Young Min Kim; Byoungyoung Lee",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:37Z",
+  "category": null
+}

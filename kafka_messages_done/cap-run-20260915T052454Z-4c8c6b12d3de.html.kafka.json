@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/kernel-objects-eb1ca8/loang/cap-run-20260915T052454Z-4c8c6b12d3de.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 46540,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/previous-versions/windows/apps/jj248674(v=win.10)",
+  "title": "How to respond to named events and semaphores (XAML) (Windows)",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:06:48Z",
+  "category": null
+}

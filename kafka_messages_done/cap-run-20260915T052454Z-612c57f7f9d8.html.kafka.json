@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/control-tower-controls-504d83/loang/cap-run-20260915T052454Z-612c57f7f9d8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5042,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/controltower/latest/APIReference/API_ListEnabledControls.html",
+  "title": "ListEnabledControls",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:14:59Z",
+  "category": null
+}

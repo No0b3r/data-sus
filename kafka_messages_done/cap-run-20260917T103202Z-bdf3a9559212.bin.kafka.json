@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260917T103202Z-bdf3a9559212.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 13974,
+  "domain": "python.org",
+  "url": "https://docs.python.org/id/3.12/library/ftplib.html",
+  "title": "ftplib --- FTP protocol client",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T12:00:19Z",
+  "category": null
+}

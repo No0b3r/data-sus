@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260921T033201Z-fc45705e490f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1855,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/crypto/+/a8e9237a216b050e1b11e041863825104a6811db/otr/",
+  "title": "Error RESOURCE_EXHAUSTED",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:35:40Z",
+  "category": null
+}

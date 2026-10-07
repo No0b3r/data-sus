@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-security-blog-517e51/loang/cap-run-20260917T103202Z-399636da12db.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 401658,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/ko/cognito/",
+  "title": "Amazon Cognito — 고객 ID 및 액세스 관리 - 머신 자격 증명 및 액세스 관리",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:38:08Z",
+  "category": null
+}

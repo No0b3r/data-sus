@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-devops-security-dd3760/loang/cap-run-20260915T052454Z-c8e6efa2a61f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 63788,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/devops/project/navigation/preview-features?view=azure-devops",
+  "title": "Enable Preview Features for Early Access in Azure DevOps - Azure DevOps",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:54:39Z",
+  "category": null
+}

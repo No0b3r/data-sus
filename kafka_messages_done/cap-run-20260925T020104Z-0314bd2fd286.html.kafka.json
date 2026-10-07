@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-002-rfc-9325-secure-tls-dtls-def702/loang/cap-run-20260925T020104Z-0314bd2fd286.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 356392,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3862/",
+  "title": "RFC 3862: Common Presence and Instant Messaging (CPIM): Message Format | RFC Editor",
+  "author": "G Klyne; D Atkins",
+  "published_year": 2004,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:05Z",
+  "category": "instant messaging and common presence protocol, message/cpim"
+}

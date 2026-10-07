@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260921T033201Z-9e8214c31458.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 37873,
+  "domain": "python.org",
+  "url": "https://docs.python.org/el/3.11/library/socket.html",
+  "title": "socket — Low-level networking interface",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:12:16Z",
+  "category": null
+}

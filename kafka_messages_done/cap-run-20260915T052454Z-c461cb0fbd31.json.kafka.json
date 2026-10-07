@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/binary-authorization-samples-932427/loang/cap-run-20260915T052454Z-c461cb0fbd31.json.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 101,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/cloud-build-samples/raw/refs/heads/main/package-lock.json",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:25:14Z",
+  "category": null
+}

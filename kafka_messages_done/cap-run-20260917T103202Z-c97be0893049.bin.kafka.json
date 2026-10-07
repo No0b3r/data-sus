@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260917T103202Z-c97be0893049.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 25180992,
+  "domain": "docs.python.org",
+  "url": "https://docs.python.org/ko/3.13/archives/python-3.13-docs-pdf-a4.zip",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T12:03:59Z",
+  "category": null
+}

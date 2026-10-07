@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-007-node-crypto-61fe7b/loang/cap-run-20260924T025740Z-4b59bab55be5.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 274043,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/uk/blog/announcements/hackerone-signal-requirement",
+  "title": "Node.js — New HackerOne Signal Requirement for Vulnerability Reports",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:18:52Z",
+  "category": null
+}

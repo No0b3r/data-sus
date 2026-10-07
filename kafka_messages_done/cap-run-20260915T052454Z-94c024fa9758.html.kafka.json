@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-94c024fa9758.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 75564,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/api-management/api-management-gateways-overview",
+  "title": "API Gateway Overview",
+  "author": "Authentication; Authorization",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:58:52Z",
+  "category": null
+}

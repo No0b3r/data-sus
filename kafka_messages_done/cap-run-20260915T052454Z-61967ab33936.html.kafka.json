@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/terraform-example-foundation-aea8fa/loang/cap-run-20260915T052454Z-61967ab33936.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 387827,
+  "domain": "github.com",
+  "url": "https://github.com/terraform-google-modules/terraform-example-foundation/commit/bdc59a9990e91bd24696ed8ea7565ad8a095a0d2",
+  "title": "feat: bump modules and submodules to google provider v7 using Github … · terraform-google-modules/terraform-example-foundation@bdc59a9",
+  "author": "Terraform-Google-Modules",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:30:10Z",
+  "category": "repository:225491284"
+}

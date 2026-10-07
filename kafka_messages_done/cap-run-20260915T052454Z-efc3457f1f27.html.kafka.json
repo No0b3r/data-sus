@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/terraform-example-foundation-aea8fa/loang/cap-run-20260915T052454Z-efc3457f1f27.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 341058,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/policy-library/commits/master/docs/index.md",
+  "title": "History for docs/index.md - GoogleCloudPlatform/policy-library",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:30:36Z",
+  "category": "repository:178277843"
+}

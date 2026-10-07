@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-cordova-4462de/loang/cap-run-20260922T015341Z-9101c418ca7d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3512,
+  "domain": "apache.org",
+  "url": "https://cordova.apache.org/announcements/2022/04/15/cordova-android-release-10.1.2.html",
+  "title": "Apache Cordova",
+  "author": "Bryan Ellis",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:24:54Z",
+  "category": null
+}

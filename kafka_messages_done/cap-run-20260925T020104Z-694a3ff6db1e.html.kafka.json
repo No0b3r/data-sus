@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-013-rfc-4086-randomness-requirements-f-45caaa/loang/cap-run-20260925T020104Z-694a3ff6db1e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 341009,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc2633",
+  "title": "RFC 2633: S/MIME Version 3 Message Specification | RFC Editor",
+  "author": "B Ramsdell",
+  "published_year": 1999,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:28:56Z",
+  "category": "secure, multipurpose, internet, mail, extensions, encryption"
+}

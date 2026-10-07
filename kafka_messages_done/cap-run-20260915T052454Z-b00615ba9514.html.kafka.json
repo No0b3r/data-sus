@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aks-security-best-practices-d76b4e/loang/cap-run-20260915T052454Z-b00615ba9514.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 57426,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/powershell/module/az.aks/?view=azps-16.3.0",
+  "title": "Az.Aks Module",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:53:42Z",
+  "category": null
+}

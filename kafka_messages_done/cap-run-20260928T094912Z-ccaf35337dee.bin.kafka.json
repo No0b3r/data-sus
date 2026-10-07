@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-055-owasp-asvs-2cc294/loang/cap-run-20260928T094912Z-ccaf35337dee.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 65592,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/policy/working-groups",
+  "title": "Working Groups Policy | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:44:45Z",
+  "category": "Working Groups Policy,OWASP policies,governance,OWASP,OWASP Foundation,application security,software security"
+}

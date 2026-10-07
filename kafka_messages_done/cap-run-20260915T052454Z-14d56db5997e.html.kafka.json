@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/securing-privileged-access-d98331/loang/cap-run-20260915T052454Z-14d56db5997e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 83743,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/entra/identity/authentication/howto-mfa-nps-extension-rdg",
+  "title": "Integrate RDG with Microsoft Entra multifactor authentication NPS extension - Microsoft Entra ID",
+  "author": "Configure Remote Desktop Gateway connection authorization policies",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:11:53Z",
+  "category": null
+}

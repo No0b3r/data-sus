@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260917T103202Z-de0a3f4005b2.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15682,
+  "domain": "python.org",
+  "url": "https://docs.python.org/it/3.13/howto/curses.html",
+  "title": "Curses Programming with Python",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T12:10:52Z",
+  "category": null
+}

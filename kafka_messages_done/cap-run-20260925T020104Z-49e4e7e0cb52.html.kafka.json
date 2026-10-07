@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-49e4e7e0cb52.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 42672,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yi",
+  "title": "Seeing the Forest for the Trees: Understanding Security Hazards in the {3GPP} Ecosystem through Intelligent Analysis on Change Requests",
+  "author": "Yi Chen; Di Tang; Yepeng Yao; Mingming Zha; XiaoFeng Wang; Xiaozhong Liu; Haixu Tang; Dongfang Zhao",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:53Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/storage-security-guide-c8a32a/loang/cap-run-20260915T052454Z-9e901f4b936c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 119885,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/storagerp/object-replication-policies/create-or-update",
+  "title": "Object Replication Policies - Create Or Update - REST API (Azure Storage Resource Provider)",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:19:49Z",
+  "category": null
+}

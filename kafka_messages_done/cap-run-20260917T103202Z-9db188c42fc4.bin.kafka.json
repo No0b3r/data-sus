@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260917T103202Z-9db188c42fc4.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5640,
+  "domain": "python.org",
+  "url": "https://docs.python.org/pl/3.13/c-api/concrete.html",
+  "title": "Concrete Objects Layer",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T11:50:27Z",
+  "category": null
+}

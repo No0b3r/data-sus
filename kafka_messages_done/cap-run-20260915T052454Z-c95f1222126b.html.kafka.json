@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-c95f1222126b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59586,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/aks/start-stop-cluster",
+  "title": "Stop and start an Azure Kubernetes Service (AKS) cluster - Azure Kubernetes Service",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:37:18Z",
+  "category": null
+}

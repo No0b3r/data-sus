@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-17d5421f8eb4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38367,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/bienstock",
+  "title": "{Near-Optimal} Oblivious {Key-Value} Stores for Efficient {PSI}, {PSU} and {Volume-Hiding} {Multi-Maps}",
+  "author": "Alexander Bienstock; Sarvar Patel; Joon Young Seo; Kevin Yeo",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:24Z",
+  "category": null
+}

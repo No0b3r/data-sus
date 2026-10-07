@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-landing-zone-accelerator-9c488d/loang/cap-run-20260915T052454Z-2b7e35f1b340.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 371205,
+  "domain": "github.com",
+  "url": "https://github.com/bfalls/dxcp",
+  "title": "GitHub - bfalls/dxcp: Delivery Experience Control Plane built on Spinnaker that enforces policy-driven deployments, organizational guardrails, and paved-road delivery workflows at enterprise scale.",
+  "author": "Bfalls",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:36Z",
+  "category": "repository:1140854815"
+}

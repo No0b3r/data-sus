@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260928T094912Z-ab97a853d3f8.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 535687,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/compose/trust-model/",
+  "title": "Trust model for Compose files",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:42:50Z",
+  "category": "compose,security,trust,model,oci,remote,registry,include,extends,supply,chain,trust,best,practices"
+}

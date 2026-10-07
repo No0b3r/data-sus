@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/codeql-b5e352/loang/cap-run-20260915T052454Z-26c89ed4d5bc.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5819,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-query-help/go/",
+  "title": "CodeQL query help for Go¶",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:23:49Z",
+  "category": null
+}

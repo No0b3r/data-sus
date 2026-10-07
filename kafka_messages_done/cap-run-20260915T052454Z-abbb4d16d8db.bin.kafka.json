@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t3-aescache-src03-countermeasures-against-394472/loang/cap-run-20260915T052454Z-abbb4d16d8db.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 232374,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/search/cs?searchtype=author&query=Ragel",
+  "title": "Showing 1–48 of 48 results for author: Ragel",
+  "author": "Authors Romiyal George; Sathiyamohan Nishankar; Selvarajah Thuseethan; Roshan G Ragel",
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:54:17Z",
+  "category": null
+}

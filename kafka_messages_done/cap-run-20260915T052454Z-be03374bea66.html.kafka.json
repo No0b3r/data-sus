@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-be03374bea66.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59796,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-connect-hive-jdbc-driver",
+  "title": "Query Apache Hive through the JDBC driver - Azure HDInsight",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:41:14Z",
+  "category": null
+}

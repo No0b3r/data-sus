@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/sensitive-data-protection-samples-2e7bfa/loang/cap-run-20260915T052454Z-d6cc09a90e1a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 278757,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/dlp-dataflow-deidentification/blob/master/src/test/resources/CCRecords_sample.jsonl",
+  "title": "dlp-dataflow-deidentification/src/test/resources/CCRecords_sample.jsonl at master · GoogleCloudPlatform/dlp-dataflow-deidentification",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:29:38Z",
+  "category": "repository:143059403"
+}

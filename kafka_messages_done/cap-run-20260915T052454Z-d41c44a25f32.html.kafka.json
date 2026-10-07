@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-resource-reference-b3ad42/loang/cap-run-20260915T052454Z-d41c44a25f32.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3593,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/AWSCloudFormation/latest/UserGuide/quickref-autoscaling.html",
+  "title": "自動擴展 CloudFormation 範本程式碼片段",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:09:20Z",
+  "category": null
+}

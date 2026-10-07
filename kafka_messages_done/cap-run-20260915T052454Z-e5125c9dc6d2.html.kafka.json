@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-e5125c9dc6d2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4618,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/xray/latest/devguide/xray-services-s3.html",
+  "title": "Amazon S3 및 AWS X-Ray",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:14:19Z",
+  "category": null
+}

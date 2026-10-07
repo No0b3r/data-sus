@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-full-028-rfc-6066-e7bb34/loang/cap-run-20260925T020104Z-6b04a5b4e7a7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 261419,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc8201",
+  "title": "RFC 8201: Path MTU Discovery for IP version 6 | RFC Editor",
+  "author": "J McCann; S Deering; J Mogul; R Hinden",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:18:22Z",
+  "category": "MTU-IPv6, Internet, Protocol, IPv6, link MTU, path MTU, PMTU, Path MTU Discovery"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-3580c1c06293.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3896,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/config/latest/developerguide/sagemaker-model-quality-job-encrypt-in-transit.html",
+  "title": "trabajo con calidad de modelo de sagemaker-encriptación en tránsito",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:29:09Z",
+  "category": null
+}

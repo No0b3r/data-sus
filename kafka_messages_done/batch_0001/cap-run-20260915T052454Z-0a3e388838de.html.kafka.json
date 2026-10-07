@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ir-playbooks-workshop-f13366/loang/cap-run-20260915T052454Z-0a3e388838de.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 235685,
+  "domain": "github.com",
+  "url": "https://github.com/aws-samples/aws-incident-response-playbooks-workshop/issues/views",
+  "title": "Build software better, together",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:37:22Z",
+  "category": "repository:393178646"
+}

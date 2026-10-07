@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/codeql-b5e352/loang/cap-run-20260924T083724Z-695f6e599630.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10948,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/docs/codeql-overview/codeql-changelog/codeql-cli-2.17.0/",
+  "title": "CodeQL 2.17.0 (2024-04-04)¶",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:37:08Z",
+  "category": null
+}

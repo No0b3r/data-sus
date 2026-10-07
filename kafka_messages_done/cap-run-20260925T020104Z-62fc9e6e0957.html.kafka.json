@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-006-rfc-5869-hkdf-88ed7b/loang/cap-run-20260925T020104Z-62fc9e6e0957.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 296287,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4962",
+  "title": "RFC 4962: Guidance for Authentication, Authorization, and Accounting (AAA) Key Management | RFC Editor",
+  "author": "R Housley; B Aboba",
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:33Z",
+  "category": null
+}

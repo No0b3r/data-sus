@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/well-architected-labs-af260b/loang/cap-run-20260915T052454Z-4c025d88b4cb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 404515,
+  "domain": "github.com",
+  "url": "https://github.com/org2AI/ORG2",
+  "title": "GitHub - org2AI/ORG2: System of record for how agents build software: Built-in rust harness & 20+ CLIs.",
+  "author": "Org",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:23:29Z",
+  "category": "repository:1256082863"
+}

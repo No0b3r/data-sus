@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-22e4f58ae23e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40825,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/node/281176",
+  "title": "USENIX Security '22 Venue, Hotel, and Travel",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:32Z",
+  "category": null
+}

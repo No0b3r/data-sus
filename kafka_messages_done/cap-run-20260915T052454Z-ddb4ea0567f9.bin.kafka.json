@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/gke-security-github-6c91de/loang/cap-run-20260915T052454Z-ddb4ea0567f9.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4005,
+  "domain": "github.com",
+  "url": "https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FGoogleCloudPlatform%2Fgke-security-scenarios-demo&report=GoogleCloudPlatform+%28user%29",
+  "title": "Sign in for Software Support and Product Help",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:26:53Z",
+  "category": null
+}

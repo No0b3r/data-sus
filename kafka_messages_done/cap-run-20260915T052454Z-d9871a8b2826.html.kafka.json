@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-d9871a8b2826.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5675,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/id_id/AWSEC2/latest/UserGuide/AMIEncryption.html",
+  "title": "Gunakan enkripsi dengan EBS-backed AMI",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:22:22Z",
+  "category": null
+}

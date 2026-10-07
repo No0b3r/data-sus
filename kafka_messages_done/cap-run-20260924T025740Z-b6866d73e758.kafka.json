@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-007-node-crypto-61fe7b/loang/cap-run-20260924T025740Z-b6866d73e758.gz",
+  "data_type": "document",
+  "file_type": "unknown",
+  "file_size": 3639588,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/download/release/node-0.1.9.tar.gz",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:28:15Z",
+  "category": null
+}

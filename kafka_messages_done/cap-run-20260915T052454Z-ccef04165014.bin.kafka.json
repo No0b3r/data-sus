@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/falco-documentation-395194/loang/cap-run-20260915T052454Z-ccef04165014.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 73242,
+  "domain": "falco.org",
+  "url": "https://falco.org/docs/setup/download",
+  "title": "Download",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:53:36Z",
+  "category": "docs"
+}

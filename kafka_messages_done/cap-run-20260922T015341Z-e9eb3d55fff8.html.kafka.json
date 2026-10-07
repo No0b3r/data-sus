@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260922T015341Z-e9eb3d55fff8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 13403,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/crypto/+/refs/heads/internal-branch.go1.18-vendor/pkcs12/errors.go",
+  "title": "Git at Google",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:44:42Z",
+  "category": null
+}

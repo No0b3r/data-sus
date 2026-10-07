@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-005-go-crypto-cipher-1bf15e/loang/cap-run-20260915T052454Z-0e94e8aabf35.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50184,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.colasdn.workers.dev/magic003/alice@v0.0.0-20170426062316-2087f8381114/example/client",
+  "title": "client",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:32:37Z",
+  "category": null
+}

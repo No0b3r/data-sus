@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-dd6f6074362a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 67896,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/governance/machine-configuration/how-to/create-policy-definition",
+  "title": "How to create custom machine configuration policy definitions - Azure Machine Configuration",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:37:57Z",
+  "category": null
+}

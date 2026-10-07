@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/node-js-d04dd7/loang/cap-run-20260925T020104Z-2438a2e41cff.json.gz",
+  "data_type": "document",
+  "file_type": "json",
+  "file_size": 36502,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v4.x/api/dgram.json",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:35:05Z",
+  "category": null
+}

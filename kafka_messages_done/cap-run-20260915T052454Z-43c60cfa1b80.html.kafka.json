@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-43c60cfa1b80.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 17844,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/users/na/?userid=c85810e4-0351-4862-ae15-0c0df930d8cb",
+  "title": "Profile",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:03:57Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-013-rfc-4086-randomness-requirements-f-45caaa/loang/cap-run-20260925T020104Z-57de5d159b1b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 259808,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc1991",
+  "title": "RFC 1991: PGP Message Exchange Formats | RFC Editor",
+  "author": "D Atkins; W Stallings; P Zimmermann",
+  "published_year": 1996,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:28:53Z",
+  "category": "PGP-MEF, Pretty, Good, Privacy, encryption, electronic, mail"
+}

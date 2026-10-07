@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-ransomware-anatomy-456b48/loang/cap-run-20260915T052454Z-310c83a4fcd3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 417223,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/vi/cognito/",
+  "title": "Amazon Cognito - Quản lý danh tính và truy cập của khách hàng - Quản lý danh tính và truy cập của máy",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:15:29Z",
+  "category": null
+}

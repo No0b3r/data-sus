@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-1084d2cd11bd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 64990,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/unity-development-overview",
+  "title": "Unity development for HoloLens - Mixed Reality",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:48:41Z",
+  "category": "Unity, mixed reality, development, getting started, new project, porting, capability, camera, simulation, emulation, documentation, mixed reality headset, windows mixed reality headset, virtual reality headset, what is virtual reality, what is augmented reality, MRTK, mixed reality toolkit, spatial mapping, voice input, locatable camera, emulator, Azure, tutorials"
+}

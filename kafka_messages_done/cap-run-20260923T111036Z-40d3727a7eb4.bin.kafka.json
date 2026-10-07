@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-t2-003-github-codeql-query-help-b309ff/loang/cap-run-20260923T111036Z-40d3727a7eb4.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5559,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-query-help/rust/rust-access-after-lifetime-ended/",
+  "title": "Access of a pointer after its lifetime has ended¶",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:04:49Z",
+  "category": null
+}

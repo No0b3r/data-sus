@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-e43202a47711.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 65554,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/virtual-machines/windows/multiple-nics?toc=%2fazure%2fvirtual-network%2ftoc.json",
+  "title": "Create and manage Windows VMs in Azure that use multiple NICs - Azure Virtual Machines",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:38:10Z",
+  "category": null
+}

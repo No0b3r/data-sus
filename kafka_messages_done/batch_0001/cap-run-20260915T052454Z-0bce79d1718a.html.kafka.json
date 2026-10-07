@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-0bce79d1718a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53628,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/ufxclient/nc-ufxclient-evt_ufx_device_super_speed_power_feature",
+  "title": "EVT_UFX_DEVICE_SUPER_SPEED_POWER_FEATURE (ufxclient.h) - Windows drivers",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:48:21Z",
+  "category": "EVT_UFX_DEVICE_SUPER_SPEED_POWER_FEATURE callback function"
+}

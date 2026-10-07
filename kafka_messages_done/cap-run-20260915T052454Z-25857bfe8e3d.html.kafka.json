@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/architecture-best-practices-1b60c5/loang/cap-run-20260915T052454Z-25857bfe8e3d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59032,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/entra/id-governance/entitlement-management-access-reviews-create",
+  "title": "Create an access review of an access package in entitlement management - Microsoft Entra ID Governance",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:54:27Z",
+  "category": null
+}

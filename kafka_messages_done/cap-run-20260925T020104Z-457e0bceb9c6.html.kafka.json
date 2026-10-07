@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-005-rfc-7296-ikev2-2f9fcd/loang/cap-run-20260925T020104Z-457e0bceb9c6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 192409,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4754",
+  "title": "RFC 4754: IKE and IKEv2 Authentication Using the Elliptic Curve Digital Signature Algorithm (ECDSA) | RFC Editor",
+  "author": "D Fu; J Solinas",
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:50Z",
+  "category": "suite b"
+}

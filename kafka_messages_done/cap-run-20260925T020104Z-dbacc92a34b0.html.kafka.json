@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/node-js-d04dd7/loang/cap-run-20260925T020104Z-dbacc92a34b0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36662,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v8.x/api/events.html",
+  "title": "Events",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:43:13Z",
+  "category": null
+}

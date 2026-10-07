@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-t2-003-github-codeql-query-help-b309ff/loang/cap-run-20260922T015341Z-92be389433ef.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1488,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-standard-libraries/swift/type.@array_to_pointer_expr.html",
+  "title": "Type @array_to_pointer_expr",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:01:56Z",
+  "category": "CodeQL,QL,@array_to_pointer_expr"
+}

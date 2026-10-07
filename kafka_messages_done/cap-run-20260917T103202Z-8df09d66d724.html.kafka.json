@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-008-crypto-rand-47dfdc/loang/cap-run-20260917T103202Z-8df09d66d724.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 35304,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/JeffPaine/advent-of-code/2023/day08?tab=importedby",
+  "title": "day08",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:40:32Z",
+  "category": null
+}

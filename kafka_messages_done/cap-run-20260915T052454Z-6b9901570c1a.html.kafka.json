@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-6b9901570c1a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5059,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/configure-root-volume-delete-on-termination.html",
+  "title": "Conserve el volumen raíz de Amazon EBS después de que la instancia de Amazon EC2 termina.",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:19:01Z",
+  "category": null
+}

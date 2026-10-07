@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c12-full-020-lost-encryption-keys-83f973/loang/cap-run-20260915T052454Z-0fb6a0363a47.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6277,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/fr_fr/kms/latest/developerguide/multi-region-update.html",
+  "title": "Modifier la clé primaire dans un ensemble de clés multirégionales",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:17:43Z",
+  "category": null
+}

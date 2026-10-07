@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-49a2be00cf77.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 117605,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions?tabs=create-peering-powershell",
+  "title": "Create Virtual Network Peering Between Different Subscriptions - Azure Virtual Network",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:33:04Z",
+  "category": null
+}

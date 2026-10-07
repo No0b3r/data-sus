@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-ab804fe94f4a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36935,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-yushi",
+  "title": "{mID}: Tracing Screen Photos via {Moiré} Patterns",
+  "author": "Yushi Cheng; Xiaoyu Ji; Lixu Wang; Qi Pang; Yi-Chao Chen; Wenyuan Xu",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:41Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-t2-003-github-codeql-query-help-b309ff/loang/cap-run-20260922T015341Z-2b4c96a899a7.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2479,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-standard-libraries/actions/codeql/controlflow/Cfg.qll/type.Cfg$MakeWithSplitting$SplitImplementations$ConditionalCompletionSplitting$ConditionalCompletionSplitImpl.html",
+  "title": "Class MakeWithSplitting::SplitImplementations::ConditionalCompletionSplitting::ConditionalCompletionSplitImpl",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:59:47Z",
+  "category": "CodeQL,QL,ConditionalCompletionSplitImpl"
+}

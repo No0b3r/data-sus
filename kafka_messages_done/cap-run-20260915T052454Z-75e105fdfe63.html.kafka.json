@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-75e105fdfe63.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5468,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/de_de/autoscaling/ec2/userguide/attach-load-balancer-asg.html",
+  "title": "Fügen Sie Ihrer Auto Scaling Scaling-Gruppe einen Elastic Load Balancing Load Balancer hinzu",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:51:48Z",
+  "category": null
+}

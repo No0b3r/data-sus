@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-047-owasp-asvs-4465f0/loang/cap-run-20260925T020104Z-9390ea190864.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 73844,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/board/meetings/202102-special-day2",
+  "title": "Special Strategy Meeting Day 2 | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:43:00Z",
+  "category": "OWASP,OWASP Foundation,application security,software security"
+}

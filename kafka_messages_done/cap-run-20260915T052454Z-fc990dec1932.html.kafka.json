@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/eks-blueprints-467420/loang/cap-run-20260915T052454Z-fc990dec1932.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 240590,
+  "domain": "github.com",
+  "url": "https://github.com/aws-ia/terraform-aws-eks-blueprints-addon/blob/main/.gitignore",
+  "title": "terraform-aws-eks-blueprints-addon/.gitignore at main · aws-ia/terraform-aws-eks-blueprints-addon",
+  "author": "Aws-Ia",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:25:53Z",
+  "category": "repository:507044307"
+}

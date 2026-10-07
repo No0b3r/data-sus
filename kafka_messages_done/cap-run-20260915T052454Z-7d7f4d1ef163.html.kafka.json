@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-7d7f4d1ef163.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15196,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/fr_fr/AmazonS3/latest/userguide/walkthrough1.html",
+  "title": "Contrôle de l’accès à un compartiment avec des stratégies d’utilisateur",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:00:47Z",
+  "category": null
+}

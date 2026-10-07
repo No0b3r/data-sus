@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/codeql-b5e352/loang/cap-run-20260923T111036Z-ee961a5e70ec.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1481,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-standard-libraries/java/type.@kt_nullable_type.html",
+  "title": "Type @kt_nullable_type",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:36:05Z",
+  "category": "CodeQL,QL,@kt_nullable_type"
+}

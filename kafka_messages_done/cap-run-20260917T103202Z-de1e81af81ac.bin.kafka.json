@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260917T103202Z-de1e81af81ac.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18774,
+  "domain": "python.org",
+  "url": "https://docs.python.org/el/3.12/tutorial/modules.html",
+  "title": "6. Modules",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T12:10:58Z",
+  "category": null
+}

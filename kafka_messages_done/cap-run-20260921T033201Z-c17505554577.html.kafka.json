@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-006-securerandom-f9f30f/loang/cap-run-20260921T033201Z-c17505554577.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1074,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/java/javase/16/docs/api/overview-summary.html",
+  "title": "Java Development Kit Version 16 API Specification",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:28:31Z",
+  "category": null
+}

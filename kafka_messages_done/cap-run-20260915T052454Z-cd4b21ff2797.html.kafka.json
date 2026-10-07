@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-cd4b21ff2797.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5064,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/kendra/latest/dg/cloudtrail-intelligent-ranking.html",
+  "title": "Logging Amazon Kendra Intelligent Ranking API calls with AWS CloudTrail logs",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:12:12Z",
+  "category": null
+}

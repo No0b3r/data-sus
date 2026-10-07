@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-58a2b1ddf403.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59683,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/cosmos-db/provision-account-continuous-backup",
+  "title": "Provision an Account With Continuous Backup and Point in Time Restore - Azure Cosmos DB",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:39:52Z",
+  "category": null
+}

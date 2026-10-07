@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t3-gcmnonce-src03-nonce-disrespecting-adv-caa003/loang/cap-run-20260925T020104Z-215a49ad780e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 27212,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/woot16/workshop-program/presentation/mazloom",
+  "title": "A Security Analysis of an {In-Vehicle} Infotainment and App Platform",
+  "author": "Sahar Mazloom; Mohammad Rezaeirad; Aaron Hunter; Damon McCoy",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:54:31Z",
+  "category": null
+}

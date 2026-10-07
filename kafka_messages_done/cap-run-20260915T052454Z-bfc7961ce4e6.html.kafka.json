@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-005-go-crypto-cipher-1bf15e/loang/cap-run-20260915T052454Z-bfc7961ce4e6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36235,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/git.luolix.top/patrickalin/nest-client-go?tab=versions",
+  "title": "nest-client-go",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:12:33Z",
+  "category": null
+}

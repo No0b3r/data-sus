@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-006-rfc-5869-hkdf-88ed7b/loang/cap-run-20260925T020104Z-e2461b823bee.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 469261,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4066",
+  "title": "RFC 4066: Candidate Access Router Discovery (CARD) | RFC Editor",
+  "author": "M Liebsch; A Singh; H Chaskar; D Funato; E Shim",
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:44Z",
+  "category": "mobile node, mn, cars, candidate ars"
+}

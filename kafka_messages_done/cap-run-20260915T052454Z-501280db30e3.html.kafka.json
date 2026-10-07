@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/google-secops-community-bf2da9/loang/cap-run-20260915T052454Z-501280db30e3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 277679,
+  "domain": "github.com",
+  "url": "https://github.com/chronicle/ingestion-scripts/tree/main/armis",
+  "title": "ingestion-scripts/armis at main · chronicle/ingestion-scripts",
+  "author": "Chronicle",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:27:47Z",
+  "category": "repository:564624492"
+}

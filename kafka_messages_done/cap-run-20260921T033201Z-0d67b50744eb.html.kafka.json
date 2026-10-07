@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-014-go-crypto-rand-82377e/loang/cap-run-20260921T033201Z-0d67b50744eb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 142,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/mmcloughlin/mathfmt@v0.0.0-20240209192118-76b0fc98f057",
+  "title": "429",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:59:07Z",
+  "category": null
+}

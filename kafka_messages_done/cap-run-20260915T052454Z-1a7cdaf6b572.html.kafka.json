@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-1a7cdaf6b572.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6377,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/on-behalf-of-token-exchange.html",
+  "title": "On-behalf-of token exchange with AgentCore Identity",
+  "author": "CLI example using JWT AUTHORIZATION GRANT grant type",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T12:11:42Z",
+  "category": null
+}

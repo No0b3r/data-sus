@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-94788e96f1cc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3388,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/it_it/guardduty/latest/ug/managing-gdu-agent-ec2-automated.html",
+  "title": "Abilitazione dell'agente di sicurezza automatizzato per l'istanza Amazon EC2",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:13:13Z",
+  "category": null
+}

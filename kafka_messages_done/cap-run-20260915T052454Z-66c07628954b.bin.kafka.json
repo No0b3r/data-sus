@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-66c07628954b.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6987,
+  "domain": "python.org",
+  "url": "https://docs.python.org/zh-cn/3.10/c-api/gcsupport.html",
+  "title": "使对象类型支持循环垃圾回收¶",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T09:43:15Z",
+  "category": null
+}

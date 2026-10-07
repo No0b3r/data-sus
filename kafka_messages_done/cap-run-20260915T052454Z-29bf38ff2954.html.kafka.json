@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-29bf38ff2954.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4575,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/waf/latest/developerguide/web-acl-associating-aws-resource.html",
+  "title": "보호와 AWS 리소스의 연결 또는 연결 해제",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:28:16Z",
+  "category": null
+}

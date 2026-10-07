@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-007-node-crypto-61fe7b/loang/cap-run-20260924T025740Z-b7f285a1e516.json.gz",
+  "data_type": "document",
+  "file_type": "json",
+  "file_size": 293339,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v25.x/api/test.json",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:28:25Z",
+  "category": null
+}

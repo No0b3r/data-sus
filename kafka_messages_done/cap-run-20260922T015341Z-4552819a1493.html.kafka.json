@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-cordova-4462de/loang/cap-run-20260922T015341Z-4552819a1493.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4094,
+  "domain": "apache.org",
+  "url": "https://cordova.apache.org/news/2021/08/23/camera-plugin-6.0.0-release.html",
+  "title": "Apache Cordova",
+  "author": "Bryan Ellis",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:24:48Z",
+  "category": null
+}

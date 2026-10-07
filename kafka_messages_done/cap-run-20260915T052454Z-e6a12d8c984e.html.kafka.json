@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-e6a12d8c984e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7048,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/pt_br/ec2/latest/instancetypes/ec2-instance-quotas.html",
+  "title": "Cotas de tipos de instância do Amazon EC2",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:22:43Z",
+  "category": null
+}

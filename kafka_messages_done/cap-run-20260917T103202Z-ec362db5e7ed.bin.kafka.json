@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-011-node-js-crypto-1f1d13/loang/cap-run-20260917T103202Z-ec362db5e7ed.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 410148,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/pt/blog/release/v26.4.0",
+  "title": "Node.js — Node.js 26.4.0 (Current)",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:51:36Z",
+  "category": null
+}

@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-008-crypto-rand-47dfdc/loang/cap-run-20260917T103202Z-d96765341624.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "pkg.go.dev",
+  "url": "https://pkg.go.dev/github.com/flben233/mtmux?tab=versions",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:44:11Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='pkg.go.dev', port=443): Max retries exceeded with url: /github.com/flben233/mtmux?tab=versions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C3F8A4DE50>, 'Connection to pkg.go.dev timed out. (connect timeout=15.0)'))"
+}

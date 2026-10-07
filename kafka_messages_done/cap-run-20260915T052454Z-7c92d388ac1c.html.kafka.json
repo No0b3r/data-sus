@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-7c92d388ac1c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3536,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-encryption-local-zones-outposts-wavelength.html",
+  "title": "Amazon EBS encryption in Local Zones, Outposts, and Wavelength Zones",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:19:21Z",
+  "category": null
+}

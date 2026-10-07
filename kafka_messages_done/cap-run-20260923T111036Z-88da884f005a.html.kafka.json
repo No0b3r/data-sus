@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260923T111036Z-88da884f005a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10093,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v9.x/api/synopsis.html",
+  "title": "Usage",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:20:20Z",
+  "category": null
+}

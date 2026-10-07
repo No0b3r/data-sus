@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-security-blog-517e51/loang/cap-run-20260917T103202Z-965e25291a80.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 417039,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/id/data/",
+  "title": "Layanan Data & Analitik — Solusi Data Cloud — AWS",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:41:05Z",
+  "category": null
+}

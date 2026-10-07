@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-ab5b0d5c7c78.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 44860,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/previous-versions/azure/virtual-network/virtual-networks-using-network-configuration-file",
+  "title": "Configure an Azure Virtual Network (classic) - Network configuration file",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:36:17Z",
+  "category": "azure-service-management"
+}

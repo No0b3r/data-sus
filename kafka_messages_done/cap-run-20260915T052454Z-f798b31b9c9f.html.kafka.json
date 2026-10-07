@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/application-isolation-43c3b0/loang/cap-run-20260915T052454Z-f798b31b9c9f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 76658,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/apps/desktop/modernize/grant-identity-to-nonpackaged-apps",
+  "title": "Grant package identity by packaging with external location manually - Windows apps",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:06:13Z",
+  "category": "windows 10, desktop, sparse package, packaging with external location, package identity, external location, MSIX, Win32, unpackaged app"
+}

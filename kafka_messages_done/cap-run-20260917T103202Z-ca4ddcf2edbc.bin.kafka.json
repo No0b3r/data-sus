@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260917T103202Z-ca4ddcf2edbc.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 24646,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.16/whatsnew/3.0.html",
+  "title": "What’s New In Python 3.0",
+  "author": null,
+  "published_year": 2008,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T12:04:14Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-098f861a9d82.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 103180,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/5985534/the-windows-hypervisor-platform-fails-to-be-enable?orderby=newest&page=1",
+  "title": "The Windows Hypervisor Platform fails to be enabled on my Microsoft Surface Laptop 4, why is that?? - Microsoft Q&A",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:03:23Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-src05-usenix-security-2013-on-the-securit-71ee0f/loang/cap-run-20260925T020104Z-c27ca6fc92ba.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54843,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity13/speaker-or-organizer/tadayoshi-kohno-university-washington-0",
+  "title": "Tadayoshi Kohno",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:16:48Z",
+  "category": null
+}

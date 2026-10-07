@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/microsoft-security-blog-b95494/loang/cap-run-20260917T103202Z-b2a95a61eac0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52878,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle?msockid=1576fc2da7f864661aafead2a68265f0",
+  "title": "Microsoft Build 2026: Securing code, agents, and models across the development lifecycle | Microsoft Security Blog",
+  "author": "Aleš Holeček",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:22:30Z",
+  "category": null
+}

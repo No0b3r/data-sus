@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/sra-examples-cb5291/loang/cap-run-20260915T052454Z-f972ba8d66d6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 466425,
+  "domain": "github.com",
+  "url": "https://github.com/topics/aws-security-hub",
+  "title": "Build software better, together",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:19:35Z",
+  "category": null
+}

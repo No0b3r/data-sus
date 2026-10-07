@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-subscriptions-ee2c04/loang/cap-run-20260915T052454Z-5e867b6320c2.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 274607,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/media/create-enterprise-subscription/subscriptions-filter-item.png",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:00:31Z",
+  "category": null
+}

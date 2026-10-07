@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/sensitive-data-protection-samples-2e7bfa/loang/cap-run-20260915T052454Z-6c9a01672651.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 207237,
+  "domain": "github.com",
+  "url": "https://github.com/tarsal-oss",
+  "title": "tarsal.co/kflow",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:29:17Z",
+  "category": "organization:108883147"
+}

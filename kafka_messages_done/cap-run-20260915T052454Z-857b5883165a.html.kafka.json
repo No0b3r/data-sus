@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/eks-blueprints-467420/loang/cap-run-20260915T052454Z-857b5883165a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 276997,
+  "domain": "github.com",
+  "url": "https://github.com/aws-ia/terraform-aws-transfer-family/pulls",
+  "title": "Pull requests · aws-ia/terraform-aws-transfer-family",
+  "author": "Aws-Ia",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:25:22Z",
+  "category": "repository:909247130"
+}

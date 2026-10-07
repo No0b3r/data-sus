@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-9f704c4318b2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6422,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/AmazonS3/latest/userguide/WebsiteAccessPermissionsReqd.html",
+  "title": "Configurar permisos para el acceso a sitios web",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:09:48Z",
+  "category": null
+}

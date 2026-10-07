@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-freemarker-33255e/loang/cap-run-20260922T015341Z-66f8a50f59ec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4726,
+  "domain": "apache.org",
+  "url": "https://freemarker.apache.org/docs/ref_directive_switch.html",
+  "title": "switch, on, case, default, break",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:32:12Z",
+  "category": null
+}

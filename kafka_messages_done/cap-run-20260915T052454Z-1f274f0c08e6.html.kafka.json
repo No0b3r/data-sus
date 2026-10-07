@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-data-security-research-f22b06/loang/cap-run-20260915T052454Z-1f274f0c08e6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 47437,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2023/10/18/expanding-audit-logging-and-retention-within-microsoft-purview-for-increased-security-visibility",
+  "title": "New Microsoft Purview Audit enhancements increase security visibility | Microsoft Security Blog",
+  "author": "Rudra Mitra",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:42:11Z",
+  "category": null
+}

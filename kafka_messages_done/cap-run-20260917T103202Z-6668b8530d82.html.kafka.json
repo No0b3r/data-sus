@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/microsoft-security-blog-b95494/loang/cap-run-20260917T103202Z-6668b8530d82.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49056,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/",
+  "title": "Securing our future: July 2026 progress report on Microsoft's Secure Future Initiative | Microsoft Security Blog",
+  "author": "Salim Chawro",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:22:29Z",
+  "category": null
+}

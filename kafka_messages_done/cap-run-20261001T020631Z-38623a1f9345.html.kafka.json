@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-freemarker-33255e/loang/cap-run-20261001T020631Z-38623a1f9345.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4819,
+  "domain": "apache.org",
+  "url": "https://freemarker.apache.org/docs/dgui_misc_var.html",
+  "title": "Defining variables in the template",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:36:50Z",
+  "category": null
+}

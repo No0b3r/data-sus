@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/well-architected-labs-af260b/loang/cap-run-20260915T052454Z-4e1e4fb5e4d9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 379485,
+  "domain": "github.com",
+  "url": "https://github.com/alibaba/Sentinel",
+  "title": "GitHub - alibaba/Sentinel: A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
+  "author": "Alibaba",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:23:30Z",
+  "category": "repository:128018428"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/generation-2-vm-security-6bd019/loang/cap-run-20260915T052454Z-ad69c62c0022.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 96217,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/powershell/module/hyper-v/?view=windowsserver2025-ps",
+  "title": "Hyper-V Module",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:01:29Z",
+  "category": null
+}

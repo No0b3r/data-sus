@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/log4shell-cve-2021-44228-apache-advisory-74d4ba/loang/cap-run-20260915T052454Z-c0d7ee308e55.xml.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": 305189,
+  "domain": "logging.apache.org",
+  "url": "https://logging.apache.org/xml/ns/log4j-config-2.xsd",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:20:52Z",
+  "category": null
+}

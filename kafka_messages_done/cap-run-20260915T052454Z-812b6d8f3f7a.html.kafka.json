@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudfoxable-614013/loang/cap-run-20260915T052454Z-812b6d8f3f7a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 191023,
+  "domain": "github.com",
+  "url": "https://github.com/BishopFox/cloudfoxable/pulse",
+  "title": "Pulse · BishopFox/cloudfoxable",
+  "author": "BishopFox",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:10:58Z",
+  "category": "repository:590072290"
+}

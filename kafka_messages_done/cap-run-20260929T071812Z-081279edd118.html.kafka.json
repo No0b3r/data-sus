@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-cordova-4462de/loang/cap-run-20260929T071812Z-081279edd118.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3263,
+  "domain": "apache.org",
+  "url": "https://cordova.apache.org/news/2021/06/03/network-information-plugin-release.html",
+  "title": "Network Information Plugin Released!",
+  "author": "Pieter Van Poyer",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:27:09Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/acse-eval-ec6232/loang/cap-run-20260915T052454Z-c2b4260cac51.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 259600,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/search/cs?searchtype=author&query=Pathak",
+  "title": "Showing 1–50 of 536 results for author: Pathak",
+  "author": "Authors Rohit Chatterjee; Ananta Mukherjee; Vir Pathak; Supartha Podder",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:53:11Z",
+  "category": null
+}

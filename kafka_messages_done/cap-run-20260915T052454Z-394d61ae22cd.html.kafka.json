@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-394d61ae22cd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3396,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/config/latest/developerguide/beanstalk-enhanced-health-reporting-enabled.html",
+  "title": "beanstalk-enhanced-health-reporting-enabled",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:57:08Z",
+  "category": null
+}

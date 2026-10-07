@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-358915d00960.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62312,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-permissions-cli",
+  "title": "Configure Azure VM Image Builder permissions by using the Azure CLI - Azure Virtual Machines",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:32:21Z",
+  "category": null
+}

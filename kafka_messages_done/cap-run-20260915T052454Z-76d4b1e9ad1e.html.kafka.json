@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-76d4b1e9ad1e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9906,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/it_it/elasticbeanstalk/latest/dg/AWSHowTo.cloudwatchlogs.html",
+  "title": "Utilizzo di Elastic CloudWatch Beanstalk con Amazon Logs",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:51:52Z",
+  "category": null
+}

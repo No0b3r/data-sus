@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/customer-playbook-framework-4f152b/loang/cap-run-20260915T052454Z-947858387309.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 267087,
+  "domain": "github.com",
+  "url": "https://github.com/aws-samples/aws-customer-playbook-framework/commits/main/docs/Analyzing_VPC_Flow_Logs.md",
+  "title": "History for docs/Analyzing_VPC_Flow_Logs.md - aws-samples/aws-customer-playbook-framework",
+  "author": "Aws-Samples",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:16:00Z",
+  "category": "repository:422295993"
+}

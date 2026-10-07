@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/storage-security-guide-c8a32a/loang/cap-run-20260915T052454Z-c6b6db4814f3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 65237,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-user-delegation-sas-create-python",
+  "title": "Create a user delegation SAS for a container or blob with Python - Azure Storage",
+  "author": "Use a user delegation SAS",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:19:52Z",
+  "category": null
+}

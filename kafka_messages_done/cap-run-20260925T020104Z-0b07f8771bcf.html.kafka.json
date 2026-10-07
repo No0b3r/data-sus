@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-006-rfc-5869-hkdf-88ed7b/loang/cap-run-20260925T020104Z-0b07f8771bcf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 542895,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3547/",
+  "title": "RFC 3547: The Group Domain of Interpretation | RFC Editor",
+  "author": "M Baugher; B Weis; T Hardjono; H Harney",
+  "published_year": 2003,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:24Z",
+  "category": "ISAMKP, Internet Security Association and Key Management Protocol, DOI, Domain of Interpretation, key management, security, encryption"
+}

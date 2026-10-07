@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-008-rfc-9420-mls-078877/cap-run-20260925T020104Z-4deeb9e3cbe0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2593469,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9420",
+  "title": "RFC 9420: The Messaging Layer Security (MLS) Protocol | RFC Editor",
+  "author": "R Barnes; B Beurdouche; R Robert; J Millican; E Omara; K Cohn-Gordon",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:31Z",
+  "category": null
+}

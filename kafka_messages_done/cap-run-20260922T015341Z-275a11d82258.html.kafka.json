@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/flutter-c3cb7c/loang/cap-run-20260922T015341Z-275a11d82258.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 22581,
+  "domain": "flutter.dev",
+  "url": "https://docs.flutter.dev/testing/plugins-in-tests",
+  "title": "Plugins in Flutter tests",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:43:05Z",
+  "category": null
+}

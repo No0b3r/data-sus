@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-a7941ca7875f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62104,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-local/manage/troubleshoot-deployment?view=azloc-2609",
+  "title": "Troubleshoot deployment validation issues in Azure Local, version 23H2 via Azure portal - Azure Local",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:36:10Z",
+  "category": null
+}

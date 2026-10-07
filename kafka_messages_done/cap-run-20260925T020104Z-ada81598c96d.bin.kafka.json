@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-047-owasp-asvs-4465f0/loang/cap-run-20260925T020104Z-ada81598c96d.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 64943,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/groups/owasp-certified-secure-developer?tab=overview",
+  "title": "OWASP Certified Secure Developer",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:43:08Z",
+  "category": null
+}

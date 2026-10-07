@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-control-for-business-10acb8/loang/cap-run-20260915T052454Z-9fa9810d0bb3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59712,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/powershell/module/configci/add-signerrule?view=windowsserver2025-ps",
+  "title": "Add-SignerRule (ConfigCI)",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:05:10Z",
+  "category": null
+}

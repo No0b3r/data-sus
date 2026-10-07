@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-963620e1a747.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 209758,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/1009500/how-to-connect-a-usb-dongle-to-virtual-machine-hyp",
+  "title": "HOW TO CONNECT A USB DONGLE TO VIRTUAL MACHINE HYPER-V? - Microsoft Q&A",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:04:42Z",
+  "category": null
+}

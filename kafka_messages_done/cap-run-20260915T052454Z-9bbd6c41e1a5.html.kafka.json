@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aadinternals-6e191b/loang/cap-run-20260915T052454Z-9bbd6c41e1a5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 256825,
+  "domain": "github.com",
+  "url": "https://github.com/Gerenios/AADInternals/blob/master/AdminAPI_utils.ps1",
+  "title": "AADInternals/AdminAPI_utils.ps1 at master · Gerenios/AADInternals",
+  "author": "Gerenios",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:52:55Z",
+  "category": "repository:154712144"
+}

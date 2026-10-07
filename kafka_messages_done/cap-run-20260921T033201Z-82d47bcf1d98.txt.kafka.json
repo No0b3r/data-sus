@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/github-security-documentation-f2e981/loang/cap-run-20260921T033201Z-82d47bcf1d98.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 4921,
+  "domain": "docs.github.com",
+  "url": "https://docs.github.com/api/article/body?pathname=/fr/code-security/concepts/supply-chain-security/malware-alerts",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:29:13Z",
+  "category": null
+}

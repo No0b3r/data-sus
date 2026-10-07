@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-4572f4339573.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2655,
+  "domain": "python.org",
+  "url": "https://docs.python.org/2.7/library/whichdb.html",
+  "title": "11.7. whichdb — Guess which DBM module created a database¶",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:59:24Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/windows-security-model-for-drivers-2a1a74/loang/cap-run-20260915T052454Z-3ec933de2ada.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 56063,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdfdevice/nc-wdfdevice-evt_wdf_device_prepare_hardware",
+  "title": "EVT_WDF_DEVICE_PREPARE_HARDWARE (wdfdevice.h) - Windows drivers",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:14:27Z",
+  "category": "EVT_WDF_DEVICE_PREPARE_HARDWARE callback function"
+}

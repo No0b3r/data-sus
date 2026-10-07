@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-resource-reference-b3ad42/loang/cap-run-20260915T052454Z-7c7ecc76b752.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4108,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-properties-codebuild-project-projecttriggers.html",
+  "title": "AWS::CodeBuild::Project ProjectTriggers",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:06:12Z",
+  "category": null
+}

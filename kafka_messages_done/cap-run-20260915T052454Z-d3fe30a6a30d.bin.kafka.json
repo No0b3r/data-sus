@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-d3fe30a6a30d.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14231,
+  "domain": "python.org",
+  "url": "https://docs.python.org/zh-cn/3.10/howto/pyporting.html",
+  "title": "将 Python 2 代码迁移到 Python 3¶",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T10:35:05Z",
+  "category": null
+}

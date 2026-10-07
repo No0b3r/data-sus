@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aks-security-best-practices-d76b4e/loang/cap-run-20260915T052454Z-ddfb7cd628fc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 87687,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/aks/blue-green-deployment-for-aks",
+  "title": "Blue-green deployment of AKS clusters - Azure Architecture Center",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:53:51Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-004-rfc-4253-ssh-transport-6b09ed/loang/cap-run-20260925T020104Z-bd1182b67c37.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 42844,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc8758.html",
+  "title": "Deprecating RC4 in Secure Shell (SSH)",
+  "author": "Loganaden Velvindron",
+  "published_year": 1997,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:40Z",
+  "category": null
+}

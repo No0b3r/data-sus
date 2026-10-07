@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/sra-examples-cb5291/loang/cap-run-20260915T052454Z-758d56c62bb0.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 6543,
+  "domain": "github.com",
+  "url": "https://github.com/aws-samples/aws-security-reference-architecture-examples/raw/refs/heads/main/CHANGELOG.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:19:15Z",
+  "category": null
+}

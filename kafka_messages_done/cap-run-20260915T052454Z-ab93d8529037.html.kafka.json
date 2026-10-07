@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-ab93d8529037.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 112972,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/python/api/azure-mgmt-resource-locks/azure.mgmt.resource.locks.operations.managementlocksoperations",
+  "title": "azure.mgmt.resource.locks.operations.ManagementLocksOperations class",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:36:17Z",
+  "category": null
+}

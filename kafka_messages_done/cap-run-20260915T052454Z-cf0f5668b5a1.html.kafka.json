@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/best-practices-for-securing-ad-c7bce4/cap-run-20260915T052454Z-cf0f5668b5a1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 63702,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory",
+  "title": "Best practices for securing Active Directory",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:06:23Z",
+  "category": null
+}

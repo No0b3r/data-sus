@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-devops-security-dd3760/loang/cap-run-20260915T052454Z-a52f743ae172.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 48576,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/previous-versions/azure/devops/all/java/vscode-extension",
+  "title": "VS Code extension for Java development - Azure DevOps Server & TFS",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:54:26Z",
+  "category": null
+}

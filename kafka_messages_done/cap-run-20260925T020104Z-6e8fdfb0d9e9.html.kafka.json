@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-006-rfc-4301-ipsec-architecture-74782a/loang/cap-run-20260925T020104Z-6e8fdfb0d9e9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 951732,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5944",
+  "title": "RFC 5944: IP Mobility Support for IPv4, Revised | RFC Editor",
+  "author": "C Perkins",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:17Z",
+  "category": "MOBILEIPSUPIP, Internet Protocol, MIPv4"
+}

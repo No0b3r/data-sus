@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-1068972b33aa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3798,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/linux/al2/ug/managing-software.html",
+  "title": "管理您的 AL2 实例上的软件",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:17:25Z",
+  "category": null
+}

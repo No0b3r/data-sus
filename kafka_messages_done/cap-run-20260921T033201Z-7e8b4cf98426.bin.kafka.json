@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260921T033201Z-7e8b4cf98426.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 13665,
+  "domain": "python.org",
+  "url": "https://docs.python.org/fr/3.14/py-modindex.html",
+  "title": "Index des modules Python",
+  "author": null,
+  "published_year": 2001,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:03:51Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-b167ad82f3b9.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3750,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.8/c-api/objbuffer.html",
+  "title": "Old Buffer Protocol¶",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:10:15Z",
+  "category": null
+}

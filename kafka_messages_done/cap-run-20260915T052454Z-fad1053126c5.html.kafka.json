@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/generation-2-vm-security-6bd019/loang/cap-run-20260915T052454Z-fad1053126c5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 57079,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/best-practices-for-running-linux-on-hyper-v",
+  "title": "Best Practices for running Linux on Hyper-V",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:01:38Z",
+  "category": null
+}

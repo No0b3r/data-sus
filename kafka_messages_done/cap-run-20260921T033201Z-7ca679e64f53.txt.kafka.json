@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t2-002-java-pki-jsse-88f1ed/loang/cap-run-20260921T033201Z-7ca679e64f53.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 4391,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/javase/8/docs/technotes/guides/security/jsse/samples/sockets/client/SSLSocketClient.java",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:19:57Z",
+  "category": null
+}

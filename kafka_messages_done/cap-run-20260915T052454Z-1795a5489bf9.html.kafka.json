@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-resource-reference-b3ad42/loang/cap-run-20260915T052454Z-1795a5489bf9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4365,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-properties-cognito-userpool-smsconfiguration.html",
+  "title": "AWS::Cognito::UserPool SmsConfiguration",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:02:31Z",
+  "category": null
+}

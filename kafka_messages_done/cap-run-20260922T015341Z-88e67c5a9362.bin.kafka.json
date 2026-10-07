@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260922T015341Z-88e67c5a9362.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 274224,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/en/download/archive/v17.9.1",
+  "title": "Node.js — Run JavaScript Everywhere",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:07:51Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/iam-c2c93e/loang/cap-run-20260915T052454Z-a66cb51decda.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4034,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/id_id/config/latest/developerguide/iam-root-access-key-check.html",
+  "title": "iam-root-akses-kunci-cek",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:35:19Z",
+  "category": null
+}

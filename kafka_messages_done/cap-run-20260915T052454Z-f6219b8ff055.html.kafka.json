@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/maester-88bd3f/loang/cap-run-20260915T052454Z-f6219b8ff055.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 462953,
+  "domain": "github.com",
+  "url": "https://github.com/maester365/maester/pull/2196",
+  "title": "chore(deps): bump react from 19.2.8 to 19.3.0 in /website by dependabot[bot] · Pull Request #2196 · maester365/maester",
+  "author": "Maester",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:38:37Z",
+  "category": "pull_request:4532374386"
+}

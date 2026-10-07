@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/windows-security-model-for-drivers-2a1a74/loang/cap-run-20260915T052454Z-3f861081b7f8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49615,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/vi-vn/windows-hardware/drivers/devtest/driver-annotations-for-interlocked-operands",
+  "title": "Driver Annotations for Interlocked Operands - Windows drivers",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:14:28Z",
+  "category": null
+}

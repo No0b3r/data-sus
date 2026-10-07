@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/organization-policy-samples-3ed637/loang/cap-run-20260915T052454Z-d61ca84bf7c0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 343348,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/policy-library/blob/main/docs/constraint_template_authoring.md",
+  "title": "policy-library/docs/constraint_template_authoring.md at main · GoogleCloudPlatform/policy-library",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:28:42Z",
+  "category": "repository:178277843"
+}

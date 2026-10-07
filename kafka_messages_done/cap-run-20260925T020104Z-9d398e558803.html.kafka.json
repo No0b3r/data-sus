@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-full-028-rfc-6066-e7bb34/loang/cap-run-20260925T020104Z-9d398e558803.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 183037,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2923",
+  "title": "RFC 2923: TCP Problems with Path MTU Discovery | RFC Editor",
+  "author": "K Lahey",
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:18:22Z",
+  "category": "transmission, control, protocol, maximum, unit"
+}

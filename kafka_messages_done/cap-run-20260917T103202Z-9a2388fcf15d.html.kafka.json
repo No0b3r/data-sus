@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/services-in-scope-4e2eab/loang/cap-run-20260917T103202Z-9a2388fcf15d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1294331,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/blogs/big-data/transition-from-amazon-cloudsearch-to-amazon-opensearch-service/",
+  "title": "Transition from Amazon CloudSearch to Amazon OpenSearch Service | Amazon Web Services",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:18:28Z",
+  "category": "Amazon CloudSearch"
+}

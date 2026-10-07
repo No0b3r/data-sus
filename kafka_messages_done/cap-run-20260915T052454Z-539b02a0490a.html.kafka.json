@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-data-security-research-f22b06/loang/cap-run-20260915T052454Z-539b02a0490a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 26950,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management",
+  "title": "Microsoft Priva Privacy Risk Management | Microsoft Security",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:42:33Z",
+  "category": null
+}

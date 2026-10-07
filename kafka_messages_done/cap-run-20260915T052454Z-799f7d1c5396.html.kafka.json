@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-799f7d1c5396.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 37400,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/communication/chat/chatthread",
+  "title": "Chat Thread - REST API (Azure Communication)",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:58:27Z",
+  "category": null
+}

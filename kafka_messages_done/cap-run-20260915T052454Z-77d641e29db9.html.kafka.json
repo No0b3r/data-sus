@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-77d641e29db9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 17163,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/linux/al2023/ug/managing-repos-os-updates.html",
+  "title": "Manage package and operating system updates in AL2023",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:19:15Z",
+  "category": null
+}

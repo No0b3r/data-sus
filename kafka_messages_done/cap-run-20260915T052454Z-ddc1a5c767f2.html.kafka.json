@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-identity-platform-73f542/loang/cap-run-20260915T052454Z-ddc1a5c767f2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 66717,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/entra/fundamentals/how-to-customize-branding-themes-apps",
+  "title": "Customize the sign-in experience for your application with branding themes - Microsoft Entra",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:46:35Z",
+  "category": null
+}

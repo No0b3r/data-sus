@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-http-server-1e9e3d/loang/cap-run-20260929T071812Z-f15d26d65193.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2357,
+  "domain": "apache.org",
+  "url": "https://httpd.apache.org/docs/current/ja/ssl/",
+  "title": "Apache の SSL/TLS 暗号化",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:56:47Z",
+  "category": null
+}

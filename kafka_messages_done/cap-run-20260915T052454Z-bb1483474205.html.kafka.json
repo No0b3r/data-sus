@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/application-isolation-43c3b0/loang/cap-run-20260915T052454Z-bb1483474205.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50463,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/win32/api/winnt/ns-winnt-enclave_create_info_vbs",
+  "title": "ENCLAVE_CREATE_INFO_VBS (winnt.h) - Win32 apps",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:05:58Z",
+  "category": null
+}

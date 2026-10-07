@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-identity-platform-73f542/loang/cap-run-20260915T052454Z-dd5895079a69.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 78218,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/entra/identity-platform/tutorial-single-page-apps-angular-prepare-app?toc=/entra/external-id/toc.json&bc=/entra/external-id/breadcrumb/toc.json&tabs=external-tenant",
+  "title": "Tutorial: Prepare an Angular single-page app (SPA) for authentication - Microsoft identity platform",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:46:35Z",
+  "category": null
+}

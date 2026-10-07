@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-006-rfc-4301-ipsec-architecture-74782a/cap-run-20260925T020104Z-527feb6ba957.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 944242,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4301",
+  "title": "RFC 4301: Security Architecture for the Internet Protocol | RFC Editor",
+  "author": "S Kent; K Seo",
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:09Z",
+  "category": "ipsec, authentication, encapsulation, IP, IPv4, IPv6, IP-layer, ip authentication header, ip security, IPsec, confidentiality, authentication integrity, anti-replay, ah, esp, encapsulating security payload, ike, internet key exchange, ikev2, esn, extended sequence number"
+}

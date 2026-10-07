@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/java-openjdk-hotspot-30640c/loang/cap-run-20260921T033201Z-8f2bdd0531c3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2472,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/java/javase/21/troubleshoot/general-java-troubleshooting.html",
+  "title": "Troubleshooting Guide",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:01:42Z",
+  "category": "urn:ohc:application-type:, urn:ohc:application:, urn:ohc:industry:, urn:ohc:tag:"
+}

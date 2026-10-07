@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-devops-security-dd3760/loang/cap-run-20260915T052454Z-b4d21cd7729e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 107078,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/devops/repos/git/pulling?view=azure-devops&tabs=visual-studio",
+  "title": "Pull changes to your local Git repo - Azure Repos",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:54:32Z",
+  "category": null
+}

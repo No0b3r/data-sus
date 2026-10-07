@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/threat-modeling-designing-for-security-462a8c/loang/cap-run-20260915T052454Z-7cc4a89dd22d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 285084,
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/Tools-and-Home-Improvement/b/?ie=UTF8&node=228013&ref_=nav_cs_hi",
+  "title": "Skip to",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:22:41Z",
+  "category": null
+}

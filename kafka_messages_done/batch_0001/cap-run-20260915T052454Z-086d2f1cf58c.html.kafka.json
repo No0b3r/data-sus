@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-004-sslstream-7d64f3/loang/cap-run-20260915T052454Z-086d2f1cf58c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 69619,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/vi-vn/dotnet/api/system.data.common.dbparametercollection.setparameter?view=net-11.0-pp",
+  "title": "DbParameterCollection.SetParameter Method (System.Data.Common)",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:58:37Z",
+  "category": null
+}

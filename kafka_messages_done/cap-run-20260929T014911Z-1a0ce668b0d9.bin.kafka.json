@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260929T014911Z-1a0ce668b0d9.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 214684,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/get-started/docker-concepts/running-containers/publishing-ports/",
+  "title": "Publishing and exposing ports",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:44:36Z",
+  "category": "concepts,build,images,container,docker,desktop"
+}

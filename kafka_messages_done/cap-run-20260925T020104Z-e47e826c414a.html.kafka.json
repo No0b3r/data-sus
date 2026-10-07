@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-006-rfc-5869-hkdf-88ed7b/loang/cap-run-20260925T020104Z-e47e826c414a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 169317,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3162",
+  "title": "RFC 3162: RADIUS and IPv6 | RFC Editor",
+  "author": "B Aboba; G Zorn; D Mitton",
+  "published_year": 2001,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:44Z",
+  "category": "RADIUS, remote authentication dial in user service, attributes, IPv6"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-007-node-crypto-61fe7b/loang/cap-run-20260924T083724Z-2619d7101d97.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 268872,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/id/download/archive/v25.9.0",
+  "title": "Node.js — Jalankan JavaScript Di Mana Saja",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:37:06Z",
+  "category": null
+}

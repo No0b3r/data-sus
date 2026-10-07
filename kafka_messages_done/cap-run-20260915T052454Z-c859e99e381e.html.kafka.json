@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-c859e99e381e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5890,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-manage-view-clusters.html",
+  "title": "View Amazon EMR cluster status and details",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:32:34Z",
+  "category": null
+}

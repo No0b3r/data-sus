@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/compromised-cluster-remediation-2171da/loang/cap-run-20260915T052454Z-811e01d9ebd7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 189545,
+  "domain": "github.com",
+  "url": "https://github.com/amazon-archives/__template_MIT-0/pulse",
+  "title": "Pulse · amazon-archives/__template_MIT-0",
+  "author": "Amazon-Archives",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:14:18Z",
+  "category": "repository:202388123"
+}

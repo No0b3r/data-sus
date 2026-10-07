@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-security-devops-bf2c4f/loang/cap-run-20260915T052454Z-750abfaedc7e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 232414,
+  "domain": "github.com",
+  "url": "https://github.com/eslint/eslint/blob/main/SUPPORT.md",
+  "title": "eslint/SUPPORT.md at main · eslint/eslint",
+  "author": "Eslint",
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:47:21Z",
+  "category": "repository:11061773"
+}

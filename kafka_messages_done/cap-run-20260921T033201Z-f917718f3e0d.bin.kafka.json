@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260921T033201Z-f917718f3e0d.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 87841,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v13.x/api/dns.html",
+  "title": "DNS",
+  "author": null,
+  "published_year": 2001,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:02:21Z",
+  "category": null
+}

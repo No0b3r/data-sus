@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-4d9aeacf9cc0.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 4786854,
+  "domain": "docs.python.org",
+  "url": "https://docs.python.org/ftp/python/doc/3.4.10/python-3.4.10-docs.epub",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:59:52Z",
+  "category": null
+}

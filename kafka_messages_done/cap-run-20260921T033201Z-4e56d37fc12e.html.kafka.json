@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260921T033201Z-4e56d37fc12e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 16059,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/go/+/f043823a99a4118989a34afec015d23b5d54d01e",
+  "title": "The Go Programming Language",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:23:28Z",
+  "category": null
+}

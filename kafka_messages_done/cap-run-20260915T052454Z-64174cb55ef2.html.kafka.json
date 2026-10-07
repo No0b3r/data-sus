@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-64174cb55ef2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55054,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-arc/servers/troubleshoot-vm-extensions",
+  "title": "Troubleshoot Azure Arc-enabled servers VM extension issues - Azure Arc",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:33:56Z",
+  "category": null
+}

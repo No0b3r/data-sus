@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20260922T015341Z-0a9162252934.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9783,
+  "domain": "apache.org",
+  "url": "https://solr.apache.org/guide/solr/9_11/getting-started/documents-fields-schema-design.html",
+  "title": "Documents, Fields, and Schema Design",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T02:22:06Z",
+  "category": null
+}

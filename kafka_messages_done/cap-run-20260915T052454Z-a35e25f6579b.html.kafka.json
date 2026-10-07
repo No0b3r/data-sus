@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-a35e25f6579b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62255,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction?toc=%2Fazure%2Fvirtual-network%2Ftoc.json",
+  "title": "What is Azure NetApp Files",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:36:01Z",
+  "category": null
+}

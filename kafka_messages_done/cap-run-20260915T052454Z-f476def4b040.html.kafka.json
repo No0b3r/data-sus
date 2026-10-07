@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-005-go-crypto-cipher-1bf15e/loang/cap-run-20260915T052454Z-f476def4b040.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 97134,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/chain5j/chain5j-pbft",
+  "title": "pbft",
+  "author": "Authorize bool `json; 是否投票候选人",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:26:38Z",
+  "category": null
+}

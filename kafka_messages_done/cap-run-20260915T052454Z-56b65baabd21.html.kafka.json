@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/iam-c2c93e/loang/cap-run-20260915T052454Z-56b65baabd21.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5094,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/organizations/latest/userguide/orgs_manage_accounts_access.html",
+  "title": "使用 存取組織中的成員帳戶 AWS Organizations",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:34:54Z",
+  "category": null
+}

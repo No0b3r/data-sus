@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-f6f40b5f95e3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5258,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/dms/latest/userguide/CHAP_ReplicationInstance.html",
+  "title": "与 a 合作 AWS DMS 复制实例",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:34:43Z",
+  "category": null
+}

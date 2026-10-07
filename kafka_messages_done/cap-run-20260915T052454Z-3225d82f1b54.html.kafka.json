@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-customer-security-incidents-99a15e/loang/cap-run-20260915T052454Z-3225d82f1b54.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 230671,
+  "domain": "github.com",
+  "url": "https://github.com/unicrons/.github/blob/main/slides/The%20Cloud%20Is%20Just%20Someone%20Else's%20Computer%2C%20But%20It's%20Still%20Your%20Problem%20%40%20Bsides%20Malaga%202025.pdf",
+  "title": ".github/slides/The Cloud Is Just Someone Else's Computer, But It's Still Your Problem @ Bsides Malaga 2025.pdf at main · unicrons/.github",
+  "author": "Unicrons",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:01:45Z",
+  "category": "repository:805238171"
+}

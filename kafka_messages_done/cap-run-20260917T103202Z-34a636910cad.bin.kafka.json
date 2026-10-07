@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/falco-documentation-395194/loang/cap-run-20260917T103202Z-34a636910cad.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 93398,
+  "domain": "falco.org",
+  "url": "https://falco.org/docs/troubleshooting/dropping",
+  "title": "Falco Is Dropping Syscalls Events",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:53:54Z",
+  "category": "docs"
+}

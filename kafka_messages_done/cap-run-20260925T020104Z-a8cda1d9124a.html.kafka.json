@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-013-rfc-4086-randomness-requirements-f-45caaa/loang/cap-run-20260925T020104Z-a8cda1d9124a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 193106,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2003/",
+  "title": "RFC 2003: IP Encapsulation within IP | RFC Editor",
+  "author": "C Perkins",
+  "published_year": 1996,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:29:04Z",
+  "category": "IPENCAPIP, Internet, Protocol"
+}

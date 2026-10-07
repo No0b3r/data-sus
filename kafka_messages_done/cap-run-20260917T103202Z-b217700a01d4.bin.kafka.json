@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-b217700a01d4.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7976,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3/library/pkgutil.html",
+  "title": "pkgutil — Package extension utility",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:10:20Z",
+  "category": null
+}

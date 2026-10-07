@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260921T033201Z-afce2a88161b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7928,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/crypto/+/e0a54fdc4bf890e11573ddd8c531dc2cdc6eac47/curve25519/",
+  "title": "curve25519 - crypto",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:30:17Z",
+  "category": null
+}

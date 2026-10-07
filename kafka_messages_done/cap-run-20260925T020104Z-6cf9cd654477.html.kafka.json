@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-006-rfc-4301-ipsec-architecture-74782a/loang/cap-run-20260925T020104Z-6cf9cd654477.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 644287,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc8926",
+  "title": "RFC 8926: Geneve: Generic Network Virtualization Encapsulation | RFC Editor",
+  "author": "J Gross; I Ganga; T Sridhar",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:17Z",
+  "category": "overlay, tunnel, extensible, variable, metadata, options, endpoint, transit"
+}

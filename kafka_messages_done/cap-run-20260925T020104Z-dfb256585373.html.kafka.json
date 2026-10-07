@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-full-003-rfc-9147-d9eb1c/loang/cap-run-20260925T020104Z-dfb256585373.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 394133,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc6544/",
+  "title": "RFC 6544: TCP Candidates with Interactive Connectivity Establishment (ICE) | RFC Editor",
+  "author": "J Rosenberg; A Keranen; B B Lowekamp; A B Roach",
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:48:55Z",
+  "category": "ICE, TCP, NAT, NAT traversal"
+}

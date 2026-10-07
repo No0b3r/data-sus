@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-dd7dbb18934e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6852,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/iot/latest/developerguide/x509-client-certs.html",
+  "title": "X.509 certificados de cliente",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:14:05Z",
+  "category": null
+}

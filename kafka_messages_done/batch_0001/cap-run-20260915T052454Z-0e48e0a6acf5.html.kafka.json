@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-0e48e0a6acf5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5355,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/AWSEC2/latest/UserGuide/manage-launch-template-versions.html",
+  "title": "修改啟動範本 (管理啟動範本版本)",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:17:23Z",
+  "category": null
+}

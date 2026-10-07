@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-james-ab8007/loang/cap-run-20260915T052454Z-2109e188266e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3346,
+  "domain": "apache.org",
+  "url": "https://james.apache.org/server/install/guice-cassandra-rabbitmq-swift.html",
+  "title": "Guice-Cassandra-Rabbitmq-S3 installation guide",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:56:58Z",
+  "category": null
+}

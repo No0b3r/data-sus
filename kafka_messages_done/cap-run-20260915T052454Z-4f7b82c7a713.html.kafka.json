@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-4f7b82c7a713.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3574,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/guardduty/latest/ug/managing-gdu-agent-ec2-automated.html",
+  "title": "Amazon EC2 인스턴스에 자동 보안 에이전트 활성화",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:31:42Z",
+  "category": null
+}

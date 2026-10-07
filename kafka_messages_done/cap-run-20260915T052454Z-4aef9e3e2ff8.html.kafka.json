@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/cloud-foundation-fabric-ddbc2b/loang/cap-run-20260915T052454Z-4aef9e3e2ff8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 517250,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/discussions",
+  "title": "GoogleCloudPlatform/cloud-foundation-fabric · Discussions",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:25:44Z",
+  "category": "repository:184825074"
+}

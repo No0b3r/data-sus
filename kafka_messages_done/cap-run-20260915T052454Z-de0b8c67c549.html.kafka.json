@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ecs-security-7c5872/loang/cap-run-20260915T052454Z-de0b8c67c549.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5242,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/ecs-fips-compliance.html",
+  "title": "AWS FargatePadrão Federal de Processamento de Informações (FIPS-140) do",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:24:39Z",
+  "category": null
+}

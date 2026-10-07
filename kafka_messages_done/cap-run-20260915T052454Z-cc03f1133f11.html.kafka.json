@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-cc03f1133f11.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 70058,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-b2b-business-continuity",
+  "title": "Disaster Recovery for Integration Accounts - Azure Logic Apps",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:59:42Z",
+  "category": null
+}

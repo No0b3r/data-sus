@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-4d99fca16716.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10709,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/AmazonS3/latest/userguide/access-control-block-public-access.html",
+  "title": "阻止对您的 Amazon S3 存储的公有访问",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:58:34Z",
+  "category": null
+}

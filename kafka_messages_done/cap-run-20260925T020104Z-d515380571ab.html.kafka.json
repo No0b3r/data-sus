@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-006-rfc-5869-hkdf-88ed7b/loang/cap-run-20260925T020104Z-d515380571ab.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 676020,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3821/",
+  "title": "RFC 3821: Fibre Channel Over TCP/IP (FCIP) | RFC Editor",
+  "author": "M Rajagopal; E Rodriguez; R Weber",
+  "published_year": 2004,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:42Z",
+  "category": "FCIP, Fibre Channel Over TCI/IP, storage area networks, IP-based networks, unified storage area network"
+}

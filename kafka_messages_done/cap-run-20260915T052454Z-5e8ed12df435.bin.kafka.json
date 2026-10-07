@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-5e8ed12df435.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 58686,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/stream-analytics/media/stream-analytics-quick-create-portal/add-output-menu.png",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:57:57Z",
+  "category": null
+}

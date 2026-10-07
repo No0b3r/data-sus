@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-5e07e4e0d924.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 32347,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.2/library/os.html",
+  "title": "15.1. os — Miscellaneous operating system interfaces¶",
+  "author": null,
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:00:53Z",
+  "category": null
+}

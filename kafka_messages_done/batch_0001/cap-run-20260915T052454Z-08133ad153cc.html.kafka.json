@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azurehound-3d2e37/loang/cap-run-20260915T052454Z-08133ad153cc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 254733,
+  "domain": "github.com",
+  "url": "https://github.com/hotnops/AWSRoleJuggler",
+  "title": "GitHub - hotnops/AWSRoleJuggler: A toolset to juggle AWS roles for persistent access",
+  "author": "Hotnops",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:08Z",
+  "category": "repository:279121658"
+}

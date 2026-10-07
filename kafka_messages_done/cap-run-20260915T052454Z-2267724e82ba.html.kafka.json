@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/workload-identity-federation-09f786/loang/cap-run-20260915T052454Z-2267724e82ba.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 61312,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/aks/kubernetes-action",
+  "title": "Build, test, and deploy containers to Azure Kubernetes Service (AKS) using GitHub Actions - Azure Kubernetes Service",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:24:21Z",
+  "category": null
+}

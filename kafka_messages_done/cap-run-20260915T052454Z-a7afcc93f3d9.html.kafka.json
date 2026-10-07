@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/access-control-overview-d1b0cd/loang/cap-run-20260915T052454Z-a7afcc93f3d9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 41005,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/vi-vn/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/using-advanced-security-auditing-options-to-monitor-dynamic-access-control-objects",
+  "title": "Using advanced security auditing options to monitor dynamic access control objects - Windows 10",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:45:56Z",
+  "category": null
+}

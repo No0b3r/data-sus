@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/java-openjdk-hotspot-30640c/loang/cap-run-20260923T111036Z-d175e368f173.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1229573,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/javase/specs/jvms/se27/html/jvms-4.html",
+  "title": "Chapter 4. The class File Format",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:03:55Z",
+  "category": null
+}

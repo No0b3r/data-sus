@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-81d23f7c67be.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52822,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-netapp-files/double-encryption-at-rest",
+  "title": "Azure NetApp Files double encryption at rest",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:58:37Z",
+  "category": null
+}

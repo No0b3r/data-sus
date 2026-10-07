@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-008-crypto-rand-47dfdc/loang/cap-run-20260917T103202Z-1856f6511a6a.xml.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": null,
+  "domain": "pkg.go.dev",
+  "url": "https://pkg.go.dev/sitemap/54.xml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:34:45Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='pkg.go.dev', port=443): Max retries exceeded with url: /sitemap/54.xml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C3F70CEAD0>, 'Connection to pkg.go.dev timed out. (connect timeout=15.0)'))"
+}

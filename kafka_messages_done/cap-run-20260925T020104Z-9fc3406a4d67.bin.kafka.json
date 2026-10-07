@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-008-rfc-7914-scrypt-ca896b/loang/cap-run-20260925T020104Z-9fc3406a4d67.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 212566,
+  "domain": "rfc-editor.org",
+  "url": "http://www.rfc-editor.org/info/rfc7914",
+  "title": "RFC 7914: The scrypt Password-Based Key Derivation Function | RFC Editor",
+  "author": "C Percival; S Josefsson",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:48Z",
+  "category": "PBKDF"
+}

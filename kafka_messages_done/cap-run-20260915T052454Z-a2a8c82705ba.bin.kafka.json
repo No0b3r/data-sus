@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-a2a8c82705ba.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15783,
+  "domain": "python.org",
+  "url": "https://docs.python.org/es/3.11/library/locale.html",
+  "title": "locale — Servicios de internacionalización",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T10:13:15Z",
+  "category": null
+}

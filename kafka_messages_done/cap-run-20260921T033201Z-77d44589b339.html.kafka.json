@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/github-security-documentation-f2e981/loang/cap-run-20260921T033201Z-77d44589b339.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 68012,
+  "domain": "github.com",
+  "url": "https://docs.github.com/fr/code-security/how-tos/maintain-quality-code/set-up-code-coverage",
+  "title": "Configuration de la couverture du code pour votre référentiel - Documentation GitHub",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:29:03Z",
+  "category": null
+}

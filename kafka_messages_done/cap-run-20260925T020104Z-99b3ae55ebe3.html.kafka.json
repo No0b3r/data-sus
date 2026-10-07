@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-99b3ae55ebe3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38929,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity21/presentation/kim",
+  "title": "{PASAN}: Detecting Peripheral Access Concurrency Bugs within {Bare-Metal} Embedded Applications",
+  "author": "Taegyu Kim; Vireshwar Kumar; Junghwan Rhee; Jizhou Chen; Kyungtae Kim; Chung Hwan Kim; Dongyan Xu; Dave Tian",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:31Z",
+  "category": null
+}

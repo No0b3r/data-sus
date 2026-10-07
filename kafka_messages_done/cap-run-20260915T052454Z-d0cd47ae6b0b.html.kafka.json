@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-data-security-research-f22b06/loang/cap-run-20260915T052454Z-d0cd47ae6b0b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 47815,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2025/08/13/connect-with-the-security-community-at-microsoft-ignite-2025/",
+  "title": "Connect with the security community at Microsoft Ignite 2025 | Microsoft Security Blog",
+  "author": "Microsoft Security Team",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:43:14Z",
+  "category": null
+}

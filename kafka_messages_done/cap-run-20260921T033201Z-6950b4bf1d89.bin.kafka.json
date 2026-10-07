@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260921T033201Z-6950b4bf1d89.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 16209,
+  "domain": "python.org",
+  "url": "https://docs.python.org/bn-in/3.10/tutorial/datastructures.html",
+  "title": "5. Data Structures¶",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T12:57:36Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-f0b4d97bf1df.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6065,
+  "domain": "python.org",
+  "url": "https://docs.python.org/ja/3.12/library/posix.html",
+  "title": "posix --- 最も一般的な POSIX システムコール群",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T10:46:06Z",
+  "category": null
+}

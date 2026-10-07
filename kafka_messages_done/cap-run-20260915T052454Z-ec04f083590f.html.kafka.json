@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-ec04f083590f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7558,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/configuring-instance-metadata-options.html",
+  "title": "인스턴스 메타데이터 서비스 옵션 구성",
+  "author": null,
+  "published_year": 2008,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:22:57Z",
+  "category": null
+}

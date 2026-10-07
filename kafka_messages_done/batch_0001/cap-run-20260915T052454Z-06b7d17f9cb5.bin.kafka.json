@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-06b7d17f9cb5.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5864,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/AmazonS3/latest/userguide/configuring-block-public-access-bucket.html",
+  "title": "為您的 S3 儲存貯體設定封鎖公開存取",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:50:35Z",
+  "category": null
+}

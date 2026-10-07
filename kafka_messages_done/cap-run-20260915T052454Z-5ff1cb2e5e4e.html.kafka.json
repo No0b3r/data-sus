@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virutal-machine-windows-1485c3/loang/cap-run-20260915T052454Z-5ff1cb2e5e4e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50145,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/extension-supported-os",
+  "title": "Azure Extension supported operating systems - Virtual Machines",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:39:08Z",
+  "category": null
+}

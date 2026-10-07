@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-410f97f5740f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 58304,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/osconfig/quickstart-sec-baseline-mc-set?tabs=azure-portal",
+  "title": "Quickstart: Configure auto-remediation for Azure security baseline for Linux with a test machine",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:32:46Z",
+  "category": null
+}

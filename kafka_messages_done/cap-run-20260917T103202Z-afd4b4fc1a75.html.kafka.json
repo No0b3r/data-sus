@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-security-blog-517e51/loang/cap-run-20260917T103202Z-afd4b4fc1a75.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 427286,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/th/trust-center/?nc2=h_dsc_aa_trc",
+  "title": "ความไว้วางใจและความปลอดภัยของลูกค้า - AWS Trust Center",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:42:00Z",
+  "category": null
+}

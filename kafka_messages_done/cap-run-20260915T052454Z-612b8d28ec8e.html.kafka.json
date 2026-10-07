@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/sra-examples-cb5291/loang/cap-run-20260915T052454Z-612b8d28ec8e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 414426,
+  "domain": "github.com",
+  "url": "https://github.com/aws-samples/aws-control-tower-controls-terraform",
+  "title": "GitHub - aws-samples/aws-control-tower-controls-terraform: This repository describes how to use AWS Control Tower controls, HashiCorp Terraform, and infrastructure as code (IaC) to implement and administer preventive, detective, and proactive security controls. A control (also known as a guardrail) is a high-level rule that provides ongoing governance for your overall AWS Control Tower environment.",
+  "author": "Aws-Samples",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:19:11Z",
+  "category": "repository:656534458"
+}

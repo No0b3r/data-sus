@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/sysinternals-documentation-c29092/loang/cap-run-20260915T052454Z-cf2333f7d877.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 66707,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/get-credential",
+  "title": "Get-Credential (Microsoft.PowerShell.Security) - PowerShell",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:12:55Z",
+  "category": null
+}

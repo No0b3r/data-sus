@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-bc812f8521bf.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 59396,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/media/failover-group-configure-sql-mi/verify-primary-address-range.png?view=azuresql",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:59:28Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260917T103202Z-1d80f70cd048.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6217,
+  "domain": "python.org",
+  "url": "https://docs.python.org/bn-in/3.10/distributing/index.html",
+  "title": "Distributing Python Modules¶",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T11:06:50Z",
+  "category": null
+}

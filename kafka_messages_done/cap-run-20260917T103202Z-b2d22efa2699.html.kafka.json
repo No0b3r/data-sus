@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-full-011-go-crypto-rsa-13bb28/loang/cap-run-20260917T103202Z-b2d22efa2699.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38955,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/crypto/internal/fips140/bigmod?tab=importedby",
+  "title": "bigmod",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:44:02Z",
+  "category": null
+}

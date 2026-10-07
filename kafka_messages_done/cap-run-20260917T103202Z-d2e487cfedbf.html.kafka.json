@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-vm-threat-research-e7bd96/loang/cap-run-20260917T103202Z-d2e487cfedbf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49758,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/",
+  "title": "Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report | Microsoft Security Blog",
+  "author": "Rob Lefferts",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:00:51Z",
+  "category": null
+}

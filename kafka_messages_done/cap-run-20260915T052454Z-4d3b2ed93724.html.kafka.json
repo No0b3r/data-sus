@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/storage-security-guide-c8a32a/loang/cap-run-20260915T052454Z-4d3b2ed93724.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 71850,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-processing-rules",
+  "title": "Alert processing rules for Azure Monitor alerts - Azure Monitor",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:19:43Z",
+  "category": null
+}

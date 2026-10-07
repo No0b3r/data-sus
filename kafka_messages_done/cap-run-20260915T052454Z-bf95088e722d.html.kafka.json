@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-bf95088e722d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62732,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/governance/policy/how-to/programmatically-create",
+  "title": "Programmatically create policies - Azure Policy",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:36:56Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/object-manager-b95c12/loang/cap-run-20260915T052454Z-23ddc42e23f7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 48618,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/ntifs/ni-ntifs-fsctl_refs_query_volume_io_metrics_info",
+  "title": "FSCTL_REFS_QUERY_VOLUME_IO_METRICS_INFO - Windows drivers",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:09:55Z",
+  "category": null
+}

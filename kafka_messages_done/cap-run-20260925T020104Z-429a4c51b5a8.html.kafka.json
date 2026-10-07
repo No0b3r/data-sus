@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-full-003-rfc-9147-d9eb1c/loang/cap-run-20260925T020104Z-429a4c51b5a8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1213186,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5245/",
+  "title": "RFC 5245: Interactive Connectivity Establishment (ICE): A Protocol for Network Address Translator (NAT) Traversal for Offer/Answer Protocols | RFC Editor",
+  "author": "J Rosenberg",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:48:49Z",
+  "category": null
+}

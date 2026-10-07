@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-a22cd618fe41.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 41157,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity22/presentation/young",
+  "title": "{SkillDetective}: Automated {Policy-Violation} Detection of Voice Assistant Applications in the Wild",
+  "author": "Jeffrey Young; Song Liao; Long Cheng; Hongxin Hu; Huixing Deng",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:36Z",
+  "category": null
+}

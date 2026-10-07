@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/parliament-1877f0/loang/cap-run-20260915T052454Z-1c22dd0fc832.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 241952,
+  "domain": "github.com",
+  "url": "https://github.com/Netflix/consoleme/blob/master/docker-compose-test.yaml",
+  "title": "consoleme/docker-compose-test.yaml at master · Netflix/consoleme",
+  "author": "Netflix",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:47:56Z",
+  "category": "repository:221489076"
+}

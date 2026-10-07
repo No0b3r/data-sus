@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-017-node-js-crypto-randombytes-05404a/loang/cap-run-20260915T052454Z-34a2ae560c4b.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 67290,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/learn/userland-migrations/kleur-to-util-styletext",
+  "title": "Kleur to util.styleText | Node.js Learn",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T07:35:44Z",
+  "category": null
+}

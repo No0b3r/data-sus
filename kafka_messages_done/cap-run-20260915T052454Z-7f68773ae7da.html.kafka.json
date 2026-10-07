@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/security-analytics-bootstrap-e0ebee/loang/cap-run-20260915T052454Z-7f68773ae7da.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 203678,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/aws-security-analytics-bootstrap/activity",
+  "title": "Activity · awslabs/aws-security-analytics-bootstrap",
+  "author": "Awslabs",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:17:44Z",
+  "category": "repository:381485791"
+}

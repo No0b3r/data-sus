@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-014-mining-your-ps-and-qs-usenix-secur-971975/loang/cap-run-20260925T020104Z-ead087f3231c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 56672,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity12/poster-session",
+  "title": "Poster Session",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:29:55Z",
+  "category": null
+}

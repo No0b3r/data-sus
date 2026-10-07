@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/node-js-d04dd7/loang/cap-run-20260928T065604Z-9d7b5c13ae9c.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 31141,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v13.x/api/https.html",
+  "title": "HTTPS",
+  "author": null,
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:48:53Z",
+  "category": null
+}

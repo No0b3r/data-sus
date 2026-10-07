@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-e32b30b430bc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 21364,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.2/library/sys.html",
+  "title": "27.1. sys — System-specific parameters and functions¶",
+  "author": null,
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:16:29Z",
+  "category": null
+}

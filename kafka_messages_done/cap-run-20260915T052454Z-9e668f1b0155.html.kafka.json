@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-9e668f1b0155.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/uwp/api/windows.devices.sms.deletesmsmessageoperation.completed?view=winrt-28000",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:58:16Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='learn.microsoft.com', port=443): Max retries exceeded with url: /en-us/uwp/api/windows.devices.sms.deletesmsmessageoperation.completed?view=winrt-28000 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C389638F90>, 'Connection to learn.microsoft.com timed out. (connect timeout=15.0)'))"
+}

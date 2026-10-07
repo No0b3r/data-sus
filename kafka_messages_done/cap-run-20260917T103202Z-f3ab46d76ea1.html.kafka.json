@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-f3ab46d76ea1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8061,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.3/library/heapq.html",
+  "title": "8.5. heapq — Heap queue algorithm¶",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:18:14Z",
+  "category": null
+}

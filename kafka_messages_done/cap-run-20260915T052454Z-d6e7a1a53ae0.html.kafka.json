@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/scp-examples-99f4a7/loang/cap-run-20260915T052454Z-d6e7a1a53ae0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5159,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ja_jp/organizations/latest/userguide/orgs_manage_org_support-all-features.html",
+  "title": "を使用して組織のすべての機能を有効にする AWS Organizations",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:17:31Z",
+  "category": null
+}

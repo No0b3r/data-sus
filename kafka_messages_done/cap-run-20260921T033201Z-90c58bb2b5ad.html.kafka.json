@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-full-012-go-crypto-hmac-and-hash-713fab/loang/cap-run-20260921T033201Z-90c58bb2b5ad.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "pkg.go.dev",
+  "url": "https://pkg.go.dev/aidanwoods.dev/go-paseto/v2?tab=importedby",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:16:09Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='pkg.go.dev', port=443): Max retries exceeded with url: /aidanwoods.dev/go-paseto/v2?tab=importedby (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001C3FFD22310>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/mcsbv1-a1f97c/loang/cap-run-20260915T052454Z-00df05efe5db.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 68014,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/virtualnetwork/bastion-hosts/update-tags?view=rest-virtualnetwork-2025-09-01",
+  "title": "Bastion Hosts - Update Tags - REST API (Azure Virtual Networks)",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:28:27Z",
+  "category": null
+}

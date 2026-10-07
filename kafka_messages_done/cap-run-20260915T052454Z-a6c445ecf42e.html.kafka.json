@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-resource-reference-b3ad42/loang/cap-run-20260915T052454Z-a6c445ecf42e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3813,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/fr_fr/AWSCloudFormation/latest/TemplateReference/aws-resource-observabilityadmin-telemetryenrichment.html",
+  "title": "AWS::ObservabilityAdmin::TelemetryEnrichment",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:07:43Z",
+  "category": null
+}

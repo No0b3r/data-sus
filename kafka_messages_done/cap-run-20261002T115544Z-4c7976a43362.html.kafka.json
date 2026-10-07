@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-cordova-4462de/loang/cap-run-20261002T115544Z-4c7976a43362.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3848,
+  "domain": "apache.org",
+  "url": "https://cordova.apache.org/news/2023/02/24/screen-orientation-plugin-3.0.3.html",
+  "title": "Apache Cordova",
+  "author": "Niklas Merz",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:28:08Z",
+  "category": null
+}

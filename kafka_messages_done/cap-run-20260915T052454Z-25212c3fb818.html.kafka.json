@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-encryption-sdk-2efcbb/loang/cap-run-20260915T052454Z-25212c3fb818.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15802,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/encryption-sdk/latest/developer-guide/use-kms-keyring.html",
+  "title": "AWS KMS llaveros",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:02:17Z",
+  "category": null
+}

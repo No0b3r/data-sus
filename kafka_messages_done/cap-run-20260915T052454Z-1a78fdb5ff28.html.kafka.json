@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-1a78fdb5ff28.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7903,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/ec2-auto-scaling-warm-pools.html",
+  "title": "Decrease latency for applications with long boot times using warm pools",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T12:11:42Z",
+  "category": null
+}

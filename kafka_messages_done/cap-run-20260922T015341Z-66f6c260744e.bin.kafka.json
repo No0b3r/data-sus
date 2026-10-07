@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-t2-003-github-codeql-query-help-b309ff/loang/cap-run-20260922T015341Z-66f6c260744e.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1550,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-standard-libraries/rust/codeql/util/Boolean.qll/module.Boolean.html",
+  "title": "Module Boolean",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:01:16Z",
+  "category": "CodeQL,QL,Boolean"
+}

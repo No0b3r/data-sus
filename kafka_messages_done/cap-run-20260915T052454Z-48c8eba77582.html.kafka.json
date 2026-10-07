@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-48c8eba77582.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5072,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/id_id/awscloudtrail/latest/userguide/create-kms-key-policy-for-cloudtrail-update-trail.html",
+  "title": "Memperbarui sumber daya untuk menggunakan kunci KMS Anda dengan konsol",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:31:15Z",
+  "category": null
+}

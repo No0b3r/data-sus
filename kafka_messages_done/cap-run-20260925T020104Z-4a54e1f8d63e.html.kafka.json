@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-4a54e1f8d63e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 37210,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity21/presentation/pasquini",
+  "title": "Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries",
+  "author": "Dario Pasquini; Marco Cianfriglia; Giuseppe Ateniese; Massimo Bernaschi",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:53Z",
+  "category": null
+}

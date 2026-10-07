@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-data-security-research-f22b06/loang/cap-run-20260917T103202Z-9e5ef732f6e6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53326,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2025/11/18/agents-built-into-your-workflow-get-security-copilot-with-microsoft-365-e5/",
+  "title": "Agents built into your workflow: Get Security Copilot with Microsoft 365 E5 | Microsoft Security Blog",
+  "author": "Dorothy Li",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:43:46Z",
+  "category": null
+}

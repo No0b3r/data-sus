@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-security-blog-517e51/loang/cap-run-20260917T103202Z-947d8ea67d07.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1390153,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/blogs/mt/establishing-rpo-and-rto-targets-for-cloud-applications/",
+  "title": "Establishing RPO and RTO Targets for Cloud Applications | Amazon Web Services",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:41:01Z",
+  "category": "AWS Resilience Hub (ARH)"
+}

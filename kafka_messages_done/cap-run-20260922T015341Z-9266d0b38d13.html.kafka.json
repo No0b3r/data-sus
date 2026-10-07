@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c8-t2-005-boringssl-2eff5c/loang/cap-run-20260922T015341Z-9266d0b38d13.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 68530,
+  "domain": "googlesource.com",
+  "url": "https://boringssl.googlesource.com/boringssl/+/1097261733d85c85147a5c96ff6ee835c90f5951/pki/parser.cc",
+  "title": "Git at Google",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T20:39:58Z",
+  "category": null
+}

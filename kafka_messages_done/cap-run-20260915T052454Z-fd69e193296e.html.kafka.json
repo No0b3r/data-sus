@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/iam-c2c93e/loang/cap-run-20260915T052454Z-fd69e193296e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3434,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/it_it/IAM/latest/UserGuide/best-practices-use-cases.html",
+  "title": "Migliori pratiche di sicurezza e casi d'uso in AWS Identity and Access Management",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:35:49Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/sensitive-data-protection-samples-2e7bfa/loang/cap-run-20260915T052454Z-336328f92ac8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 228698,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/dlp-dataflow-deidentification/blob/master/diagrams/reid-architecture.png",
+  "title": "dlp-dataflow-deidentification/diagrams/reid-architecture.png at master · GoogleCloudPlatform/dlp-dataflow-deidentification",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:29:05Z",
+  "category": "repository:143059403"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-2020cca4194a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 64579,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-gateway-resource-manager",
+  "title": "Configure a virtual network gateway for ExpressRoute using PowerShell",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:31:41Z",
+  "category": null
+}

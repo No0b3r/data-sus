@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/workload-identity-federation-09f786/loang/cap-run-20260915T052454Z-37445643cf05.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49947,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/power-bi/connect-data/service-live-connect-dq-datasets",
+  "title": "What's the difference between live connections and DirectQuery? - Power BI",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:24:24Z",
+  "category": null
+}

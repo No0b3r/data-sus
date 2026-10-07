@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-006-rfc-4301-ipsec-architecture-74782a/loang/cap-run-20260925T020104Z-b89d49ea7940.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 975206,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc1122",
+  "title": "RFC 1122: Requirements for Internet Hosts - Communication Layers | RFC Editor",
+  "author": "R Braden",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:24Z",
+  "category": "applicability"
+}

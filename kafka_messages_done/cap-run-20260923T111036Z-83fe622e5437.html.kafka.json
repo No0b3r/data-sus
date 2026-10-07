@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-006-securerandom-f9f30f/loang/cap-run-20260923T111036Z-83fe622e5437.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10047,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/java/javase/26/docs/api/java.desktop/java/awt/TrayIcon.html",
+  "title": "Java Platform, Standard Edition Java API Reference",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:29:57Z",
+  "category": "java.awt.TrayIcon class"
+}

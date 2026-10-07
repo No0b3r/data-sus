@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/securing-privileged-access-d98331/loang/cap-run-20260915T052454Z-106d66debcfe.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 96768,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/compliance/dora/dora-entra",
+  "title": "Microsoft Entra customer considerations under DORA - DORA",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:11:52Z",
+  "category": null
+}

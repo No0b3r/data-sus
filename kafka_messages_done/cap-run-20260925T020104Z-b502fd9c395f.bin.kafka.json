@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-t2-003-github-codeql-query-help-b309ff/loang/cap-run-20260925T020104Z-b502fd9c395f.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9718,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-query-help/javascript/js-clear-text-cookie/",
+  "title": "Clear text transmission of sensitive cookie¶",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:09:41Z",
+  "category": null
+}

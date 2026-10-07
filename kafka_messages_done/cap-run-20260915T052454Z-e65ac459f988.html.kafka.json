@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/terraform-example-foundation-aea8fa/loang/cap-run-20260915T052454Z-e65ac459f988.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 620892,
+  "domain": "github.com",
+  "url": "https://github.com/terraform-google-modules/terraform-example-foundation/commit/0a96d838801082e4ab60f9047fa445b1afebc47b",
+  "title": "fix(iam-validate): accept minimal tfvars for bootstrap IAM checks (#1… · terraform-google-modules/terraform-example-foundation@0a96d83",
+  "author": "Terraform-Google-Modules",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:30:35Z",
+  "category": "repository:225491284"
+}

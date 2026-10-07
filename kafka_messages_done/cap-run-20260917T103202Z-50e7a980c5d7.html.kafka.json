@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-data-security-research-f22b06/loang/cap-run-20260917T103202Z-50e7a980c5d7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49054,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2024/03/26/the-foundation-for-responsible-analytics-with-microsoft-purview",
+  "title": "New Microsoft Purview features to secure and govern your data estate | Microsoft Security Blog",
+  "author": "Rohan Kumar",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:43:36Z",
+  "category": null
+}

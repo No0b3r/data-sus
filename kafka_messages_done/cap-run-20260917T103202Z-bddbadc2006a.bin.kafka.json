@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260917T103202Z-bddbadc2006a.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3773,
+  "domain": "python.org",
+  "url": "https://docs.python.org/zh-cn/3.11/",
+  "title": "Python 3.11.17 文档",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T12:00:16Z",
+  "category": null
+}

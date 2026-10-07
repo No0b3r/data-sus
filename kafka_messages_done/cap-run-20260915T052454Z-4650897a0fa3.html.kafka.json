@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-4650897a0fa3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50714,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/container-instances/container-instances-spot-containers-overview",
+  "title": "Azure Container Instances Spot containers - Azure Container Instances",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:57:23Z",
+  "category": null
+}

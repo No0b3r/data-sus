@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-004-rfc-4253-ssh-transport-6b09ed/loang/cap-run-20260925T020104Z-fe49fb5cebb6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 243310,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc6187",
+  "title": "RFC 6187: X.509v3 Certificates for Secure Shell Authentication | RFC Editor",
+  "author": "K Igoe; D Stebila",
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:43Z",
+  "category": null
+}

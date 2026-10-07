@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-005-rfc-7296-ikev2-2f9fcd/loang/cap-run-20260925T020104Z-af4aa09ba1f6.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 165739,
+  "domain": "rfc-editor.org",
+  "url": "http://www.rfc-editor.org/info/rfc5758",
+  "title": "RFC 5758: Internet X.509 Public Key Infrastructure: Additional Algorithms and Identifiers for DSA and ECDSA | RFC Editor",
+  "author": "Q Dang; S Santesson; K Moriarty; D Brown; T Polk",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:01Z",
+  "category": "digital signature algorithm, elliptic curve digital signature algorithm, pki"
+}

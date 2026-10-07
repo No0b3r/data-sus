@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-ransomware-anatomy-456b48/loang/cap-run-20260915T052454Z-35a455d4487d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 458962,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/ko/identity/customers/",
+  "title": "고객 - AWS Identity 서비스 - Amazon Web Services(AWS)",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:15:29Z",
+  "category": null
+}

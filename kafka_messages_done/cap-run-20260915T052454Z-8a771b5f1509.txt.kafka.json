@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/control-tower-controls-504d83/loang/cap-run-20260915T052454Z-8a771b5f1509.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 697,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/fr_fr/controltower/latest/controlreference/introduction.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:15:10Z",
+  "category": null
+}

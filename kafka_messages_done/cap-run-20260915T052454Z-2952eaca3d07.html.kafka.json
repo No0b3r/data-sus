@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-security-bulletins-a702c3/loang/cap-run-20260915T052454Z-2952eaca3d07.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 468469,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/ar/partners/programs/",
+  "title": "AWS Partner Programs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:45:26Z",
+  "category": null
+}

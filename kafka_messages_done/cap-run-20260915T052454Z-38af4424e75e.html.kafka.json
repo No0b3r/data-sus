@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/appcontainer-implementation-f404f2/loang/cap-run-20260915T052454Z-38af4424e75e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53954,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/desktop/AD/creating-a-security-descriptor-for-a-new-directory-object",
+  "title": "Creating Security Descriptors for new directory objects - Win32 apps",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:04:46Z",
+  "category": "Creating a Security Descriptor for a New Directory Object AD"
+}

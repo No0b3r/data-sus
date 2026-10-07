@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/compliance-programs-81a9bb/loang/cap-run-20260917T103202Z-0312b67cd00a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 71020,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/it/compliance/amazon-information-requests/",
+  "title": "Richieste di informazioni inoltrate ad Amazon – Amazon Web Services (AWS)",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:12:27Z",
+  "category": null
+}

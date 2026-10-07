@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c12-full-020-lost-encryption-keys-83f973/loang/cap-run-20260915T052454Z-baea72f5e773.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3815,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/kms/latest/APIReference/CommonParameters.html",
+  "title": "Common Parameters",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:21:46Z",
+  "category": null
+}

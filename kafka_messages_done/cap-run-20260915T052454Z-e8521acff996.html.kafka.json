@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/automated-security-response-on-aws-d172fb/loang/cap-run-20260915T052454Z-e8521acff996.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 198411,
+  "domain": "github.com",
+  "url": "https://github.com/advisories/GHSA-mh99-v99m-4gvg",
+  "title": "CVE-2026-14257 - GitHub Advisory Database",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:56:15Z",
+  "category": "advisory:392016"
+}

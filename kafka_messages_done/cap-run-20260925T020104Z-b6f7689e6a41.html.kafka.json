@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/flutter-c3cb7c/loang/cap-run-20260925T020104Z-b6f7689e6a41.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 25345,
+  "domain": "flutter.dev",
+  "url": "https://docs.flutter.dev/cookbook/testing/widget/tap-drag",
+  "title": "Tap, drag, and enter text",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:48:20Z",
+  "category": null
+}

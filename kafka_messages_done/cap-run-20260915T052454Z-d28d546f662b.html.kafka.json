@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-d28d546f662b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 64120,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/2262642/windows-11-pro-24h2-how-to-disable-or-hide-the-san",
+  "title": "Windows 11 Pro 24H2: How to disable or hide the Sandbox settings (”…”) menu? - Microsoft Q&A",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:05:21Z",
+  "category": null
+}

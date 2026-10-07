@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/runc-306763/loang/cap-run-20260915T052454Z-1fe8d4bfaa58.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 392428,
+  "domain": "github.com",
+  "url": "https://github.com/aquasecurity/trivy",
+  "title": "GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:10:31Z",
+  "category": "repository:180687624"
+}

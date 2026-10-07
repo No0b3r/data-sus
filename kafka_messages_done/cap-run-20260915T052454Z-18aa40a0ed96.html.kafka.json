@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/devsecops-workshop-b0d511/loang/cap-run-20260915T052454Z-18aa40a0ed96.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 270616,
+  "domain": "github.com",
+  "url": "https://github.com/3r1co/ssc",
+  "title": "GitHub - 3r1co/ssc: A repository with training material for a Secure Supply Chain Course",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:16:52Z",
+  "category": "repository:256702902"
+}

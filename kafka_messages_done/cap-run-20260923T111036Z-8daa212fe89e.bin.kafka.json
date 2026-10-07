@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-005-node-tls-6d7b7f/loang/cap-run-20260923T111036Z-8daa212fe89e.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 249395,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v23.x/api/cli.html",
+  "title": "Node.js v23.11.1 documentation",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T18:55:29Z",
+  "category": null
+}

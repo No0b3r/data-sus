@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/go-runtime-compiler-1516d5/loang/cap-run-20260915T052454Z-80cab92d9c86.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38293,
+  "domain": "go.dev",
+  "url": "https://go.dev/blog/c-go-cgo",
+  "title": "C? Go? Cgo!",
+  "author": "Andrew Gerrand",
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:53:53Z",
+  "category": null
+}

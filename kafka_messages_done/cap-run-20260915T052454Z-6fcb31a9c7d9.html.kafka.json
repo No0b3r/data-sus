@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-identity-platform-73f542/loang/cap-run-20260915T052454Z-6fcb31a9c7d9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 48789,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/graph/api/overview?preserve-view=true&view=graph-rest-beta",
+  "title": "Microsoft Graph REST API beta endpoint reference - Microsoft Graph beta",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:45:20Z",
+  "category": null
+}

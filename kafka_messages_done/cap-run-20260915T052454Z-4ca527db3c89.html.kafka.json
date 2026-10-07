@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aks-security-best-practices-d76b4e/loang/cap-run-20260915T052454Z-4ca527db3c89.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 438648,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/templates/microsoft.containerservice/2026-01-01/managedclusters",
+  "title": "Microsoft.ContainerService/managedClusters 2026-01-01 - Bicep, ARM template & Terraform AzAPI reference",
+  "author": "IstioCertificateAuthority",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:53:25Z",
+  "category": null
+}

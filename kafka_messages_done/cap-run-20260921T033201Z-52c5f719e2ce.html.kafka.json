@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260921T033201Z-52c5f719e2ce.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12522,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/crypto/+/refs/tags/v0.14.0%5E%21/",
+  "title": "Git at Google",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:23:47Z",
+  "category": null
+}

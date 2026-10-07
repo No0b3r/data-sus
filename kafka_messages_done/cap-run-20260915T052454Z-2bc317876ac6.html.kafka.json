@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virutal-machine-windows-1485c3/loang/cap-run-20260915T052454Z-2bc317876ac6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 79582,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-windows",
+  "title": "Azure Disk Encryption scenarios on Windows VMs - Azure Virtual Machines",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:39:06Z",
+  "category": null
+}

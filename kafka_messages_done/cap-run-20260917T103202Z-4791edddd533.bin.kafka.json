@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260917T103202Z-4791edddd533.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 542458,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/security/authentication/single-sign-on/connect/",
+  "title": "Set up single sign-on",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:13:23Z",
+  "category": "configure,sso,set,up,sso,docker,sso,setup,docker,identity,provider,sso,enforcement,docker,hub,security,domain,verification,SAML,OIDC"
+}

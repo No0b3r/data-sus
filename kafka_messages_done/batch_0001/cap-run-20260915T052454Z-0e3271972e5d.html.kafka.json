@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-0e3271972e5d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 117774,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/iothub/iot-hub-resource/update",
+  "title": "Iot Hub Resource - Update - REST API (Azure IoT Hub)",
+  "author": "Shared Access Signature Authorization Rule",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:56:06Z",
+  "category": null
+}

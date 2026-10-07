@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260922T015341Z-e11af19c1b0b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 20404,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/tools/+/362f58b198e4894e88091f795fed3b9103c918b9",
+  "title": "Go Tools",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:44:22Z",
+  "category": null
+}

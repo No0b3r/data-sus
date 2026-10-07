@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-98db26e89dbb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 239087,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/dotnet/api/system.collections.immutable.iimmutablelist-1?view=net-10.0",
+  "title": "IImmutableList<T> Interface (System.Collections.Immutable)",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:57:55Z",
+  "category": null
+}

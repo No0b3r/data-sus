@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/landing-zone-accelerator-865107/loang/cap-run-20260915T052454Z-e8ce20652d19.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 280386,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/landing-zone-accelerator-on-aws/issues/834",
+  "title": "useServiceLinkedRole setting ignored for awsConfig · Issue #834 · awslabs/landing-zone-accelerator-on-aws",
+  "author": "Awslabs",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:38:15Z",
+  "category": "issue:3289376265"
+}

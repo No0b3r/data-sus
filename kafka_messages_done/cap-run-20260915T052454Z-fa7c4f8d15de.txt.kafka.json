@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/image-builder-components-b38cdc/loang/cap-run-20260915T052454Z-fa7c4f8d15de.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 704,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/imagebuilder/latest/userguide/toe-logical-operators.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:37:02Z",
+  "category": null
+}

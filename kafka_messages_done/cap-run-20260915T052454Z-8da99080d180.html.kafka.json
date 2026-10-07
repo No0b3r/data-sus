@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-8da99080d180.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 211452,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/tags/280/windows-business-windows-client-it-pros-high-availability-virtualization-hyper-v?orderby=createdat&page=1&answerfilter=noanswers",
+  "title": "Windows for business Windows Client for IT Pros Storage high availability Virtualization and Hyper-V - Microsoft Q&A",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:04:37Z",
+  "category": null
+}

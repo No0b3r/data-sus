@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-7f00140ba565.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 68084,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/api-management/api-management-sample-send-request",
+  "title": "Using API Management service to generate HTTP requests",
+  "author": "Authorizing reference tokens",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:40:22Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-003-go-crypto-46f4ef/loang/cap-run-20260921T033201Z-4951a2bf65c9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 56181,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/crypto/md5@go1.25.10",
+  "title": "md5",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:10:55Z",
+  "category": null
+}

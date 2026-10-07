@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/container-apps-security-0919ed/loang/cap-run-20260915T052454Z-2144623b4381.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 61882,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-enclave-nodes-aks-get-started",
+  "title": "Quickstart: Deploy an AKS cluster with Enclave Confidential Container Intel SGX nodes by using the Azure CLI",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:14:26Z",
+  "category": null
+}

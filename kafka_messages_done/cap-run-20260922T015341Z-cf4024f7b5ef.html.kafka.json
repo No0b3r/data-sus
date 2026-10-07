@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/github-security-documentation-f2e981/loang/cap-run-20260922T015341Z-cf4024f7b5ef.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 48993,
+  "domain": "github.com",
+  "url": "https://docs.github.com/de/code-security/concepts/secret-security/secret-security-with-github",
+  "title": "Geheime Sicherheit mit GitHub - GitHub Dokumente",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:31:34Z",
+  "category": null
+}

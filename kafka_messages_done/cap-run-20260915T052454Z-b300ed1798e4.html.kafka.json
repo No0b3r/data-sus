@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aadinternals-6e191b/loang/cap-run-20260915T052454Z-b300ed1798e4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 252199,
+  "domain": "github.com",
+  "url": "https://github.com/Gerenios/AADInternals/issues?q=is%3Aissue+state%3Aopen+author%3Atvdijen",
+  "title": "Issues · Gerenios/AADInternals",
+  "author": "Filter by author tvdijen",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:52:58Z",
+  "category": "repository:154712144"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/iam-vulnerable-cdd7a2/loang/cap-run-20260915T052454Z-5b7000f2dc97.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 684520,
+  "domain": "github.com",
+  "url": "https://github.com/bridgecrewio/terragoat",
+  "title": "GitHub - bridgecrewio/terragoat: TerraGoat is Bridgecrew's \"Vulnerable by Design\" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.",
+  "author": "Bridgecrewio",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:35:58Z",
+  "category": "repository:250592027"
+}

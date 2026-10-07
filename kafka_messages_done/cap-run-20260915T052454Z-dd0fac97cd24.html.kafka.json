@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-controllers-for-kubernetes-723477/loang/cap-run-20260915T052454Z-dd0fac97cd24.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 256871,
+  "domain": "github.com",
+  "url": "https://github.com/aws-controllers-k8s/community/blob/main/GOVERNANCE.md",
+  "title": "community/GOVERNANCE.md at main · aws-controllers-k8s/community",
+  "author": "Aws-Controllers-K",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:01:39Z",
+  "category": "repository:217622305"
+}

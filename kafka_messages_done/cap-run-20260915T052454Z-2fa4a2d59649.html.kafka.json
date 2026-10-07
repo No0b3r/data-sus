@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-devops-security-dd3760/loang/cap-run-20260915T052454Z-2fa4a2d59649.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 87029,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/cli/azure/devops/user",
+  "title": "az devops user",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:53:43Z",
+  "category": "azure, cli, command line"
+}

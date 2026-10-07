@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260917T103202Z-3d7e787ba428.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 519401,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/go/buildx/",
+  "title": "Docker Build Overview",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:13:15Z",
+  "category": "build,buildkit,buildx,architecture"
+}

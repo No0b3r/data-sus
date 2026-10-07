@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/artifact-57920c/loang/cap-run-20260915T052454Z-f36bb1b68874.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 1043,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/id_id/artifact/latest/ug/what-is-aws-artifact.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:55:56Z",
+  "category": null
+}

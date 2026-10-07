@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-2de97a06932d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52417,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/Heartbeat",
+  "title": "Azure Monitor Logs reference - Heartbeat - Azure Monitor",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:32:07Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-d11380d75a16.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 89362,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/microsoft-365/enterprise/setup-guides-for-microsoft-365",
+  "title": "Advanced deployment guides for Microsoft 365 and Office 365 products - Microsoft 365 Enterprise",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:37:33Z",
+  "category": null
+}

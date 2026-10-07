@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260924T025740Z-44a7f2c87e54.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 249440,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/guides/dhi-vex-walkthrough/",
+  "title": "Explore VEX statements in Docker Hardened Images",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:27:59Z",
+  "category": "vex,openvex,not_affected,under_investigation,affected,cve,docker,scout,dhi,vulnerability"
+}

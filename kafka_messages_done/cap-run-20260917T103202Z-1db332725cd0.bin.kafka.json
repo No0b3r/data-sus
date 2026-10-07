@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-011-node-js-crypto-1f1d13/loang/cap-run-20260917T103202Z-1db332725cd0.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 158920,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/learn/asynchronous-work/event-loop-timers-and-nexttick",
+  "title": "The Node.js Event Loop | Node.js Learn",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:32:10Z",
+  "category": null
+}

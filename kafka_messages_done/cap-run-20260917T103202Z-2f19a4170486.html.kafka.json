@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-incident-response-blog-3d5792/loang/cap-run-20260917T103202Z-2f19a4170486.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 60803,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/?p=140698",
+  "title": "Jasper Sleet: North Korean remote IT workers’ evolving tactics to infiltrate organizations | Microsoft Security Blog",
+  "author": "Microsoft Threat Intelligence",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:47:06Z",
+  "category": null
+}

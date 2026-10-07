@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/ad-ds-overview-3b9d94/loang/cap-run-20260915T052454Z-769f01e9f8a4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38216,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd145352(v=ws.11)",
+  "title": "Create New Attribute Dialog Box",
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:46:48Z",
+  "category": null
+}

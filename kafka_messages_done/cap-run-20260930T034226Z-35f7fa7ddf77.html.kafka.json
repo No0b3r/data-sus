@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t3-002-debian-dsa-1576-1-1cb943/loang/cap-run-20260930T034226Z-35f7fa7ddf77.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "lists.debian.org",
+  "url": "https://lists.debian.org/msgid-search/87abl0rik0.fsf@mid.deneb.enyo.de",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:32:36Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='lists.debian.org', port=443): Max retries exceeded with url: /msgid-search/87abl0rik0.fsf@mid.deneb.enyo.de (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C3C6EC6010>, 'Connection to lists.debian.org timed out. (connect timeout=15.0)'))"
+}

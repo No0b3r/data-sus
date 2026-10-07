@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/sensitive-data-protection-samples-2e7bfa/loang/cap-run-20260915T052454Z-62d45b2ae710.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 254789,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/dlp-dataflow-deidentification/commits/master/dlp_tokenizing_runner_permissions.yaml",
+  "title": "History for dlp_tokenizing_runner_permissions.yaml - GoogleCloudPlatform/dlp-dataflow-deidentification",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:29:14Z",
+  "category": "repository:143059403"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/java-openjdk-hotspot-30640c/loang/cap-run-20260922T015341Z-421abb7b12c9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15684,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/javase/specs/jls/se20/html/index.html",
+  "title": "The Java® Language Specification",
+  "author": "James Gosling",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:02:44Z",
+  "category": null
+}

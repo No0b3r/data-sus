@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/compute-security-samples-8527f1/loang/cap-run-20260915T052454Z-4363c0ce3fad.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 187030,
+  "domain": "github.com",
+  "url": "https://github.com/googlearchive/compute-getting-started-python/actions",
+  "title": "Actions · googlearchive/compute-getting-started-python",
+  "author": "Googlearchive",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:26:00Z",
+  "category": "repository:7009295"
+}

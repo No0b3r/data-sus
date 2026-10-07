@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/pmapper-696439/loang/cap-run-20260915T052454Z-70e9a3e68f37.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 256769,
+  "domain": "github.com",
+  "url": "https://github.com/nccgroup/PMapper/issues?q=is%3Aissue%20state%3Aopen%20author%3Aj0eblow",
+  "title": "Issues · nccgroup/PMapper",
+  "author": "Filter by author j",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:48:19Z",
+  "category": "repository:134493334"
+}

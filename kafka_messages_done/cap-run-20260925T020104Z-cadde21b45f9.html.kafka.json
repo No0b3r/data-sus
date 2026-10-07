@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t1-001-rfc-5280-x-509-pki-dc9320/cap-run-20260925T020104Z-cadde21b45f9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1320331,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc5280",
+  "title": "RFC 5280: Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile | RFC Editor",
+  "author": "D Cooper; S Santesson; S Farrell; S Boeyen; R Housley; W Polk",
+  "published_year": 2008,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:18:24Z",
+  "category": "X.509 v3, X.509 v2, certificate extensions"
+}

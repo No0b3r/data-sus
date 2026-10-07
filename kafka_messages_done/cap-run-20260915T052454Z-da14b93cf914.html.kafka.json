@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-data-security-research-f22b06/loang/cap-run-20260915T052454Z-da14b93cf914.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53817,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/",
+  "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks | Microsoft Security Blog",
+  "author": "Elliot Volkman",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:43:16Z",
+  "category": null
+}

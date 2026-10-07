@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260917T103202Z-46a6de1ee2d6.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 17948,
+  "domain": "python.org",
+  "url": "https://docs.python.org/it/3.11/genindex-R.html",
+  "title": "Indice – R",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T11:19:54Z",
+  "category": null
+}

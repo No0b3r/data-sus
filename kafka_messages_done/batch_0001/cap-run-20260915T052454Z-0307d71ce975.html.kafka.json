@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-0307d71ce975.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5560,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/elasticloadbalancing/latest/classic/elb-security-policy-table.html",
+  "title": "经典负载均衡器的预定义 SSL 安全策略",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T12:09:50Z",
+  "category": null
+}

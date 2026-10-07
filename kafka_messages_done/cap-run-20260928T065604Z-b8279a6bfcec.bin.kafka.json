@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/node-js-d04dd7/loang/cap-run-20260928T065604Z-b8279a6bfcec.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 92703,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v14.x/api/worker_threads.html",
+  "title": "Node.js v14.21.3 documentation",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:49:16Z",
+  "category": null
+}

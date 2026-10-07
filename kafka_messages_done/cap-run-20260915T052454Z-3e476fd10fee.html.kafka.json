@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-3e476fd10fee.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3382,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/streams/latest/dev/kdf-consumer.html",
+  "title": "Develop consumers using Amazon Data Firehose",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:57:17Z",
+  "category": null
+}

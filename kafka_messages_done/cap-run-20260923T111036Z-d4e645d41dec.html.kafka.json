@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-cordova-4462de/loang/cap-run-20260923T111036Z-d4e645d41dec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3558,
+  "domain": "apache.org",
+  "url": "https://cordova.apache.org/announcements/2023/04/15/cordova-ios-release-6.3.0.html",
+  "title": "Apache Cordova",
+  "author": "Niklas Merz",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:25:18Z",
+  "category": null
+}

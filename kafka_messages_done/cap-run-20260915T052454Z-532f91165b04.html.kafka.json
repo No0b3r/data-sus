@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/storage-security-guide-c8a32a/loang/cap-run-20260915T052454Z-532f91165b04.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53207,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/storageservices/get-blob-service-stats",
+  "title": "Get Blob Service Stats (REST API) - Azure Storage",
+  "author": "Authorization",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:19:44Z",
+  "category": null
+}

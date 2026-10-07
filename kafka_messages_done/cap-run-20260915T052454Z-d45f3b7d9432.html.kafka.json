@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/app-service-security-5ad287/loang/cap-run-20260915T052454Z-d45f3b7d9432.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 118929,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/app-service/tutorial-custom-container?pivots=container-linux",
+  "title": "Tutorial: Build and Run a Custom Image in Azure App Service - Azure App Service",
+  "author": "Authorize the managed identity",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:54:14Z",
+  "category": "azure app service, web app, linux, windows, docker, container"
+}

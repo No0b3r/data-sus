@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-005-node-tls-6d7b7f/loang/cap-run-20260917T103202Z-ec10cbc993ed.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 152037,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v18.x/api/net.html",
+  "title": "Node.js v18.20.8 documentation",
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T17:47:31Z",
+  "category": null
+}

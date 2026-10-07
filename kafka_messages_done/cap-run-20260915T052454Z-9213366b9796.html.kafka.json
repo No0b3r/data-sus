@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-9213366b9796.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 63947,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-manage-ambari",
+  "title": "Monitor and manage Azure HDInsight using Ambari Web UI",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:40:39Z",
+  "category": null
+}

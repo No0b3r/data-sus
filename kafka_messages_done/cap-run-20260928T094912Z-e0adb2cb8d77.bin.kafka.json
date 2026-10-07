@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/falco-documentation-395194/loang/cap-run-20260928T094912Z-e0adb2cb8d77.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14332,
+  "domain": "falco.org",
+  "url": "https://falco.org/docs/reference/rules/examples/",
+  "title": "Rules Examples",
+  "author": "Non-authorized container namespace change",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:58:08Z",
+  "category": "docs"
+}

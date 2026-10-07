@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-005-node-tls-6d7b7f/loang/cap-run-20260922T015341Z-0d6b2ba4c80b.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 175184,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v22.x/api/module.html",
+  "title": "Node.js v22.23.3 documentation",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T18:26:24Z",
+  "category": null
+}

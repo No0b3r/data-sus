@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-6b4b451a02a8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 116796,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/container-registry/container-registry-faq",
+  "title": "Azure Container Registry",
+  "author": "Why does `docker pull` fail",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:40:05Z",
+  "category": null
+}

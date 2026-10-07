@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-devops-security-dd3760/loang/cap-run-20260915T052454Z-9d43f7642a09.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 68385,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/active-directory/add-users-azure-active-directory",
+  "title": "How to create, invite, and delete users in Microsoft Entra ID - Microsoft Entra",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:54:23Z",
+  "category": null
+}

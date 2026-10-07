@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/windows-credential-protection-940783/cap-run-20260915T052454Z-4d8b71ede986.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54131,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/windows-server/security/credentials-protection-and-management/credentials-protection-and-management",
+  "title": "Credentials Protection and Management",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:13:29Z",
+  "category": null
+}

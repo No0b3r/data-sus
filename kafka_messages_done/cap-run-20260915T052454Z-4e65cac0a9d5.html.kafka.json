@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/google-secops-community-bf2da9/loang/cap-run-20260915T052454Z-4e65cac0a9d5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1312031,
+  "domain": "github.com",
+  "url": "https://github.com/google/secops-wrapper/blob/main/CLI.md",
+  "title": "secops-wrapper/CLI.md at main · google/secops-wrapper",
+  "author": "Google",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:27:47Z",
+  "category": "repository:929870652"
+}

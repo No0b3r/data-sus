@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-deb6b7bd85c2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55104,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/storage-discovery/frequently-asked-questions",
+  "title": "Frequently asked questions for the Azure Storage Discovery service",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:00:00Z",
+  "category": null
+}

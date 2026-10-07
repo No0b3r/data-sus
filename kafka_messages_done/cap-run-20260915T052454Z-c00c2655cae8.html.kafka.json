@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/generation-2-vm-security-6bd019/loang/cap-run-20260915T052454Z-c00c2655cae8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51118,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/vi-vn/windows-server/security/kerberos/domain-joined-device-public-key-authentication",
+  "title": "Domain-joined Device Public Key Authentication",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:01:31Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-config-rules-b00d12/loang/cap-run-20260915T052454Z-16ef76fc3fcd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 227891,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/aws-config-engine-for-compliance-as-code/blob/master/docs/images/engine_hl_design.png",
+  "title": "aws-config-engine-for-compliance-as-code/docs/images/engine_hl_design.png at master · awslabs/aws-config-engine-for-compliance-as-code",
+  "author": "Awslabs",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:00:46Z",
+  "category": "repository:111024876"
+}

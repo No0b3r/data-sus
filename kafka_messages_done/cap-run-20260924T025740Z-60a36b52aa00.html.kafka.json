@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/github-security-documentation-f2e981/loang/cap-run-20260924T025740Z-60a36b52aa00.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62036,
+  "domain": "github.com",
+  "url": "https://docs.github.com/ru/code-security/concepts/security-at-scale/security-overview",
+  "title": "Общие сведения о безопасности - Документация GitHub",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:33:05Z",
+  "category": null
+}

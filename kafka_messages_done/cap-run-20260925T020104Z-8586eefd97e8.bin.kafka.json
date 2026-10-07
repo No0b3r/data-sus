@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-008-rfc-9420-mls-078877/loang/cap-run-20260925T020104Z-8586eefd97e8.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 46225,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/bcp/bcp182",
+  "title": "BCP 182 subseries contains 1 RFC | RFC Editor",
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:35Z",
+  "category": null
+}

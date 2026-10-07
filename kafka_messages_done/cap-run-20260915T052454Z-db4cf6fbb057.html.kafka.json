@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-resource-reference-b3ad42/loang/cap-run-20260915T052454Z-db4cf6fbb057.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4748,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/API_AnomalySubscription.html",
+  "title": "AnomalySubscription",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:09:35Z",
+  "category": null
+}

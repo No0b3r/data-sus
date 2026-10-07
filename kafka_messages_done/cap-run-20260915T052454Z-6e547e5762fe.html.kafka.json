@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/windows-authentication-architecture-547301/loang/cap-run-20260915T052454Z-6e547e5762fe.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38008,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-7/dd566199(v=ws.10)",
+  "title": "Changes in NTLM Authentication",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:13:24Z",
+  "category": null
+}

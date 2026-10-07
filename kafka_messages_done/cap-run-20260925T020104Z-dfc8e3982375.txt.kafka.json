@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t1-007-rfc-7748-70cacf/loang/cap-run-20260925T020104Z-dfc8e3982375.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 39298,
+  "domain": "www.rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc7748.txt",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:52:36Z",
+  "category": null
+}

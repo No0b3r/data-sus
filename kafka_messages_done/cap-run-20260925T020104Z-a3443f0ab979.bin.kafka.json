@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-047-owasp-asvs-4465f0/loang/cap-run-20260925T020104Z-a3443f0ab979.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52471,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/ai-projects",
+  "title": "AI Security Projects | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:43:05Z",
+  "category": "AI security,LLM security,machine learning security,OWASP Top 10 for LLM Applications,AI security standards,AI risk,OWASP,OWASP Foundation,application security,software security"
+}

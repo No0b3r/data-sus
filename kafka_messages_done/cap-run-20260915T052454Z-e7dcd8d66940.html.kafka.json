@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-e7dcd8d66940.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5538,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/IAM/latest/UserGuide/access-analyzer-getting-started.html",
+  "title": "入門 AWS Identity and Access Management Access Analyzer",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:14:25Z",
+  "category": null
+}

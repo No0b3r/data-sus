@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/leonidas-bd1433/loang/cap-run-20260915T052454Z-f2e3623baacf.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 364,
+  "domain": "github.com",
+  "url": "https://github.com/ReversecLabs/leonidas/raw/refs/heads/master/buildspec.yml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:38:24Z",
+  "category": null
+}

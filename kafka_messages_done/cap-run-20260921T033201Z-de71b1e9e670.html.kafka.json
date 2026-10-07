@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/github-security-documentation-f2e981/loang/cap-run-20260921T033201Z-de71b1e9e670.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 67459,
+  "domain": "github.com",
+  "url": "https://docs.github.com/pt/rest/dependabot/alerts",
+  "title": "Pontos de extremidade da API REST para Dependabot alerts - Documentos do GitHub",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:30:14Z",
+  "category": null
+}

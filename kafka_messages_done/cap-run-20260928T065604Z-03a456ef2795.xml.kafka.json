@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/flutter-c3cb7c/cap-run-20260928T065604Z-03a456ef2795.xml.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": 7230,
+  "domain": "docs.flutter.dev",
+  "url": "https://docs.flutter.dev/sitemap.xml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:39:29Z",
+  "category": null
+}

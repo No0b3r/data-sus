@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-005-go-crypto-cipher-1bf15e/loang/cap-run-20260915T052454Z-e0e84a80179d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 45257,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/davidn5013/aoc/2015/day03_old",
+  "title": "day03_old",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:19:36Z",
+  "category": null
+}

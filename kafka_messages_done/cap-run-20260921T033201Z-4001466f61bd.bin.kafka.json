@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-t2-003-github-codeql-query-help-b309ff/loang/cap-run-20260921T033201Z-4001466f61bd.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1480,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-standard-libraries/swift/type.@availability_info.html",
+  "title": "Type @availability_info",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:54:29Z",
+  "category": "CodeQL,QL,@availability_info"
+}

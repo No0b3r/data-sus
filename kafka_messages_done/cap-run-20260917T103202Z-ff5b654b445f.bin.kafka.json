@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-011-node-js-crypto-1f1d13/loang/cap-run-20260917T103202Z-ff5b654b445f.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 275173,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/blog/vulnerability/updates-cve-for-end-of-life",
+  "title": "Node.js — Updates on CVE for End-of-Life Versions",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:53:45Z",
+  "category": null
+}

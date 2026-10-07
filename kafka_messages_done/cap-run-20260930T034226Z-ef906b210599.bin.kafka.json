@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-059-owasp-asvs-329420/loang/cap-run-20260930T034226Z-ef906b210599.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 134197,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/projects/asvs?tab=supporters",
+  "title": "OWASP Application Security Verification Standard (ASVS) | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:46:49Z",
+  "category": "OWASP Application Security Verification Standard (ASVS),OWASP project,open source security,OWASP,OWASP Foundation,application security,software security"
+}

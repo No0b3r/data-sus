@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t1-aead-006-rfc-8452-2526cf/loang/cap-run-20260925T020104Z-9799b6556382.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 357803,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2548/",
+  "title": "RFC 2548: Microsoft Vendor-specific RADIUS Attributes | RFC Editor",
+  "author": "G Zorn",
+  "published_year": 1999,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:23:34Z",
+  "category": "attributes, remote, access, dialin, user, service, dial-in"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/securing-privileged-access-d98331/loang/cap-run-20260915T052454Z-7eebcbd74038.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 79716,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365",
+  "title": "How to set up a multifunction device or application to send email using Microsoft 365 or Office 365",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:12:08Z",
+  "category": null
+}

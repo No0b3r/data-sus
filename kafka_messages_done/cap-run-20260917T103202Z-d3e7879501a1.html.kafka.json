@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-incident-response-blog-3d5792/loang/cap-run-20260917T103202Z-d3e7879501a1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 334196,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2025/07/22/disrupting-active-exploitation-of-on-premises-sharepoint-vulnerabilities/",
+  "title": "Disrupting active exploitation of on-premises SharePoint vulnerabilities | Microsoft Security Blog",
+  "author": "Microsoft Threat Intelligence",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:47:10Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-c353f91dddc1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 41336,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity25/presentation/agarwal-sharad",
+  "title": "'Hey mum, I dropped my phone down the toilet': Investigating Hi Mum and Dad {SMS} Scams in the United Kingdom",
+  "author": "Sharad Agarwal; Emma Harvey; Enrico Mariconti; Guillermo Suarez-Tangil; Marie Vasek",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:57Z",
+  "category": null
+}

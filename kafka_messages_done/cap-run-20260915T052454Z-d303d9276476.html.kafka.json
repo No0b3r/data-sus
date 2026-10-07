@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-d303d9276476.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 67971,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-plan-virtual-network-deployment?toc=%2Fazure%2Fvirtual-network%2Ftoc.json",
+  "title": "Plan a virtual network for Azure HDInsight",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:37:36Z",
+  "category": null
+}

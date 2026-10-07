@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/msix-containerization-d79e67/loang/cap-run-20260915T052454Z-de99fe118f0f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 61559,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/vi-vn/windows/msix/package/signing-package-device-guard-signing",
+  "title": "Sign an MSIX package with Device Guard signing - MSIX",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:09:49Z",
+  "category": "windows 10, windows 11, uwp, msix"
+}

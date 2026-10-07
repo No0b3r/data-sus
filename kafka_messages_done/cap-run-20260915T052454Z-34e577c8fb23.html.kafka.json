@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/awsgoat-af05d0/loang/cap-run-20260915T052454Z-34e577c8fb23.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 286029,
+  "domain": "github.com",
+  "url": "https://github.com/pentesteracademy/voipshark",
+  "title": "GitHub - pentesteracademy/voipshark: VoIPShark is a open source VoIP Analysis Platform which will allow people to analyze live or stored VoIP traffic, easily decrypt encrypted SRTP stream, perform macro analysis, generate summary specific to VoIP traffic/nodes and export calls/SMS/DTMF in popular user friendly file formats.",
+  "author": "Pentesteracademy",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:35:18Z",
+  "category": "repository:189598801"
+}

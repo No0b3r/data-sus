@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aadinternals-6e191b/loang/cap-run-20260915T052454Z-4e9b97f49c8e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 185369,
+  "domain": "github.com",
+  "url": "https://github.com/Gerenios/AADInternals/security",
+  "title": "Build software better, together",
+  "author": "Gerenios",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:52:46Z",
+  "category": "repository:154712144"
+}

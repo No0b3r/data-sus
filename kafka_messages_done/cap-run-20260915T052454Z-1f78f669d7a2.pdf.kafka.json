@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-1f78f669d7a2.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 6873648,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/pdfs/aws-backup/latest/devguide/AWSBackup-dg.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:17:38Z",
+  "category": null
+}

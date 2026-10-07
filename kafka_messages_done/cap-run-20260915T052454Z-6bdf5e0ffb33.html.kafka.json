@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-resource-reference-b3ad42/loang/cap-run-20260915T052454Z-6bdf5e0ffb33.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4623,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vpc-links.html",
+  "title": "Set up VPC links V2 in API Gateway",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:05:35Z",
+  "category": null
+}

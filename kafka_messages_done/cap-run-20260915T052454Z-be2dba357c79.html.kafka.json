@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-be2dba357c79.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 130867,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/5925133/windows-11-25h2-hypervisor-detected-and-vbs-runnin?orderby=oldest&page=1",
+  "title": "Windows 11 25H2: Hypervisor detected and VBS running despite Hyper-V, VBS, Credential Guard disabled - Microsoft Q&A",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:05:07Z",
+  "category": null
+}

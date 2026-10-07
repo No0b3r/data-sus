@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-james-ab8007/loang/cap-run-20260915T052454Z-1aec70b20a61.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 117823,
+  "domain": "james.apache.org",
+  "url": "https://james.apache.org/images/james-smtp-relay.png",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:56:57Z",
+  "category": null
+}

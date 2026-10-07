@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t3-cbcpad-src01-black-urtubia-side-channe-3ddcff/loang/cap-run-20260925T020104Z-d0bc8dfeeb0d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15160,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/user?destination=node/150889",
+  "title": "Hector Urtubia",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:54:29Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-85087e12c650.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55119,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-best-practices",
+  "title": "Best practices for data collection rule creation and management in Azure Monitor - Azure Monitor",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:35:02Z",
+  "category": null
+}

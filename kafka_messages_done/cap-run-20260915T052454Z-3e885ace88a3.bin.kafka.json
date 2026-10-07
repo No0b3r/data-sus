@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-3e885ace88a3.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 38257,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/load-balancer/media/tutorial-load-balancer-port-forwarding-portal/load-balancer-port-forwarding-resources.png",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:32:40Z",
+  "category": null
+}

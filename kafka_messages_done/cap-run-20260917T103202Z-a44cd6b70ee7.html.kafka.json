@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-a44cd6b70ee7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3440,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.0/tutorial/whatnow.html",
+  "title": "What Now?¶",
+  "author": null,
+  "published_year": 2009,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:08:09Z",
+  "category": null
+}

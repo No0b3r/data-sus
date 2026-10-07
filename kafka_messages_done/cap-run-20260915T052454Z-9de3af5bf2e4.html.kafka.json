@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-9de3af5bf2e4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5390,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/id_id/inspector/latest/user/understanding-dashboard.html",
+  "title": "Bekerja dengan dasbor di Amazon Inspector",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:20:08Z",
+  "category": null
+}

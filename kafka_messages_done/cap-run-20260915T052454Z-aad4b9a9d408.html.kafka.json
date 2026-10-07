@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/workload-identity-federation-09f786/loang/cap-run-20260915T052454Z-aad4b9a9d408.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55749,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/active-directory-b2c/tutorial-delete-tenant",
+  "title": "Clean up resources and delete a tenant - Azure Active Directory B2C",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:24:42Z",
+  "category": null
+}

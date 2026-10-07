@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-334b4d90ed30.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52684,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-overview",
+  "title": "About Azure Elastic SAN volume operational backup - Azure Backup",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:56:55Z",
+  "category": null
+}

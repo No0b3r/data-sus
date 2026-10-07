@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_linux-os-security/Tier1/ubuntu-security-documentation-1f06c3/loang/cap-run-20260915T052454Z-99a355c49bc5.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 34474,
+  "domain": "ubuntu.com",
+  "url": "https://documentation.ubuntu.com/security/security-features/platform-protections/",
+  "title": "Platform protections",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:18:58Z",
+  "category": null
+}

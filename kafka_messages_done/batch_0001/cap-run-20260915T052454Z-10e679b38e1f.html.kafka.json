@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/compromised-cluster-remediation-2171da/loang/cap-run-20260915T052454Z-10e679b38e1f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 282522,
+  "domain": "github.com",
+  "url": "https://github.com/aws-samples/eks-security-compromised-cluster-remediation/blob/main/Eradication_Recovery/remove-compromised-pod",
+  "title": "eks-security-compromised-cluster-remediation/Eradication_Recovery/remove-compromised-pod at main · aws-samples/eks-security-compromised-cluster-remediation",
+  "author": "Aws-Samples",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:14:08Z",
+  "category": "repository:421594804"
+}

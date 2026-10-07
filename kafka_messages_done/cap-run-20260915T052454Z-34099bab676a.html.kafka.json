@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-010-randomnumbergenerator-b4e70f/loang/cap-run-20260915T052454Z-34099bab676a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 68408,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/dotnet/api/system.memory-1?view=net-10.0",
+  "title": "Memory<T> Struct (System)",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:43:47Z",
+  "category": null
+}

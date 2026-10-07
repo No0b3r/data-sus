@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t3-gcmnonce-src03-nonce-disrespecting-adv-caa003/loang/cap-run-20260925T020104Z-0bd02fe0fa80.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 26115,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/woot16/workshop-program/presentation/bratus",
+  "title": "Fillory of {PHY}: Toward a Periodic Table of Signal Corruption Exploits and Polyglots in Digital Radio",
+  "author": "Sergey Bratus; Travis Goodspeed; Ange Albertini; Debanjum S Solanky",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:54:30Z",
+  "category": null
+}

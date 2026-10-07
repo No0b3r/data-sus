@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t2-thuc-hanh/Tier2/usenix-security-symposium-proceedings-b3dda4/loang/cap-run-20260928T065604Z-e8e5b5368dc4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 19152,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/policies",
+  "title": "USENIX Conference Policies and Resources",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:20:43Z",
+  "category": null
+}

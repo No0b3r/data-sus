@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-859d8fb00e1d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 13173,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.5/py-modindex.html",
+  "title": "Python Module Index",
+  "author": null,
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:05:07Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260917T103202Z-f1ff0ded62ee.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14332,
+  "domain": "python.org",
+  "url": "https://docs.python.org/ja/3.12/library/os.path.html",
+  "title": "os.path --- 一般的なパス名操作",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T12:18:05Z",
+  "category": null
+}

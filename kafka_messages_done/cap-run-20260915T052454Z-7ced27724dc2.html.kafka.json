@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-7ced27724dc2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51940,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-fedramp",
+  "title": "Federal Risk and Authorization Management Program (FedRAMP) - Azure Compliance",
+  "author": "Federal Risk; Authorization Management Program",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:34:44Z",
+  "category": null
+}

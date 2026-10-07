@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-ba71720d708c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14704,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/it_it/opensearch-service/latest/developerguide/createupdatedomains.html",
+  "title": "Creazione e gestione di domini Amazon OpenSearch Service",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:31:40Z",
+  "category": null
+}

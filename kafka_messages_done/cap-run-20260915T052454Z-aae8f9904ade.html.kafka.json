@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/google-cloud-security-response-automation-c037dc/loang/cap-run-20260915T052454Z-aae8f9904ade.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 259404,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/security-response-automation/commit/27f624ffe3ebf4e7e4afdc4a26dcc2a0c9266c4f",
+  "title": "Replacing old miner · GoogleCloudPlatform/security-response-automation@27f624f",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:27:19Z",
+  "category": "repository:207355308"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260915T052454Z-2afd3dbeb38f.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 252138,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/guides/text-classification/",
+  "title": "Build a text recognition app",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:07:14Z",
+  "category": "nlp,natural,language,processing,sentiment,analysis,python,nltk,scikit-learn,text,classification"
+}

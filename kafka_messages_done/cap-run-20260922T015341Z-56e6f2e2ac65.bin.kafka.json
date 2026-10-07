@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-t2-003-github-codeql-query-help-b309ff/loang/cap-run-20260922T015341Z-56e6f2e2ac65.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5750,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-query-help/ruby/rb-useless-assignment-to-local/",
+  "title": "Useless assignment to local variable¶",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:00:47Z",
+  "category": null
+}

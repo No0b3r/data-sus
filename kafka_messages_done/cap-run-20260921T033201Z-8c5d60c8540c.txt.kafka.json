@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/flutter-c3cb7c/loang/cap-run-20260921T033201Z-8c5d60c8540c.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 12283,
+  "domain": "docs.flutter.dev",
+  "url": "https://docs.flutter.dev/ui/layout.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:42:23Z",
+  "category": null
+}

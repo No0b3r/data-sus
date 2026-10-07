@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20260915T052454Z-2369f8fa8ef7.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": null,
+  "domain": "solr.apache.org",
+  "url": "https://solr.apache.org/operator/downloads/crds/v0.2.8/solrclouds.yaml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T02:01:15Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='nightlies.apache.org', port=443): Max retries exceeded with url: /solr/release/operator/crds/v0.2.8/solrclouds.yaml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001E1550235D0>, 'Connection to nightlies.apache.org timed out. (connect timeout=15.0)'))"
+}

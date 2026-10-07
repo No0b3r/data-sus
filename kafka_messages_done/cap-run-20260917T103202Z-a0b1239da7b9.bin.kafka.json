@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/falco-documentation-395194/loang/cap-run-20260917T103202Z-a0b1239da7b9.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 29397,
+  "domain": "falco.org",
+  "url": "https://falco.org/blog/falco-0-32-2/",
+  "title": "Falco 0.32.2",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:54:13Z",
+  "category": "blog"
+}

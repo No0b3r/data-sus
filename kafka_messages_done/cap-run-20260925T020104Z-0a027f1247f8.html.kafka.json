@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-full-003-rfc-9147-d9eb1c/loang/cap-run-20260925T020104Z-0a027f1247f8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 335234,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9146",
+  "title": "RFC 9146: Connection Identifier for DTLS 1.2 | RFC Editor",
+  "author": "E Rescorla; H Tschofenig; T Fossati; A Kraus",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:48:45Z",
+  "category": "NAT rebinding"
+}

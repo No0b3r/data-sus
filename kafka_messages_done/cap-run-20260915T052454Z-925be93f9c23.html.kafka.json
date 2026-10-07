@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azurehound-3d2e37/loang/cap-run-20260915T052454Z-925be93f9c23.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 261114,
+  "domain": "github.com",
+  "url": "https://github.com/0xthirteen/SharpRDP",
+  "title": "GitHub - 0xthirteen/SharpRDP: Remote Desktop Protocol .NET Console Application for Authenticated Command Execution",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:16Z",
+  "category": "repository:235291052"
+}

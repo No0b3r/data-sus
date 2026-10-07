@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-http-server-1e9e3d/loang/cap-run-20260925T020104Z-4b9259c11459.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2218,
+  "domain": "apache.org",
+  "url": "https://httpd.apache.org/contribute/",
+  "title": "Apache HTTP Server: Contribute",
+  "author": "Documentation Group",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:56:38Z",
+  "category": null
+}

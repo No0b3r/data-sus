@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-003-go-crypto-46f4ef/loang/cap-run-20260917T103202Z-bd50b4384535.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62820,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/hash@go1.25.11",
+  "title": "hash",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:03:50Z",
+  "category": null
+}

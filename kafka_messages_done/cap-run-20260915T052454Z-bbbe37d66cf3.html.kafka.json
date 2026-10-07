@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/shared-responsibility-9bf69a/loang/cap-run-20260915T052454Z-bbbe37d66cf3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4194,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/it_it/wellarchitected/latest/security-pillar/document-revisions.html",
+  "title": "Revisioni del documento",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:18:55Z",
+  "category": null
+}

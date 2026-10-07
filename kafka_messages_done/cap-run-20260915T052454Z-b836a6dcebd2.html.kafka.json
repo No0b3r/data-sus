@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/iam-vulnerable-cdd7a2/loang/cap-run-20260915T052454Z-b836a6dcebd2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 291949,
+  "domain": "github.com",
+  "url": "https://github.com/BishopFox/GitGot",
+  "title": "GitHub - BishopFox/GitGot: Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.",
+  "author": "BishopFox",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:36:07Z",
+  "category": "repository:191989621"
+}

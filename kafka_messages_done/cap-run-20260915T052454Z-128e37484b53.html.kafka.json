@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/threat-modeling-designing-for-security-462a8c/loang/cap-run-20260915T052454Z-128e37484b53.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3781,
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998",
+  "title": "Amazon.com",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:22:34Z",
+  "category": null
+}

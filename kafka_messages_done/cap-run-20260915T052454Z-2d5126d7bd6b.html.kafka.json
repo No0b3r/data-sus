@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-2d5126d7bd6b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7947,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/marketplace/latest/userguide/best-practices-for-building-your-amis.html",
+  "title": "와 함께 사용할 AMIs 빌드 모범 사례 AWS Marketplace",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:17:54Z",
+  "category": null
+}

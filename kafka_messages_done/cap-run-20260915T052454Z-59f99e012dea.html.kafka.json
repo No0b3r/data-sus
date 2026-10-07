@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-59f99e012dea.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 164915,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/5983979/did-microsoft-forget-to-renew-digicert-certificate",
+  "title": "Did Microsoft forget to renew digicert certificate - Microsoft Q&A",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:33:33Z",
+  "category": null
+}

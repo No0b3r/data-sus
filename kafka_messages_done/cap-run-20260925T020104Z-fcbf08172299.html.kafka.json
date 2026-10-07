@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-004-rfc-4253-ssh-transport-6b09ed/loang/cap-run-20260925T020104Z-fcbf08172299.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 195535,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc6594",
+  "title": "RFC 6594: Use of the SHA-256 Algorithm with RSA, Digital Signature Algorithm (DSA), and Elliptic Curve DSA (ECDSA) in SSHFP Resource Records | RFC Editor",
+  "author": "O Sury",
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:42Z",
+  "category": "DNS, Domain Name System, SSHFP, SHA-256, Secure Shell, ECDSA"
+}

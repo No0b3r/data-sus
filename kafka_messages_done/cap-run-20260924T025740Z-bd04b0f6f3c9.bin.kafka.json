@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260924T025740Z-bd04b0f6f3c9.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 540990,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/dhi/how-to/search-evaluate/",
+  "title": "Search and evaluate Docker Hardened Images",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:29:52Z",
+  "category": "search,docker,images,image,variants,docker,hub,catalog,compare,docker,images,docker,scout,compare,image,comparison,vulnerability,comparison"
+}

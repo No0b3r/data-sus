@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-cordova-4462de/loang/cap-run-20260915T052454Z-1834b97638d6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4503,
+  "domain": "apache.org",
+  "url": "https://cordova.apache.org/news/2020/06/13/plugins-release.html",
+  "title": "Splash Screen and InAppBrowser plugin Released!",
+  "author": "Niklas Merz",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:23:09Z",
+  "category": null
+}

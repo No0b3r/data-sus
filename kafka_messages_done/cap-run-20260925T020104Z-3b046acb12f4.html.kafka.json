@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-3b046acb12f4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40957,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/balash",
+  "title": "{Educators’} Perspectives of Using (or Not Using) Online Exam Proctoring",
+  "author": "David G Balash; Elena Korkes; Miles Grant; Adam J Aviv; Rahel A Fainchtein; Micah Sherr",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:44Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudsplaining-457d52/loang/cap-run-20260915T052454Z-b5d8f5c5f25b.html.gz",
+  "data_type": "document",
+  "file_type": "json",
+  "file_size": 0,
+  "domain": "github.com",
+  "url": "https://github.com/salesforce/cloudsplaining/projects",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:11:40Z",
+  "category": null
+}

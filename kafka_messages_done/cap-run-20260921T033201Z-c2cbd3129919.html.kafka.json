@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-cordova-4462de/loang/cap-run-20260921T033201Z-c2cbd3129919.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3952,
+  "domain": "apache.org",
+  "url": "https://cordova.apache.org/contribute",
+  "title": "Contribute",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:24:35Z",
+  "category": null
+}

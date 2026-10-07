@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-d8e0606b5513.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 43100,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/previous-versions/azure/virtual-machines/windows/classic/agents-and-extensions-classic",
+  "title": "Window VM agent and extensions in Azure",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:59:55Z",
+  "category": "azure-service-management"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-005-rfc-7296-ikev2-2f9fcd/loang/cap-run-20260925T020104Z-01e68d65127d.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 638017,
+  "domain": "rfc-editor.org",
+  "url": "http://www.rfc-editor.org/info/rfc2522",
+  "title": "RFC 2522: Photuris: Session-Key Management Protocol | RFC Editor",
+  "author": "P Karn; W Simpson",
+  "published_year": 1999,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:44Z",
+  "category": "PHOTURIS-S, ip, internet protocol, ah, esp, encapsulating security payload"
+}

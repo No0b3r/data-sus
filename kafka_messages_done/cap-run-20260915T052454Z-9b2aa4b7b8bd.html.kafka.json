@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-resource-reference-b3ad42/loang/cap-run-20260915T052454Z-9b2aa4b7b8bd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7212,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/AWSCloudFormation/latest/TemplateReference/aws-resource-logs-loggroup.html",
+  "title": "AWS::Logs::LogGroup",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:07:17Z",
+  "category": null
+}

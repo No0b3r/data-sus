@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t1-003-rfc-8017-pkcs-1-v2-2-4c7731/loang/cap-run-20260925T020104Z-79251632a122.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 130872,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc5208",
+  "title": "RFC 5208: Public-Key Cryptography Standards (PKCS) #8: Private-Key Information Syntax Specification Version 1.2 | RFC Editor",
+  "author": "B Kaliski",
+  "published_year": 2008,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:52:15Z",
+  "category": "rsa laboratories, private-key syntax, change control"
+}

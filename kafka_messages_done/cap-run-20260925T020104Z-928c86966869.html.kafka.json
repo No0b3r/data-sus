@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-013-rfc-4086-randomness-requirements-f-45caaa/loang/cap-run-20260925T020104Z-928c86966869.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 319752,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc1422",
+  "title": "RFC 1422: Privacy Enhancement for Internet Electronic Mail: Part II: Certificate-Based Key Management | RFC Editor",
+  "author": "S Kent",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:29:01Z",
+  "category": "PEM-CKM, PEM"
+}

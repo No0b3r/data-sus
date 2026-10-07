@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azurehound-3d2e37/loang/cap-run-20260915T052454Z-37530060d914.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 270970,
+  "domain": "github.com",
+  "url": "https://github.com/cobbr/SharpSploit",
+  "title": "GitHub - cobbr/SharpSploit: SharpSploit is a .NET post-exploitation library written in C#",
+  "author": "Cobbr",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:10Z",
+  "category": "repository:149621459"
+}

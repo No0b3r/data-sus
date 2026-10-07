@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-full-015-rfc-9580-ca351b/loang/cap-run-20260925T020104Z-47d02d92a70f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3486419,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc9580/",
+  "title": "RFC 9580: OpenPGP | RFC Editor",
+  "author": "P Wouters; D Huigens; J Winter; Y Niibe",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:00Z",
+  "category": "encryption, digital signatures, key management, pgp"
+}

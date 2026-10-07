@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-e4da7534e39c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5052,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/athena/latest/ug/tags-access-control.html",
+  "title": "Use tag-based IAM access control policies",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:33:57Z",
+  "category": null
+}

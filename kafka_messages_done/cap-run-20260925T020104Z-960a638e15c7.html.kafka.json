@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-960a638e15c7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 46092,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity14/speaker-or-organizer/tao-wang-university-waterloo",
+  "title": "Tao Wang",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:29Z",
+  "category": null
+}

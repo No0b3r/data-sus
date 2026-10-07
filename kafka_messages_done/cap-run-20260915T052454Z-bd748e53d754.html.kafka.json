@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-resource-reference-b3ad42/loang/cap-run-20260915T052454Z-bd748e53d754.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2839,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/it_it/AWSCloudFormation/latest/TemplateReference/AWS_Amplify.html",
+  "title": "AWS Amplify Console",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:08:31Z",
+  "category": null
+}

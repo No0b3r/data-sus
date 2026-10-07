@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-cee6162b05a3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 64032,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/2202702/is-it-possible-to-connect-to-a-wslg-vail-connnecti",
+  "title": "Is it possible to connect to a WSLg VAIL connnection from a different Windows logon session from the session running WSL? - Microsoft Q&A",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:05:18Z",
+  "category": null
+}

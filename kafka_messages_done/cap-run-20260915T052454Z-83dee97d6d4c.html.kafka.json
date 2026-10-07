@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/sensitive-data-protection-samples-2e7bfa/loang/cap-run-20260915T052454Z-83dee97d6d4c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 398440,
+  "domain": "github.com",
+  "url": "https://github.com/pathwaycom/pathway",
+  "title": "GitHub - pathwaycom/pathway: Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+  "author": "Pathwaycom",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:29:23Z",
+  "category": "repository:571186647"
+}

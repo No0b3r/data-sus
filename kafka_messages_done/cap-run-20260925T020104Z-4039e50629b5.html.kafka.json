@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-4039e50629b5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55212,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/costin",
+  "title": "A {Large-Scale} Analysis of the Security of Embedded Firmwares",
+  "author": "Andrei Costin; Jonas Zaddach; Aurélien Francillon; Davide Balzarotti",
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:48Z",
+  "category": null
+}

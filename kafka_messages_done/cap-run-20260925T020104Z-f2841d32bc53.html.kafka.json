@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-008-rfc-9420-mls-078877/loang/cap-run-20260925T020104Z-f2841d32bc53.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 637710,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9420.html",
+  "title": "The Messaging Layer Security (MLS) Protocol",
+  "author": "Richard Barnes; Benjamin Beurdouche; Raphael Robert; Jon Millican; Emad Omara; Katriel Cohn-Gordon",
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:38Z",
+  "category": null
+}

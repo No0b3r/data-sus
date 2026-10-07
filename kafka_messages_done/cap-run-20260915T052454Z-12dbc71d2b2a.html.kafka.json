@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aks-security-best-practices-d76b4e/loang/cap-run-20260915T052454Z-12dbc71d2b2a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 57744,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-linux/tutorial-azure-linux-os-guard-telemetry-monitor",
+  "title": "Tutorial: Enable Telemetry and Monitoring for your Azure Linux with OS Guard (Preview) Cluster",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:53:14Z",
+  "category": null
+}

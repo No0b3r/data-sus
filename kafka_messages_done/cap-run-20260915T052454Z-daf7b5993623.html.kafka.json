@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-cordova-4462de/loang/cap-run-20260915T052454Z-daf7b5993623.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3668,
+  "domain": "apache.org",
+  "url": "https://cordova.apache.org/announcements/2024/07/24/cordova-ios-7.1.1.html",
+  "title": "Apache Cordova",
+  "author": "Bryan Ellis",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:23:42Z",
+  "category": null
+}

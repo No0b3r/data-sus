@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260928T065604Z-5c1c9592da4a.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 609222,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/guides/github-sonarqube-sandbox/",
+  "title": "How to build an AI-powered code quality workflow with SonarQube and E2B",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:39:14Z",
+  "category": "sonarqube,e2b,sandboxes,mcp,github,code,quality,ai,workflow,claude"
+}

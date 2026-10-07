@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/kerberos-constrained-delegation-c982c6/cap-run-20260915T052454Z-ae0a67c775ad.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55270,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/windows-server/security/kerberos/kerberos-constrained-delegation-overview",
+  "title": "Kerberos Constrained Delegation Overview in Windows Server",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:06:12Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-security-blog-517e51/loang/cap-run-20260917T103202Z-65e44beb34df.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1333626,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/blogs/security/architecting-resilient-authentication-with-amazon-cognito-multi-region-replication/",
+  "title": "Architecting resilient authentication with Amazon Cognito multi-Region replication | Amazon Web Services",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:39:28Z",
+  "category": "Advanced (300)"
+}

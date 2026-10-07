@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudgoat-ada777/loang/cap-run-20260915T052454Z-833b08b2fe3c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 254800,
+  "domain": "github.com",
+  "url": "https://github.com/RhinoSecurityLabs/cloudgoat/blob/master/cloudgoat/scenarios/aws/iam_privesc_by_key_rotation/README.md",
+  "title": "cloudgoat/cloudgoat/scenarios/aws/iam_privesc_by_key_rotation/README.md at master · RhinoSecurityLabs/cloudgoat",
+  "author": "RhinoSecurityLabs",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:11:01Z",
+  "category": "repository:141209050"
+}

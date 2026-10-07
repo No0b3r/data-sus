@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-014-go-crypto-rand-82377e/loang/cap-run-20260921T033201Z-7565fc58c44e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36913,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/g-duff/advent-of-code/golang/2021/cmd/day04?tab=licenses",
+  "title": "day04",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T07:04:34Z",
+  "category": null
+}

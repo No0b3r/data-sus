@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-encryption-sdk-2efcbb/loang/cap-run-20260915T052454Z-a92c3f3c3280.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3347,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/migration-side-by-side.html",
+  "title": "Use the SDK for Java 1.x and 2.x side-by-side",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:03:50Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-full-013-go-crypto-ed25519-39687b/loang/cap-run-20260917T103202Z-733ba85fc40e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 142,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/go.goblog.app/app@v0.0.0-20260916193416-99c62a3ce7ca/pkgs/minify",
+  "title": "429",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:50:36Z",
+  "category": null
+}

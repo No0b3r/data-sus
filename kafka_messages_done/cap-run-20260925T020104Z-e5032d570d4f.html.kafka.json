@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-013-rfc-4086-randomness-requirements-f-45caaa/loang/cap-run-20260925T020104Z-e5032d570d4f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 199261,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc1321",
+  "title": "RFC 1321: The MD5 Message-Digest Algorithm | RFC Editor",
+  "author": "R Rivest",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:29:12Z",
+  "category": "security, signature, eneryption"
+}

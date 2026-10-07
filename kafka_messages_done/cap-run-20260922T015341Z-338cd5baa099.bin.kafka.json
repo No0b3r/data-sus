@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260922T015341Z-338cd5baa099.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 252494,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/guides/testcontainers-go-getting-started/",
+  "title": "Getting started with Testcontainers for Go",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:20:20Z",
+  "category": "testcontainers,go,golang,testing,postgresql,integration,testing"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ecs-security-7c5872/loang/cap-run-20260915T052454Z-5227c62a51a4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5744,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/security-iam.html",
+  "title": "Identity and Access Management for Amazon Elastic Container Service",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:24:02Z",
+  "category": null
+}

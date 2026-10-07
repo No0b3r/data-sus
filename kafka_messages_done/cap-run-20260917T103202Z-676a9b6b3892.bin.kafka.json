@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-007-avoid-java-util-random-051f4b/loang/cap-run-20260917T103202Z-676a9b6b3892.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5110,
+  "domain": "oracle.com",
+  "url": "http://docs.oracle.com/javase/tutorial/collections/index.html",
+  "title": "Trail: Collections",
+  "author": null,
+  "published_year": 1995,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:31:24Z",
+  "category": "java programming, learn java, java sample code, java collections, set, list, queue, map, array, arraylist, sortedset, sortedmap, deque"
+}

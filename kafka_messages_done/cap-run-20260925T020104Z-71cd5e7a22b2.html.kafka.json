@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t1-001-rfc-5280-x-509-pki-dc9320/loang/cap-run-20260925T020104Z-71cd5e7a22b2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 213258,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc8398",
+  "title": "RFC 8398: Internationalized Email Addresses in X.509 Certificates | RFC Editor",
+  "author": "A Melnikov; W Chuang",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:18:44Z",
+  "category": "EAI, PKIX, emal address"
+}

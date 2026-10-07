@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/app-service-security-5ad287/loang/cap-run-20260915T052454Z-4c2dbe9ade83.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53746,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/graph/api/resources/oauth2permissiongrant",
+  "title": "oAuth2PermissionGrant resource type - Microsoft Graph v1.0",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:54:03Z",
+  "category": null
+}

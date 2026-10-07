@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t2-002-java-pki-jsse-88f1ed/loang/cap-run-20260917T103202Z-2594a653f226.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4599,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/javase/tutorial/jaxb/index.html",
+  "title": "Trail: Java Architecture for XML Binding",
+  "author": null,
+  "published_year": 1995,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:19:28Z",
+  "category": "java programming, learn java, java sample code, jaxb, xml, xml binding"
+}

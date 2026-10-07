@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260922T015341Z-a0f7e0ae071a.gz",
+  "data_type": "document",
+  "file_type": "unknown",
+  "file_size": 3639185,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/download/release/node-0.1.8.tar.gz",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:08:35Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t1-003-rfc-8017-pkcs-1-v2-2-4c7731/loang/cap-run-20260925T020104Z-0b4708c2512f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 145729,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5915/",
+  "title": "RFC 5915: Elliptic Curve Private Key Structure | RFC Editor",
+  "author": "S Turner; D Brown",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:51:57Z",
+  "category": "ec, Standards for Efficient Cryptography Group, SECG"
+}

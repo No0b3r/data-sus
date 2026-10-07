@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/threat-modeling-designing-for-security-462a8c/loang/cap-run-20260915T052454Z-ea0c0f2cc951.html.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 65,
+  "domain": "www.amazon.com",
+  "url": "https://www.amazon.com/gp/prime?ref_=footer_prime",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:22:56Z",
+  "category": null
+}

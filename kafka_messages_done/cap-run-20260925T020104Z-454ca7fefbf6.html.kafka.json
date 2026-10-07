@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-005-rfc-7296-ikev2-2f9fcd/loang/cap-run-20260925T020104Z-454ca7fefbf6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 838354,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc6887/",
+  "title": "RFC 6887: Port Control Protocol (PCP) | RFC Editor",
+  "author": "D Wing; S Cheshire; M Boucadair; R Penno; P Selkirk",
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:50Z",
+  "category": "NAT, Firewall"
+}

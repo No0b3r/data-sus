@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t1-003-rfc-8017-pkcs-1-v2-2-4c7731/loang/cap-run-20260925T020104Z-4f786700e9fc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 162111,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc6149",
+  "title": "RFC 6149: MD2 to Historic Status | RFC Editor",
+  "author": "S Turner; L Chen",
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:52:08Z",
+  "category": "security, encryption, signature"
+}

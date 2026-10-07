@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-91f33f55f8e9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12141,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ja_jp/securityhub/latest/userguide/elb-controls.html",
+  "title": "Elastic Load Balancing の Security Hub CSPM コントロール",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:13:02Z",
+  "category": null
+}

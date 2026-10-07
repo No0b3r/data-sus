@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/awslab-self-service-security-assessment-solu-7b1f19/loang/cap-run-20260915T052454Z-acb424f2f32c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 244462,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/aws-security-assessment-solution/tags",
+  "title": "Tags · awslabs/aws-security-assessment-solution",
+  "author": "Awslabs",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:35:29Z",
+  "category": "repository:281226758"
+}

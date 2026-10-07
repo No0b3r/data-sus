@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260923T111036Z-8f84c4689b9a.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 517164,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/ko/about/partners",
+  "title": "Node.js — Partners & Supporters",
+  "author": null,
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:20:52Z",
+  "category": null
+}

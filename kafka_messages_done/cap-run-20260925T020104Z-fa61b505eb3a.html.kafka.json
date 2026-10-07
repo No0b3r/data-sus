@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c6-t3-003-github-secret-scanning-22ca84/loang/cap-run-20260925T020104Z-fa61b505eb3a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 19076,
+  "domain": "github.com",
+  "url": "https://docs.github.com/zh/site-policy/acceptable-use-policies/github-misinformation-and-disinformation",
+  "title": "GitHub 上的错误信息和虚假信息 - GitHub 文档",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:48:41Z",
+  "category": null
+}

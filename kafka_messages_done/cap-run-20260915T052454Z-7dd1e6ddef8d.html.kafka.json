@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t2-thuc-hanh/Tier2/saelo-3-years-of-attacking-javascript-engine-30930e/loang/cap-run-20260915T052454Z-7dd1e6ddef8d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 270618,
+  "domain": "github.com",
+  "url": "https://gist.github.com/saelo/52985fe415ca576c94fc3f1975dbe837",
+  "title": "Exploit for the \"roll a d8\" challenge of PlaidCTF 2018",
+  "author": "Saelo",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:20:19Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/prowler-3c72d1/loang/cap-run-20260915T052454Z-884215113a01.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 341616,
+  "domain": "github.com",
+  "url": "https://github.com/hadolint/hadolint/blob/master/ThirdPartyNotices.txt",
+  "title": "hadolint/ThirdPartyNotices.txt at master · hadolint/hadolint",
+  "author": "Hadolint",
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:48:55Z",
+  "category": "repository:46234189"
+}

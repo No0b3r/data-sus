@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/falco-documentation-395194/loang/cap-run-20260925T020104Z-b1f3967c9057.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 478526,
+  "domain": "falco.org",
+  "url": "https://falco.org/blog/adaptive-syscalls-selection/images/adaptive-syscalls-selection-02.png",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:57:07Z",
+  "category": null
+}

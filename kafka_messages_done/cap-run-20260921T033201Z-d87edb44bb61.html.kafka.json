@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-014-go-crypto-rand-82377e/loang/cap-run-20260921T033201Z-d87edb44bb61.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 383856,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/oracleNetworkProtocol/plugchain-sdk-go@v0.2.13/third_party/proto/protoc-gen-openapiv2/options",
+  "title": "options",
+  "author": "The authorization URL",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T07:10:36Z",
+  "category": null
+}

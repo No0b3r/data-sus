@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-ofbiz-9aed94/loang/cap-run-20260922T015341Z-ad78c6acb5fc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4910,
+  "domain": "apache.org",
+  "url": "https://ofbiz.apache.org/release-notes/18.12.06.html",
+  "title": "Release Notes 18.12.06",
+  "author": null,
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:57:38Z",
+  "category": null
+}

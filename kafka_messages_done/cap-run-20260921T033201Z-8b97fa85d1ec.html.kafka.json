@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-003-go-crypto-46f4ef/loang/cap-run-20260921T033201Z-8b97fa85d1ec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 84024,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/crypto/internal/fips140/edwards25519@go1.25.8",
+  "title": "edwards25519",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:11:56Z",
+  "category": null
+}

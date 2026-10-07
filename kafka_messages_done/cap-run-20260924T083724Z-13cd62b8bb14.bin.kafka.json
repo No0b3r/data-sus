@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260924T083724Z-13cd62b8bb14.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 519608,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/security/access-tokens/",
+  "title": "Access tokens",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:31:06Z",
+  "category": "access,tokens,personal,access,tokens,organization,access,tokens,PAT,OAT,Docker,security"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260924T025740Z-fc48d515e779.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 182271,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/guides/container-supported-development/",
+  "title": "Faster development and testing with container-supported development",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:30:45Z",
+  "category": "containers,local,development,dependent,services,testing,debugging,development,environment"
+}

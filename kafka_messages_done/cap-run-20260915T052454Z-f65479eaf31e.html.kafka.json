@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/eks-blueprints-467420/loang/cap-run-20260915T052454Z-f65479eaf31e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 391558,
+  "domain": "github.com",
+  "url": "https://github.com/aws-ia/terraform-aws-eks-blueprints-teams",
+  "title": "GitHub - aws-ia/terraform-aws-eks-blueprints-teams: Configure and deploy Team based multi-tenant EKS clusters.",
+  "author": "Aws-Ia",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:25:50Z",
+  "category": "repository:599279331"
+}

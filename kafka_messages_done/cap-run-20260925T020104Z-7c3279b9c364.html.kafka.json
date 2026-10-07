@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-002-rfc-9325-secure-tls-dtls-def702/loang/cap-run-20260925T020104Z-7c3279b9c364.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 306502,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc7247/",
+  "title": "RFC 7247: Interworking between the Session Initiation Protocol (SIP) and the Extensible Messaging and Presence Protocol (XMPP): Architecture, Addresses, and Error Handling | RFC Editor",
+  "author": "P Saint-Andre; A Houri; J Hildebrand",
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:08Z",
+  "category": "XMPP, SIP"
+}

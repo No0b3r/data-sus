@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/security-analytics-bootstrap-e0ebee/loang/cap-run-20260915T052454Z-9e86f68a1180.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 272269,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/aws-security-analytics-bootstrap/blob/main/AWSSecurityAnalyticsBootstrap/sql/ddl/create_tables/create_dnsquerylog_table.sql",
+  "title": "aws-security-analytics-bootstrap/AWSSecurityAnalyticsBootstrap/sql/ddl/create_tables/create_dnsquerylog_table.sql at main · awslabs/aws-security-analytics-bootstrap",
+  "author": "Awslabs",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:17:47Z",
+  "category": "repository:381485791"
+}

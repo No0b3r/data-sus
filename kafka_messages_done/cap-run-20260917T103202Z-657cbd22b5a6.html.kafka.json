@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20260917T103202Z-657cbd22b5a6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1468,
+  "domain": "apache.org",
+  "url": "https://solr.apache.org/docs/9_0_0/modules/hdfs/index.html",
+  "title": "Solr 9.0.0 hdfs API",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T02:11:56Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/github-security-documentation-f2e981/loang/cap-run-20260921T033201Z-a9630e039729.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51709,
+  "domain": "github.com",
+  "url": "https://docs.github.com/zh/code-security/how-tos/maintain-quality-code/fix-backlog-findings",
+  "title": "修复代码库待办事项中的代码质量问题 - GitHub 文档",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:29:36Z",
+  "category": null
+}

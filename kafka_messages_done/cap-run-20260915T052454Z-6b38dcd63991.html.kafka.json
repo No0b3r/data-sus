@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/ad-trusts-e69814/loang/cap-run-20260915T052454Z-6b38dcd63991.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38867,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/f2d2513a-dbce-43f7-be7a-0be5d25877af",
+  "title": "[MS-ADTS]: Infrastructure FSMO Role",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:47:19Z",
+  "category": null
+}

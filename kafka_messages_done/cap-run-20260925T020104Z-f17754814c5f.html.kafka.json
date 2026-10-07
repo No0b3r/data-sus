@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-001-rfc-9846-tls-1-3-4103de/cap-run-20260925T020104Z-f17754814c5f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2679259,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9846",
+  "title": "RFC 9846: The Transport Layer Security (TLS) Protocol Version 1.3 | RFC Editor",
+  "author": "E Rescorla",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:01Z",
+  "category": null
+}

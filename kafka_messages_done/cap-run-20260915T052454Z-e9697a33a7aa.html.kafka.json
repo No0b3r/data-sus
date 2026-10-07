@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/windows-authentication-architecture-547301/loang/cap-run-20260915T052454Z-e9697a33a7aa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38656,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/sysinternals/downloads/autologon",
+  "title": "Autologon - Sysinternals",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:13:28Z",
+  "category": null
+}

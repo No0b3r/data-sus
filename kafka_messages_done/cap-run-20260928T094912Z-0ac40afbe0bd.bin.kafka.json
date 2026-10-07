@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-055-owasp-asvs-2cc294/loang/cap-run-20260928T094912Z-0ac40afbe0bd.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 69278,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/join-community",
+  "title": "Join the OWASP Community | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:43:57Z",
+  "category": "OWASP membership,join OWASP,individual member,lifetime member,security community,volunteer,OWASP,OWASP Foundation,application security,software security"
+}

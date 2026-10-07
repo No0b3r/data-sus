@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/artifact-57920c/loang/cap-run-20260915T052454Z-360682548daf.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 649,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/artifact/latest/ug/managing-agreements.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:55:42Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudhsm-5d3cdd/loang/cap-run-20260915T052454Z-f4eddc6d4822.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5362,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/cloudhsm/latest/userguide/launch-client-instance.html",
+  "title": "와 상호 작용하기 위한 Amazon EC2 클라이언트 인스턴스 시작 AWS CloudHSM",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:11:25Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-3e0ff8229056.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59281,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/dotnet/api/azure.core.tokencredential",
+  "title": "TokenCredential Class (Azure.Core) - Azure for .NET Developers",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:39:25Z",
+  "category": null
+}

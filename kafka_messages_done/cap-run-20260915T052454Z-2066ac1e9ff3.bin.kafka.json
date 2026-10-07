@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-2066ac1e9ff3.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8500,
+  "domain": "python.org",
+  "url": "https://docs.python.org/ja/3.10/library/bisect.html",
+  "title": "bisect --- 配列二分法アルゴリズム¶",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T09:03:34Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-807d0c086976.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36937,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity21/presentation/lassak",
+  "title": "\"It's Stored, Hopefully, on an Encrypted Server'': Mitigating Users' Misconceptions About {FIDO2} Biometric {WebAuthn}",
+  "author": "Leona Lassak; Annika Hildebrandt; Maximilian Golla; Blase Ur",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:18Z",
+  "category": null
+}

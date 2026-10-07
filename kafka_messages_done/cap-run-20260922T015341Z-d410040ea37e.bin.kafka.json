@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260922T015341Z-d410040ea37e.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 716862,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/ja/blog/migrations",
+  "title": "Node.js",
+  "author": "AugustinMauroy; Richard Lau",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:10:17Z",
+  "category": null
+}

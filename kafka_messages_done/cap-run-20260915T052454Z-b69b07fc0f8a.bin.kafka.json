@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260915T052454Z-b69b07fc0f8a.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 434859,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/reference/cli/docker/compose/up/",
+  "title": "docker compose up",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:11:33Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-src06-usenix-security-2015-all-your-biase-11f5a5/loang/cap-run-20260925T020104Z-8f0f84c15346.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 57859,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/user?destination=node/192993",
+  "title": "Questions",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:08Z",
+  "category": null
+}

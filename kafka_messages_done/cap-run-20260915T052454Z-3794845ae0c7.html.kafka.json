@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-identity-platform-73f542/loang/cap-run-20260915T052454Z-3794845ae0c7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51018,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/entra/msal/javascript/browser/v2-migration",
+  "title": "Migrating from MSAL v2.x to MSAL v3.x - Microsoft Authentication Library for JavaScript",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:44:40Z",
+  "category": null
+}

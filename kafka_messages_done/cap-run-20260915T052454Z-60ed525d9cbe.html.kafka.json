@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-60ed525d9cbe.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51271,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/understand-disk-reservations",
+  "title": "Understand reservations discount for Azure disk storage - Microsoft Cost Management",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:33:48Z",
+  "category": null
+}

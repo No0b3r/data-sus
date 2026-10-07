@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-well-architected-framework-b3cf31/loang/cap-run-20260915T052454Z-0c5d36983bbd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 409494,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/tw/bedrock/?nc2=h_prod_fs_br",
+  "title": "使用基礎模型建置生成式 AI 應用程式 – Amazon Bedrock – AWS",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:48:38Z",
+  "category": null
+}

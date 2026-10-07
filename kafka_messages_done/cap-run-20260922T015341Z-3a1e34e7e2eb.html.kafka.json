@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260922T015341Z-3a1e34e7e2eb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54026,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/crypto/+log/b853e4b620cd9d53ff69e7513aa132a5f0a195a2",
+  "title": "Log - b853e4b620cd9d53ff69e7513aa132a5f0a195a2 - crypto",
+  "author": "Gopher Robot",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:37:57Z",
+  "category": null
+}

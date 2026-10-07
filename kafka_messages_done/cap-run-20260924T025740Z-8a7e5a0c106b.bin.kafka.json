@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/falco-documentation-395194/loang/cap-run-20260924T025740Z-8a7e5a0c106b.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14355,
+  "domain": "falco.org",
+  "url": "https://falco.org/docs/setup/kubernetes/",
+  "title": "Deploy on Kubernetes with Helm",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:56:07Z",
+  "category": "docs"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/sensitive-data-protection-samples-2e7bfa/loang/cap-run-20260915T052454Z-bac83e4435fc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 312004,
+  "domain": "github.com",
+  "url": "https://github.com/TryCatchHCF/Cloakify",
+  "title": "GitHub - TryCatchHCF/Cloakify: CloakifyFactory - Data Exfiltration & Infiltration In Plain Sight; Convert any filetype into list of everyday strings, using Text-Based Steganography; Evade DLP/MLS Devices, Defeat Data Whitelisting Controls, Social Engineering of Analysts, Evade AV Detection",
+  "author": "TryCatchHCF",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:29:34Z",
+  "category": "repository:58249831"
+}

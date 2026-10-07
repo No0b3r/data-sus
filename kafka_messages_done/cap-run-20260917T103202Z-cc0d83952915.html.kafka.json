@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-008-crypto-rand-47dfdc/loang/cap-run-20260917T103202Z-cc0d83952915.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53303,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/aybabtme/terraform-provider-spire@v0.0.0-20210413143113-f2b9ecbd5a68",
+  "title": "terraform-provider-spire",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:43:32Z",
+  "category": null
+}

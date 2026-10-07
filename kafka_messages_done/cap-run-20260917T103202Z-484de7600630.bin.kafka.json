@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-484de7600630.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 1210924,
+  "domain": "docs.python.org",
+  "url": "http://docs.python.org/ftp/python/doc/3.0.1/python-3.0.1-docs-text.tar.bz2",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:59:31Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/threat-modeling-designing-for-security-462a8c/loang/cap-run-20260915T052454Z-0ae67ab6b366.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 395864,
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/stores/page/E9C7C6A6-9A88-4959-A67F-4D44FC67320F?_encoding=UTF8&_encoding=UTF8&ref_=pd_hp_d_r_atf_unk&pd_rd_w=U3ZoM&content-id=amzn1.sym.985c11ef-0477-4090-9e73-1022ee5f3901&pf_rd_p=985c11ef-0477-4090-9e73-1022ee5f3901&pf_rd_r=SAVT8H88YADESVEF8DBS&pd_rd_wg=xdFIL&pd_rd_r=a1dd58f6-25fc-4c45-8e0c-f56adbb24ba6",
+  "title": "Nike",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:22:33Z",
+  "category": null
+}

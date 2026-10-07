@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-e294d49befac.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 42914,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/1116868/how-does-logitech-options-software-install-recomme",
+  "title": "How does Logitech Options+ software install recommendation notification is shown when I pair a Logitech Bluetooth mouse to my PC? - Microsoft Q&A",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:05:31Z",
+  "category": null
+}

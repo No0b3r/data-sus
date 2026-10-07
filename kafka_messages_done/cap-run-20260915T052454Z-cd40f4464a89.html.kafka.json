@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260915T052454Z-cd40f4464a89.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15483,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/xerrors/+/d61658bd2e18010be0e21349cc92b1b706e35146",
+  "title": "d61658bd2e18010be0e21349cc92b1b706e35146 - xerrors",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:17:17Z",
+  "category": null
+}

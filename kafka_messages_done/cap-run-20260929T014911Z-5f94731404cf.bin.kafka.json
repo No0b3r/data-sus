@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-059-owasp-asvs-329420/loang/cap-run-20260929T014911Z-5f94731404cf.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 89803,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/board/meetings/2019-07-16",
+  "title": "OWASP Board Meeting — July 16, 2019 | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:45:11Z",
+  "category": "OWASP,OWASP Foundation,application security,software security"
+}

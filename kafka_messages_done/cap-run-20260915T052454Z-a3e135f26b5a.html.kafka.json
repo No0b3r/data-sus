@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-a3e135f26b5a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 151472,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/powershell/module/sqlserver/backup-sqldatabase",
+  "title": "Backup-SqlDatabase (SqlServer) - SQL Server PowerShell",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:59:06Z",
+  "category": null
+}

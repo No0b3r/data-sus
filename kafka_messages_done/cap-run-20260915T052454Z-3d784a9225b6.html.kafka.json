@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/compromised-cluster-remediation-2171da/loang/cap-run-20260915T052454Z-3d784a9225b6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 231921,
+  "domain": "github.com",
+  "url": "https://github.com/amazon-archives/__template_MIT-0/blob/main/CODE_OF_CONDUCT.md",
+  "title": "__template_MIT-0/CODE_OF_CONDUCT.md at main · amazon-archives/__template_MIT-0",
+  "author": "Amazon-Archives",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:14:12Z",
+  "category": "repository:202388123"
+}

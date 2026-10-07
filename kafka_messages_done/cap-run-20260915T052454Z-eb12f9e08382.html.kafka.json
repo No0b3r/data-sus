@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-eb12f9e08382.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3935,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/efs/latest/APIReference/CommonErrors.html",
+  "title": "Common Error Types",
+  "author": "NotAuthorized",
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:34:12Z",
+  "category": null
+}

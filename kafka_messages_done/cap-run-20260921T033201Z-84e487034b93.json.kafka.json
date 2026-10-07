@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/github-security-documentation-f2e981/loang/cap-run-20260921T033201Z-84e487034b93.json.gz",
+  "data_type": "document",
+  "file_type": "json",
+  "file_size": 2726,
+  "domain": "docs.github.com",
+  "url": "https://docs.github.com/api/article?pathname=%2Ffr%2Fcode-security%2Fconcepts%2Fsecurity-at-scale%2Fselect-pilot-repositories",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:29:14Z",
+  "category": null
+}

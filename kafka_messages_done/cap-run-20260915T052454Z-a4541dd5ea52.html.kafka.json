@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/fis-samples-cc026b/loang/cap-run-20260915T052454Z-a4541dd5ea52.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 282362,
+  "domain": "github.com",
+  "url": "https://github.com/aws-samples/fis-template-library/blob/main/CONTRIBUTING.md",
+  "title": "fis-template-library/CONTRIBUTING.md at main · aws-samples/fis-template-library",
+  "author": "Aws-Samples",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:26:32Z",
+  "category": "repository:336293667"
+}

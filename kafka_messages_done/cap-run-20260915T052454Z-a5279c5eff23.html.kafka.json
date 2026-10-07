@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-a5279c5eff23.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6822,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/AmazonCloudFront/latest/DeveloperGuide/high_availability_origin_failover.html",
+  "title": "通过 CloudFront 源失效转移来优化高可用性",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:14:20Z",
+  "category": null
+}

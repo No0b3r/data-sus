@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-e792a22578c2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 65204,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/arc-enabled-servers/eslz-identity-and-access-management",
+  "title": "Identity and access management for Azure Arc-enabled servers - Cloud Adoption Framework",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:38:16Z",
+  "category": null
+}

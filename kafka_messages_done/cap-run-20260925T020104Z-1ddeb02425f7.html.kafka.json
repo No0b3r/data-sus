@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t3-cbcpad-src01-black-urtubia-side-channe-3ddcff/loang/cap-run-20260925T020104Z-1ddeb02425f7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 20539,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/user?destination=node/150890",
+  "title": "{Side-Channel} Attacks on Symmetric Encryption Schemes: The Case for Authenticated Encryption",
+  "author": "John Black; Hector Urtubia",
+  "published_year": 2002,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:54:28Z",
+  "category": null
+}

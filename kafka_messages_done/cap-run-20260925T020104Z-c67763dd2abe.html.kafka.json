@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-014-mining-your-ps-and-qs-usenix-secur-971975/loang/cap-run-20260925T020104Z-c67763dd2abe.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49796,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity12/speaker-or-organizer/aggelos-kiayias-university-athens",
+  "title": "Aggelos Kiayias",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:29:49Z",
+  "category": null
+}

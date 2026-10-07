@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/roadtools-ef444b/loang/cap-run-20260915T052454Z-0b5a8483f414.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 244517,
+  "domain": "github.com",
+  "url": "https://github.com/microsoftgraph/microsoft-graph-toolkit/blob/main/.release-please-manifest.json",
+  "title": "microsoft-graph-toolkit/.release-please-manifest.json at main · microsoftgraph/microsoft-graph-toolkit",
+  "author": "Microsoftgraph",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:49:51Z",
+  "category": "repository:173193252"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-a79ab5bb1d4e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6528,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/userguide/DeletingObjectVersions.html",
+  "title": "버전 관리가 사용 설정된 버킷에서 객체 버전 삭제",
+  "author": null,
+  "published_year": 2009,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:10:03Z",
+  "category": null
+}

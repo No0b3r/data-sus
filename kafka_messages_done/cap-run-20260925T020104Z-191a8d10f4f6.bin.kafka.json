@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/node-js-d04dd7/loang/cap-run-20260925T020104Z-191a8d10f4f6.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 223720,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v20.x/api/cli.html",
+  "title": "Node.js v20.20.2 documentation",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:34:23Z",
+  "category": null
+}

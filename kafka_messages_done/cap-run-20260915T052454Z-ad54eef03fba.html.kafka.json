@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/security-analytics-bootstrap-e0ebee/loang/cap-run-20260915T052454Z-ad54eef03fba.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 318915,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/athena-glue-service-logs/blob/master/LICENSE",
+  "title": "athena-glue-service-logs/LICENSE at master · awslabs/athena-glue-service-logs",
+  "author": "Awslabs",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:17:47Z",
+  "category": "repository:134778020"
+}

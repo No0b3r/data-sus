@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-008-rfc-9420-mls-078877/loang/cap-run-20260925T020104Z-4fdcbf0a7167.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 184538,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc7435",
+  "title": "RFC 7435: Opportunistic Security: Some Protection Most of the Time | RFC Editor",
+  "author": "V Dukhovni",
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:34Z",
+  "category": "authentication, encryption"
+}

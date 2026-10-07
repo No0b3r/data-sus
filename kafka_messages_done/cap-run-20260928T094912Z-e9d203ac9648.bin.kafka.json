@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-t2-003-github-codeql-query-help-b309ff/loang/cap-run-20260928T094912Z-e9d203ac9648.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8688,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-query-help/csharp/cs-web-requiressl-not-set/",
+  "title": "‘requireSSL’ attribute is not set to true¶",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:12:59Z",
+  "category": null
+}

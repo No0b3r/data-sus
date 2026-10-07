@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-c99f1acbc4a3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 75378,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal?toc=/azure/virtual-network/toc.json",
+  "title": "Configure a VNet-to-VNet VPN gateway connection: Azure portal - Azure VPN Gateway",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:37:18Z",
+  "category": null
+}

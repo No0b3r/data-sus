@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/github-security-documentation-f2e981/loang/cap-run-20260921T033201Z-9ea00cbbd99c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 21583,
+  "domain": "github.com",
+  "url": "https://docs.github.com/fr/subscriptions-and-notifications/reference/inbox-filters",
+  "title": "Filtres de boîte de réception - Documentation GitHub",
+  "author": "Requêtes author prises en charge",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:29:30Z",
+  "category": null
+}

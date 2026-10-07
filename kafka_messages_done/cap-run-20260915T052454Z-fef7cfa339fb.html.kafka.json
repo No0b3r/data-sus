@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azurehound-3d2e37/loang/cap-run-20260915T052454Z-fef7cfa339fb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 261423,
+  "domain": "github.com",
+  "url": "https://github.com/merrillmatt011/EntropyCapture",
+  "title": "GitHub - merrillmatt011/EntropyCapture: Simple Extraction of DPAPI pOptionalEntropy value using API Hooking",
+  "author": "Merrillmatt",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:25Z",
+  "category": "repository:488432835"
+}

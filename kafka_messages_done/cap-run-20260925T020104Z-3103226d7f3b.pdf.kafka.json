@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-src06-usenix-security-2015-all-your-biase-11f5a5/loang/cap-run-20260925T020104Z-3103226d7f3b.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 633703,
+  "domain": "www.usenix.org",
+  "url": "https://www.usenix.org/sites/default/files/sec15_proceedings_cover.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:02Z",
+  "category": null
+}

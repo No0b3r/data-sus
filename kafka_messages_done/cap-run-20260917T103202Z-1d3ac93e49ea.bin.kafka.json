@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260917T103202Z-1d3ac93e49ea.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10342,
+  "domain": "python.org",
+  "url": "https://docs.python.org/zh-tw/3.11/library/asyncio-sync.html",
+  "title": "同步化原始物件 (Synchronization Primitives)",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T11:06:44Z",
+  "category": null
+}

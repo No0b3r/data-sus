@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-f31b71e9c1f3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38139,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity21/presentation/chen-zitai",
+  "title": "{VoltPillager}: Hardware-based fault injection attacks against Intel {SGX} Enclaves using the {SVID} voltage scaling interface",
+  "author": "Zitai Chen; Georgios Vasilakis; Kit Murdock; Edward Dean; David Oswald; Flavio D Garcia",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:22:28Z",
+  "category": null
+}

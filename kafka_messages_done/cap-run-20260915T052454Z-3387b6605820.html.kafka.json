@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_linux-os-security/Tier1/debian-security-information-d95989/loang/cap-run-20260915T052454Z-3387b6605820.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3319,
+  "domain": "debian.org",
+  "url": "https://www.debian.org/lts/security/2026/dla-4642",
+  "title": "I Challenge Thee",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:17:11Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-37f4450d4934.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52004,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/implement-retries-exponential-backoff",
+  "title": "Implement retries with exponential backoff - .NET",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:57:03Z",
+  "category": null
+}

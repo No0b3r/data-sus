@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-002-go-crypto-tls-461835/loang/cap-run-20260917T103202Z-c8679e038be6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4999433,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/crypto/tls@go1.22.12?tab=importedby",
+  "title": "tls",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:57:02Z",
+  "category": null
+}

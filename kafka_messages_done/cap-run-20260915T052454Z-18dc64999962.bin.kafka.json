@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260915T052454Z-18dc64999962.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 177391,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/guides/lab-creating-ai-product-reviewer/",
+  "title": "Lab: Building an AI Product Reviewer",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:06:56Z",
+  "category": "AI,Docker,Model,Runner,sentiment,analysis,embeddings,RAG,lab,labspace"
+}

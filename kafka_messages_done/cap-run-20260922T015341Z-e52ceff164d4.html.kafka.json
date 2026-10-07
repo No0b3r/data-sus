@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/node-js-d04dd7/loang/cap-run-20260922T015341Z-e52ceff164d4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9284,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v7.x/api/string_decoder.html",
+  "title": "String Decoder",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:30:48Z",
+  "category": null
+}

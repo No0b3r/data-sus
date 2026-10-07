@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/windows-security-model-for-drivers-2a1a74/loang/cap-run-20260915T052454Z-162f0bea3fb4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59514,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/uwp/launch-resume/create-and-register-an-inproc-background-task",
+  "title": "Create and register an in-process background task - UWP applications",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:13:55Z",
+  "category": "windows 10, uwp, background task"
+}

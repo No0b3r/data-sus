@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-5f9b15ac890c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4504,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/connect/latest/adminguide/contact-flow-logs.html",
+  "title": "Amazon CloudWatch 로그 그룹에서 고객 흐름 로그 연결 활성화",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:32:59Z",
+  "category": null
+}

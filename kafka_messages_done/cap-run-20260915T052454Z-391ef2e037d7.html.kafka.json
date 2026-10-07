@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-391ef2e037d7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50996,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/power-platform/architecture/key-concepts/expressroute/overview?toc=%2Fazure%2Farchitecture%2Ftoc.json&bc=%2Fazure%2Farchitecture%2F_bread%2Ftoc.json",
+  "title": "Use Azure ExpressRoute with Power Platform - Power Platform",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:57:05Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-14646d13700b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5416,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/deadline-cloud/latest/APIReference/API_CreateMonitor.html",
+  "title": "CreateMonitor",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:52:55Z",
+  "category": null
+}

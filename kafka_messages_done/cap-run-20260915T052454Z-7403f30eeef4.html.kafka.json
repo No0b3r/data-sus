@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-7403f30eeef4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5979,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/AmazonS3/latest/userguide/example-bucket-policies-vpc-endpoint.html",
+  "title": "使用儲存貯體政策控制來自 VPC 端點的存取",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:00:21Z",
+  "category": null
+}

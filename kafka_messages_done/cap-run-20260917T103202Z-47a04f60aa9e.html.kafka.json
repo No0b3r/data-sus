@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/microsoft-sdl-practices-570ca4/loang/cap-run-20260917T103202Z-47a04f60aa9e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 19175,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/download/details.aspx?id=29884",
+  "title": "Download Microsoft Security Development Lifecycle (SDL) Process Guidance - Version 5.2 from Official Microsoft Download Center",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:22:21Z",
+  "category": null
+}

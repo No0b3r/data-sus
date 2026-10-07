@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-007-node-crypto-61fe7b/loang/cap-run-20260924T025740Z-fd3714d712f3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6334,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/download/nightly/v14.0.0-nightly2020020122724894c9/",
+  "title": "Index of /download/nightly/v14.0.0-nightly2020020122724894c9/",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:33:30Z",
+  "category": null
+}

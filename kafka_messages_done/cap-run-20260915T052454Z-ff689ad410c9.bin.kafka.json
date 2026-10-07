@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_linux-os-security/Tier1/ubuntu-security-documentation-1f06c3/loang/cap-run-20260915T052454Z-ff689ad410c9.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5675,
+  "domain": "ubuntu.com",
+  "url": "https://documentation.ubuntu.com/core/reference/assertions/snap-build/",
+  "title": "Just a moment...",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:19:14Z",
+  "category": null
+}

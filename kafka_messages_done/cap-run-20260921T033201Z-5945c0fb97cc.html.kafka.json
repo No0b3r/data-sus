@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-006-securerandom-f9f30f/loang/cap-run-20260921T033201Z-5945c0fb97cc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11364,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/java/javase/15/docs/specs/javadoc/doc-comment-spec.html",
+  "title": "Java Platform, Standard Edition Java API Reference",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:27:22Z",
+  "category": null
+}

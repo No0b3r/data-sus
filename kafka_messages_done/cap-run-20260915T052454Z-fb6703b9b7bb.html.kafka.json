@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-fb6703b9b7bb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7522,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/examples-launch-templates-aws-cli.html",
+  "title": "Examples for creating and managing launch templates with the AWS CLI",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:34:59Z",
+  "category": null
+}

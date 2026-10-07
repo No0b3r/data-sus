@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-5125c08587ab.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51484,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/uwp/api/windows.devices.pointofservice.magneticstripereaderaamvacarddatareceivedeventargs.endorsements?view=winrt-28000",
+  "title": "MagneticStripeReaderAamvaCardDataReceivedEventArgs.Endorsements Property (Windows.Devices.PointOfService) - Windows apps",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:53:06Z",
+  "category": "windows 10, uwp, winrt, api"
+}

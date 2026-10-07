@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-c7925533f58e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4776,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html",
+  "title": "Configuring settings for the AWS CLI",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:32:32Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-ce215f3a27b3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9380,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/userguide/storage-inventory.html",
+  "title": "S3 Inventory를 사용한 데이터 카탈로그화 및 분석",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:12:15Z",
+  "category": null
+}

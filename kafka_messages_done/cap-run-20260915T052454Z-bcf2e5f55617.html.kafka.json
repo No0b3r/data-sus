@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudsplaining-457d52/loang/cap-run-20260915T052454Z-bcf2e5f55617.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 291489,
+  "domain": "github.com",
+  "url": "https://github.com/cncf/foundation/blob/master/code-of-conduct.md",
+  "title": "foundation/code-of-conduct.md at main · cncf/foundation",
+  "author": "Cncf",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:11:41Z",
+  "category": "repository:65915265"
+}

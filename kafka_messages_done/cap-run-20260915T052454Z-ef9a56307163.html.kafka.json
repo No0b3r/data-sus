@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-ef9a56307163.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54706,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/sql/reporting-services/install-windows/ssrs-report-server-create-a-report-server-database",
+  "title": "Create a report server database, Configuration Manager - SQL Server Reporting Services (SSRS)",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:00:13Z",
+  "category": null
+}

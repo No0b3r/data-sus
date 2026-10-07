@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t2-002-java-pki-jsse-88f1ed/loang/cap-run-20260917T103202Z-faa56728c845.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2719,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/javase/8/docs/jre/api/security/jaas/spec/com/sun/security/auth/package-summary.html",
+  "title": "Package com.sun.security.auth",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:19:50Z",
+  "category": "com.sun.security.auth package"
+}

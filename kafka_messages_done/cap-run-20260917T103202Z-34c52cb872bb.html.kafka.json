@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-003-go-crypto-46f4ef/loang/cap-run-20260917T103202Z-34c52cb872bb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53939,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/hash/fnv@go1.27.1",
+  "title": "fnv",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:55:54Z",
+  "category": null
+}

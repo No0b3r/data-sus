@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-data-security-research-f22b06/loang/cap-run-20260917T103202Z-17a41e2af26f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50836,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/",
+  "title": "New Forrester Total Economic Impact™ study projects a 124% ROI from unifying with Microsoft Security | Microsoft Security Blog",
+  "author": "Vasu Jakkal",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:43:29Z",
+  "category": null
+}

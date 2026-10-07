@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/well-architected-labs-af260b/loang/cap-run-20260915T052454Z-29be12399b54.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 194025,
+  "domain": "github.com",
+  "url": "https://github.com/LMResiliency",
+  "title": "LMResiliency",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:23:19Z",
+  "category": "organization:312281759"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-c69605722e25.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5572,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/fr_fr/AmazonS3/latest/userguide/s3-express-security-iam.html",
+  "title": "Autorisation des opérations d’API de point de terminaison régional avec IAM",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:11:47Z",
+  "category": null
+}

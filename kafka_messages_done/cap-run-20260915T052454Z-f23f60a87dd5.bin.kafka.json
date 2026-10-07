@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t3-aesfault-src02-attacking-hardware-aes-3ef26a/loang/cap-run-20260915T052454Z-f23f60a87dd5.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12922,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/list/cs.CR/2019-02",
+  "title": "Cryptography and Security",
+  "author": "Michael D Iannacone; Robert A Bridges",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:54:20Z",
+  "category": null
+}

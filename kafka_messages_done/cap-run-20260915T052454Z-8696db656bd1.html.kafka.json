@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/application-isolation-43c3b0/loang/cap-run-20260915T052454Z-8696db656bd1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54393,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-365/enterprise/security",
+  "title": "Overview of security concepts in Windows 365",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:05:47Z",
+  "category": null
+}

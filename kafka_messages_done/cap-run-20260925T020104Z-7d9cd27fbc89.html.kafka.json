@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-006-rfc-4301-ipsec-architecture-74782a/loang/cap-run-20260925T020104Z-7d9cd27fbc89.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 213655,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2211/",
+  "title": "RFC 2211: Specification of the Controlled-Load Network Element Service | RFC Editor",
+  "author": "J Wroclawski",
+  "published_year": 1997,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:18Z",
+  "category": "QOS: Quality of Service, integrated services"
+}

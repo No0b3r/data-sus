@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-047-owasp-asvs-4465f0/loang/cap-run-20260925T020104Z-730b3d37009a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18851,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/chapters",
+  "title": "Local Chapters | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:42:54Z",
+  "category": "OWASP chapters,local chapters,chapter meetings,security meetups,AppSec community,chapter listing,OWASP,OWASP Foundation,application security,software security"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260921T033201Z-887d0e5c10ee.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 488249,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/api/stream_iter.html",
+  "title": "Node.js v26.10.0 documentation",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:55:13Z",
+  "category": null
+}

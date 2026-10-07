@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-f77e3b0fcd05.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 75237,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/uwp/threading-async/asynchronous-programming-in-cpp-universal-windows-platform-apps",
+  "title": "Asynchronous programming in C++ - UWP applications",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:04:05Z",
+  "category": "windows 10, uwp, threads, asynchronous, C++"
+}

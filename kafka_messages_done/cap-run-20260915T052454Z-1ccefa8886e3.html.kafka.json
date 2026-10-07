@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudsplaining-457d52/loang/cap-run-20260915T052454Z-1ccefa8886e3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 450230,
+  "domain": "github.com",
+  "url": "https://github.com/nocobase/nocobase",
+  "title": "GitHub - nocobase/nocobase: NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+  "author": "Nocobase",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:11:28Z",
+  "category": "repository:306829688"
+}

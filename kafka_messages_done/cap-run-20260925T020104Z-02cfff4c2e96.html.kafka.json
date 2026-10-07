@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-full-003-rfc-9147-d9eb1c/loang/cap-run-20260925T020104Z-02cfff4c2e96.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 357226,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3303/",
+  "title": "RFC 3303: Middlebox communication architecture and framework | RFC Editor",
+  "author": "P Srisuresh; J Kuthan; J Rosenberg; A Molitor; A Rayhan",
+  "published_year": 2002,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:48:44Z",
+  "category": "midcom"
+}

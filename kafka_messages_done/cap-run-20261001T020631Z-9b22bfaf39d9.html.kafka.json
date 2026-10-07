@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-http-server-1e9e3d/loang/cap-run-20261001T020631Z-9b22bfaf39d9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3132,
+  "domain": "apache.org",
+  "url": "https://httpd.apache.org/download.cgi",
+  "title": "Download",
+  "author": "Documentation Group",
+  "published_year": 2008,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:56:51Z",
+  "category": null
+}

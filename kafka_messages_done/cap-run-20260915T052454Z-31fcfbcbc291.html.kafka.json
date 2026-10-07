@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/go-runtime-compiler-1516d5/loang/cap-run-20260915T052454Z-31fcfbcbc291.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40091,
+  "domain": "go.dev",
+  "url": "https://go.dev/blog/declaration-syntax",
+  "title": "Go's Declaration Syntax",
+  "author": "Rob Pike",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:53:19Z",
+  "category": null
+}

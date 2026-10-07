@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t2-thuc-hanh/Tier2/saelo-3-years-of-attacking-javascript-engine-30930e/loang/cap-run-20260915T052454Z-63195a5e2a1c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 143537,
+  "domain": "github.com",
+  "url": "https://gist.github.com/saelo/85a08a96e61d43d1bf73",
+  "title": "tmux configuration",
+  "author": "Saelo",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:20:17Z",
+  "category": null
+}

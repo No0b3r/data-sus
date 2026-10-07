@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-006-rfc-4301-ipsec-architecture-74782a/loang/cap-run-20260925T020104Z-c407d917187c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1273862,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc9331",
+  "title": "RFC 9331: The Explicit Congestion Notification (ECN) Protocol for Low Latency, Low Loss, and Scalable Throughput (L4S) | RFC Editor",
+  "author": "K De Schepper; B Briscoe",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:25Z",
+  "category": "Burstiness, Performance, Queuing Delay, One Way Delay, Round-Trip Time, RTT, Jitter, Congestion Control, Congestion Avoidance, Quality of Service, QoS, Quality of Experience, QoE, Active Queue Management, AQM, Explicit Congestion Notification, ECN, Pacing"
+}

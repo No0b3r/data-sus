@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-4103e3fe37cd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 87073,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-integrate-internal-vnet-appgateway",
+  "title": "Use API Management in a virtual network with Azure Application Gateway - Azure API Management",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:39:28Z",
+  "category": null
+}

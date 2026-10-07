@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-devops-security-dd3760/loang/cap-run-20260915T052454Z-bea8e5911a23.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 46649,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/azure/devops/tfvc/",
+  "title": "TFVC REST API for Azure DevOps Services - Azure DevOps Services REST API",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:54:35Z",
+  "category": null
+}

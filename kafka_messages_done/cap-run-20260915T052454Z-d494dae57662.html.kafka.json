@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260915T052454Z-d494dae57662.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 27493,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/vscode-go/+/ce5d52e0bc11cec7f5c17210310cc28d35e20b4d",
+  "title": "Go for Visual Studio Code",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:17:23Z",
+  "category": null
+}

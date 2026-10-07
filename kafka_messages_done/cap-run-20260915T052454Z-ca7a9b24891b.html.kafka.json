@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-ca7a9b24891b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 60000,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/devops/artifacts/feeds/feed-permissions?view=azure-devops",
+  "title": "Manage permissions - Azure Artifacts",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:41:24Z",
+  "category": null
+}

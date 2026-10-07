@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/control-tower-controls-504d83/loang/cap-run-20260915T052454Z-dfa7f1a764c7.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 1811,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/controltower/latest/APIReference/API_CreateLandingZone.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:15:39Z",
+  "category": null
+}

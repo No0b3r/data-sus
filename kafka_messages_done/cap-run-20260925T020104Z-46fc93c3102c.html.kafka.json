@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t3-beast-src03-rfc-7457-summarizing-known-a4bee5/loang/cap-run-20260925T020104Z-46fc93c3102c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 280898,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5056/",
+  "title": "RFC 5056: On the Use of Channel Bindings to Secure Channels | RFC Editor",
+  "author": "N Williams",
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:54:23Z",
+  "category": null
+}

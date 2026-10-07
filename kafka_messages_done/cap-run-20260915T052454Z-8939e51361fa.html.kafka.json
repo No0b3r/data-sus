@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/container-apps-security-0919ed/loang/cap-run-20260915T052454Z-8939e51361fa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55401,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/confidential-ledger/ledger-explorer-offline",
+  "title": "Inspect Azure confidential ledger data with Ledger Explorer (Offline)",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:14:30Z",
+  "category": null
+}

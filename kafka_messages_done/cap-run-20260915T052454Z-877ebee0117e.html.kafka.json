@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-security-devops-bf2c4f/loang/cap-run-20260915T052454Z-877ebee0117e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 333985,
+  "domain": "github.com",
+  "url": "https://github.com/PyCQA/bandit",
+  "title": "GitHub - PyCQA/bandit: Bandit is a tool designed to find common security issues in Python code.",
+  "author": "PyCQA",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:47:23Z",
+  "category": "repository:131129792"
+}

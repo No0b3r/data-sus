@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/github-security-documentation-f2e981/loang/cap-run-20260921T033201Z-6ad6c44da3df.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52009,
+  "domain": "github.com",
+  "url": "https://docs.github.com/zh/code-security/concepts/supply-chain-security/dependency-review",
+  "title": "依赖项审查 - GitHub 文档",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:28:54Z",
+  "category": null
+}

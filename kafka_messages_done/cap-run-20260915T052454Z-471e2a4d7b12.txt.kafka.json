@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-shield-37ba48/loang/cap-run-20260915T052454Z-471e2a4d7b12.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 3235,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/waf/latest/developerguide/what-is-aws-waf.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:46:54Z",
+  "category": null
+}

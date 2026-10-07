@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/parliament-1877f0/loang/cap-run-20260915T052454Z-6835600ccee9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 415023,
+  "domain": "github.com",
+  "url": "https://github.com/rdkls/tf-parliament/commits/master/",
+  "title": "Commits · rdkls/tf-parliament",
+  "author": "Rdkls",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:48:01Z",
+  "category": "repository:232471283"
+}

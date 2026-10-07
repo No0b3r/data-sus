@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-full-003-rfc-9147-d9eb1c/loang/cap-run-20260925T020104Z-b3e17adb276a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 437822,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4474/",
+  "title": "RFC 4474: Enhancements for Authenticated Identity Management in the Session Initiation Protocol (SIP) | RFC Editor",
+  "author": "J Peterson; C Jennings",
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:48:53Z",
+  "category": "security, identity, identity-info"
+}

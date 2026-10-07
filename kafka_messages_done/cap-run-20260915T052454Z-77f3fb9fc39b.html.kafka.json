@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/hyper-v-virtual-switch-eacbfc/loang/cap-run-20260915T052454Z-77f3fb9fc39b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 99970,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/2286423/windows-2025-nz-month-format-sept",
+  "title": "Windows 2025 NZ month format Sept - Microsoft Q&A",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:04:25Z",
+  "category": null
+}

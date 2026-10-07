@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/landing-zone-accelerator-865107/loang/cap-run-20260915T052454Z-353ea29d42ee.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 249569,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/landing-zone-accelerator-on-aws/issues/498",
+  "title": "Accelerator Metadata Configuration resource name needs to be updated in documentation · Issue #498 · awslabs/landing-zone-accelerator-on-aws",
+  "author": "Awslabs",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:38:06Z",
+  "category": "issue:2375725126"
+}

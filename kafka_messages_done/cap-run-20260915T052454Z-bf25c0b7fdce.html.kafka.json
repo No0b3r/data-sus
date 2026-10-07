@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/workload-identity-federation-09f786/loang/cap-run-20260915T052454Z-bf25c0b7fdce.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59931,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/power-platform/alm/devops-build-tools",
+  "title": "Microsoft Power Platform Build Tools for Azure DevOps - Power Platform",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:24:46Z",
+  "category": null
+}

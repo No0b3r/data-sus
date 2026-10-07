@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c8-t2-005-boringssl-2eff5c/loang/cap-run-20260924T025740Z-931aa0419a4f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10219,
+  "domain": "googlesource.com",
+  "url": "https://boringssl.googlesource.com/boringssl/+/5fbad2285b096858fc9afa3e4c949fde39452070/docs/advisories/2026-01-27.md",
+  "title": "OpenSSL Advisory: January 27th, 2026 (BoringSSL Not Affected)",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T20:59:14Z",
+  "category": null
+}

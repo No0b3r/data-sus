@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-f01e5752af4d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 41763,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-jingmiao",
+  "title": "{SpeechGuard}: Recoverable and Customizable Speech Privacy Protection",
+  "author": "Jingmiao Zhang; Suyuan Liu; Jiahui Hou; Zhiqiang Wang; Haikuo Yu; Xiang-Yang Li",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:22:24Z",
+  "category": null
+}

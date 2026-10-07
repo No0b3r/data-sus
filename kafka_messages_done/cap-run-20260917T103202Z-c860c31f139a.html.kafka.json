@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-fineract-8ba7e9/cap-run-20260917T103202Z-c860c31f139a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 926449,
+  "domain": "apache.org",
+  "url": "https://fineract.apache.org/docs/current",
+  "title": "Fineract Platform Documentation",
+  "author": "Invoke APIs; Pass Authorization Bearer … Header",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:28:40Z",
+  "category": null
+}

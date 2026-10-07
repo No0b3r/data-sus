@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260923T111036Z-21f9832e875a.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 428361,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/ko/about/eol",
+  "title": "Node.js — End-Of-Life",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:13:53Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-da59d2f2fc95.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59677,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/lecuyer",
+  "title": "{XRay}: Enhancing the {Web’s} Transparency with Differential Correlation",
+  "author": "Mathias Lécuyer; Guillaume Ducoffe; Francis Lan; Andrei Papancea; Theofilos Petsios; Riley Spahn; Augustin Chaintreau; Roxana Geambasu",
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:22:10Z",
+  "category": null
+}

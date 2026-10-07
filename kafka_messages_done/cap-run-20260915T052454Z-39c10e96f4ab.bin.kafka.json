@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/scp-examples-99f4a7/loang/cap-run-20260915T052454Z-39c10e96f4ab.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2003542,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/goto/SdkForRubyV3/iam-2010-05-08/GetOrganizationsAccessReport",
+  "title": "Class: Aws::IAM::Client",
+  "author": "Get Account Authorization Details ⇒ Typesgetaccountauthorizationdetailsresponse",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:15:52Z",
+  "category": null
+}

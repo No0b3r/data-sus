@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_linux-os-security/Tier1/debian-security-information-d95989/loang/cap-run-20260915T052454Z-f2c8c291cd1d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4180,
+  "domain": "debian.org",
+  "url": "https://www.debian.org/distrib/",
+  "title": "Download Debian",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:18:22Z",
+  "category": null
+}

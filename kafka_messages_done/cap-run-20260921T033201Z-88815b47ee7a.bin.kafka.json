@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/falco-documentation-395194/loang/cap-run-20260921T033201Z-88815b47ee7a.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52078,
+  "domain": "falco.org",
+  "url": "https://falco.org/blog/falco-apple-silicon/",
+  "title": "Running Falco on Apple Silicon",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:54:44Z",
+  "category": "blog"
+}

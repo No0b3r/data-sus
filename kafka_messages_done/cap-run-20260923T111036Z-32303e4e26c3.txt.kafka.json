@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c8-t2-005-boringssl-2eff5c/loang/cap-run-20260923T111036Z-32303e4e26c3.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 302,
+  "domain": "boringssl.googlesource.com",
+  "url": "https://boringssl.googlesource.com/boringssl/+/b75f405cde1cc3c9fb811be155eecabe38f379bb/AUTHORS?format=JSON",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T20:46:16Z",
+  "category": null
+}

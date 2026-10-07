@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c12-full-020-lost-encryption-keys-83f973/loang/cap-run-20260915T052454Z-b2e4da99965c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7566,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/kms/latest/developerguide/key-store-overview.html",
+  "title": "密钥存储",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:21:40Z",
+  "category": null
+}

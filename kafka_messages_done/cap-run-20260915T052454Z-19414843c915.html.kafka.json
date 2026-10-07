@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-19414843c915.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52479,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/ufxproprietarycharger/ns-ufxproprietarycharger-_ufx_interface_proprietary_charger",
+  "title": "_UFX_INTERFACE_PROPRIETARY_CHARGER (ufxproprietarycharger.h) - Windows drivers",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:49:20Z",
+  "category": "UFX_INTERFACE_PROPRIETARY_CHARGER structure"
+}

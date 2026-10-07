@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-3ce7abc6a153.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38950,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity21/presentation/huaman",
+  "title": "A {Large-Scale} Interview Study on Information Security in and Attacks against Small and Medium-sized Enterprises",
+  "author": "Nicolas Huaman; Skarczinski; Christian Stransky; Dominik Wermke; Yasemin Acar; Arne Dreißigacker; Sascha Fahl",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:45Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-f23dfaf4a0c4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12710,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.6/library/asyncio-protocol.html",
+  "title": "18.5.4. Transports and protocols (callback based API)¶",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:18:07Z",
+  "category": null
+}

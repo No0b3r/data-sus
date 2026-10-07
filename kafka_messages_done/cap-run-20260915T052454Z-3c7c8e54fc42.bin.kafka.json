@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-005-go-crypto-cipher-1bf15e/loang/cap-run-20260915T052454Z-3c7c8e54fc42.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": null,
+  "domain": "pkg.go.dev",
+  "url": "http://pkg.go.dev/license-policy",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:42:47Z",
+  "category": null,
+  "_fetch_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+}

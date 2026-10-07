@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/node-js-d04dd7/loang/cap-run-20260917T103202Z-5c9f885c1e56.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12272,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v0.10.x/api/path.html",
+  "title": "Node.js v0.10.48 Manual & Documentation",
+  "author": null,
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:09:43Z",
+  "category": null
+}

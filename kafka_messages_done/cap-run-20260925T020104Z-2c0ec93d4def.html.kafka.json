@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t1-001-rfc-5280-x-509-pki-dc9320/loang/cap-run-20260925T020104Z-2c0ec93d4def.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 139504,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4630",
+  "title": "RFC 4630: Update to DirectoryString Processing in the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile | RFC Editor",
+  "author": "R Housley; S Santesson",
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:18:31Z",
+  "category": "utf8string, printablestring"
+}

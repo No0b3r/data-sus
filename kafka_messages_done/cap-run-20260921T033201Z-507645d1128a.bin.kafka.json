@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260921T033201Z-507645d1128a.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 16534,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3/library/email.compat32-message.html",
+  "title": "email.message.Message: Representing an email message using the compat32 API",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T12:48:36Z",
+  "category": null
+}

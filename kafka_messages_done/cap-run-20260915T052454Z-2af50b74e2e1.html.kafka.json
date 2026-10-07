@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/data-perimeter-strategy-287f12/loang/cap-run-20260915T052454Z-2af50b74e2e1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 25664,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/cloud9/latest/user-guide/security-iam.html",
+  "title": "Identity and Access Management for AWS Cloud9",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:16:30Z",
+  "category": null
+}

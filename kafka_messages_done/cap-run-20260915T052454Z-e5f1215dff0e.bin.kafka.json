@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-e5f1215dff0e.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": null,
+  "domain": "docs.python.org",
+  "url": "https://docs.python.org/sv/3.11/library/ensurepip.html",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T10:40:47Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='docs.python.org', port=443): Max retries exceeded with url: /sv/3.11/library/ensurepip.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001C3FA6F6D10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))"
+}

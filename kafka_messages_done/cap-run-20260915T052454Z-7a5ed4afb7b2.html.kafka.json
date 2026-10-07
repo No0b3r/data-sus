@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/lsa-authentication-9f05ce/loang/cap-run-20260915T052454Z-7a5ed4afb7b2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50435,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/desktop/api/Ntsecapi/ne-ntsecapi-policy_domain_information_class",
+  "title": "POLICY_DOMAIN_INFORMATION_CLASS (ntsecapi.h) - Win32 apps",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:08:23Z",
+  "category": null
+}

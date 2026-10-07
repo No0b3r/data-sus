@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-86c48fe8938e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5912,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.1/library/calendar.html",
+  "title": "8.2. calendar — General calendar-related functions¶",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:05:17Z",
+  "category": null
+}

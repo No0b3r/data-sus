@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-full-015-rfc-9580-ca351b/loang/cap-run-20260925T020104Z-faff6b7766e7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 229588,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc6637",
+  "title": "RFC 6637: Elliptic Curve Cryptography (ECC) in OpenPGP | RFC Editor",
+  "author": "A Jivsov",
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:01Z",
+  "category": null
+}

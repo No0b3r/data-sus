@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-well-architected-framework-b3cf31/loang/cap-run-20260915T052454Z-08ee1133aaf8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 404377,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/de/sports/?nc2=h_sol_ind_spt",
+  "title": "Cloud-Lösungen für die Sportbranche – Cloud Computing – AWS",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:48:29Z",
+  "category": null
+}

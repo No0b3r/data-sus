@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-029b0b25e14d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/WorkingWithTables.Basics.html",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:04:41Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='docs.aws.amazon.com', port=443): Read timed out. (read timeout=15.0)"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aks-security-best-practices-d76b4e/loang/cap-run-20260915T052454Z-f7c1cf4e6a2f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 63178,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/aks/managed-identity-overview",
+  "title": "Managed Identities in Azure Kubernetes Service (AKS) Overview - Azure Kubernetes Service",
+  "author": "AKS managed identity authorization flow",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:53:55Z",
+  "category": null
+}

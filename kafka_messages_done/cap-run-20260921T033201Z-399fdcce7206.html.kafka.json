@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/github-security-documentation-f2e981/loang/cap-run-20260921T033201Z-399fdcce7206.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 45582,
+  "domain": "github.com",
+  "url": "https://docs.github.com/zh/code-security/concepts/secret-security/push-protection-from-the-rest-api",
+  "title": "使用与 REST API 相关的推送保护 - GitHub 文档",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:27:59Z",
+  "category": null
+}

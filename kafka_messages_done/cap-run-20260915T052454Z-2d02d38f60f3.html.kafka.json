@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/google-secops-community-bf2da9/loang/cap-run-20260915T052454Z-2d02d38f60f3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 259253,
+  "domain": "github.com",
+  "url": "https://github.com/chronicle/content-hub/blob/main/docs/tools_and_sdk/soar_sdk.md",
+  "title": "content-hub/docs/tools_and_sdk/soar_sdk.md at main · chronicle/content-hub",
+  "author": "Chronicle",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:27:39Z",
+  "category": "repository:991545923"
+}

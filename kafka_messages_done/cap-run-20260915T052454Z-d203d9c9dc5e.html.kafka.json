@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-d203d9c9dc5e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 56695,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/batch/scripts/batch-cli-sample-create-account",
+  "title": "Azure CLI Script Example - Create Batch account - Batch service - Azure Batch",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:59:48Z",
+  "category": "batch, azure cli samples, azure cli code samples, azure cli script samples"
+}

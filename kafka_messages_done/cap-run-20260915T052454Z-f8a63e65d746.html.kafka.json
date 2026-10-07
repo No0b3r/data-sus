@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ecs-security-7c5872/loang/cap-run-20260915T052454Z-f8a63e65d746.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4262,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/fr_fr/AmazonECS/latest/developerguide/http_proxy_config.html",
+  "title": "Utilisation d’un proxy HTTP pour les instances de conteneur Amazon ECS Linux",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:24:44Z",
+  "category": null
+}

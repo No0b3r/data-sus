@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-f42fb83236c8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53377,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/win32/api/wlanapi/nf-wlanapi-wlangetfilterlist",
+  "title": "WlanGetFilterList function (wlanapi.h) - Win32 apps",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:03:52Z",
+  "category": null
+}

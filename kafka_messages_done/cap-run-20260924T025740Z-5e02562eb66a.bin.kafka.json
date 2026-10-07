@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260924T025740Z-5e02562eb66a.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 440633,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/reference/build-checks/from-platform-flag-const-disallowed/",
+  "title": "FromPlatformFlagConstDisallowed",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:28:28Z",
+  "category": null
+}

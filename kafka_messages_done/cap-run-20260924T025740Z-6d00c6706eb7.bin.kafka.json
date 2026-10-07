@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-007-node-crypto-61fe7b/loang/cap-run-20260924T025740Z-6d00c6706eb7.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 272868,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/en/download/archive/v26.10.0",
+  "title": "Node.js — Run JavaScript Everywhere",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T15:21:36Z",
+  "category": null
+}

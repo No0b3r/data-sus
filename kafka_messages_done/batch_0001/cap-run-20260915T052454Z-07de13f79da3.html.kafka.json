@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/sra-examples-cb5291/loang/cap-run-20260915T052454Z-07de13f79da3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 409466,
+  "domain": "github.com",
+  "url": "https://github.com/bridgecrewio/checkov/pull/2216",
+  "title": "support check suppression via CFN Metadata by gruebel · Pull Request #2216 · bridgecrewio/checkov",
+  "author": "Bridgecrewio",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:18:57Z",
+  "category": "pull_request:823952463"
+}

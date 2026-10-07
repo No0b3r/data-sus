@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260924T083724Z-99102a08d7f3.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 481506,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/reference/compose-file/merge/",
+  "title": "Merge Compose files",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:33:03Z",
+  "category": "compose,compose,specification,merge,compose,file,reference"
+}

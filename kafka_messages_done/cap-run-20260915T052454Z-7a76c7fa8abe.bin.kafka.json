@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-7a76c7fa8abe.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 12369,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/ddos-protection/media/manage-ddos-protection/ddos-network-protection-diagram-simple.png",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:34:40Z",
+  "category": null
+}

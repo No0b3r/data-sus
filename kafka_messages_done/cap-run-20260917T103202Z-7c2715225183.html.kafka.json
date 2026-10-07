@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c6-t3-003-github-secret-scanning-22ca84/loang/cap-run-20260917T103202Z-7c2715225183.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 92186,
+  "domain": "github.com",
+  "url": "https://docs.github.com/es/code-security/responsible-use/security-and-quality-ai-features",
+  "title": "Tarjeta de la aplicación: funciones de IA de GitHub para seguridad y calidad - Documentación de GitHub",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:43:31Z",
+  "category": null
+}

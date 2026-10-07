@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-57bfc11e8cd4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7855,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ja_jp/sdk-for-net/v3/developer-guide/kms-keys-s3-encryption.html",
+  "title": "での Amazon S3 暗号化の AWS KMS キーの使用 AWS SDK for .NET",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:58:58Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-feb5e8bafa9a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15786,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/elasticloadbalancing/latest/application/load-balancer-access-logs.html",
+  "title": "Application Load Balancer에 대한 액세스 로그",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:15:15Z",
+  "category": null
+}

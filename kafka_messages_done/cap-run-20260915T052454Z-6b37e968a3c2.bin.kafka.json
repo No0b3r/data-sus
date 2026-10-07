@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-6b37e968a3c2.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6591,
+  "domain": "python.org",
+  "url": "https://docs.python.org/tr/3.11/library/binascii.html",
+  "title": "binascii — Convert between binary and ASCII",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T09:45:34Z",
+  "category": null
+}

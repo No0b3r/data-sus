@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-008-crypto-rand-47dfdc/loang/cap-run-20260917T103202Z-b6c7ca6f63a4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51945,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/Ocyss/douyin@v0.0.0-20230904021324-1ef39ee45918/server/common",
+  "title": "common",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:42:32Z",
+  "category": null
+}

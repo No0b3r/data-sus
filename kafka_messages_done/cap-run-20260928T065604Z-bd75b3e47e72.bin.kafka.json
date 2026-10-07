@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/github-security-lab-504330/cap-run-20260928T065604Z-bd75b3e47e72.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49324,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2026-124_GHSL-2026-134_NanaZip/",
+  "title": "GHSL-2026-124_GHSL-2026-134: Memory corruption, information disclosure, and denial of service in NanaZip - CVE-2026-54616, CVE-2026-44215, CVE-2026-47222, CVE-2026-47223, CVE-2026-42446, CVE-2026-47224, CVE-2026-42442, CVE-2026-42443, CVE-2026-42445, CVE-2026-42355, CVE-2026-42444",
+  "author": "Jarlob",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:26:43Z",
+  "category": null
+}

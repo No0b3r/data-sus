@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260922T015341Z-ab29d5990893.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 430550,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/ja/download/archive/v4.9.1",
+  "title": "Node.js — どこでもJavaScriptを使おう",
+  "author": null,
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:08:56Z",
+  "category": null
+}

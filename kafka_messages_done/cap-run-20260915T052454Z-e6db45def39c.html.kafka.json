@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-005-go-crypto-cipher-1bf15e/loang/cap-run-20260915T052454Z-e6db45def39c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 164206,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/notch-technologies/jwt-go",
+  "title": "jwt",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:20:41Z",
+  "category": null
+}

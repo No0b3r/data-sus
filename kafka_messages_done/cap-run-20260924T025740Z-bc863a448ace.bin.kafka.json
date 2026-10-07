@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-039-owasp-asvs-a28fb4/loang/cap-run-20260924T025740Z-bc863a448ace.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 108444,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/board/meetings/2015-09-25",
+  "title": "OWASP Board Meeting — September 25, 2015 | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:41:03Z",
+  "category": "OWASP,OWASP Foundation,application security,software security"
+}

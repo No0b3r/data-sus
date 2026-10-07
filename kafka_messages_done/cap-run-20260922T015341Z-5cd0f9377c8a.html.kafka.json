@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/java-openjdk-hotspot-30640c/loang/cap-run-20260922T015341Z-5cd0f9377c8a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7083,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/java/javase/27/management/overview-java-se-monitoring-and-management.html",
+  "title": "Monitoring and Management Guide",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:02:55Z",
+  "category": "urn:ohc:tag:,urn:ohc:application:,urn:ohc:application-type:,urn:ohc:industry:"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/codeql-b5e352/loang/cap-run-20260923T111036Z-d6fa5c61d5ce.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11396,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/docs/codeql-language-guides/abstract-syntax-tree-classes-for-working-with-ruby-programs",
+  "title": "Abstract syntax tree classes for working with Ruby programs¶",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:35:34Z",
+  "category": null
+}

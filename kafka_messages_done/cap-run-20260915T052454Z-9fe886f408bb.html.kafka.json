@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-9fe886f408bb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5793,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ja_jp/AmazonS3/latest/userguide/enable-cloudtrail-logging-for-s3.html",
+  "title": "S3 バケットとオブジェクトの CloudTrail イベントログ記録の有効化",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:09:49Z",
+  "category": null
+}

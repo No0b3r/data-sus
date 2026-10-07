@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-54e2e49ed97f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 56724,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-network/virtual-network-troubleshoot-nva",
+  "title": "Troubleshoot network virtual appliance issues in Azure - Azure",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:33:22Z",
+  "category": null
+}

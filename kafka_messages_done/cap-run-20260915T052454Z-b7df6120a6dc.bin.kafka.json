@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/compromised-cluster-remediation-2171da/loang/cap-run-20260915T052454Z-b7df6120a6dc.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4011,
+  "domain": "github.com",
+  "url": "https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Famazon-archives%2F__template_MIT-0&report=amazon-archives+%28user%29",
+  "title": "Sign in for Software Support and Product Help",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:14:21Z",
+  "category": null
+}

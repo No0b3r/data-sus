@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/codepipeline-security-813017/loang/cap-run-20260915T052454Z-edc70456ecd1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5068,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/fr_fr/codepipeline/latest/userguide/concepts-how-it-works-conditions.html",
+  "title": "Comment fonctionnent les conditions scéniques ?",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:12:24Z",
+  "category": null
+}

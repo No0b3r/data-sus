@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260921T033201Z-f4cc418ccd26.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15961,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/vulndb/+/1b3df975e20647ccd990bef7eb2e788c617858e9",
+  "title": "The Go Vulnerability Database",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:35:08Z",
+  "category": null
+}

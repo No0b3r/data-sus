@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloud-custodian-2e964d/loang/cap-run-20260915T052454Z-9f4d1a8a76c9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 333945,
+  "domain": "github.com",
+  "url": "https://github.com/cncf/foundation/tree/main",
+  "title": "GitHub - cncf/foundation: ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.",
+  "author": "Cncf",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:01:30Z",
+  "category": "repository:65915265"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/flutter-c3cb7c/loang/cap-run-20260925T020104Z-8e1cc533e835.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 28593,
+  "domain": "flutter.dev",
+  "url": "https://docs.flutter.dev/cookbook/persistence/sqlite",
+  "title": "Persist data with SQLite",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:48:08Z",
+  "category": null
+}

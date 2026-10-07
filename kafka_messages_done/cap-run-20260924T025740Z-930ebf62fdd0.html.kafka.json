@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c8-t2-005-boringssl-2eff5c/cap-run-20260924T025740Z-930ebf62fdd0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15247,
+  "domain": "googlesource.com",
+  "url": "https://boringssl.googlesource.com/boringssl",
+  "title": "BoringSSL",
+  "author": "Xiangfei Ding",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T20:21:52Z",
+  "category": null
+}

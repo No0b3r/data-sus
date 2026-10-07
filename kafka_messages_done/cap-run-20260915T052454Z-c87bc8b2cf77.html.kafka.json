@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azurehound-3d2e37/loang/cap-run-20260915T052454Z-c87bc8b2cf77.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 256469,
+  "domain": "github.com",
+  "url": "https://github.com/chrismaddalena/DocPatch",
+  "title": "GitHub - chrismaddalena/DocPatch: A simple script that edits the XML of a macro-enabled Word document (.docm or Word 97 document) to add a reference to a remote stylesheet.",
+  "author": "Chrismaddalena",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:21Z",
+  "category": "repository:160400757"
+}

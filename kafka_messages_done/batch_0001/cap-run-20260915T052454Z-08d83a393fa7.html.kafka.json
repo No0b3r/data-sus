@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-08d83a393fa7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5438,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/emr/latest/ManagementGuide/emr-vpc-launching-job-flows.html",
+  "title": "Lanzamiento de clústeres en una VPC con Amazon EMR",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T12:10:15Z",
+  "category": null
+}

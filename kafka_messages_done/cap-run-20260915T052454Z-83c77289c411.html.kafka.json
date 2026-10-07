@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c12-full-020-lost-encryption-keys-83f973/loang/cap-run-20260915T052454Z-83c77289c411.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6016,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/kms/latest/developerguide/disconnect-keystore.html",
+  "title": "AWS CloudHSM 키 스토어 연결 해제",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:20:29Z",
+  "category": null
+}

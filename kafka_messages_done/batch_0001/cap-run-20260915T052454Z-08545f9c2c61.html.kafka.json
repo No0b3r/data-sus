@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azurehound-3d2e37/loang/cap-run-20260915T052454Z-08545f9c2c61.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 242158,
+  "domain": "github.com",
+  "url": "https://github.com/SpecterOps/AzureHound/commits?author=0xffhh",
+  "title": "Commits · SpecterOps/AzureHound",
+  "author": "SpecterOps",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:08Z",
+  "category": "repository:496736618"
+}

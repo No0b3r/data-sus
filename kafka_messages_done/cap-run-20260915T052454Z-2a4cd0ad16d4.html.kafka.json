@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-2a4cd0ad16d4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62509,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/copilot/discover-storage-estate-insights?toc=%2Fazure%2Fstorage-discovery%2Ftoc.json",
+  "title": "Discover Insights About Your Azure Storage Estate with Azure Storage Discovery Using Azure Copilot",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:56:42Z",
+  "category": null
+}

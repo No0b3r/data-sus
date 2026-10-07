@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-006-securerandom-f9f30f/loang/cap-run-20260921T033201Z-c8a5c41d0eb5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12978,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/java/javase/16/intl/internationalization-overview.html",
+  "title": "Internationalization Guide",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:28:36Z",
+  "category": null
+}

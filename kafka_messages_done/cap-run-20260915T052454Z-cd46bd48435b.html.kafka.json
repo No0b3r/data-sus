@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-reliability-documentation-044519/loang/cap-run-20260915T052454Z-cd46bd48435b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 57723,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/kusto/management/data-export/export-data-to-sql?view=microsoft-fabric",
+  "title": ".export to SQL - Kusto",
+  "author": "Authentication; Authorization",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:59:44Z",
+  "category": null
+}

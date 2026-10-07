@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/artifact-57920c/loang/cap-run-20260915T052454Z-f0b3df8ebf0c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3364,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/pt_br/artifact/latest/ug/terminate-single-agreement.html",
+  "title": "Rescisão de contratos para você em Conta da AWS AWS Artifact",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:55:56Z",
+  "category": null
+}

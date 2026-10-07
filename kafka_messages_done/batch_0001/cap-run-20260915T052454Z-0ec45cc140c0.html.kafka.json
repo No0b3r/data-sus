@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-james-ab8007/loang/cap-run-20260915T052454Z-0ec45cc140c0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1825,
+  "domain": "apache.org",
+  "url": "https://james.apache.org/james/update/2022/10/06/james-3.7.2.html",
+  "title": "Apache James",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:56:56Z",
+  "category": null
+}

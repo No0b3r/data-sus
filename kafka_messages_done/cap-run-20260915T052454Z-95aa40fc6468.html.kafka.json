@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-encryption-sdk-2efcbb/loang/cap-run-20260915T052454Z-95aa40fc6468.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7442,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/it_it/encryption-sdk/latest/developer-guide/migrate-mkps-v2.html",
+  "title": "Aggiornamento dei provider di chiavi AWS KMS principali",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:03:42Z",
+  "category": null
+}

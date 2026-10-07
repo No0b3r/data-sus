@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/shared-responsibility-9bf69a/loang/cap-run-20260915T052454Z-e98c63de555d.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 3057966,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:18:56Z",
+  "category": null
+}

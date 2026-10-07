@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-dc5b3b84132d.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": null,
+  "domain": "docs.python.org",
+  "url": "https://docs.python.org/zh-cn/3.11/genindex-H.html",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T10:40:44Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='docs.python.org', port=443): Max retries exceeded with url: /zh-cn/3.11/genindex-H.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001C3F6F76A90>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))"
+}

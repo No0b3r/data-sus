@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-005-rfc-7296-ikev2-2f9fcd/loang/cap-run-20260925T020104Z-33038ca6f05c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 64032,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9395.html",
+  "title": "Deprecation of the Internet Key Exchange Version 1 (IKEv1) Protocol and Obsoleted Algorithms",
+  "author": "Paul Wouters",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:49Z",
+  "category": null
+}

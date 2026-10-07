@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/threat-modeling-designing-for-security-462a8c/loang/cap-run-20260915T052454Z-6a1a2d65a573.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 306624,
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/Womens-Fashion/b/?_encoding=UTF8&ie=UTF8&node=7147440011&ref_=sv_sl_1&ref_=dress40&enabledRefinements=%5B%7B%22rid%22%3A%22category%22%2C%22ridType%22%3A%22browse%22%2C%22value%22%3A%22211622890011%22%2C%22type%22%3A%22browse%22%7D%2C%7B%22rid%22%3A%22p_36%22%2C%22ridType%22%3A%22SEARCH_SHORT_ID%22%2C%22value%22%3A%220-4000%22%2C%22type%22%3A%22SEARCH_CONSTRAINT%22%7D%2C%7B%22rid%22%3A%22p_n_availability%22%2C%22value%22%3A%222661600011%22%2C%22ridType%22%3A%22SEARCH_SHORT_ID%22%2C%22type%22%3A%22BROWSE_NODE%22%7D%2C%7B%22rid%22%3A%22p_n_condition-type%22%2C%22value%22%3A%226461716011%22%2C%22ridType%22%3A%22SEARCH_SHORT_ID%22%2C%22type%22%3A%22BROWSE_NODE%22%7D%5D&pd_rd_w=zuLtS&content-id=amzn1.sym.aa7377a7-640d-4198-926c-23c1f98d2be1&pf_rd_p=aa7377a7-640d-4198-926c-23c1f98d2be1&pf_rd_r=SAVT8H88YADESVEF8DBS&pd_rd_wg=xdFIL&pd_rd_r=a1dd58f6-25fc-4c45-8e0c-f56adbb24ba6",
+  "title": "Skip to",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:22:40Z",
+  "category": null
+}

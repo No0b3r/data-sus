@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-014-go-crypto-rand-82377e/loang/cap-run-20260921T033201Z-ddf881928570.xml.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": 5406456,
+  "domain": "pkg.go.dev",
+  "url": "https://pkg.go.dev/sitemap/99.xml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T07:10:57Z",
+  "category": null
+}

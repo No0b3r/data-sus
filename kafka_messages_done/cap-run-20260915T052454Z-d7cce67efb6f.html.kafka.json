@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t1-009-microsoft-bcryptgenrandom-d59525/loang/cap-run-20260915T052454Z-d7cce67efb6f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51309,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/win32/secgloss/i-gly",
+  "title": "I (Security Glossary) - Win32 apps",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T08:25:06Z",
+  "category": null
+}

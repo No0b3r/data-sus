@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-full-011-go-crypto-rsa-13bb28/loang/cap-run-20260917T103202Z-429673132ce9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 32071,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/bitbucket.org/gank-global/webcommon-go@v0.0.0-20260916034431-946ed889d86f/errors",
+  "title": "Go Packages",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:35:52Z",
+  "category": null
+}

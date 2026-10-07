@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/application-isolation-43c3b0/loang/cap-run-20260915T052454Z-cfd5f1f60c95.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 289450,
+  "domain": "github.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-monitor/app/mobile-center-quickstart",
+  "title": "GitHub - microsoft/appcenter: Central repository for App Center open source resources and planning.",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:06:03Z",
+  "category": "repository:148730506"
+}

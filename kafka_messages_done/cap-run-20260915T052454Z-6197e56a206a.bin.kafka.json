@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_linux-os-security/Tier1/ubuntu-security-documentation-1f06c3/loang/cap-run-20260915T052454Z-6197e56a206a.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 117965,
+  "domain": "ubuntu.com",
+  "url": "https://documentation.ubuntu.com/release-notes/24.10/",
+  "title": "Ubuntu 24.10 release notes",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:18:47Z",
+  "category": null
+}

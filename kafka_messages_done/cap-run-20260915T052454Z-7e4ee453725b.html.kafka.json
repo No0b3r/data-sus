@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-7e4ee453725b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5688,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/it_it/singlesignon/latest/userguide/what-is.html",
+  "title": "Cos’è il Centro identità IAM?",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:00:51Z",
+  "category": null
+}

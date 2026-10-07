@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-a9072ae16f76.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 28277,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-sql/database/media/data-discovery-and-classification-overview/11_data_classification_audit_log.png?view=azuresql",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:36:12Z",
+  "category": null
+}

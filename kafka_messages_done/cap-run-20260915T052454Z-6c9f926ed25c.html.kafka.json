@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-6c9f926ed25c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 87325,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/container-registry/container-registry-rbac-built-in-roles-overview",
+  "title": "Azure Container Registry Entra permissions and role assignments overview - Azure Container Registry",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:34:11Z",
+  "category": null
+}

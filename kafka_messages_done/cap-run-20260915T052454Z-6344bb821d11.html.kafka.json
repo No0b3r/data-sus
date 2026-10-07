@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-6344bb821d11.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55067,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/entra/identity/saas-apps/maverics-identity-orchestrator-saml-connector-tutorial",
+  "title": "Configure Maverics Identity Orchestrator SAML Connector for Single sign-on - Microsoft Entra ID",
+  "author": "Step ; Authorizing Access",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:33:53Z",
+  "category": null
+}

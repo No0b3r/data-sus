@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-67f5c253037a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 435653,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/governance/policy/samples/gov-soc-2",
+  "title": "Regulatory Compliance details for System and Organization Controls (SOC) 2 (Azure Government) - Azure Policy",
+  "author": "Restrict the movement",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:34:04Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/threat-modeling-designing-for-security-462a8c/loang/cap-run-20260915T052454Z-e26e97e9d837.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 225227,
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4",
+  "title": "Sign in or create account",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:22:55Z",
+  "category": null
+}

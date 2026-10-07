@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c6-t3-003-github-secret-scanning-22ca84/loang/cap-run-20260917T103202Z-19161ab29e45.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 47446,
+  "domain": "github.com",
+  "url": "https://docs.github.com/zh/code-security/concepts/secret-security/public-monitoring",
+  "title": "机密扫描的公开监控 - GitHub 文档",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:40:33Z",
+  "category": null
+}

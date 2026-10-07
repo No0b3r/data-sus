@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-5b804c3cf825.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 48251,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/dotnet/api/microsoft.azure.commands.network.models.psnatgateway",
+  "title": "PSNatGateway Class (Microsoft.Azure.Commands.Network.Models)",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:33:36Z",
+  "category": null
+}

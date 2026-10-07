@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20260917T103202Z-7b707c0b4861.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10211,
+  "domain": "apache.org",
+  "url": "https://solr.apache.org/guide/8_11/understanding-analyzers-tokenizers-and-filters.html",
+  "title": "Understanding Analyzers, Tokenizers, and Filters",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T02:12:41Z",
+  "category": null
+}

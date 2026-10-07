@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/cloud-armor-labs-bb962f/loang/cap-run-20260915T052454Z-8aca733cc9b5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 328767,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/terraform-google-cloud-armor/commit/9f222de0967c80d96f11a5c785aabeeeb9284bdb",
+  "title": "fix: regional-backend-security-policy Module request_body_inspection_… · GoogleCloudPlatform/terraform-google-cloud-armor@9f222de",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:25:28Z",
+  "category": "repository:583464316"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-src04-usenix-using-the-fluhrer-mantin-and-5f412a/loang/cap-run-20260925T020104Z-6304aa24f26a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18276,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/user?destination=node/152701",
+  "title": "Using the Fluhrer, Mantin, and Shamir Attack to Break {WEP}",
+  "author": "Adam Stubblefield; Avi Rubin",
+  "published_year": 2001,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:16:27Z",
+  "category": null
+}

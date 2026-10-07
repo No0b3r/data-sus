@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c6-t3-003-github-secret-scanning-22ca84/loang/cap-run-20260925T020104Z-398b47c7f158.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 91243,
+  "domain": "github.com",
+  "url": "https://docs.github.com/zh/rest/code-scanning/code-scanning",
+  "title": "适用于代码扫描的 REST API 终结点 - GitHub 文档",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:47:30Z",
+  "category": null
+}

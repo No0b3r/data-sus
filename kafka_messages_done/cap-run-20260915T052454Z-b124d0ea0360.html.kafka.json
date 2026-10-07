@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-encryption-sdk-2efcbb/loang/cap-run-20260915T052454Z-b124d0ea0360.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4887,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/encryption-sdk/latest/developer-guide/javascript-compatibility.html",
+  "title": "的相容性 適用於 JavaScript 的 AWS Encryption SDK",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:03:54Z",
+  "category": null
+}

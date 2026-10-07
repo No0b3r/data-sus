@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/architecture-best-practices-1b60c5/loang/cap-run-20260915T052454Z-9473d5e7a0ec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 67331,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/active-directory-b2c/microsoft-graph-operations",
+  "title": "Manage resources with Microsoft Graph - Azure AD B2C",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:55:05Z",
+  "category": null
+}

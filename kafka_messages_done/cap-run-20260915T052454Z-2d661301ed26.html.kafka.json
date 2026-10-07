@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/app-service-security-5ad287/loang/cap-run-20260915T052454Z-2d661301ed26.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55560,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-audit-minimum-version",
+  "title": "Use Azure Policy to audit for compliance of minimum TLS version for an Azure Service Bus namespace - Service Bus",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:54:01Z",
+  "category": null
+}

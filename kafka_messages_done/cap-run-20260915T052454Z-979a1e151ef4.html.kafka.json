@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-979a1e151ef4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6897,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/monitor-with-cloudtrail.html",
+  "title": "使用 AWS CloudTrail 记录 Amazon EC2 API 调用",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:20:01Z",
+  "category": null
+}

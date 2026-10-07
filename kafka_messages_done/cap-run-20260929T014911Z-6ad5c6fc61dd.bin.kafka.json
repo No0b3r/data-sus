@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-059-owasp-asvs-329420/loang/cap-run-20260929T014911Z-6ad5c6fc61dd.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 84389,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/board/meetings/2008-04-03",
+  "title": "OWASP Board Meeting — April 3, 2008 | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2008,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:45:14Z",
+  "category": "OWASP,OWASP Foundation,application security,software security"
+}

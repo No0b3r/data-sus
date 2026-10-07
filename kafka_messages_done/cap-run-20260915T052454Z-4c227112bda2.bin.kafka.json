@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/vbs-and-application-control-c807d7/loang/cap-run-20260915T052454Z-4c227112bda2.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 42545,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/vi-vn/windows/security/application-security/application-control/app-control-for-business/images/appcontrol-wizard-rule-options-ui-advanced-collapsed.png",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:13:02Z",
+  "category": null
+}

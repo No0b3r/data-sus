@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-011-node-js-crypto-1f1d13/loang/cap-run-20260917T103202Z-a342a3b3de3c.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 277930,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/es/blog/npm/npm-1-0-global-vs-local-installation",
+  "title": "Node.js — npm 1.0: Global vs Local installation",
+  "author": null,
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:46:26Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c5-t2-004-go-crypto-x509-2188da/loang/cap-run-20260921T033201Z-2ef5664849b5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 66309,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/git.luolix.top/nathanejohnson/intransport",
+  "title": "intransport",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:25:32Z",
+  "category": null
+}

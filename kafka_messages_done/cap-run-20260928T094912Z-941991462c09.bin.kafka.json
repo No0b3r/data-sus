@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/docker-engine-security-13d1fa/loang/cap-run-20260928T094912Z-941991462c09.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 181105,
+  "domain": "docker.com",
+  "url": "https://docs.docker.com/guides/docker-build-cloud/",
+  "title": "Docker Build Cloud: Reclaim your time with fast, multi-architecture builds",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:42:28Z",
+  "category": "docker,build,cloud,cloud,builds,multi-architecture,shared,cache,ci/cd,build,performance"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c6-t3-003-github-secret-scanning-22ca84/loang/cap-run-20260917T103202Z-207c92ae41ea.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 8962,
+  "domain": "docs.github.com",
+  "url": "https://docs.github.com/api/article/body?pathname=%2Fpt%2Fcode-security%2Fconcepts%2Fvulnerability-reporting-and-management%2Frepository-security-advisories",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:40:47Z",
+  "category": null
+}

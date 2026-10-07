@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-8e6565bf946a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 93014,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops",
+  "title": "Microsoft-hosted agents for Azure Pipelines - Azure Pipelines",
+  "author": "I'm getting an SAS IP authorization error",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:40:36Z",
+  "category": null
+}

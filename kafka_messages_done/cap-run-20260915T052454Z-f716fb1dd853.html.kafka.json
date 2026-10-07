@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudformation-resource-reference-b3ad42/loang/cap-run-20260915T052454Z-f716fb1dd853.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5233,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/AWSCloudFormation/latest/TemplateReference/aws-resource-logs-loganomalydetector.html",
+  "title": "AWS::Logs::LogAnomalyDetector",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:10:37Z",
+  "category": null
+}

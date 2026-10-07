@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-0fdc53730728.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 75987,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-user-delegation-sas-create-dotnet",
+  "title": "Create a user delegation SAS for Azure Blob, Azure Files, and Azure Queue with .NET - Azure Storage",
+  "author": "Use a user delegation SAS",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:38:51Z",
+  "category": null
+}

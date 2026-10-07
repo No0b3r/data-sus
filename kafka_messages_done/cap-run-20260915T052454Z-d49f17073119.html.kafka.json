@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/app-service-security-5ad287/loang/cap-run-20260915T052454Z-d49f17073119.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 69824,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-nat-gateway",
+  "title": "Control Azure Functions outbound IP with an Azure virtual network NAT gateway",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:54:14Z",
+  "category": null
+}

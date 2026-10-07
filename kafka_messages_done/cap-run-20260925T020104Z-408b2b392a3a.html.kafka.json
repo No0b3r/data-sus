@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-006-rfc-4301-ipsec-architecture-74782a/loang/cap-run-20260925T020104Z-408b2b392a3a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 162823,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc2827",
+  "title": "RFC 2827: Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing | RFC Editor",
+  "author": "P Ferguson; D Senie",
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:14Z",
+  "category": "ISP, Internet Service Provider, IP, Internet Protocol, DOS, Denial of Service"
+}

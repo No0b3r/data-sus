@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260922T015341Z-1730c87be6e3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 20493,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/crypto/+/b07833c067ec08648541694dc11e02b5ab6b956a%5E%21/",
+  "title": "Diff - b07833c067ec08648541694dc11e02b5ab6b956a^! - crypto",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:36:37Z",
+  "category": null
+}

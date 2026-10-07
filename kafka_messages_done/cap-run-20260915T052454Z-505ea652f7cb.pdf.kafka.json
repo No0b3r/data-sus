@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ecs-security-7c5872/loang/cap-run-20260915T052454Z-505ea652f7cb.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 17187889,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/ja_jp/AmazonECS/latest/developerguide/ecs-dg.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:24:01Z",
+  "category": null
+}

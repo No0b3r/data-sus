@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/gcp-iam-privilege-escalation-f1ff3a/loang/cap-run-20260915T052454Z-68ecc1f5c295.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 379935,
+  "domain": "github.com",
+  "url": "https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation/commit/1ef17f8e125f8c16744fd08d1fb03dc393d474a9",
+  "title": "Merge pull request #13 from TeneBrae93/master · RhinoSecurityLabs/GCP-IAM-Privilege-Escalation@1ef17f8",
+  "author": "RhinoSecurityLabs",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:26:33Z",
+  "category": "repository:259373760"
+}

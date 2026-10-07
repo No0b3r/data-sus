@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-2da64162481b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62327,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/billing-subscription-transfer",
+  "title": "Transfer billing ownership of an MOSP Azure subscription - Microsoft Cost Management",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:32:06Z",
+  "category": "transfer azure subscription, azure transfer subscription, move azure subscription to another account,azure change subscription owner, transfer azure subscription to another account, azure transfer billing"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c9-t2-007-go-x-crypto-fa2435/loang/cap-run-20260915T052454Z-7b401919a3a1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18473,
+  "domain": "googlesource.com",
+  "url": "https://go.googlesource.com/review/+/4f4de26123f2e46fcc57010c1d781fbd00319d4e",
+  "title": "git-codereview",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T21:16:12Z",
+  "category": null
+}

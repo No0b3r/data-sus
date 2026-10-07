@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-b58b765725c9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5586,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/launching-instance.html",
+  "title": "Launch an EC2 instance using the launch instance wizard in the console",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:15:04Z",
+  "category": null
+}

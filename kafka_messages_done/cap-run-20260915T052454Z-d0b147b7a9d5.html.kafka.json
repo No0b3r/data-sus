@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-005-go-crypto-cipher-1bf15e/loang/cap-run-20260915T052454Z-d0b147b7a9d5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54403,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/crypto/rc4@go1.27.1",
+  "title": "rc4",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:15:33Z",
+  "category": null
+}

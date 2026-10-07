@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/architecture-best-practices-1b60c5/loang/cap-run-20260915T052454Z-56fdb4cf82dd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 64726,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/testing-approach",
+  "title": "Testing approach for Azure landing zone - Cloud Adoption Framework",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:54:51Z",
+  "category": null
+}

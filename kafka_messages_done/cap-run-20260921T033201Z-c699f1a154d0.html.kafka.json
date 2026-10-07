@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-014-go-crypto-rand-82377e/loang/cap-run-20260921T033201Z-c699f1a154d0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36354,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.ccut.club/mantyr/jsonhtml?tab=licenses",
+  "title": "jsonhtml",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T07:09:33Z",
+  "category": null
+}

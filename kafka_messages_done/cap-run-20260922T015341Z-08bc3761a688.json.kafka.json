@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/node-js-d04dd7/loang/cap-run-20260922T015341Z-08bc3761a688.json.gz",
+  "data_type": "document",
+  "file_type": "json",
+  "file_size": 19817,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v11.x/api/report.json",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:18:46Z",
+  "category": null
+}

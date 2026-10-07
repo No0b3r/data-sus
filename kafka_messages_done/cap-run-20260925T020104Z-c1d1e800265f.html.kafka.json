@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-c1d1e800265f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 39841,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/lucas",
+  "title": "Adversarial Training for {Raw-Binary} Malware Classifiers",
+  "author": "Keane Lucas; Samruddhi Pai; Weiran Lin; Lujo Bauer; Michael K Reiter; Mahmood Sharif",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:21:56Z",
+  "category": null
+}

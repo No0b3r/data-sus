@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/kernel-objects-eb1ca8/loang/cap-run-20260915T052454Z-4439e897b4fd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53132,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-lockresource",
+  "title": "LockResource function (libloaderapi.h) - Win32 apps",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:06:45Z",
+  "category": null
+}

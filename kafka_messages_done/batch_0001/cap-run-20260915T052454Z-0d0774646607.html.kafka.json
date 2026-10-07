@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-0d0774646607.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4241,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/streams/latest/dev/building-consumers.html",
+  "title": "從 Amazon Kinesis Data Streams 讀取資料",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:52:27Z",
+  "category": null
+}

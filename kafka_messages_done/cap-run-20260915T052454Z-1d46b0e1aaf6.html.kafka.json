@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-1d46b0e1aaf6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4303,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/streams/latest/dev/kinesis-using-sdk-java-list-streams.html",
+  "title": "List streams",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:53:26Z",
+  "category": null
+}

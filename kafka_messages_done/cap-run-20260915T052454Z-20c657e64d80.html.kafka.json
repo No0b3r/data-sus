@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/data-perimeter-policy-examples-3b317a/loang/cap-run-20260915T052454Z-20c657e64d80.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 230463,
+  "domain": "github.com",
+  "url": "https://github.com/aws-samples/data-perimeter-policy-examples/blob/main/.gitignore",
+  "title": "data-perimeter-policy-examples/.gitignore at main · aws-samples/data-perimeter-policy-examples",
+  "author": "Aws-Samples",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:16:10Z",
+  "category": "repository:528163715"
+}

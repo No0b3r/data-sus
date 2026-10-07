@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/google-secops-community-bf2da9/loang/cap-run-20260915T052454Z-0b5cc57f0893.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 244403,
+  "domain": "github.com",
+  "url": "https://github.com/chronicle/ingestion-scripts/tree/main/citrix_auditlogs",
+  "title": "ingestion-scripts/citrix_auditlogs at main · chronicle/ingestion-scripts",
+  "author": "Chronicle",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:27:31Z",
+  "category": "repository:564624492"
+}

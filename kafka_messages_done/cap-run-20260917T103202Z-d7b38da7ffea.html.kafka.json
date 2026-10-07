@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-vm-threat-research-e7bd96/loang/cap-run-20260917T103202Z-d7b38da7ffea.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50548,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/",
+  "title": "World Passkey Day: Advancing passwordless authentication | Microsoft Security Blog",
+  "author": "Vasu Jakkal; Nadim Abdo",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:00:51Z",
+  "category": null
+}

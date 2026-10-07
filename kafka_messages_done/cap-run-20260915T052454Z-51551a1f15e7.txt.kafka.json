@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/prowler-3c72d1/loang/cap-run-20260915T052454Z-51551a1f15e7.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 1942,
+  "domain": "github.com",
+  "url": "https://github.com/prowler-cloud/prowler/raw/refs/heads/master/.grype.yaml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:48:43Z",
+  "category": null
+}

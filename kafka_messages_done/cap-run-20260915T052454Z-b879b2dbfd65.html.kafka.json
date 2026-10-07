@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-instance-metadata-service-c6d667/loang/cap-run-20260915T052454Z-b879b2dbfd65.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 77874,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/rest/api/resources/subscriptions/list-locations?view=rest-resources-2022-12-01",
+  "title": "Subscriptions - List Locations - REST API (Azure Resource Management)",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:32Z",
+  "category": null
+}

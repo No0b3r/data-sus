@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/falco-documentation-395194/loang/cap-run-20260924T083724Z-eb17359b6ea8.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 31769,
+  "domain": "falco.org",
+  "url": "https://falco.org/blog/falco-w-47-2023-weekly-recap/",
+  "title": "Falco Weekly 47 - 2023",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:56:45Z",
+  "category": "blog"
+}

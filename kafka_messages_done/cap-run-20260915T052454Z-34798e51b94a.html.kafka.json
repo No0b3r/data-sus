@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-cloud-security-benchmark-2a3401/loang/cap-run-20260915T052454Z-34798e51b94a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 72968,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles-rest",
+  "title": "Create or update Azure custom roles using the REST API - Azure RBAC",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:39:19Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-006-rfc-4301-ipsec-architecture-74782a/loang/cap-run-20260925T020104Z-0799e8360443.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 343543,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4216/",
+  "title": "RFC 4216: MPLS Inter-Autonomous System (AS) Traffic Engineering (TE) Requirements | RFC Editor",
+  "author": "R Zhang; J -P Vasseur",
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:50:09Z",
+  "category": "inter-as, mpls-te"
+}

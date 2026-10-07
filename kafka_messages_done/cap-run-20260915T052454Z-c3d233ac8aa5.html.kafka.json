@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-c3d233ac8aa5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4098,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/it_it/awssupport/latest/user/sdk-general-information-section.html",
+  "title": "Utilizzo Supporto AWS con un AWS SDK",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:11:41Z",
+  "category": null
+}

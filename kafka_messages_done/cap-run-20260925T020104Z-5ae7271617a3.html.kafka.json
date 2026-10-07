@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-006-rfc-5869-hkdf-88ed7b/loang/cap-run-20260925T020104Z-5ae7271617a3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 226009,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3310",
+  "title": "RFC 3310: Hypertext Transfer Protocol (HTTP) Digest Authentication Using Authentication and Key Agreement (AKA) | RFC Editor",
+  "author": "A Niemi; J Arkko; V Torvinen",
+  "published_year": 2002,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:32Z",
+  "category": "one-time password generation mechanism, umts, universal mobile telecommunications system"
+}

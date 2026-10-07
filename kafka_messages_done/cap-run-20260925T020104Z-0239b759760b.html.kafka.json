@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t1-003-rfc-8017-pkcs-1-v2-2-4c7731/loang/cap-run-20260925T020104Z-0239b759760b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 190462,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc8017.html",
+  "title": null,
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:51:56Z",
+  "category": null
+}

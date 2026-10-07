@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t2-thuc-hanh/Tier2/saelo-3-years-of-attacking-javascript-engine-30930e/loang/cap-run-20260915T052454Z-dcbba0533414.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 938847,
+  "domain": "gist.github.com",
+  "url": "https://gist.github.com/wchargin/8927565/raw/d9783627c731268fb2935a731a618aa8e95cf465/words",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:20:29Z",
+  "category": null
+}

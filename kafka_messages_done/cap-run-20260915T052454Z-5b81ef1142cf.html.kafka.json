@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-005-go-crypto-cipher-1bf15e/loang/cap-run-20260915T052454Z-5b81ef1142cf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62338,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/git.mjmar.dev/wasmrpc.git@v0.0.0-20250804200541-6c78b00a11e2/msgprpc",
+  "title": "msgprpc",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:48:35Z",
+  "category": null
+}

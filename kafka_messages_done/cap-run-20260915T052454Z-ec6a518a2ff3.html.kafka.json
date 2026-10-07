@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/organization-policy-samples-3ed637/loang/cap-run-20260915T052454Z-ec6a518a2ff3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 256949,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/policy-library/blob/main/samples/gke_allowed_node_sa_scope.yaml",
+  "title": "policy-library/samples/gke_allowed_node_sa_scope.yaml at main · GoogleCloudPlatform/policy-library",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:28:43Z",
+  "category": "repository:178277843"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-20de8bc8dcc3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4493,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3.1/library/binascii.html",
+  "title": "18.8. binascii — Convert between binary and ASCII¶",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:54:41Z",
+  "category": null
+}

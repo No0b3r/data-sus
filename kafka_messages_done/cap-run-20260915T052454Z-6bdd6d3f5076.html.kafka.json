@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/landing-zone-accelerator-865107/loang/cap-run-20260915T052454Z-6bdd6d3f5076.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 264981,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/landing-zone-accelerator-on-aws/issues/857",
+  "title": "AWS Config not creating service linked role when useServiceLinkedRole is set to true · Issue #857 · awslabs/landing-zone-accelerator-on-aws",
+  "author": "Awslabs",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:38:09Z",
+  "category": "issue:3362725661"
+}

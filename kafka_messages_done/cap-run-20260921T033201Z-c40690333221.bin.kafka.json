@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-t2-003-github-codeql-query-help-b309ff/loang/cap-run-20260921T033201Z-c40690333221.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1487,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-standard-libraries/cpp/type.@builtinbitcast.html",
+  "title": "Branch type @builtinbitcast",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:57:03Z",
+  "category": "CodeQL,QL,@builtinbitcast"
+}

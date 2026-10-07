@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-e9e66b7a7b4d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7434,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/elasticloadbalancing/latest/application/target-group-register-targets.html",
+  "title": "Register targets with your Application Load Balancer target group",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:34:09Z",
+  "category": null
+}

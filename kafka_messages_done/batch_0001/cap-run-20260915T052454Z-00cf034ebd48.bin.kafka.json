@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-00cf034ebd48.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 246009,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/governance/machine-configuration/media/discover-and-assign-built-in-machine-configuration-policies/policy-assignment-basics-scope-prerequisites.png",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:30:42Z",
+  "category": null
+}

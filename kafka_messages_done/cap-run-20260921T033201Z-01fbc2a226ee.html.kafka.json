@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t3-010-java-random-api-510f2e/loang/cap-run-20260921T033201Z-01fbc2a226ee.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10173,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/java/javase/26/docs/api/java.base/java/util/EnumMap.html",
+  "title": "Java Platform, Standard Edition Java API Reference",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:32:53Z",
+  "category": "java.util.EnumMap class"
+}

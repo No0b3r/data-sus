@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-npm-supply-chain-analysis-456777/loang/cap-run-20260915T052454Z-75a3b80d252b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 481019,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/th/government-education/government/?nc2=h_sol_ind_gov",
+  "title": "AWS Cloud สำหรับหน่วยงานราชการ",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:35:41Z",
+  "category": null
+}

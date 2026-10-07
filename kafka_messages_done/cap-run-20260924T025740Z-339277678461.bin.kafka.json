@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-005-node-tls-6d7b7f/loang/cap-run-20260924T025740Z-339277678461.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 344704,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v11.x/api/fs.html",
+  "title": "File System",
+  "author": null,
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T19:11:05Z",
+  "category": null
+}

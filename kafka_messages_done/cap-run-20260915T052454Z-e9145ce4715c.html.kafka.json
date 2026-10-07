@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/google-cloud-security-response-automation-c037dc/loang/cap-run-20260915T052454Z-e9145ce4715c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 209971,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/security-response-automation/wiki/Sample-configuration",
+  "title": "Sample configuration",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:27:25Z",
+  "category": "repository:207355308"
+}

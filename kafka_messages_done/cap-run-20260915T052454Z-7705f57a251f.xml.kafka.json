@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-005-go-crypto-cipher-1bf15e/loang/cap-run-20260915T052454Z-7705f57a251f.xml.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": 6669417,
+  "domain": "pkg.go.dev",
+  "url": "https://pkg.go.dev/sitemap/36.xml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T05:56:21Z",
+  "category": null
+}

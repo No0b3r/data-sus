@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-1de664eb4003.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2651,
+  "domain": "python.org",
+  "url": "https://docs.python.org/tr/3.14/search.html",
+  "title": "Search — Python 3.14 documentation",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T09:02:12Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/traffic-mirroring-a55f14/loang/cap-run-20260915T052454Z-704f1e4c179e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4968,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/cur/latest/userguide/cur-data-transfers-charges.html",
+  "title": "데이터 전송 요금 이해",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:10Z",
+  "category": null
+}

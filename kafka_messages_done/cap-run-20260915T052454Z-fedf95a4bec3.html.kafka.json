@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/cloud-foundation-fabric-ddbc2b/loang/cap-run-20260915T052454Z-fedf95a4bec3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 294771,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/blob/master/modules/projects-data-source",
+  "title": "cloud-foundation-fabric/modules/projects-data-source at master · GoogleCloudPlatform/cloud-foundation-fabric",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:25:58Z",
+  "category": "repository:184825074"
+}

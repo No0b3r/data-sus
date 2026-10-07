@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-t2-007-node-crypto-61fe7b/loang/cap-run-20260925T020104Z-82d9110437cd.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 829761,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/es/blog/all/page/5",
+  "title": "Node.js",
+  "author": "The Node js Project",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:00:49Z",
+  "category": null
+}

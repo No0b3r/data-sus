@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-f3e1ea3a2186.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 3973755,
+  "domain": "docs.python.org",
+  "url": "http://docs.python.org/ftp/python/doc/2.6.9/python-2.6.9-docs-html.tar.bz2",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:18:14Z",
+  "category": null
+}

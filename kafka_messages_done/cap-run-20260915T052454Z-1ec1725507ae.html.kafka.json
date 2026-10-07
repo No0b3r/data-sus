@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-well-architected-framework-b3cf31/loang/cap-run-20260915T052454Z-1ec1725507ae.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 461641,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/marketplace/?sc_icampaign=aware_marketplace&sc_ichannel=ha&sc_icontent=awssm-evergreen-marketplace-default-editorial-lower&sc_iplace=ed&trk=ha_awssm-evergreen-marketplace-default-editorial-lower",
+  "title": "AWS Marketplace",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:48:58Z",
+  "category": null
+}

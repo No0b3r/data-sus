@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/codeql-b5e352/loang/cap-run-20260923T111036Z-de8cf755bc1f.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2294,
+  "domain": "github.com",
+  "url": "https://codeql.github.com/codeql-standard-libraries/ruby/codeql/ruby/ApiGraphs.qll/predicate.ApiGraphs$API$Node$asSource.0.html",
+  "title": "Member predicate API::Node::asSource",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:35:48Z",
+  "category": "CodeQL,QL,asSource"
+}

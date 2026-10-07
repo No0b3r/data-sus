@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/app-service-security-5ad287/loang/cap-run-20260915T052454Z-f4a30a1c0320.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51490,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.server.httpsys.httpsysoptions.clientcertificatemethod",
+  "title": "HttpSysOptions.ClientCertificateMethod Property (Microsoft.AspNetCore.Server.HttpSys)",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:54:17Z",
+  "category": null
+}

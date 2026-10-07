@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/parliament-1877f0/loang/cap-run-20260915T052454Z-52d372c63055.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 341402,
+  "domain": "github.com",
+  "url": "https://github.com/iVis-at-Bilkent/cytoscape.js-grid-guide",
+  "title": "GitHub - iVis-at-Bilkent/cytoscape.js-grid-guide: A Cytsocape.js extension to provide a framework for grid interactions such as grid lines and snapping to grid, and guidelines and snap support for alignment of nodes.",
+  "author": "Ivis-At-Bilkent",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:48:01Z",
+  "category": "repository:62036987"
+}

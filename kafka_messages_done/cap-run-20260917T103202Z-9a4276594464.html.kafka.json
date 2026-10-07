@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-security-blog-517e51/loang/cap-run-20260917T103202Z-9a4276594464.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 360890,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/contact-us/sales-support-lambda/?pg=ln&sec=hs",
+  "title": "AWS | Contact Us",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:41:16Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-0263ced4d306.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8591,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ja_jp/config/latest/developerguide/manual-setup.title.html",
+  "title": "の手動セットアップ AWS Config",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:50:20Z",
+  "category": null
+}

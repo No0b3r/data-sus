@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-047-owasp-asvs-4465f0/loang/cap-run-20260925T020104Z-1558b1c84a22.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 93264,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/chapter-starter-kit",
+  "title": "Chapter Starter Kit | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:42:32Z",
+  "category": "start an OWASP chapter,chapter starter kit,chapter formation guide,chapter leader resources,event planning templates,OWASP,OWASP Foundation,application security,software security"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-1cc3398fe6b3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7113,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/sdk-for-php/v3/developer-guide/s3-encryption-client.html",
+  "title": "适用于 PHP 的 AWS SDK 版本 3 中的 Amazon S3 客户端加密",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:53:26Z",
+  "category": null
+}

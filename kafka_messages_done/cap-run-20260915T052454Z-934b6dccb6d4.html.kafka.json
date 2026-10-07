@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t2-thuc-hanh/Tier2/saelo-3-years-of-attacking-javascript-engine-30930e/loang/cap-run-20260915T052454Z-934b6dccb6d4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 109130,
+  "domain": "github.com",
+  "url": "https://gist.github.com/Shpigford/7c283ea5b75c02e1e96b175e603fca2e/forks",
+  "title": "Build software better, together",
+  "author": "Shpigford",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:20:21Z",
+  "category": null
+}

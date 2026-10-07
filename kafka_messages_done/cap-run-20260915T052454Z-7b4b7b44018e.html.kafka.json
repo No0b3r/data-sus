@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-7b4b7b44018e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 16098,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/es_es/config/latest/developerguide/managed-rules-by-evaluation-mode.html",
+  "title": "Lista de AWS Config Reglas administradas por modo de evaluación",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:00:40Z",
+  "category": null
+}

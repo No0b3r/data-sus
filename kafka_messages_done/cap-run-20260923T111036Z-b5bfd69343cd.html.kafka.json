@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/github-security-documentation-f2e981/loang/cap-run-20260923T111036Z-b5bfd69343cd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 94902,
+  "domain": "github.com",
+  "url": "https://docs.github.com/ru/rest/code-scanning/code-scanning",
+  "title": "Конечные точки REST API для сканирования кода - Документация GitHub",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:32:32Z",
+  "category": null
+}

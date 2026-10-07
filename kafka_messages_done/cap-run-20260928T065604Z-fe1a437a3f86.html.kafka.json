@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t2-thuc-hanh/Tier2/usenix-security-symposium-proceedings-b3dda4/loang/cap-run-20260928T065604Z-fe1a437a3f86.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8155,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/sec92",
+  "title": "USENIX UNIX Security Symposium III",
+  "author": null,
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:20:45Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-npm-supply-chain-analysis-456777/loang/cap-run-20260915T052454Z-4d4fceb79763.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 392701,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/premiumsupport/technology/saw",
+  "title": "Self-service diagnostic and remediation - AWS Support Automation Workflows - Amazon Web Services",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:35:37Z",
+  "category": null
+}

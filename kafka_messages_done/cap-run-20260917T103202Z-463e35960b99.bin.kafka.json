@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-005-node-tls-6d7b7f/loang/cap-run-20260917T103202Z-463e35960b99.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 31750,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v17.x/api/intl.html",
+  "title": "Node.js v17.9.1 documentation",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T17:18:36Z",
+  "category": null
+}

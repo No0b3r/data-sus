@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/microsoft-vulnerable-driver-blocklist-deeba9/loang/cap-run-20260915T052454Z-99beca88ce9d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 63330,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/vi-vn/windows/security/application-security/application-control/app-control-for-business/design/allow-com-object-registration-in-appcontrol-policy",
+  "title": "Allow COM object registration in an App Control policy",
+  "author": "Author policy setting",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:09:20Z",
+  "category": null
+}

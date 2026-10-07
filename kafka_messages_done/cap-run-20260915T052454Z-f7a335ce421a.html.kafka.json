@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/cloud-armor-labs-bb962f/loang/cap-run-20260915T052454Z-f7a335ce421a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 227541,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/terraform-google-cloud-armor/tree/main/modules",
+  "title": "terraform-google-cloud-armor/modules at main · GoogleCloudPlatform/terraform-google-cloud-armor",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:25:33Z",
+  "category": "repository:583464316"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c3-full-011-go-crypto-rsa-13bb28/loang/cap-run-20260917T103202Z-038d2c861fa8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49816,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/testing/synctest@go1.27.1?tab=versions",
+  "title": "synctest",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:33:51Z",
+  "category": null
+}

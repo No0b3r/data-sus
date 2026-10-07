@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/athena-cloudtrail-queries-2597ca/cap-run-20260915T052454Z-e19b1d98a4ec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1091,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/athena/latest/ug/querying-cloudtrail-logs.html",
+  "title": "Amazon Athena",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:56:07Z",
+  "category": null
+}

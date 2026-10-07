@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-config-rules-b00d12/loang/cap-run-20260915T052454Z-05e6f33d7213.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 449816,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/aws-config-rdk",
+  "title": "GitHub - awslabs/aws-config-rdk: The AWS Config Rules Development Kit helps developers set up, author and test custom Config rules. It contains scripts to enable AWS Config, create a Config rule and test it with sample ConfigurationItems.",
+  "author": "Awslabs",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:00:45Z",
+  "category": "repository:99261539"
+}

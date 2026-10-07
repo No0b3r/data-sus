@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-a4101f4b1b66.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7509,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ms_ad_getting_started_create_directory.html",
+  "title": "Getting started with AWS Managed Microsoft AD",
+  "author": null,
+  "published_year": 2003,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:14:19Z",
+  "category": null
+}

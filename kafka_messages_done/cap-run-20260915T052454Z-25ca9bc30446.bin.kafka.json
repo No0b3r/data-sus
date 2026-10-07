@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloudhsm-5d3cdd/loang/cap-run-20260915T052454Z-25ca9bc30446.bin.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 10876547,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/cloudhsm/latest/userguide/cloudhsm-user-guide.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:11:07Z",
+  "category": null
+}

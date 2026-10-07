@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-2dc3e9a291ab.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14765,
+  "domain": "python.org",
+  "url": "https://docs.python.org/el/3.10/tutorial/stdlib2.html",
+  "title": "11. Σύντομη περιήγηση στην Πρότυπη Βιβλιοθήκη — Μέρος II¶",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T09:11:36Z",
+  "category": null
+}

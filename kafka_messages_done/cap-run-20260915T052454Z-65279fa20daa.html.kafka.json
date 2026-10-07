@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/container-apps-security-0919ed/loang/cap-run-20260915T052454Z-65279fa20daa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 68959,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/container-apps/authentication-azure-active-directory",
+  "title": "Enable Authentication and Authorization in Container Apps with Microsoft Entra ID",
+  "author": "Enable authentication; Authorization",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:14:29Z",
+  "category": null
+}

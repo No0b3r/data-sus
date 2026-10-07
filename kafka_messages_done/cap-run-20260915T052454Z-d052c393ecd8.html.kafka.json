@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azure-vm-threat-research-e7bd96/loang/cap-run-20260915T052454Z-d052c393ecd8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 48566,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog?p=148247",
+  "title": "CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms | Microsoft Security Blog",
+  "author": "Microsoft Security Team",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:00:43Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-1096196246f8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6730,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/AmazonS3/latest/userguide/WebsiteAccessPermissionsReqd.html",
+  "title": "設定網站存取許可",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:52:43Z",
+  "category": null
+}

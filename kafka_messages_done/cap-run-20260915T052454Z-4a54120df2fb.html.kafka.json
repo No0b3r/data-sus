@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/google-cloud-security-response-automation-c037dc/loang/cap-run-20260915T052454Z-4a54120df2fb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 795660,
+  "domain": "github.com",
+  "url": "https://github.com/GoogleCloudPlatform/security-response-automation/commit/f993a83c3296f5ee0aeb7cc7d81c38c224ed9d06",
+  "title": "Merge pull request #211 from singlethink/add-remediation-router-tests · GoogleCloudPlatform/security-response-automation@f993a83",
+  "author": "GoogleCloudPlatform",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:27:07Z",
+  "category": "repository:207355308"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-005-node-tls-6d7b7f/loang/cap-run-20260921T033201Z-c84a8ba0e490.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 26935,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v25.x/api/documentation.html",
+  "title": "Node.js v25.9.0 documentation",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T18:18:08Z",
+  "category": null
+}

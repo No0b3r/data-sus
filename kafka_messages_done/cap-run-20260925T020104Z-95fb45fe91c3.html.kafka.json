@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c4-t1-006-rfc-5869-hkdf-88ed7b/loang/cap-run-20260925T020104Z-95fb45fe91c3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 223629,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9048.html",
+  "title": "Improved Extensible Authentication Protocol Method for 3GPP Mobile Network Authentication and Key Agreement (EAP-AKA')",
+  "author": "Jari Arkko; Vesa Lehtovirta; Vesa Torvinen; Pasi Eronen",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:17:37Z",
+  "category": null
+}

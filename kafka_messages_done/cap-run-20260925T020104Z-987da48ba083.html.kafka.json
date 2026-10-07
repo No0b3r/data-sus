@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-005-rfc-7296-ikev2-2f9fcd/loang/cap-run-20260925T020104Z-987da48ba083.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 110062,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3664/",
+  "title": "RFC 3664: The AES-XCBC-PRF-128 Algorithm for the Internet Key Exchange Protocol (IKE) | RFC Editor",
+  "author": "P Hoffman",
+  "published_year": 2004,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:59Z",
+  "category": "IKE, Internet Key Exchange Protocol, ipsec, IP Security, AES, advanced encryption standard, mac, message authentication code"
+}

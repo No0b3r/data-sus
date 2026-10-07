@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/template-analyzer-43daf5/loang/cap-run-20260915T052454Z-ffaa0b3f7121.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 3367,
+  "domain": "github.com",
+  "url": "https://github.com/Azure/template-analyzer/raw/refs/heads/main/README.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:04Z",
+  "category": null
+}

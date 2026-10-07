@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-013-rfc-4086-randomness-requirements-f-45caaa/loang/cap-run-20260925T020104Z-c7ec988f35ee.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 190264,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc2632",
+  "title": "RFC 2632: S/MIME Version 3 Certificate Handling | RFC Editor",
+  "author": "B Ramsdell",
+  "published_year": 1999,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:29:09Z",
+  "category": "encryption, certificate, multipurpose, internet, mail, extensions, secure"
+}

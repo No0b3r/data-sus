@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/azurehound-3d2e37/loang/cap-run-20260915T052454Z-8a717e37d651.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 312259,
+  "domain": "github.com",
+  "url": "https://github.com/SpecterOps/JamfHound",
+  "title": "GitHub - SpecterOps/JamfHound: JamfHound is a python3 project designed to collect and identify attack paths in Jamf Pro tenants based on existing object permissions by outputting data as JSON for ingestion into BloodHound.",
+  "author": "SpecterOps",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T02:55:14Z",
+  "category": "repository:1028772575"
+}

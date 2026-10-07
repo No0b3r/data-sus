@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aadinternals-6e191b/loang/cap-run-20260915T052454Z-8fbd36f6b9cd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 324844,
+  "domain": "github.com",
+  "url": "https://github.com/Gerenios/AADInternals-Endpoints/blob/main/PRT_Utils.ps1",
+  "title": "AADInternals-Endpoints/PRT_Utils.ps1 at main · Gerenios/AADInternals-Endpoints",
+  "author": "Gerenios",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:52:53Z",
+  "category": "repository:888657497"
+}

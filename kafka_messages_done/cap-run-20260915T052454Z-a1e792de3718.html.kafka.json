@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-config-rules-b00d12/cap-run-20260915T052454Z-a1e792de3718.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 289883,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/aws-config-rules",
+  "title": "GitHub - awslabs/aws-config-rules: [Node, Python, Java] Repository of sample Custom Rules for AWS Config.",
+  "author": "Awslabs",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:00:43Z",
+  "category": "repository:51314087"
+}

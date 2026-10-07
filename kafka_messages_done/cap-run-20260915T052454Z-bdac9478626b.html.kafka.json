@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-bdac9478626b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5694,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/inspector/latest/user/understanding-dashboard.html",
+  "title": "在 Amazon Inspector 中使用儀表板",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:21:20Z",
+  "category": null
+}

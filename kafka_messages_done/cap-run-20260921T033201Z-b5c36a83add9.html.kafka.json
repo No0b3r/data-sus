@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-full-014-go-crypto-rand-82377e/loang/cap-run-20260921T033201Z-b5c36a83add9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "pkg.go.dev",
+  "url": "https://pkg.go.dev/github.com/mmieluch/advent-of-code/2022/04?tab=importedby",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T07:08:32Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='pkg.go.dev', port=443): Max retries exceeded with url: /github.com/mmieluch/advent-of-code/2022/04?tab=importedby (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C3F61314D0>, 'Connection to pkg.go.dev timed out. (connect timeout=15.0)'))"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260921T033201Z-0a0142f58b44.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1698,
+  "domain": "python.org",
+  "url": "https://docs.python.org/2.7/genindex.html",
+  "title": "Index",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T12:25:14Z",
+  "category": null
+}

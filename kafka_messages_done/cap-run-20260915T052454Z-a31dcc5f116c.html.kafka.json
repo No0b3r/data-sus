@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/application-isolation-43c3b0/loang/cap-run-20260915T052454Z-a31dcc5f116c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 74849,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/entra/identity/authentication/how-to-enable-passkey-fido2",
+  "title": "How to enable passkeys (FIDO2) in Microsoft Entra ID - Microsoft Entra ID",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:05:53Z",
+  "category": null
+}

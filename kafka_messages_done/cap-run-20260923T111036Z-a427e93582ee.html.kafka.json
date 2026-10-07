@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-011-crypto-randombytes-7b1ebf/loang/cap-run-20260923T111036Z-a427e93582ee.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7560,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/v0.10.0/about/",
+  "title": "Node's goal is to provide an easy way to build scalable network programs",
+  "author": null,
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:22:39Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/bulletins-rss-395e71/loang/cap-run-20260915T052454Z-f9602f7ec74b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 327825,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/ko/security/security-bulletins/2026-076-aws/",
+  "title": "CVE-2026-18954 - Amazon AWS Labs DocumentDB MCP 서버의 어그리게이션 파이프라인 도구에 잘못된 권한 부여가 있음",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:01:14Z",
+  "category": null
+}

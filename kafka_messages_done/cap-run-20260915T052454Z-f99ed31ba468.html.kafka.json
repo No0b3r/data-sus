@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/cloud-custodian-2e964d/loang/cap-run-20260915T052454Z-f99ed31ba468.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 368131,
+  "domain": "github.com",
+  "url": "https://github.com/openremote/openremote",
+  "title": "GitHub - openremote/openremote: 100% open-source IoT Platform - Integrate your devices, add intelligence, build custom apps",
+  "author": "Openremote",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:01:39Z",
+  "category": "repository:50994619"
+}

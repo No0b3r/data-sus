@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/python-cpython-fc0a9b/loang/cap-run-20260917T103202Z-a8d5c5151153.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5677,
+  "domain": "python.org",
+  "url": "https://docs.python.org/2.6/library/zlib.html",
+  "title": "12.1. zlib — Compression compatible with gzip¶",
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:08:48Z",
+  "category": null
+}

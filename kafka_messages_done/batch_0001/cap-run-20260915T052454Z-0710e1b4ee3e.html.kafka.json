@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-0710e1b4ee3e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7085,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/AuroraUserGuide/Aurora.Managing.Backups.html",
+  "title": "Aurora DB 클러스터 백업 및 복원에 대한 개요",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T12:10:07Z",
+  "category": null
+}

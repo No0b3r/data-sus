@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-8cfe90ef83bf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 26514,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/id_id/securityhub/latest/userguide/ec2-controls.html",
+  "title": "Kontrol CSPM Security Hub untuk Amazon EC2",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:19:42Z",
+  "category": null
+}

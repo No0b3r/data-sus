@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-customer-security-incidents-99a15e/loang/cap-run-20260915T052454Z-4961c4a47f48.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 240205,
+  "domain": "github.com",
+  "url": "https://github.com/Ravirajrao/HackerOne-Reports/blob/master/%23549341%20AWS%20secret%20key%20and%20NPM%20token%20leaked%20in%20MEW%20GitHub%20repos.pdf",
+  "title": "HackerOne-Reports/#549341 AWS secret key and NPM token leaked in MEW GitHub repos.pdf at master · Ravirajrao/HackerOne-Reports",
+  "author": "Ravirajrao",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:01:47Z",
+  "category": "repository:210530286"
+}

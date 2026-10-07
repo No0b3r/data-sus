@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c1-t2-impl-011-node-js-crypto-1f1d13/loang/cap-run-20260917T103202Z-8025c1e64b77.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 285951,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/blog/release/v18.18.1",
+  "title": "Node.js — Node.js 18.18.1 (LTS)",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T06:44:01Z",
+  "category": null
+}

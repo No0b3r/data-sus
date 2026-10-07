@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/image-builder-components-b38cdc/loang/cap-run-20260915T052454Z-7edf536a478f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5303,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/imagebuilder/latest/userguide/tutorial-component-parameters.html",
+  "title": "Tutorial: Create a custom component with input parameters",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:36:39Z",
+  "category": null
+}

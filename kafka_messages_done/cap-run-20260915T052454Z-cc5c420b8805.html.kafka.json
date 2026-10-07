@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/eks-blueprints-467420/loang/cap-run-20260915T052454Z-cc5c420b8805.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 276528,
+  "domain": "github.com",
+  "url": "https://github.com/aws-ia/terraform-aws-eks-data-addons/blob/main/karpenter-resources.tf",
+  "title": "terraform-aws-eks-data-addons/karpenter-resources.tf at main · aws-ia/terraform-aws-eks-data-addons",
+  "author": "Aws-Ia",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:25:39Z",
+  "category": "repository:636304757"
+}

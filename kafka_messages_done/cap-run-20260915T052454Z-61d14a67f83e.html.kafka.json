@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-61d14a67f83e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7846,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/gameliftstreams/latest/apireference/API_GetStreamGroup.html",
+  "title": "GetStreamGroup",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:59:30Z",
+  "category": null
+}

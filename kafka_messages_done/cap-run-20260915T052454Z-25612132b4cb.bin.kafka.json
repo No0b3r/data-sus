@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260915T052454Z-25612132b4cb.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5821,
+  "domain": "python.org",
+  "url": "https://docs.python.org/pt-br/3.14/reference/index.html",
+  "title": "A Referência da Linguagem Python",
+  "author": null,
+  "published_year": 2001,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T09:07:19Z",
+  "category": null
+}

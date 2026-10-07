@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/s3-f9851d/loang/cap-run-20260915T052454Z-188b62243400.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9528,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-lens-optimize-storage.html?icmpid=docs_s3_user_guide_DeletingObjectVersions.html",
+  "title": "Using Amazon S3 Storage Lens to optimize your storage costs",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:53:05Z",
+  "category": null
+}

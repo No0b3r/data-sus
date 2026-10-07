@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-config-rules-b00d12/loang/cap-run-20260915T052454Z-c596b2c1a393.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 252002,
+  "domain": "github.com",
+  "url": "https://github.com/awslabs/aws-config-rdklib/blob/master/template.yaml",
+  "title": "aws-config-rdklib/template.yaml at master · awslabs/aws-config-rdklib",
+  "author": "Awslabs",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T11:01:03Z",
+  "category": "repository:234652938"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-005-rfc-7296-ikev2-2f9fcd/loang/cap-run-20260925T020104Z-7fe506098df3.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 192667,
+  "domain": "rfc-editor.org",
+  "url": "http://www.rfc-editor.org/info/rfc2451",
+  "title": "RFC 2451: The ESP CBC-Mode Cipher Algorithms | RFC Editor",
+  "author": "R Pereira; R Adams",
+  "published_year": 1998,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:56Z",
+  "category": "ESP, encapsulating security payload, ipsec, Internet Protocol Security"
+}

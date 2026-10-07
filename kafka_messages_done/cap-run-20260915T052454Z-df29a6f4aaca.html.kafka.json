@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/app-capability-declarations-417c09/loang/cap-run-20260915T052454Z-df29a6f4aaca.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49345,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows/desktop/properties/props-system-video-director",
+  "title": "System.Video.Director - Win32 apps",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:02:24Z",
+  "category": null
+}

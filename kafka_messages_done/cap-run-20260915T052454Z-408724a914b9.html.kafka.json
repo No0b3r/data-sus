@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/event-reference-296d5c/loang/cap-run-20260915T052454Z-408724a914b9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5344,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/awscloudtrail/latest/userguide/cloudtrail-insights-fields-lake.html",
+  "title": "이벤트 데이터 스토어에 대한 Insights 이벤트의 CloudTrail 레코드 콘텐츠",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:26:15Z",
+  "category": null
+}

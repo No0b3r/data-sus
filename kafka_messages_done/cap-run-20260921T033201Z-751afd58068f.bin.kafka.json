@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260921T033201Z-751afd58068f.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 20552,
+  "domain": "python.org",
+  "url": "https://docs.python.org/license.html",
+  "title": "History and License",
+  "author": null,
+  "published_year": 2009,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:00:20Z",
+  "category": null
+}

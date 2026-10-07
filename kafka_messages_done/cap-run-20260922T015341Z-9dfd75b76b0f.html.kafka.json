@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/java-openjdk-hotspot-30640c/loang/cap-run-20260922T015341Z-9dfd75b76b0f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2994,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/java/javase/22/related-resources.html",
+  "title": "JDK 22 Documentation - Related Resources",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:03:07Z",
+  "category": null
+}

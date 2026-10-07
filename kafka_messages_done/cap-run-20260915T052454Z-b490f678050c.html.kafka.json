@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-cirt-tag-archive-14060c/loang/cap-run-20260915T052454Z-b490f678050c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1314368,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/blogs/machine-learning/secure-distributed-logging-in-scalable-multi-account-deployments-using-amazon-bedrock-and-langchain/",
+  "title": "Secure distributed logging in scalable multi-account deployments using Amazon Bedrock and LangChain | Amazon Web Services",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-05T10:58:57Z",
+  "category": "Amazon Bedrock"
+}

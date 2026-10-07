@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t3-002-debian-dsa-1576-1-1cb943/loang/cap-run-20260930T034226Z-4459fd2398a0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3319,
+  "domain": "debian.org",
+  "url": "https://lists.debian.org/msgid-search/20080121193838.ADFEA13A5695@liszt.debian.org",
+  "title": "I Challenge Thee",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T14:32:39Z",
+  "category": null
+}

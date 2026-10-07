@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/ec2-63c015/loang/cap-run-20260915T052454Z-9dcee4925a72.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3628,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/marketplace/latest/userguide/what-is-marketplace.html",
+  "title": "What is AWS Marketplace?",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:20:07Z",
+  "category": null
+}

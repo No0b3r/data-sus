@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t1-004-rfc-4253-ssh-transport-6b09ed/loang/cap-run-20260925T020104Z-eb458b55945c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 154252,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4432",
+  "title": "RFC 4432: RSA Key Exchange for the Secure Shell (SSH) Transport Layer Protocol | RFC Editor",
+  "author": "B Harris",
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T16:49:42Z",
+  "category": "rivest-sharmir-adleman, public key encryption"
+}

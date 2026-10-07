@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c10-full-035-owasp-asvs-113b47/loang/cap-run-20260923T111036Z-8bee98bf7d81.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 84814,
+  "domain": "owasp.org",
+  "url": "https://owasp.org/board/meetings/2012-11-12",
+  "title": "OWASP Board Meeting — November 12, 2012 | OWASP Foundation",
+  "author": "OWASP Foundation",
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:39:48Z",
+  "category": "OWASP,OWASP Foundation,application security,software security"
+}

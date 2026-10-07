@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-identity-platform-73f542/loang/cap-run-20260915T052454Z-d20fa2edaf93.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 128517,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/active-directory/develop/reference-error-codes",
+  "title": "Microsoft Entra authentication & authorization error codes - Microsoft identity platform",
+  "author": "Microsoft Entra authentication; Authorization Error Codes",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:46:29Z",
+  "category": null
+}

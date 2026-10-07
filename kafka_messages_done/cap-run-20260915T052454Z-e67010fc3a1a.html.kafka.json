@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/google-secops-community-bf2da9/loang/cap-run-20260915T052454Z-e67010fc3a1a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 172594,
+  "domain": "github.com",
+  "url": "https://github.com/chronicle/GCTI/custom-properties",
+  "title": "Build software better, together",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:28:21Z",
+  "category": "repository:566477780"
+}

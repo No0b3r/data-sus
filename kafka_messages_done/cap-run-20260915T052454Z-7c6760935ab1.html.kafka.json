@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/microsoft-identity-platform-73f542/loang/cap-run-20260915T052454Z-7c6760935ab1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 58217,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/entra/identity-platform/tutorial-web-app-dotnet-sign-in-users",
+  "title": "Configure an ASP.NET Core web app for authorization and authentication - Microsoft identity platform",
+  "author": "Add authorization",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:45:30Z",
+  "category": null
+}

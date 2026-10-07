@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c2-t2-009-secrets-20c7ae/loang/cap-run-20260921T033201Z-ed5e66c0ee9e.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7301,
+  "domain": "python.org",
+  "url": "https://docs.python.org/ja/3.10/library/trace.html",
+  "title": "trace --- Python 文実行のトレースと追跡¶",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T13:37:12Z",
+  "category": null
+}

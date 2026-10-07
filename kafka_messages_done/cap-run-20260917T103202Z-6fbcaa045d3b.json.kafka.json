@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_software-security/D00_t1-ly-thuyet/Tier1/node-js-d04dd7/loang/cap-run-20260917T103202Z-6fbcaa045d3b.json.gz",
+  "data_type": "document",
+  "file_type": "json",
+  "file_size": 269438,
+  "domain": "nodejs.org",
+  "url": "https://nodejs.org/docs/latest-v24.x/api/deprecations.json",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T00:10:25Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/aws-foundational-security-best-practices-427bb4/loang/cap-run-20260915T052454Z-5ecbe2ce2ee0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4473,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/athena/latest/ug/workgroups-create-update-delete.html",
+  "title": "작업 그룹 관리",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T01:32:58Z",
+  "category": null
+}

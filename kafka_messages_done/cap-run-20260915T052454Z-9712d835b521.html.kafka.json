@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier1/virtual-machine-linux-c50a84/loang/cap-run-20260915T052454Z-9712d835b521.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/azure/azure-monitor/reference/supported-logs/microsoft-chaos-experiments-logs",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:35:37Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='learn.microsoft.com', port=443): Max retries exceeded with url: /en-us/azure/azure-monitor/reference/supported-logs/microsoft-chaos-experiments-logs (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C3EEAC1AD0>, 'Connection to learn.microsoft.com timed out. (connect timeout=15.0)'))"
+}

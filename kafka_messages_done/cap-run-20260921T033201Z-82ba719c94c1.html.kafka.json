@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cryptography/D00_chung/Tier0/c7-t2-005-node-tls-6d7b7f/loang/cap-run-20260921T033201Z-82ba719c94c1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 407737,
+  "domain": "github.com",
+  "url": "https://nodejs.org/api/corepack.html",
+  "title": "GitHub - nodejs/corepack: Package manager version manager for Node.js projects",
+  "author": "Nodejs",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T18:06:41Z",
+  "category": "repository:246865548"
+}

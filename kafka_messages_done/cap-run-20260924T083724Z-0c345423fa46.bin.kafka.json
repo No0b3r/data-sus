@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_operating-systems-virtualisation-security/D00_chung/Tier1/falco-documentation-395194/loang/cap-run-20260924T083724Z-0c345423fa46.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 13354,
+  "domain": "falco.org",
+  "url": "https://falco.org/docs/contribute/contributor-of-the-month/",
+  "title": "Contributor of the Month",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T22:56:22Z",
+  "category": "docs"
+}

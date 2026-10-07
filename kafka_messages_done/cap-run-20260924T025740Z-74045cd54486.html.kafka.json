@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-freemarker-33255e/loang/cap-run-20260924T025740Z-74045cd54486.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3814,
+  "domain": "apache.org",
+  "url": "https://freemarker.apache.org/docs/api/freemarker/template/DefaultEnumerationAdapter.html",
+  "title": "Class DefaultEnumerationAdapter",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T01:33:20Z",
+  "category": null
+}

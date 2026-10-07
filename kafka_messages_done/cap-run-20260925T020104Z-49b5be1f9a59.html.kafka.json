@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/usenix-security-67e293/loang/cap-run-20260925T020104Z-49b5be1f9a59.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 39260,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/gopal",
+  "title": "Hidden Reality: Caution, Your Hand Gesture Inputs in the Immersive Virtual World are Visible to All!",
+  "author": "Sindhu Reddy Kalathur Gopal; Diksha Shukla; James David Wheelock; Nitesh Saxena",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T04:20:53Z",
+  "category": null
+}

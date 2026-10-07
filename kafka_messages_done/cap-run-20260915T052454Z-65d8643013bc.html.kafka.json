@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_secure-software-lifecycle/D00_chung/Tier0/threat-modeling-designing-for-security-462a8c/loang/cap-run-20260915T052454Z-65d8643013bc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2671,
+  "domain": "amazon.com",
+  "url": "https://www.amazon.com/s?_encoding=UTF8&i=specialty-aps&srs=213350539011&s=popularity-rank&fs=true&ref=lp_213350539011_sar&pd_rd_w=KVfm2&content-id=amzn1.sym.908a971f-5ed8-461d-a1c2-21eb65041d4a&pf_rd_p=908a971f-5ed8-461d-a1c2-21eb65041d4a&pf_rd_r=7FDNSQHX993GN1CK6042&pd_rd_wg=swJxh&pd_rd_r=0df8f0ca-cb34-4e92-b0a3-d8dab00fa84e",
+  "title": "Sorry! Something went wrong!",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T23:22:39Z",
+  "category": null
+}

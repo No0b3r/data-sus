@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A1_sys/KA_cloud-security/D00_vendor-focused-cloud-security/Tier0/maester-88bd3f/loang/cap-run-20260915T052454Z-e4465d5c6dfb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 471260,
+  "domain": "github.com",
+  "url": "https://github.com/maester365/maester/pull/2199",
+  "title": "chore(deps): bump react-dom and @types/react-dom in /report by dependabot[bot] · Pull Request #2199 · maester365/maester",
+  "author": "Maester",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-06T03:38:36Z",
+  "category": "pull_request:4532376544"
+}

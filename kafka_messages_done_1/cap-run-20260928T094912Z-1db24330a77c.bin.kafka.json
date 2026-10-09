@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/zammad-ghsl-2026-047-sql-injection-in-zammad-ba8402/loang/cap-run-20260928T094912Z-1db24330a77c.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9354,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2024-205_GHSL-2024-206_Stirling_PDF/",
+  "title": "GHSL-2024-205_GHSL-2024-206: Code Injection in Stirling PDF",
+  "author": "Pwntester",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:10:38Z",
+  "category": null
+}

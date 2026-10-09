@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/zammad-ghsl-2026-047-sql-injection-in-zammad-ba8402/loang/cap-run-20260928T094912Z-a1c943e9e75c.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9100,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2024-276_Ant-design-blazor/",
+  "title": "GHSL-2024-276: Actions expression injection in Ant-design-blazor",
+  "author": "Jarlob",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:10:52Z",
+  "category": null
+}

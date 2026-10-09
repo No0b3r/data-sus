@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260928T094912Z-4eb230f6908c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4130,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/zh/blog/2021/12/28/dashboard-cve-2021-45232/",
+  "title": "Apache APISIX Dashboard 未授权访问漏洞公告（CVE-2021-45232) | Apache APISIX",
+  "author": "朱禹成",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:07:50Z",
+  "category": "Vulnerabilities"
+}

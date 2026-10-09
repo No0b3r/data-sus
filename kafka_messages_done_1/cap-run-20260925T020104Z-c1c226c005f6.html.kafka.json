@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/cgi-dd0b48/loang/cap-run-20260925T020104Z-c1c226c005f6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 246587,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc1630",
+  "title": "RFC 1630: Universal Resource Identifiers in WWW: A Unifying Syntax for the Expression of Names and Addresses of Objects on the Network as used in the World-Wide Web | RFC Editor",
+  "author": "T Berners-Lee",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:04:29Z",
+  "category": "WWW, World Wide Web, URI"
+}

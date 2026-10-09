@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260915T052454Z-eeb2e0bc485b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 25069,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/11/index.html",
+  "title": "PostgreSQL 11.22 Documentation",
+  "author": "The PostgreSQL Global Development Group",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:22:46Z",
+  "category": null
+}

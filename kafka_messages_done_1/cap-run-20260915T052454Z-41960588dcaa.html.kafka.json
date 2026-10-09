@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260915T052454Z-41960588dcaa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3355,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/industries/hospitality/opera-cloud/26.2/ocsuh/t_dep_check_out_res_with_open_folio.htm",
+  "title": "User Guide",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:25:59Z",
+  "category": null
+}

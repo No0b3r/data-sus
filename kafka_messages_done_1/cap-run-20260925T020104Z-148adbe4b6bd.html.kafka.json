@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D05_cryptographic-network-transport-vpn/Tier1/rfc-4254-the-secure-shell-ssh-connection-pro-28c4d6/cap-run-20260925T020104Z-148adbe4b6bd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62219,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4254.html",
+  "title": null,
+  "author": null,
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:02:43Z",
+  "category": null
+}

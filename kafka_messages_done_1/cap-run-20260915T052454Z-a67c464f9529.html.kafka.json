@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-a67c464f9529.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5422,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/lambda/latest/dg/lambda-services.html",
+  "title": "使用來自其他服務的事件叫用 Lambda AWS",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:24:53Z",
+  "category": null
+}

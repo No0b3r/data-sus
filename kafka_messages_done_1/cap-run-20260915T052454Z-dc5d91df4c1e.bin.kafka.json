@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-banking-payments-721309/loang/cap-run-20260915T052454Z-dc5d91df4c1e.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 12740,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/F57282_01/PDF/APACK/Templates/GENERAL_Host/Instrument.zip",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T06:29:22Z",
+  "category": null
+}

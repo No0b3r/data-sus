@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-fusion-cloud-erp-financials-d9d889/loang/cap-run-20260915T052454Z-ba473f919679.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6595,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/saas/analytics/26r2/fawwn&id=FAWAG-GUID-23B5BD2F-2CE0-4F7B-A794-4A07028387C8",
+  "title": "Administering Oracle Fusion Data Intelligence",
+  "author": "Oracle Fusion Data Intelligence development; Product Management; Quality Assurance Teams; Hemala Vivek",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:13:42Z",
+  "category": null
+}

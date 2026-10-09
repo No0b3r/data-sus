@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260915T052454Z-90e984fffb45.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2620,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/industries/hospitality/enterprise-integrations/gaming-integration/24.1/",
+  "title": "Integrations with Gaming Partners 24.1 - Get Started",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:26:55Z",
+  "category": null
+}

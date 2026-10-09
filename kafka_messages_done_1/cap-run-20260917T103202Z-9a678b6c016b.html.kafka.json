@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-9a678b6c016b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 128958,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/pt-br/events/observabilitycon-on-the-road/sao-paulo/confiabilidade-de-fora-para-dentro-como-a-grafana-cloud-ajuda-voce-a-entender-a-experiencia-dos-seus-usuarios/",
+  "title": "Confiabilidade de fora para dentro: como a Grafana Cloud ajuda você a entender a experiência dos seus usuários | Grafana Labs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:35:40Z",
+  "category": null
+}

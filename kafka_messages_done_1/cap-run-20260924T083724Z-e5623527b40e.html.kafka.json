@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260924T083724Z-e5623527b40e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1129258,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/docs/atlas/ai-integrations/amazon-bedrock/",
+  "title": "Get Started with the Amazon Bedrock Knowledge Base Integration - Atlas - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T12:08:59Z",
+  "category": "RAG, retrieval, Amazon Bedrock, vector database, vector store, hybrid search, generative AI, integration"
+}

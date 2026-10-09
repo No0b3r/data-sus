@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D08_wireless-rf-network-security/Tier2/cisco-catalyst-9800-series-wireless-controll-2a873e/cap-run-20260925T020104Z-8e533e8b8d94.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 27403979,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/wireless/controller/9800/17-16/config-guide/b_wl_17_16_cg.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:38:43Z",
+  "category": null
+}

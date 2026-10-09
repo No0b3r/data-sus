@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-tapestry-d4a007/loang/cap-run-20260922T015341Z-bdffad353789.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10295,
+  "domain": "apache.org",
+  "url": "https://tapestry.apache.org/component-reference.html",
+  "title": "Component Reference",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:33:17Z",
+  "category": "tapestry, apache, apache tapestry, framework, java, web, component, open source, application, dynamic, scalable, robust, servlet"
+}

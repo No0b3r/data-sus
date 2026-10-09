@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/base64-c86c2f/loang/cap-run-20260925T020104Z-45ac843895b9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 186703,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc3548",
+  "title": "RFC 3548: The Base16, Base32, and Base64 Data Encodings | RFC Editor",
+  "author": "S Josefsson",
+  "published_year": 2003,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:52:33Z",
+  "category": "schemes, data, line-feeds, alphabets, base encoding, hex"
+}

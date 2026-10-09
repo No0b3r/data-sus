@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-b41df4e6de46.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 58059,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/es/about-aws/whats-new/2019/03/aws-schema-conversion-tool-adds-support-for-migrating-oracle-etl/",
+  "title": "AWS Schema Conversion Tool agrega compatibilidad para la migración de los trabajos de ETL de Oracle a AWS Glue",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:44:56Z",
+  "category": null
+}

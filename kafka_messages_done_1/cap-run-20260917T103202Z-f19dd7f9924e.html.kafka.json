@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260917T103202Z-f19dd7f9924e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 837605,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/resources/industries/database-digest-2026-edition/ai-outruns-stack",
+  "title": "When AI Outruns the Stack: The Technical Debt Tax",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T07:09:40Z",
+  "category": null
+}

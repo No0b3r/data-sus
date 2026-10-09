@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/ettercap-8-manpage-mitm-sniffer-content-filt-423ccb/loang/cap-run-20260921T033201Z-28d970659fa7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6900,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/testing/acheck-rules/acheck-rules.5.en.html",
+  "title": "acheck-rules(5) — acheck-rules — Debian testing",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:51:39Z",
+  "category": null
+}

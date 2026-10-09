@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ftp-60371b/loang/cap-run-20260925T020104Z-b679e4d7b5c0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 199172,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc114",
+  "title": "RFC 114: File Transfer Protocol | RFC Editor",
+  "author": "A K Bhushan",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:33:56Z",
+  "category": "FTP"
+}

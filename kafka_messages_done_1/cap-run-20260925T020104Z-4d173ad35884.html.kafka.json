@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ftp-60371b/loang/cap-run-20260925T020104Z-4d173ad35884.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 261077,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc871/",
+  "title": "RFC 871: Perspective on the ARPANET reference model | RFC Editor",
+  "author": "M A Padlipsky",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:33:33Z",
+  "category": null
+}

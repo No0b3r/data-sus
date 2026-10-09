@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260915T052454Z-cc009e180f8b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38143,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/how-to-create-a-new-elasticsearchhttpclient-class-implementing-org-elasticache-client-client-to-enable-es-applications-to-run-against-aws-elasticsearch/39348",
+  "title": "How to create a new ElasticsearchHttpClient class implementing org.elasticache.client.Client to enable ES applications to run against AWS Elasticsearch?",
+  "author": "Ingo Jaeckel",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:52:02Z",
+  "category": null
+}

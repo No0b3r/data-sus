@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-2e32a2504d34.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1557647,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2068",
+  "title": "RFC 2068: Hypertext Transfer Protocol -- HTTP/1.1 | RFC Editor",
+  "author": "R Fielding; J Gettys; J Mogul; H Frystyk; T Berners-Lee",
+  "published_year": 1997,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:25Z",
+  "category": "HTTP-1.1, World, Wide, Web, WWW, hypermedia"
+}

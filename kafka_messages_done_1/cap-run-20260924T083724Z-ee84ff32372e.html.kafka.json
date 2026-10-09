@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grails-837fea/loang/cap-run-20260924T083724Z-ee84ff32372e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7871,
+  "domain": "apache.org",
+  "url": "https://grails.apache.org/docs/latest/ref/Command%20Line/generate-views.html",
+  "title": "API",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:04:37Z",
+  "category": null
+}

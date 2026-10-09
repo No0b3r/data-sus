@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/zammad-ghsl-2026-047-sql-injection-in-zammad-ba8402/loang/cap-run-20260928T094912Z-05715e7263cc.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11387,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2026-204_spiffe_spire_repository/",
+  "title": "GHSL-2026-204: Artifact poisoning in the SPIFFE SPIRE reviewer assignment workflow",
+  "author": "Jarlob",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:10:36Z",
+  "category": null
+}

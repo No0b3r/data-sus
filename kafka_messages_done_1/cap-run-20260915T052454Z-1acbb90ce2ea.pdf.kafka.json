@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/rowpress-amplifying-read-disturbance-in-mode-9b9aee/cap-run-20260915T052454Z-1acbb90ce2ea.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 3568275,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/pdf/2306.17061",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:53Z",
+  "category": null
+}

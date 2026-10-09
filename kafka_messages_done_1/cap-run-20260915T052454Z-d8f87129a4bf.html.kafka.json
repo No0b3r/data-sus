@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-d8f87129a4bf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40008,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/cn/about-aws/events/webinar/2017/amazon-ai-and-deep-learning-overview05022017/",
+  "title": "亚马逊人工智能服务与深度学习平台介绍-在线研讨会-AWS云服务",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:47:32Z",
+  "category": null
+}

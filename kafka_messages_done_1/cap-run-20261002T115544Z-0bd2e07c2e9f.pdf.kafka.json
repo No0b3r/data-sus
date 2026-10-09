@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier2/cisco-metro-ethernet-waas-module-giao-tiep-v-a5935f/cap-run-20261002T115544Z-0bd2e07c2e9f.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 48799839,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/solutions/Verticals/Industrial_Automation/IA_Horizontal/DG/Industrial-AutomationDG.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:57:26Z",
+  "category": null
+}

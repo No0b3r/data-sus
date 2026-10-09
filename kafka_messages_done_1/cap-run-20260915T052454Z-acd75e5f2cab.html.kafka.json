@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/openvpn-community-chained-for-attack-openvpn-aa58fa/loang/cap-run-20260915T052454Z-acd75e5f2cab.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 51761,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2020/03/17/secured-core-pcs-a-brief-showcase-of-chip-to-cloud-security-against-kernel-attacks/",
+  "title": "Secured-core PCs: A brief showcase of chip-to-cloud security against kernel attacks | Microsoft Security Blog",
+  "author": "Windows Platform Security Team",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:58:06Z",
+  "category": "Cybersecurity"
+}

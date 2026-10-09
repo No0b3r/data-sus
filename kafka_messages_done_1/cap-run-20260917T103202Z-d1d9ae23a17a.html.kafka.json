@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-d1d9ae23a17a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 354539,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/docs/grafana/latest/datasources/google-cloud-monitoring/query-editor/?pg=webinar-visualize-google-cloud-with-grafana&plcmt=resources-list-2",
+  "title": "Google Cloud Monitoring query editor | Grafana documentation",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:47:16Z",
+  "category": null
+}

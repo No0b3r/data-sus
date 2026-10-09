@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260925T020104Z-c9b9ee041cd9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 21349,
+  "domain": "influxdata.com",
+  "url": "https://docs.influxdata.com/influxdb/cloud/query-data/influxql/explore-schema/",
+  "title": "Explore your schema using InfluxQL",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:58:13Z",
+  "category": null
+}

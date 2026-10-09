@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-ea7b219d9d7d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5652,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/AmazonECS/latest/developerguide/AWS_Fargate.html",
+  "title": "Amazon ECS에 대한 AWS Fargate 아키텍트",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:31:40Z",
+  "category": null
+}

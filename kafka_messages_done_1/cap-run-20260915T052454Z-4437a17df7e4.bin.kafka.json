@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/faultpm-exposing-amd-ftpms-deepest-secrets-5322f0/loang/cap-run-20260915T052454Z-4437a17df7e4.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 42158,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/2304.00060",
+  "title": "Evidential Transactions with Cyberlogic",
+  "author": "Ruess; Harald; Shankar; Natarajan",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:27:11Z",
+  "category": null
+}

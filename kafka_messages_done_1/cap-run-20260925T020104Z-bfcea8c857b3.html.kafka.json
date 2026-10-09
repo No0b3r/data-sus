@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier1/linux-kernel-hardware-vulnerabilities-admin-1d8f92/loang/cap-run-20260925T020104Z-bfcea8c857b3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6697,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/driver-api/usb/persist.html",
+  "title": "USB device persistence during system suspend",
+  "author": null,
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:23:41Z",
+  "category": null
+}

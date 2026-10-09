@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260915T052454Z-6a48ad7ebe04.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 20397,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/current/pgrowlocks.html",
+  "title": "F.31. pgrowlocks — show a table's row locking information",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:10:30Z",
+  "category": null
+}

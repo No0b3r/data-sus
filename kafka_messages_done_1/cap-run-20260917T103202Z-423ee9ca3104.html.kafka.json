@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-423ee9ca3104.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 245048,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/press/2023/03/08/grafana-labs-observability-survey-2023-finds-centralization-saves-time-and-money-for-an-industry-plagued-by-tool-and-data-source-overload/",
+  "title": "Grafana Labs Observability Survey 2023 Finds Centralization Saves Time and Money for an Industry Plagued by Tool and Data Source Overload",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:16:32Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/https-tls-ssl-1bed3b/loang/cap-run-20260925T020104Z-2fc6c03fe914.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 370705,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4492",
+  "title": "RFC 4492: Elliptic Curve Cryptography (ECC) Cipher Suites for Transport Layer Security (TLS) | RFC Editor",
+  "author": "S Blake-Wilson; N Bolyard; V Gupta; C Hawk; B Moeller",
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:13:54Z",
+  "category": "ecdh, elliptic curve diffie-hellman, elliptic curve digital signature algorithm, ecdsa"
+}

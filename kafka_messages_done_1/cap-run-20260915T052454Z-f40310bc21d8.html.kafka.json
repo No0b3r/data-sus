@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-wicket-85868a/loang/cap-run-20260915T052454Z-f40310bc21d8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2762,
+  "domain": "apache.org",
+  "url": "https://wicket.apache.org/learn/books/ewdww.html",
+  "title": "Books — Enjoying Web Development with Wicket",
+  "author": "About the author",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:52:02Z",
+  "category": null
+}

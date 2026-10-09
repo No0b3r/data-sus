@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier2/cisco-troubleshoot-tcp-performance-on-nexus-c1fa10/loang/cap-run-20260925T020104Z-6787ad1f0375.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 504,
+  "domain": "cisco.com",
+  "url": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/guide-c07-742142.html",
+  "title": "Access Denied",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:01:03Z",
+  "category": null
+}

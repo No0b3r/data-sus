@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-banking-payments-721309/loang/cap-run-20260921T033201Z-0b2c7e5095eb.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 1463542,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/F18473-01/PDF/User_Guides/Oracle-Banking-Payments_Modules/Book_Transfer.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T06:31:52Z",
+  "category": null
+}

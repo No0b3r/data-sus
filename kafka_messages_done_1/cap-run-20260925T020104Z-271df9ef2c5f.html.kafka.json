@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/webdav-423342/loang/cap-run-20260925T020104Z-271df9ef2c5f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 963227,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc2518",
+  "title": "RFC 2518: HTTP Extensions for Distributed Authoring -- WEBDAV | RFC Editor",
+  "author": "Y Goland; E Whitehead; A Faizi; S Carter; D Jensen",
+  "published_year": 1999,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:01:36Z",
+  "category": "WEBDAV, hypertext, transfer, protocol, web, content"
+}

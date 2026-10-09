@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-tapestry-d4a007/loang/cap-run-20261005T080457Z-b5642c42ff36.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7004,
+  "domain": "apache.org",
+  "url": "https://tapestry.apache.org/release-notes-564.html",
+  "title": "Release Notes 5.6.4",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:35:43Z",
+  "category": "tapestry, apache, apache tapestry, framework, java, web, component, open source, application, dynamic, scalable, robust, servlet"
+}

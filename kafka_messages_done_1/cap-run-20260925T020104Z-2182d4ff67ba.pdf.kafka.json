@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/cisco-unified-communications-manager-82683e/loang/cap-run-20260925T020104Z-2182d4ff67ba.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 6206037,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/dam/global/ja_jp/td/docs/ucs/callcntrl/ucmgrver10-5/cg/002/cup0-bk-ceb3e82e-00-config-admin-guide-imp-1052-ja-jp.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:06:52Z",
+  "category": null
+}

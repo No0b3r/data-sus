@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D08_sensor-analog-signal-injection-transduction/Tier1/taxonomy-and-challenges-of-out-of-band-signa-b08ed9/loang/cap-run-20260915T052454Z-e95e5448f9e6.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 139418,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/html/1901.01914v1",
+  "title": "The Group Element of Cybercrime: Types, Dynamics, and Criminal Operations",
+  "author": "Jason R C Nurse Affiliation School; University; UK E-mail j r c nurse ac uk",
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:33:04Z",
+  "category": "cybercrime, cybercriminal networks, organized crime, group behavior, human psychology, trust, criminal platforms, criminology"
+}

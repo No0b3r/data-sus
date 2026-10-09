@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-bd5351d5eccc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 402728,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc7519",
+  "title": "RFC 7519: JSON Web Token (JWT) | RFC Editor",
+  "author": "M Jones; J Bradley; N Sakimura",
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:04Z",
+  "category": "Assertion, Claim, Security Token, JavaScript Object Notation, JSON, JSON Web Token, JWT, JSON Object Signing and Encryption, JOSE, JSON Web Signature, JWS, JSON Web Encryption, JWE, JSON Web Key, JWK, JSON Web Algorithms, JWA"
+}

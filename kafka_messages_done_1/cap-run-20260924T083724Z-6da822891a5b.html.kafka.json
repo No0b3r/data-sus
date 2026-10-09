@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260924T083724Z-6da822891a5b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40891,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/kibana-control-has-white-back-ground/323367",
+  "title": "Kibana control has white back ground",
+  "author": "Elasticforme",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:55:47Z",
+  "category": null
+}

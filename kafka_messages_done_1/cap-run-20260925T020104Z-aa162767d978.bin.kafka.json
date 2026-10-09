@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/php-43e095/loang/cap-run-20260925T020104Z-aa162767d978.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": null,
+  "domain": "www.php.net",
+  "url": "https://www.php.net/manual/en/features.persistent-connections.php",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:54:46Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='www.php.net', port=443): Max retries exceeded with url: /manual/en/features.persistent-connections.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E163E9FD10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+}

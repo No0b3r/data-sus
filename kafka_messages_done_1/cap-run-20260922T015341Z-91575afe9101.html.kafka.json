@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260922T015341Z-91575afe9101.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18813,
+  "domain": "influxdata.com",
+  "url": "https://docs.influxdata.com/influxdb3/cloud-dedicated/write-data/line-protocol/client-libraries/",
+  "title": "Use InfluxDB client libraries to write line protocol data",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:35:32Z",
+  "category": null
+}

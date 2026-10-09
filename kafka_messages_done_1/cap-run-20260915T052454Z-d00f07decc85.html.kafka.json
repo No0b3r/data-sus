@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-d00f07decc85.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 209318,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/library/stream-processing/introducing-atlas-stream-processing-public?lb-mode=overlay",
+  "title": "Atlas Stream Processing is Now Generally Available",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:51:05Z",
+  "category": null
+}

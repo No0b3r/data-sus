@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier3/physical-fault-injection-and-side-channel-at-ac3a12/cap-run-20260915T052454Z-5e4c8fb01860.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 7354000,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/pdf/2105.04454",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:26:23Z",
+  "category": null
+}

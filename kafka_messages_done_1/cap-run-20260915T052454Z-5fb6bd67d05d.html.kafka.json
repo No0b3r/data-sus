@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260915T052454Z-5fb6bd67d05d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12769,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/about/news/call-for-proposals-is-open-for-posette-an-event-for-postgres-2024-2806/",
+  "title": "Call for Proposals is open for POSETTE: An Event for Postgres 2024",
+  "author": "Microsoft Azure",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:09:31Z",
+  "category": null
+}

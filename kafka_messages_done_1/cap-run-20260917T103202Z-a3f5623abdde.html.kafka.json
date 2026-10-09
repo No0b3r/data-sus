@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/ettercap-8-manpage-mitm-sniffer-content-filt-423ccb/loang/cap-run-20260917T103202Z-a3f5623abdde.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5169,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/testing/4ti2/4ti2-markov.1.en.html",
+  "title": "4ti2-markov(1) — 4ti2 — Debian testing",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:51:14Z",
+  "category": null
+}

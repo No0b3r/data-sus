@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/zammad-ghsl-2026-047-sql-injection-in-zammad-ba8402/loang/cap-run-20260925T020104Z-f4df0849204f.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14432,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/resources/github-actions-preventing-pwn-requests",
+  "title": "Keeping your GitHub Actions and workflows secure Part 1: Preventing pwn requests",
+  "author": "Jarlob",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:10:35Z",
+  "category": null
+}

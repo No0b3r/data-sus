@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-6db9cc70c6ea.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 119859,
+  "domain": "rfc-editor.org",
+  "url": "http://www.rfc-editor.org/info/rfc2119",
+  "title": "RFC 2119: Key words for use in RFCs to Indicate Requirement Levels | RFC Editor",
+  "author": "S Bradner",
+  "published_year": 1997,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:51Z",
+  "category": "Standards, Track, Documents"
+}

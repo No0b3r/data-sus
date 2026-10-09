@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260915T052454Z-fc3ccd6b6ebe.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 1218902,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/E94890_01/doc.181/e96486.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:28:07Z",
+  "category": null
+}

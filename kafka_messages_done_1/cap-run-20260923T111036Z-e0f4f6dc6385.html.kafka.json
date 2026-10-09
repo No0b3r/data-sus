@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260923T111036Z-e0f4f6dc6385.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14059,
+  "domain": "influxdata.com",
+  "url": "https://docs.influxdata.com/kapacitor/v1/reference/event_handlers/",
+  "title": "Kapacitor event handlers",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:42:44Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-75b493904b70.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1173,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/contact-us/request-to-increase-the-amazon-rds-db-instance-limit/",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:40:58Z",
+  "category": null
+}

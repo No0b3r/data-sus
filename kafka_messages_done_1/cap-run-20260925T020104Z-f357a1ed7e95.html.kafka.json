@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-f357a1ed7e95.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 764193,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5792",
+  "title": "RFC 5792: PA-TNC: A Posture Attribute (PA) Protocol Compatible with Trusted Network Connect (TNC) | RFC Editor",
+  "author": "P Sangster; K Narayan",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:13:09Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D08_sensor-analog-signal-injection-transduction/Tier1/taxonomy-and-challenges-of-out-of-band-signa-b08ed9/loang/cap-run-20260915T052454Z-1f4e34a5e914.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 44487,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/1901.06935?context=cs",
+  "title": "Taxonomy and Challenges of Out-of-Band Signal Injection Attacks and Defenses",
+  "author": "Giechaskiel; Ilias; Rasmussen; Kasper Bonne",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:32:05Z",
+  "category": null
+}

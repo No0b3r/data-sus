@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/webdav-423342/loang/cap-run-20260925T020104Z-41b21bdf56d6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1114773,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc3253",
+  "title": "RFC 3253: Versioning Extensions to WebDAV (Web Distributed Authoring and Versioning) | RFC Editor",
+  "author": "G Clemm; J Amsden; T Ellison; C Kaler; J Whitehead",
+  "published_year": 2002,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:01:36Z",
+  "category": "HTTP, hypertext transfer protocol, clients, label, configuration, management, WebDAV, Web Distributed Authoring and Versioning"
+}

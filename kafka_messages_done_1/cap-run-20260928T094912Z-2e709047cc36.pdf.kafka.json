@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/cisco-secure-firewall-fmc-device-configurati-45fc74/cap-run-20260928T094912Z-2e709047cc36.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 105560921,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/security/secure-firewall/management-center/device-config/760/management-center-device-config-76.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:37:04Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-93c4d0015fb1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 60533,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/jp/about-aws/whats-new/2019/03/Amazon-RDS-for-Oracle-Now-Supports-In-region-Read-Replicas-with-Active-Data-Guard-for-Read-Scalability-and-Availability/",
+  "title": "Amazon RDS for Oracle が読み取りのスケーラビリティと読み取りの可用性のための Active Data Guard を使用したリージョン内リードレプリカのサポートを追加",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:42:54Z",
+  "category": null
+}

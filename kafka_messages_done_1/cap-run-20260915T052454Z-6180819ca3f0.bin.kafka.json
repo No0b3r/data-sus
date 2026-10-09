@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/glitch-in-the-sky-exploiting-voltage-fault-i-d40e30/loang/cap-run-20260915T052454Z-6180819ca3f0.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 252611,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/html/2604.00627v1",
+  "title": "When Safe Models Merge into Danger: Exploiting Latent Vulnerabilities in LLM Fusion",
+  "author": "Tianlong Yu Affiliation Hubei University; Wuhan; China E-mail tommyyu",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:28:04Z",
+  "category": "Large Language Model Model MergingSafety Alignment."
+}

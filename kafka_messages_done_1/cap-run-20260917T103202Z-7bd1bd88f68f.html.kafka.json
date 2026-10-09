@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-health-ehr-cerner-millennium-ed62ec/loang/cap-run-20260917T103202Z-7bd1bd88f68f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1909,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/F14037_01/index.htm",
+  "title": "Application Management Pack for Oracle Utilities Network Management System Documentation",
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:17:17Z",
+  "category": "Application Management Pack, Oracle Utilities Network Management System, NMS, User Documentation, Guides"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-dffeed5284b0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 386843,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/how-to-monitor-claude-usage-and-costs-introducing-the-anthropic-integration-for-grafana-cloud?pg=ai-ml-cloud&plcmt=txt-img-alternating",
+  "title": "How to monitor Claude usage and costs: introducing the Anthropic integration for Grafana Cloud | Grafana Labs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:49:00Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

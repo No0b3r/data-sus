@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-fe38c5142f40.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 338399,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/2022/11/02/introducing-grafana-faro-oss-application-observability/?pg=oss-faro&plcmt=hero-btn-2",
+  "title": "Introducing Grafana Faro, an open source project for frontend application observability | Grafana Labs",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:51:18Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

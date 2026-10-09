@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D10_data-center-cloud-overlay-network-security/Tier2/aws-tai-lieu-mang-dam-may-vpc-route-53-elb-d-28a4b5/loang/cap-run-20260915T052454Z-175eb783f9fa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5243,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/vpc-network-acls.html",
+  "title": "네트워크 액세스 제어 목록으로 서브넷 트래픽 제어",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-09T01:20:14Z",
+  "category": null
+}

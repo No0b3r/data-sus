@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-df0bcfb0e8b5.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 125813,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/developers/plugin-tools/migration-guides/update-from-grafana-versions/migrate-12_x-to-13_x",
+  "title": "12.x to 13.x | Grafana Plugin Tools",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:50:48Z",
+  "category": "grafana,plugins,plugin,upgrading,updating,migration,react 19,ui-extensions"
+}

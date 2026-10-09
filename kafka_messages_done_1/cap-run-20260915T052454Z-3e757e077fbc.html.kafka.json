@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-3e757e077fbc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 483894,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/fr/rds/resources/",
+  "title": "Ressources d'Amazon RDS",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:37:35Z",
+  "category": null
+}

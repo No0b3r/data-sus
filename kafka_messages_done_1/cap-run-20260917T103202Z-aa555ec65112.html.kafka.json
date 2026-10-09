@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-aa555ec65112.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2001,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E17952_01/mysql-shell-8.0-ja/mysql-shell-customizing.html",
+  "title": "第 10 章 MySQL Shell のカスタマイズ",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:40:50Z",
+  "category": null
+}

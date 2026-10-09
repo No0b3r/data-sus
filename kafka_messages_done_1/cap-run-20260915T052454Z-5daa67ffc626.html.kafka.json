@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-5daa67ffc626.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 205914,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/marketplace/seller-profile?id=6a766d61-5a6a-4c97-83f4-8bfe02b74914&ref=dtl_B00PUXWXNE",
+  "title": "Splunk",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:39:33Z",
+  "category": null
+}

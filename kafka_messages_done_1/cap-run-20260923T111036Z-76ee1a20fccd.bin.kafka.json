@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20260923T111036Z-76ee1a20fccd.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12436,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/ctf/go-and-dont-return/rules/",
+  "title": "Contest Official Rules - GitHub Security lab CTF Go and don’t return",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:03:35Z",
+  "category": null
+}

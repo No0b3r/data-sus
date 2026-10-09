@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D08_sensor-analog-signal-injection-transduction/Tier1/taxonomy-and-challenges-of-out-of-band-signa-b08ed9/loang/cap-run-20260915T052454Z-eaa248424786.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 266396,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/search/cs?searchtype=author&query=Kraft",
+  "title": "Showing 1–50 of 94 results for author: Kraft",
+  "author": "Authors Jason Branford; Angelie Kraft",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:33:05Z",
+  "category": null
+}

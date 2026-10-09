@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260924T083724Z-1e9ed4e61736.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "www.mongodb.com",
+  "url": "https://www.mongodb.com/docs/api/doc/atlas-admin-api-v2/",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T10:46:54Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='www.mongodb.com', port=443): Read timed out. (read timeout=15.0)"
+}

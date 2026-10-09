@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260917T103202Z-d9090d6cbc43.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1710,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E94300_01/html/User_Defined_Fields/User_Defined_FieldsTOC00.htm",
+  "title": "Oracle ® FLEXCUBE Universal Banking User Defined Fields User Guide",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T08:43:41Z",
+  "category": null
+}

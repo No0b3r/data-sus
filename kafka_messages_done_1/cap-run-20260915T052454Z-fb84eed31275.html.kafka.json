@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/faultpm-exposing-amd-ftpms-deepest-secrets-5322f0/loang/cap-run-20260915T052454Z-fb84eed31275.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 44011,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/2304.14717?context=cs",
+  "title": "faulTPM: Exposing AMD fTPMs' Deepest Secrets",
+  "author": "Jacob; Hans Niklas; Werling; Christian; Buhren; Robert; Seifert; Jean-Pierre",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:27:23Z",
+  "category": null
+}

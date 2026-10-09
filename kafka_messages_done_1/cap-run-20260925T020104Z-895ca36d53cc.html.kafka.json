@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier1/rfc-9312-manageability-of-the-quic-transport-97c15c/cap-run-20260925T020104Z-895ca36d53cc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 164144,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9312.html",
+  "title": "Manageability of the QUIC Transport Protocol",
+  "author": "Mirja Kühlewind; Brian Trammell",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:00:43Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/glitch-in-the-sky-exploiting-voltage-fault-i-d40e30/loang/cap-run-20260915T052454Z-27fb101b271b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 43038,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/2604.00303",
+  "title": "Cybersecurity Risk Assessment for CubeSat Missions: Adapting Established Frameworks for Resource-Constrained Environments",
+  "author": "Shelby; Jonathan",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:27:33Z",
+  "category": null
+}

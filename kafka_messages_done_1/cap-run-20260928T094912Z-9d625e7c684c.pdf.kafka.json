@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D08_wireless-rf-network-security/Tier2/cisco-ultra-cloud-core-asr-5000-va-quantum-p-cce3de/cap-run-20260928T094912Z-9d625e7c684c.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 70857373,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/wireless/ucc/sgw/2025-02/config-and-admin/b_ucc-5g-cnsgwc-config-and-admin-guide_2025-02.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:39:31Z",
+  "category": null
+}

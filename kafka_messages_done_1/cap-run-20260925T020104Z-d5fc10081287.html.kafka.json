@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier1/linux-kernel-hardware-vulnerabilities-admin-1d8f92/loang/cap-run-20260925T020104Z-d5fc10081287.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 13184,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/translations/zh_CN/dev-tools/kasan.html",
+  "title": "内核地址消毒剂(KASAN)",
+  "author": null,
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:24:38Z",
+  "category": null
+}

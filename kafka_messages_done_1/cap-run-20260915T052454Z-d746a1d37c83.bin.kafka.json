@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-tomcat-9f19e0/loang/cap-run-20260915T052454Z-d746a1d37c83.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 1570,
+  "domain": "tomcat.apache.org",
+  "url": "https://tomcat.apache.org/presentations/2018-09-05-acna-lets-encrypt-renew.sh",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:39:29Z",
+  "category": null
+}

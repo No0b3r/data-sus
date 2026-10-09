@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-070c94857811.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6848,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/middleware/12211/lcm/WLSIG/GUID-207CA334-FEDD-4D35-9DCA-357E5FDFEB2E.htm",
+  "title": "Fusion Middleware Installing and Configuring Oracle WebLogic Server and Coherence",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:45:32Z",
+  "category": null
+}

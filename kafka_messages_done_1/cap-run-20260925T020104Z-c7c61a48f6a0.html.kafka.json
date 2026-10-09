@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/imap-8b006c/cap-run-20260925T020104Z-c7c61a48f6a0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 893394,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9051.html",
+  "title": "Internet Message Access Protocol (IMAP) - Version 4rev2",
+  "author": "Alexey Melnikov; Barry Leiba",
+  "published_year": 1995,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:14:07Z",
+  "category": null
+}

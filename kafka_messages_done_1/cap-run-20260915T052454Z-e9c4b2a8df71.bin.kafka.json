@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/kernel-dma-protection-microsoft-learn-hardwa-a86802/loang/cap-run-20260915T052454Z-e9c4b2a8df71.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 180694,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/intune/device-updates/windows/media/monitor-compatibility/compatibility-risks-report.png",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:44Z",
+  "category": null
+}

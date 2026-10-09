@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/glitch-in-the-sky-exploiting-voltage-fault-i-d40e30/loang/cap-run-20260915T052454Z-28c46feeee34.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 8413097,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/pdf/2604.01092",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:27:34Z",
+  "category": null
+}

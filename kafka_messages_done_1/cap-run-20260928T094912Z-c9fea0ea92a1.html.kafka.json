@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grails-837fea/loang/cap-run-20260928T094912Z-c9fea0ea92a1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 20793,
+  "domain": "apache.org",
+  "url": "https://grails.apache.org/docs/latest/guide/async.html",
+  "title": "API",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:09:11Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20260925T020104Z-d3f5de42e24a.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10602,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2025-049_GHSL-2025-053_RVC-Boss_GPT-SoVITS/",
+  "title": "GHSL-2025-049_GHSL-2025-053: Remote Code Execution (RCE) in GPT-SoVITS - CVE-2025-49837, CVE-2025-49838, CVE-2025-49839, CVE-2025-49840, CVE-2025-49841",
+  "author": "Sylwia-Budzynska",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:06:42Z",
+  "category": null
+}

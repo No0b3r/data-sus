@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/ettercap-8-manpage-mitm-sniffer-content-filt-423ccb/loang/cap-run-20260921T033201Z-10eda3d8981b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5893,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/testing/a2ps/texi2dvi4a2ps.1.en.html",
+  "title": "texi2dvi4a2ps(1) — a2ps — Debian testing",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:51:37Z",
+  "category": null
+}

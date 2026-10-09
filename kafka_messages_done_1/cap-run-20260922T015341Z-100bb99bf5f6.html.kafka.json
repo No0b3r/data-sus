@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grails-837fea/loang/cap-run-20260922T015341Z-100bb99bf5f6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11013,
+  "domain": "apache.org",
+  "url": "https://grails.apache.org/docs/latest/api/overview-summary.html",
+  "title": "Grails 8.0.0-RC2",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:57:41Z",
+  "category": "Overview"
+}

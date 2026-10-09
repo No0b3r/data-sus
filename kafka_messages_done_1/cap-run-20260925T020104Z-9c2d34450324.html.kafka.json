@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/cgi-dd0b48/loang/cap-run-20260925T020104Z-9c2d34450324.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 141597,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc1806/",
+  "title": "RFC 1806: Communicating Presentation Information in Internet Messages: The Content-Disposition Header | RFC Editor",
+  "author": "R Troost; S Dorner",
+  "published_year": 1995,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:04:28Z",
+  "category": "MIME, EMail, Mail"
+}

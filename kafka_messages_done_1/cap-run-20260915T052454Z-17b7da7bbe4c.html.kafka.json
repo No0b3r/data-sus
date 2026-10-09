@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D10_data-center-cloud-overlay-network-security/Tier2/aws-tai-lieu-mang-dam-may-vpc-route-53-elb-d-28a4b5/loang/cap-run-20260915T052454Z-17b7da7bbe4c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9394,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/AWSEC2/latest/UserGuide/using-instance-addressing.html",
+  "title": "Amazon EC2 執行個體 IP 定址",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-09T01:21:07Z",
+  "category": null
+}

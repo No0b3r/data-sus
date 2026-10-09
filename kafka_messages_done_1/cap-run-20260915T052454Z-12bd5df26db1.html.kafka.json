@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/blazor-c3f6f5/loang/cap-run-20260915T052454Z-12bd5df26db1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 107940,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/aspnet/core/blazor/forms/binding?view=aspnetcore-10.0",
+  "title": "ASP.NET Core Blazor forms binding",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:02:08Z",
+  "category": null
+}

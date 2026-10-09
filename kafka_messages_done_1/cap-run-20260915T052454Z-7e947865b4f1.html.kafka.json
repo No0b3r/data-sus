@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-7e947865b4f1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 103340,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/fr-fr/blog/post/announcing-mongodb-as-founding-member-of-nist-ai-safety-institute-consortium-fr",
+  "title": "Annonce de MongoDB en tant que membre fondateur de l'AI Safety Institute Consortium du NIST | MongoDB Blog",
+  "author": "Mat Keep",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:33:57Z",
+  "category": null
+}

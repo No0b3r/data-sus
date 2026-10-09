@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier2/cisco-catalyst-lan-tron-bo-tai-lieu-switch-t-da2dbf/cap-run-20260928T043119Z-b9340d1b3814.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 51896770,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/switches/lan/cisco_ie4010/software/release/15-2_4_EC/configuration/guide/scg-ie4010_5000.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:56:18Z",
+  "category": null
+}

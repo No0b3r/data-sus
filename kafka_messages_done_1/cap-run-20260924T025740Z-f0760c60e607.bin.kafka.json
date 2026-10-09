@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20260924T025740Z-f0760c60e607.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10928,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/resources/apache-struts-vulnerability-cve-2017-9805/",
+  "title": "CVE-2017-9805: How CodeQL found a remote code execution vulnerability in Apache Struts",
+  "author": "M-Y-Mo",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:04:59Z",
+  "category": null
+}

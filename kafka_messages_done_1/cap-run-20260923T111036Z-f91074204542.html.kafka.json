@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260923T111036Z-f91074204542.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 34913,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/kibana-look-and-feel/140637",
+  "title": "Kibana Look and feel",
+  "author": "ColinBaxter",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:54:34Z",
+  "category": "canvas"
+}

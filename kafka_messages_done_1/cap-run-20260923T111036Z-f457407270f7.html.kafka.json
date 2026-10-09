@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260923T111036Z-f457407270f7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 937354,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ko-kr/docs/atlas/import/",
+  "title": "데이터 마이그레이션 또는 가져오기 - Atlas - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T08:46:26Z",
+  "category": "MongoDB 아틀라스로의 실시간 마이그레이션"
+}

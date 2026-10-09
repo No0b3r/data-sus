@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260915T052454Z-3123803033c2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 33882,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-security-update-esa-2026-155/390072",
+  "title": "Kibana 8.19.21, 9.4.6 Security Update (ESA-2026-155)",
+  "author": "Ismisepaul",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:49:57Z",
+  "category": null
+}

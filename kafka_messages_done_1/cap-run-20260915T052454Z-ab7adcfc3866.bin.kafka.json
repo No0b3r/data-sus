@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/faultpm-exposing-amd-ftpms-deepest-secrets-5322f0/loang/cap-run-20260915T052454Z-ab7adcfc3866.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 41617,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/2304.00382",
+  "title": "Scalable Attestation of Virtualized Execution Environments in Hybrid- and Multi-Cloud",
+  "author": "Ozga; Wojciech; Sagmeister; Patricia; Visegrády; Tamás; Dragone; Silvio",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:27:16Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/kirbi-ccache-kerberos-d444fe/loang/cap-run-20260925T020104Z-085a302c7013.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 188042,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3211",
+  "title": "RFC 3211: Password-based Encryption for CMS | RFC Editor",
+  "author": "P Gutmann",
+  "published_year": 2001,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:06:33Z",
+  "category": "cryptographic, message, syntax, S/MIME, key wrap, derivation, passwordrecipientinfo, PWRI"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D06_network-access-control-network-identity/Tier1/rfc-9190-eap-tls-1-3-using-eap-tls-with-tls-fdd48e/cap-run-20260925T020104Z-d81be34c7824.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 175394,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9190.html",
+  "title": "EAP-TLS 1.3: Using the Extensible Authentication Protocol with TLS 1.3",
+  "author": "John Preuß Mattsson; Mohit Sethi",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:02:59Z",
+  "category": null
+}

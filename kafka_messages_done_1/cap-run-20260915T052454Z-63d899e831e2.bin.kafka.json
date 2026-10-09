@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D09_service-provider-internet-infrastructure-sec/Tier1/arxiv-cs-ni-toan-bo-kho-tien-an-pham-mang-ma-155000/cap-run-20260915T052454Z-63d899e831e2.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15947,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/list/cs.NI/recent",
+  "title": "Networking and Internet Architecture",
+  "author": "Tony Kinchen; Ting Bai; Andreas A Malikopoulos",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:39:49Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier1/linux-kernel-hardware-vulnerabilities-admin-1d8f92/loang/cap-run-20260928T043119Z-1038dcfa5e8f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7574,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/admin-guide/hw-vuln/tsx_async_abort.html",
+  "title": "TAA - TSX Asynchronous Abort",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:26:15Z",
+  "category": null
+}

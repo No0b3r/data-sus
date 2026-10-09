@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-be676516fc6d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 20685,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/it_it/decision-guides/latest/decision-guides/choosing-aws-compute-service.html",
+  "title": "Scelta di un AWS servizio informatico",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:26:09Z",
+  "category": null
+}

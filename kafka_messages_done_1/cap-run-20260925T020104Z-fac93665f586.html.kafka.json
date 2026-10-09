@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier1/linux-kernel-hardware-vulnerabilities-admin-1d8f92/loang/cap-run-20260925T020104Z-fac93665f586.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7064,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/arch/s390/monreader.html",
+  "title": "Linux API for read access to z/VM Monitor Records",
+  "author": null,
+  "published_year": 2004,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:25:58Z",
+  "category": null
+}

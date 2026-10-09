@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-a78758922cb5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 363694,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/monitoring-kubernetes-why-traditional-techniques-arent-enough/?pg=kubernetes&plcmt=resources-3",
+  "title": "Monitoring Kubernetes: Why traditional techniques aren’t enough | Grafana Labs",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:45:13Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

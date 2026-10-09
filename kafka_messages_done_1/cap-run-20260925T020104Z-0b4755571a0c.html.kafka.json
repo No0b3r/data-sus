@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier1/rfc-1180-a-tcp-ip-tutorial-1c8405/cap-run-20260925T020104Z-0b4755571a0c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 73083,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc1180.html",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:33:29Z",
+  "category": null
+}

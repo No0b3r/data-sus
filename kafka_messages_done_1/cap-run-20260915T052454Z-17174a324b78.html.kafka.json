@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-17174a324b78.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 948912,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ko-kr/docs/atlas/architecture/current/solutions-library/document-intelligence/",
+  "title": "Agentic AI 및 MongoDB를 활용한 문서 인텔리전스 - Atlas Architecture Center - MongoDB Docs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:11:58Z",
+  "category": "문서 인텔리전스, 에이전트 AI, MongoDB, 금융 서비스, MongoDB Atlas Vector Search, VoyageAI, 다중 에이전트 오케스트레이션, 에이전트 RAG, 회사 크레딧 등급, 결제 처리 시 예외 처리, 투자 조사, 클라이언트 온보딩(KYC), 대출 신청"
+}

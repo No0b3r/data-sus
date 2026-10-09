@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260915T052454Z-ee31d70ff1a5.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 868718,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/E99083_01/PDF/Open_Dev_Tools/20-Development_Workbench_Purge_Entity_Definition.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T07:51:37Z",
+  "category": null
+}

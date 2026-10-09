@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260917T103202Z-2ede1e256bf5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18748,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/devel/textsearch-indexes.html",
+  "title": "12.9. Preferred Index Types for Text Search",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:28:32Z",
+  "category": null
+}

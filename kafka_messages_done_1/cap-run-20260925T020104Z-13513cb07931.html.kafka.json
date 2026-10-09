@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier2/linux-kernel-documentation-networking-ip-sys-8ee787/loang/cap-run-20260925T020104Z-13513cb07931.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8300,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/networking/cdc_mbim.html",
+  "title": "cdc_mbim - Driver for CDC MBIM Mobile Broadband modems",
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:01:44Z",
+  "category": null
+}

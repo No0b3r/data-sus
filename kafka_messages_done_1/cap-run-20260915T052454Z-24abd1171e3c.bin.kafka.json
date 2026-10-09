@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D08_sensor-analog-signal-injection-transduction/Tier3/dolphinatack-inaudible-voice-commands-ccs-20-77fdc3/loang/cap-run-20260915T052454Z-24abd1171e3c.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12736,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/tb/1708.09537",
+  "title": "Secret Ultrasonic Commands Can Control Your Smartphone, Say Researchers",
+  "author": "Authors Guoming Zhang; Chen Yan; Xiaoyu Ji; Taimin Zhang; Tianchen Zhang; Wenyuan Xu",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:33:12Z",
+  "category": null
+}

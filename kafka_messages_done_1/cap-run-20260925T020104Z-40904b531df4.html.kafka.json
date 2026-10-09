@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/snmp-3c8380/loang/cap-run-20260925T020104Z-40904b531df4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 237280,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc1155",
+  "title": "RFC 1155: Structure and identification of management information for TCP/IP-based internets | RFC Editor",
+  "author": "M T Rose; K McCloghrie",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:30:22Z",
+  "category": "SMI"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D03_network-layer-security-routing-protocol-hard/Tier1/rfc-3704-ingress-filtering-for-multihomed-ne-6fafbb/cap-run-20260925T020104Z-3d0c1f94d8e1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 43029,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc3704.html",
+  "title": null,
+  "author": null,
+  "published_year": 2004,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:57:40Z",
+  "category": null
+}

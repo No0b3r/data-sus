@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-hospitality-integration-platform-ohip-2157a3/loang/cap-run-20260917T103202Z-b1d699d5e97f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1912,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/cloud/paas/application-integration/hospitality-adapter",
+  "title": "Using the Oracle Hospitality Adapter with Oracle Integration 3",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:21:01Z",
+  "category": "urn:ohc:tag:,urn:ohc:application:,urn:ohc:application-type:,urn:ohc:industry:"
+}

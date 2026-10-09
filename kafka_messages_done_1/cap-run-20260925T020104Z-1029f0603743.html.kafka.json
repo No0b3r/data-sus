@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/kirbi-ccache-kerberos-d444fe/loang/cap-run-20260925T020104Z-1029f0603743.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 253947,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc6806",
+  "title": "RFC 6806: Kerberos Principal Name Canonicalization and Cross-Realm Referrals | RFC Editor",
+  "author": "S Hartman; K Raeburn; L Zhu",
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:06:33Z",
+  "category": "authentication, security protocols, identity"
+}

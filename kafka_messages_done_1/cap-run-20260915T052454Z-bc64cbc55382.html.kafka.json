@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-tomcat-9f19e0/loang/cap-run-20260915T052454Z-bc64cbc55382.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10711,
+  "domain": "apache.org",
+  "url": "https://tomcat.apache.org/tomcat-10.1-doc/jndi-datasource-examples-howto.html",
+  "title": "Apache Tomcat 10",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:38:59Z",
+  "category": null
+}

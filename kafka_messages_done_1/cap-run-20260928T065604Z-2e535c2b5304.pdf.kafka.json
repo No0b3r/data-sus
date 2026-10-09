@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/silent-spring-pp-dan-toi-rce-trong-node-js-u-915f3d/cap-run-20260928T065604Z-2e535c2b5304.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 683573,
+  "domain": "www.usenix.org",
+  "url": "https://www.usenix.org/system/files/usenixsecurity23-shcherbakov.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:10:29Z",
+  "category": null
+}

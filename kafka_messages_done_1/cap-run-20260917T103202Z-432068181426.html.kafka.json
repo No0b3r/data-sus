@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-432068181426.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 270573,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/press/2023/11/02/grafana-labs-launches-major-new-infrastructure-and-cost-monitoring-capabilities/",
+  "title": "Grafana Labs Launches Major New Infrastructure and Cost Monitoring Capabilities",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:16:40Z",
+  "category": null
+}

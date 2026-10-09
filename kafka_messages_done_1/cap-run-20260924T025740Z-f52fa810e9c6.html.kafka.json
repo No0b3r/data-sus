@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/jar-c9015e/loang/cap-run-20260924T025740Z-f52fa810e9c6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1698,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/javase/8/docs/technotes/guides/versioning/index.html",
+  "title": "Package Version Identification",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:03:06Z",
+  "category": null
+}

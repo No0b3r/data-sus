@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-825707713f3a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 128403,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc6755",
+  "title": "RFC 6755: An IETF URN Sub-Namespace for OAuth | RFC Editor",
+  "author": "B Campbell; H Tschofenig",
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:55Z",
+  "category": "OAuth, URN, sub-namespace, urn:ietf:params:oauth"
+}

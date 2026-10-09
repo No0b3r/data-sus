@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-velocity-f1dd16/loang/cap-run-20260925T020104Z-029975985bc8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1863,
+  "domain": "apache.org",
+  "url": "https://velocity.apache.org/tools/devel/maven-velocity-tools-plugin/mail-lists.html",
+  "title": "Apache Velocity Tools",
+  "author": null,
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:47:18Z",
+  "category": null
+}

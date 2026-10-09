@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/elasticsearch-logstash-kibana-ba1cfb/loang/cap-run-20260922T015341Z-54a1d15b8eb6.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11989,
+  "domain": "elastic.co",
+  "url": "https://www.elastic.co/docs/release-notes/cloud-hosted/deprecations",
+  "title": "Elastic Cloud Hosted deprecations | Cloud",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:18:59Z",
+  "category": "Elastic Cloud Hosted"
+}

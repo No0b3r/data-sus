@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-ed1103b7cbc1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 568921,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc5652",
+  "title": "RFC 5652: Cryptographic Message Syntax (CMS) | RFC Editor",
+  "author": "R Housley",
+  "published_year": 2009,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:14Z",
+  "category": "digital signature, message content"
+}

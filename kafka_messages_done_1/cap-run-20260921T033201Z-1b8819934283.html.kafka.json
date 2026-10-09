@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260921T033201Z-1b8819934283.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40296,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/kibana-6-2-3-localhost-port-5061-connection-refused/125460",
+  "title": "Kibana 6.2.3: localhost port 5061: Connection refused",
+  "author": "Alphakilo",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:53:09Z",
+  "category": null
+}

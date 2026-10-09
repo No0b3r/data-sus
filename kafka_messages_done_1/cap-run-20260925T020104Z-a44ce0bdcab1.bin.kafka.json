@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/kirbi-ccache-kerberos-d444fe/loang/cap-run-20260925T020104Z-a44ce0bdcab1.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 141103,
+  "domain": "rfc-editor.org",
+  "url": "http://www.rfc-editor.org/info/rfc8129",
+  "title": "RFC 8129: Authentication Indicator in Kerberos Tickets | RFC Editor",
+  "author": "A Jain; N Kinder; N McCallum",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:06:42Z",
+  "category": null
+}

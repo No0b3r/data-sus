@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260915T052454Z-59ef29d5f214.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 963457,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/F56608_01/PDF/AcceleratorPack/ProductDocument/apack_prod_doc_fcubs_casa.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T07:03:26Z",
+  "category": null
+}

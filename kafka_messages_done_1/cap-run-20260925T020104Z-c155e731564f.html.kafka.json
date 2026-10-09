@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-c155e731564f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 187035,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2183/",
+  "title": "RFC 2183: Communicating Presentation Information in Internet Messages: The Content-Disposition Header Field | RFC Editor",
+  "author": "R Troost; S Dorner; K Moore",
+  "published_year": 1997,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:57Z",
+  "category": "inline, attachment, MIME, Mail, Multimedia, EMail"
+}

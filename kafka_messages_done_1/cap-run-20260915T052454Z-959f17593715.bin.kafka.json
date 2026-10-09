@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-959f17593715.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6564,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/AmazonECS/latest/developerguide/getting-started-fargate.html",
+  "title": "Fargate에 대한 Amazon ECS Linux 태스크를 생성하는 방법에 대해 알아보기",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:22:30Z",
+  "category": null
+}

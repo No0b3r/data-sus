@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-c82f5a0a0960.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 58514,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/es/about-aws/whats-new/2019/03/amazon-transcribe-enhances-custom-vocabulary-with-custom-pronunciations-and-display-forms/",
+  "title": "Amazon Transcribe mejora el vocabulario personalizado con pronunciaciones personalizadas y mejores formatos de visualización",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:46:21Z",
+  "category": null
+}

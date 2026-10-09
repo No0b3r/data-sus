@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-9c2cb2bf0cf0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 131737,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/go/webinar/getting-started-with-grafana-lgtm-stack/?pg=oss-tempo&plcmt=featured-videos-2",
+  "title": "Getting started with managing your metrics, logs, and traces using Grafana",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:44:29Z",
+  "category": null
+}

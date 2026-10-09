@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-d7cc0b36020e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8704,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E13222_01/wls/docs103/webapp/validation_tags.html",
+  "title": "Developing Web Applications, Servlets, and JSPs for Oracle WebLogic Server",
+  "author": null,
+  "published_year": 2003,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:50:42Z",
+  "category": null
+}

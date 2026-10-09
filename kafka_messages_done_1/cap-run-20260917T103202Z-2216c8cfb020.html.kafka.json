@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-2216c8cfb020.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 263310,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/press/2026/07/27/grafana-labs-ships-six-tools-that-power-agentic-operations-from-planning-to-production/",
+  "title": "Grafana Labs Ships Six Tools That Power Agentic Operations From Planning to Production",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:10:37Z",
+  "category": null
+}

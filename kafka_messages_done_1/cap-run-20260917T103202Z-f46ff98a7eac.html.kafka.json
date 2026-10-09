@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260917T103202Z-f46ff98a7eac.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 20497,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/about/news/postgresql-164-158-1413-1316-1220-and-17-beta-3-released-2910/",
+  "title": "PostgreSQL 16.4, 15.8, 14.13, 13.16, 12.20, and 17 Beta 3 Released!",
+  "author": "PostgreSQL Global Development Group",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:46:06Z",
+  "category": null
+}

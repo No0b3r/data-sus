@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier1/linux-kernel-hardware-vulnerabilities-admin-1d8f92/loang/cap-run-20260925T020104Z-45013823170a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11309,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/translations/it_IT/RCU/torture.html",
+  "title": "Le operazioni RCU per le verifiche torture",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:16:54Z",
+  "category": null
+}

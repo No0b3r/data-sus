@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20260915T052454Z-0f46b707f832.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15077,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/resources/fuzzing-sockets-FreeRDP/",
+  "title": "Fuzzing sockets, part 2: FreeRDP",
+  "author": "Antonio-Morales",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:58:21Z",
+  "category": null
+}

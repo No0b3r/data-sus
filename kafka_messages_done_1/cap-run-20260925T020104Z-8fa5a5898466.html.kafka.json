@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-8fa5a5898466.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 264508,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc1971/",
+  "title": "RFC 1971: IPv6 Stateless Address Autoconfiguration | RFC Editor",
+  "author": "S Thomson; T Narten",
+  "published_year": 1996,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:45Z",
+  "category": "Internet, Protocol, link-local, address, Duplicate, Address, Detection, procedure"
+}

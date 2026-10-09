@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260922T015341Z-304928cb9ac7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10535,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/about/news/sql-management-studio-for-postgresql-20-is-here-faster-safer-and-more-efficient-3280/",
+  "title": "SQL Management Studio for PostgreSQL 2.0 Is Here — Faster, Safer, and More Efficient",
+  "author": "EMS Software Development",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:10:23Z",
+  "category": null
+}

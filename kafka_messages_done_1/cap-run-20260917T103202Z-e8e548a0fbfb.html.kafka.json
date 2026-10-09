@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-e8e548a0fbfb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1652,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/database/other-databases/nosql-database/26.1/nsqrt&id=NSSQL-GUID-50FA0ED2-1F8E-4DD4-B0F0-37FB0780961B",
+  "title": "Working with Multi-Region Setup",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:44:05Z",
+  "category": null
+}

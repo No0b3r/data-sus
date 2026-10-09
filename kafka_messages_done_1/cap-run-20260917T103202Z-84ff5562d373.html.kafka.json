@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-health-ehr-cerner-millennium-ed62ec/loang/cap-run-20260917T103202Z-84ff5562d373.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6335,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/industries/energy-water/advanced-meter/254/c2m-user-guides/Topics/C2M_BP_Intro.html",
+  "title": "Customer to Meter User Guides",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:17:29Z",
+  "category": null
+}

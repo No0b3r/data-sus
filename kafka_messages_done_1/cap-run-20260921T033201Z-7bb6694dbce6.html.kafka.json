@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/macof-8-cong-cu-flooding-cam-mac-table-bo-ds-a23acf/loang/cap-run-20260921T033201Z-7bb6694dbce6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3532,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/bookworm/0xffff/index.html",
+  "title": "Manpages of 0xffff in Debian bookworm",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:56:06Z",
+  "category": null
+}

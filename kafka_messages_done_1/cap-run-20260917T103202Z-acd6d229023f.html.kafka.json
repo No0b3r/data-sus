@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-acd6d229023f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 104224,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/whats-new/2023-09-14-data-source-menu-on-cost-and-efficiency-views-in-kubernetes-monitoring/",
+  "title": "Data source menu on Cost and Efficiency views in Kubernetes Monitoring | Grafana Labs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:39:43Z",
+  "category": null
+}

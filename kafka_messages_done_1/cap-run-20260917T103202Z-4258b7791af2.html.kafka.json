@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/chi-93bc06/loang/cap-run-20260917T103202Z-4258b7791af2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 53356,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/go-chi/chi@v1.5.5/_examples/versions/presenter/v1",
+  "title": "v1",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:04:35Z",
+  "category": null
+}

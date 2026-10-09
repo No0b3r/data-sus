@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-13b93de5284c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 210317,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4843/",
+  "title": "RFC 4843: An IPv6 Prefix for Overlay Routable Cryptographic Hash Identifiers (ORCHID) | RFC Editor",
+  "author": "P Nikander; J Laganier; F Dupont",
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:20Z",
+  "category": null
+}

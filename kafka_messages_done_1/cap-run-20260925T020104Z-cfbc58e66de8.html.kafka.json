@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-cfbc58e66de8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 980126,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/docs/drivers/node/current/typescript/",
+  "title": "TypeScript Features and Limitations - Node.js Driver - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T04:52:27Z",
+  "category": "code example, node.js, static typing"
+}

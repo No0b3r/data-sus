@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-d8d4d14c2e82.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 3420442,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/pdfs/compute-optimizer/latest/ug/compute-optimizer.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:29:43Z",
+  "category": null
+}

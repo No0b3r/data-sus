@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier2/linux-kernel-documentation-networking-ip-sys-8ee787/loang/cap-run-20260928T043119Z-540f555183f3.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 46728,
+  "domain": "www.kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/_sources/networking/ip-sysctl.rst.txt",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:02:39Z",
+  "category": null
+}

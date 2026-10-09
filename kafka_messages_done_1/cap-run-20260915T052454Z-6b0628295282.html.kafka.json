@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-6b0628295282.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 337386,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/reduce-mean-time-to-hello-world-with-opentelemetry-grafana-mimir-grafana-tempo-and-grafana-inside-adobes-observability-stack/",
+  "title": "Reduce mean time to hello world: Inside Adobe’s observability stack | Grafana Labs",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:40:59Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

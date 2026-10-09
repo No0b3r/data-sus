@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grails-837fea/loang/cap-run-20260924T083724Z-62c82bebd656.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6734,
+  "domain": "apache.org",
+  "url": "https://grails.apache.org/docs/latest/ref/Tags%20-%20GSP/checkBox.html",
+  "title": "API",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:03:38Z",
+  "category": null
+}

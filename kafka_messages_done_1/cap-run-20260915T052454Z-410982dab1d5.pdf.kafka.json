@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-410982dab1d5.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 14547174,
+  "domain": "docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-dg.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:17:02Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260924T083724Z-a5a312fff33f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 273656,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/company/blog/innovation/telcos-drive-mission-critical-innovation-cost-savings-automation",
+  "title": "How Telcos Drive Mission-Critical Innovation And Cost Savings Through Automation",
+  "author": "Laura Delarosa; Stephen Dalby",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T11:37:36Z",
+  "category": null
+}

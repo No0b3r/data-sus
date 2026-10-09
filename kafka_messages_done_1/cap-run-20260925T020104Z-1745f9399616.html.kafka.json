@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/dynamic-dma-mapping-guide-linux-kernel-core-6dcc73/loang/cap-run-20260925T020104Z-1745f9399616.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5158,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/translations/zh_CN/core-api/index.html",
+  "title": "核心API文档",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:28:51Z",
+  "category": null
+}

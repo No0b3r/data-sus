@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-0969fafa433f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5229,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/database/other-databases/nosql-database/26.1/nsqrt&id=NSDEV-GUID-89426808-8170-4A78-B3DF-16D54C47E72A",
+  "title": "Using Query API to fetch data",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:31:35Z",
+  "category": null
+}

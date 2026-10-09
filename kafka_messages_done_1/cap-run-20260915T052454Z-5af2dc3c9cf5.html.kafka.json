@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-5af2dc3c9cf5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 936729,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/docs/atlas/atlas-ui/triggers/",
+  "title": "Atlas Triggers - Atlas - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:25:50Z",
+  "category": null
+}

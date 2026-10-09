@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/kernel-dma-protection-microsoft-learn-hardwa-a86802/loang/cap-run-20260915T052454Z-52b61b06c2e1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50635,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/Windows-server/remote/remote-access/how-to-always-on-vpn-conditional-access-network-policy-server",
+  "title": "Configure VPN conditional access on the Network Policy Server (NPS) on Windows Server",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:30:42Z",
+  "category": null
+}

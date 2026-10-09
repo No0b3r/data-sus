@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D06_network-access-control-network-identity/Tier2/cisco-identity-services-engine-administrator-ba9893/cap-run-20260929T014911Z-326f8efdb9a7.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 26513692,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/security/ise/3-4/admin_guide/b_ise_admin_3_4.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:03:00Z",
+  "category": null
+}

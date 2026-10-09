@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/jks-83aa62/loang/cap-run-20260915T052454Z-487a88cb56ed.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5862,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/javase/tutorial/security/tour2/step3.html",
+  "title": "Set up the Policy File to Grant the Required Permissions",
+  "author": null,
+  "published_year": 1995,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:04:27Z",
+  "category": "java programming, learn java, java sample code, java security, cryptography, digital signature, verifying signature, signing code, key, policy"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-8e7dc5f3f190.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 207960,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/marketplace/getting-started?ref_=mp_ft_gtst&trk=1e08d08c-4878-4255-b040-2a854e4d3f70",
+  "title": "Getting Started",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:42:37Z",
+  "category": null
+}

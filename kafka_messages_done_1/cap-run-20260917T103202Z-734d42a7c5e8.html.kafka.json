@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260917T103202Z-734d42a7c5e8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 273165,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/F18207_01/html/CI/CI06_Acct_Creation.htm",
+  "title": "Oracle ® FLEXCUBE Universal Banking Islamic Financing User Guide",
+  "author": null,
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T08:25:16Z",
+  "category": null
+}

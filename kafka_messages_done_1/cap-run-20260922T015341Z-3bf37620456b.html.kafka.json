@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260922T015341Z-3bf37620456b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 20967,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/9.2/index.html",
+  "title": "PostgreSQL 9.2.24 Documentation",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:10:51Z",
+  "category": null
+}

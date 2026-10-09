@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-0c83321c7407.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1010502,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ja-jp/docs/atlas/atlas-stream-processing/stream-aggregation/",
+  "title": "集計パイプライン ステージ - Atlas - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:09:39Z",
+  "category": "Atlas Stream Processing, $source 集計パイプライン ステージ, $tcomingWindow 集計パイプライン ステージ, $hostingWindow 集計パイプラインステージ, $merge 集計パイプライン ステージ, $t 集計パイプライン ステージ, $validate 集計パイプライン ステージ,"
+}

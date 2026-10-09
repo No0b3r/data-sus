@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-d0919b388cfc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 441442,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/k6-2-0-release/?pg=better-context-smarter-testing-how-to-give-your-ai-coding-agent-direct-access-to-k6-docs&plcmt=in-text",
+  "title": "AI-assisted testing, extensions updates, and more: k6 2.0 is here | Grafana Labs",
+  "author": "AI-authored tests",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:46:57Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

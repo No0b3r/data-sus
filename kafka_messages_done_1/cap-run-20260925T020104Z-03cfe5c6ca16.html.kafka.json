@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D09_service-provider-internet-infrastructure-sec/Tier1/rfc-5635-remote-triggered-black-hole-filteri-33618a/cap-run-20260925T020104Z-03cfe5c6ca16.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 35854,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc5635.html",
+  "title": null,
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:39:54Z",
+  "category": null
+}

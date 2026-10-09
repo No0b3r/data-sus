@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-df0cae8ff0e9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 206054,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/marketplace/seller-profile?id=dd6f4067-eedb-4d35-ac38-5c9a5b6301cf",
+  "title": "Carahsoft Technology Corp.",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:48:05Z",
+  "category": null
+}

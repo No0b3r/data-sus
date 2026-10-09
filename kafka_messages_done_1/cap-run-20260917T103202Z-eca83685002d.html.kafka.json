@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260917T103202Z-eca83685002d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 59908,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/are-you-getting-403s-when-downloading-please-read-here-first/307340?page=32",
+  "title": "Are you getting 403's when downloading? Please read here first",
+  "author": "Leont",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:53:03Z",
+  "category": null
+}

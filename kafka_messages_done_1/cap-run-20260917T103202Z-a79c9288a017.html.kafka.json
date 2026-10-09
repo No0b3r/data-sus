@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-a79c9288a017.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2255,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E17952_01/mysql-cluster-7.6-relnotes-en/news-7-6-36.html",
+  "title": "4 Changes in MySQL NDB Cluster 7.6.36 (5.7.44-ndb-7.6.36) (2025-10-23)",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:40:40Z",
+  "category": null
+}

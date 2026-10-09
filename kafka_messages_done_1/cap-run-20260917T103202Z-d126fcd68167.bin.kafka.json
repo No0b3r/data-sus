@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-d126fcd68167.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 42260,
+  "domain": "oracle.com",
+  "url": "http://docs.oracle.com/database/121/ADMIN/memory.htm",
+  "title": "Database Administrator’s Guide",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:42:56Z",
+  "category": "memory, managing, manual memory management, automatic shared memory management, manual shared memory management, force full database caching mode, prerequisites, enabling, disabling, Database Smart Flash Cache, IM column store, In-Memory Column Store, compression, population options, initialization parameters, INMEMORY_SIZE parameter, INMEMORY_FORCE parameter, INMEMORY_CLAUSE_DEFAULT parameter, INMEMORY_QUERY parameter, INMEMORY_MAX_POPULATE_SERVERS parameter, INMEMORY_TRICKLE_POPULATE_SERVERS_PERCENT parameter, OPTIMIZER_INMEMORY_AWARE parameter, enabling for a database, enabling for tables, tables, enabling for tablespaces, tablespaces, enabling for materialized views, materialized views, Oracle Data Pump, Oracle Enterprise Manager Cloud Control"
+}

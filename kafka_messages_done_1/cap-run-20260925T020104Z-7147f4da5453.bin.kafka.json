@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier1/cisco-ethernet-mtu-and-tcp-mss-adjustment-co-05ba97/loang/cap-run-20260925T020104Z-7147f4da5453.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 549,
+  "domain": "cisco.com",
+  "url": "https://www.cisco.com/c/nl_nl/support/docs/ip/transmission-control-protocol-tcp/200932-Ethernet-MTU-and-TCP-MSS-Adjustment-Conc.epub",
+  "title": "Access Denied",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:58:01Z",
+  "category": null
+}

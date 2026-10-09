@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-fe28c146a308.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 57236,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/de/about-aws/whats-new/2019/04/aws-iot-analytics-now-supports-single-step-setup-of-iot-analytic/",
+  "title": "AWS IoT Analytics unterstützt jetzt ein Einzelschritt-Setup der IoT Analytics-Ressourcen über AWS IoT Core",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:49:59Z",
+  "category": null
+}

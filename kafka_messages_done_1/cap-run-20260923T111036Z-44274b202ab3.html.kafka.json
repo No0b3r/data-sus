@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260923T111036Z-44274b202ab3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15632,
+  "domain": "influxdata.com",
+  "url": "https://docs.influxdata.com/influxdb3/enterprise/reference/internals/",
+  "title": "InfluxDB 3 Enterprise internals",
+  "author": "InfluxDB ; Authorization",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:39:20Z",
+  "category": null
+}

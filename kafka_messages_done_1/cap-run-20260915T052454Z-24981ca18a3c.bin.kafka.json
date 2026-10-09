@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D08_sensor-analog-signal-injection-transduction/Tier1/taxonomy-and-challenges-of-out-of-band-signa-b08ed9/loang/cap-run-20260915T052454Z-24981ca18a3c.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1266242,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/html/1901.01598v1",
+  "title": "Toward a Theory of Cyber Attacks",
+  "author": "Saeed Valizadeh † † thanks This work was funded by NSF grant CNS-",
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:32:05Z",
+  "category": "Stochastic games Network security games Cyber attacks Security region Intrustion detection and prevention system Honeypots Attack modeling Markov models Security capacity region."
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-63c078abb6e9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 229898,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/marketplace/campaigns/dcx/chapter4/",
+  "title": "Chapter 4 | Marketing Analytics & Intelligence",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:39:59Z",
+  "category": null
+}

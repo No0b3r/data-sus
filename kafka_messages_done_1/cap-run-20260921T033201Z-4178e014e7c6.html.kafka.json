@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260921T033201Z-4178e014e7c6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9761,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/zh/blog/2022/06/14/beeto-with-apache-apisix/",
+  "title": "APISIX 助力中东社交软件，实现本地化部署 | Apache APISIX",
+  "author": "胡丽麟",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T13:21:46Z",
+  "category": "Case Studies"
+}

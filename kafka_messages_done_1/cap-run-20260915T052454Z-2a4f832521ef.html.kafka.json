@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/pptx-706de8/loang/cap-run-20260915T052454Z-2a4f832521ef.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 50434,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/openspecs/office_standards/ms-oodf/68b99f79-842f-4db2-9249-0f71b611712b",
+  "title": "[MS-OODF]: Office Implementation Information for ODF 1.1 Standards Support",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:28:34Z",
+  "category": null
+}

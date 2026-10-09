@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier3/usenix-security-proceedings-index-tap-con-ph-c1bb3f/cap-run-20260925T020104Z-aea03a1ddc3e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1840253,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity25/technical-sessions",
+  "title": "USENIX Security '25 Technical Sessions",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:26:23Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-b696fae7c3f8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 377064,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/company/blog/mongodb-atlas-telecommunications-launches-dallas-alongside-att-cisco",
+  "title": "MongoDB Atlas For Telecommunications Launches In Dallas, Alongside AT&T And Cisco",
+  "author": "Oliver Tree",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:45:41Z",
+  "category": null
+}

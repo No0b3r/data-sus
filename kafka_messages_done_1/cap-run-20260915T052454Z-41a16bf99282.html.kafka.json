@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-41a16bf99282.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 161546,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/events/grafanacon/2025/firefly-blue-ghost-grafana-dashboards-to-the-moon/",
+  "title": "Dashboards to the moon: Grafana's role in Firefly's Blue Ghost Mission operations | Grafana Labs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:38:24Z",
+  "category": null
+}

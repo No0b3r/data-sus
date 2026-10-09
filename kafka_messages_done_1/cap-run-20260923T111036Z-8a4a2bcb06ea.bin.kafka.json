@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20260923T111036Z-8a4a2bcb06ea.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9889,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/research/cve-2018-18820-snprintf-vulnerability-icecast/",
+  "title": "CVE-2018-18820: Snprintf Vulnerability in Icecast",
+  "author": "Nickrolfe",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:03:37Z",
+  "category": null
+}

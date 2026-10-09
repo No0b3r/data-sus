@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/php-fpm-62a425/loang/cap-run-20260915T052454Z-d4db6917b7e7.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": null,
+  "domain": "www.php.net",
+  "url": "http://www.php.net/feed.atom",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:56:04Z",
+  "category": null,
+  "_fetch_error": "HTTPConnectionPool(host='www.php.net', port=80): Max retries exceeded with url: /feed.atom (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E163691C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+}

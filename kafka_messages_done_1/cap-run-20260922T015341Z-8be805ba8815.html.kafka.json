@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/elasticsearch-logstash-kibana-ba1cfb/loang/cap-run-20260922T015341Z-8be805ba8815.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 22209,
+  "domain": "elastic.co",
+  "url": "https://www.elastic.co/docs/api/doc/cloud-enterprise/operation/operation-get-user-api-keys",
+  "title": "Get API key metadata for all keys created by the user | Elastic Cloud Enterprise API documentation",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:24:11Z",
+  "category": null
+}

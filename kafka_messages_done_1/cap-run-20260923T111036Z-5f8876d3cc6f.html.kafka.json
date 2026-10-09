@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260923T111036Z-5f8876d3cc6f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40883,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/light-theme-for-kibana/17279",
+  "title": "Light theme for kibana?",
+  "author": "Bossi",
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:54:14Z",
+  "category": "elastic-stack-monitoring"
+}

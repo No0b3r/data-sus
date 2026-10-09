@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/jar-c9015e/loang/cap-run-20261005T080457Z-0eef10ce0036.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1138,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/javadb/10.10.1.2/javadoc/jdbc4/index.html",
+  "title": "Frame Alert",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:03:26Z",
+  "category": null
+}

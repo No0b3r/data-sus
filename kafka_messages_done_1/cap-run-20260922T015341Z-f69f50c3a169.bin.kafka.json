@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/elasticsearch-logstash-kibana-ba1cfb/loang/cap-run-20260922T015341Z-f69f50c3a169.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 30544,
+  "domain": "elastic.co",
+  "url": "https://www.elastic.co/docs/troubleshoot/kibana/task-manager",
+  "title": "Troubleshoot Kibana Task Manager | Elastic Docs",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:32:27Z",
+  "category": "Kibana,Elastic Documentation"
+}

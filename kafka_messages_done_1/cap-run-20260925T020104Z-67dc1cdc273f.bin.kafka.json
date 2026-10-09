@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier2/linux-kernel-documentation-networking-ip-sys-8ee787/loang/cap-run-20260925T020104Z-67dc1cdc273f.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 355,
+  "domain": "kernel.org",
+  "url": "http://www.kernel.org/pub/linux/utils/net/hdlc/",
+  "title": "Index of /pub/linux/utils/net/hdlc/",
+  "author": null,
+  "published_year": 2003,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:02:17Z",
+  "category": null
+}

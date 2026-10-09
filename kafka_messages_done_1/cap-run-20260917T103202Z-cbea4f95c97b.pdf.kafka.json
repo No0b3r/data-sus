@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-health-ehr-cerner-millennium-ed62ec/loang/cap-run-20260917T103202Z-cbea4f95c97b.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 1410602,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/E25171_03/library/CCB-EBS_Implementation_Guide.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:19:03Z",
+  "category": null
+}

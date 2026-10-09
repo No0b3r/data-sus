@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260922T015341Z-145e47596233.xml.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": 393,
+  "domain": "apisix.apache.org",
+  "url": "https://apisix.apache.org/zh/opensearch.xml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T13:27:51Z",
+  "category": null
+}

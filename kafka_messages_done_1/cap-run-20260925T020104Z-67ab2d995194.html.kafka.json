@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-67ab2d995194.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 270513,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2049/",
+  "title": "RFC 2049: Multipurpose Internet Mail Extensions (MIME) Part Five: Conformance Criteria and Examples | RFC Editor",
+  "author": "N Freed; N Borenstein",
+  "published_year": 1996,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:37Z",
+  "category": "MIME-CONF, media, type, message, formats"
+}

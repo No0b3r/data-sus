@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/spring-boot-5cc1d5/loang/cap-run-20260915T052454Z-5c9b4b8d7d78.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 34707,
+  "domain": "spring.io",
+  "url": "https://docs.spring.io/spring-vault/reference/api/java/org/springframework/vault/support/package-summary.html",
+  "title": "Package org.springframework.vault.support",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:33:07Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/macof-8-cong-cu-flooding-cam-mac-table-bo-ds-a23acf/loang/cap-run-20260921T033201Z-bf69c7f99446.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3529,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/bookworm/2048-qt/index.html",
+  "title": "Manpages of 2048-qt in Debian bookworm",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:56:13Z",
+  "category": null
+}

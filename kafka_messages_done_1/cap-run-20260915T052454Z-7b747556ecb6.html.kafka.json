@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-7b747556ecb6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 344137,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/company/blog/fusing-mongodb-databricks-deliver-ai-augmented-search",
+  "title": "Fusing MongoDB And Databricks To Deliver AI-Augmented Search",
+  "author": "Vittal Pai; Francesco Baldissera; Ashwin Gangadhar",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:33:11Z",
+  "category": null
+}

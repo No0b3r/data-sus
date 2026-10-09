@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-9e0c152bd724.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 302078,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-india-based-sellers-transactions-inr/?trk=05416124-4105-4dc1-91da-023ec85c7cd2&sc_channel=el",
+  "title": "AWS Marketplace now open for India-based sellers supporting transactions in Indian Rupees (INR) - AWS",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:43:34Z",
+  "category": null
+}

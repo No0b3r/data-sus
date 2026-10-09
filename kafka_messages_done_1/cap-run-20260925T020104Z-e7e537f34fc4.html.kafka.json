@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-e7e537f34fc4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 187796,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc8943",
+  "title": "RFC 8943: Concise Binary Object Representation (CBOR) Tags for Date | RFC Editor",
+  "author": "M Jones; A Nadalin; J Richter",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:13:07Z",
+  "category": "Compact Binary Object Representation, CBOR, Tag, Date"
+}

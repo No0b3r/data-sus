@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260923T111036Z-e16280ff60d8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1106488,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/docs/atlas/operator/current/atlasdatafederation-custom-resource/",
+  "title": "AtlasDataFederation Custom Resource - Atlas Kubernetes Operator - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T08:41:32Z",
+  "category": null
+}

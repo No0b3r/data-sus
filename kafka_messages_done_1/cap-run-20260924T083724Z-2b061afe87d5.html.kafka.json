@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260924T083724Z-2b061afe87d5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6755,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/zh/blog/2023/02/06/2022-top10-blogs/",
+  "title": "2022 年度优质文章盘点 Top10 | Apache APISIX",
+  "author": "Shirley",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T13:51:31Z",
+  "category": "Ecosystem"
+}

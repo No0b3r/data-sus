@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/rowhammer-a-retrospective-071fd1/cap-run-20260915T052454Z-6ebfeea01adf.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 2050146,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/pdf/1904.09724",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:53Z",
+  "category": null
+}

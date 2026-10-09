@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20260928T094912Z-f6a795c151a7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11086,
+  "domain": "apache.org",
+  "url": "https://solr.apache.org/guide/solr/9_4/deployment-guide/docker-networking.html",
+  "title": "Solr & ZooKeeper with Docker Networking",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:02:31Z",
+  "category": null
+}

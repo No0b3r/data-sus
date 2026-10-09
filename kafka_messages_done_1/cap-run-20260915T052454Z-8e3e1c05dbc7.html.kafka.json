@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-8e3e1c05dbc7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 56933,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/tw/about-aws/whats-new/2019/03/aws-elemental-mediaconnect-is-now-available-in-six-additional-regions/",
+  "title": "AWS Elemental MediaConnect 現已在額外的六個區域開放使用",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:42:36Z",
+  "category": null
+}

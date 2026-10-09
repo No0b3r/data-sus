@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260917T103202Z-6037645aab29.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11065,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/zh/blog/2023/01/11/apisix-ingress-vs-ingress-nginx/",
+  "title": "为什么 APISIX Ingress 是比 Ingress NGINX 更好的选择？ | Apache APISIX",
+  "author": "容鑫",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T13:15:07Z",
+  "category": "Ecosystem"
+}

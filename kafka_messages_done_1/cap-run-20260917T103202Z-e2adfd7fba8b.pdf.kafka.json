@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260917T103202Z-e2adfd7fba8b.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 1160865,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/F56608_01/PDF/Common_Core/CommonCore_PDP.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T08:46:45Z",
+  "category": null
+}

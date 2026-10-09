@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-2a6e3ba57aaa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 921065,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ja-jp/docs/compass/create-agg-pipeline//",
+  "title": "集計パイプラインの作成 - Compass - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T01:55:51Z",
+  "category": null
+}

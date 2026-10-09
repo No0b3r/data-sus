@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier3/lest-we-remember-cold-boot-attacks-on-encryp-36ad26/cap-run-20260925T020104Z-156b41df92c9.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 1928492,
+  "domain": "www.usenix.org",
+  "url": "https://www.usenix.org/legacy/event/sec08/tech/full_papers/halderman/halderman.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:56Z",
+  "category": null
+}

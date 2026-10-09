@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-9d1cb1776ca2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2481,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/zh-cn/cloud/paas/autonomous-database/dedicated/adbaa/livelabs-for-autonomous-ai-database-on-dedicated-exadata.html",
+  "title": "适用于专用 Exadata 基础结构上的自治 AI 数据库的 LiveLab",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:40:05Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-cdd26bd1240e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1390100,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/blogs/security/aws-digital-sovereignty-pledge-announcing-a-new-independent-sovereign-cloud-in-europe/",
+  "title": "AWS Digital Sovereignty Pledge: Announcing a new, independent sovereign cloud in Europe | Amazon Web Services",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:46:42Z",
+  "category": "Announcements"
+}

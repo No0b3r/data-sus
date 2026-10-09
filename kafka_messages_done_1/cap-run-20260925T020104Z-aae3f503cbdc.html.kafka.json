@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-aae3f503cbdc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 188169,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3565/",
+  "title": "RFC 3565: Use of the Advanced Encryption Standard (AES) Encryption Algorithm in Cryptographic Message Syntax (CMS) | RFC Editor",
+  "author": "J Schaad",
+  "published_year": 2003,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:51Z",
+  "category": "AES, Advanced Encryption Standard, CMS, Cryptographic Message Syntax, security, data encoding"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-598c3960a616.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 239705,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc9100/",
+  "title": "RFC 9100: Sensor Measurement Lists (SenML) Features and Versions | RFC Editor",
+  "author": "C Bormann",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:34Z",
+  "category": "Internet of Things (IoT), Internet of Things, IOT, data model"
+}

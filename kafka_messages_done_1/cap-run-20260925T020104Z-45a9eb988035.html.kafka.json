@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-45a9eb988035.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1010585,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ja-jp/docs/atlas/architecture/current/solutions-library/agentic-powered-payments/",
+  "title": "エージェント型 AI 活用型支払いオーケストレーション - Atlas Architecture Center - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T02:19:46Z",
+  "category": "エージェント型AI支払い, ISO 20022 モダナイゼーション, 決済オーケストレーション, MongoDB Atlas の支払い, 標準支払いモデル, マルチレール決済"
+}

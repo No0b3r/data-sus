@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-health-ehr-cerner-millennium-ed62ec/loang/cap-run-20260917T103202Z-490adb7ae937.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3039,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/industries/utilities/behavioral-demand-response/guides.html",
+  "title": "Oracle Utilities Opower Behavioral Demand Response - Guides",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:16:12Z",
+  "category": null
+}

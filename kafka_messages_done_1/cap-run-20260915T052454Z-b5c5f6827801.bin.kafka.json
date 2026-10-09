@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/glitch-in-the-sky-exploiting-voltage-fault-i-d40e30/loang/cap-run-20260915T052454Z-b5c5f6827801.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 42649,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/2604.00411",
+  "title": "Efficient DPF-based Error-Detecting Information-Theoretic Private Information Retrieval Over Rings",
+  "author": "Ke; Pengzhen; Zhang; Liang Feng; Wang; Huaxiong; Li-Ping",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:28:35Z",
+  "category": null
+}

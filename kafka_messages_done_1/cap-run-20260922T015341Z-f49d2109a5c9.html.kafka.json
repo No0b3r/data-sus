@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260922T015341Z-f49d2109a5c9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14625,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/current/external-projects.html",
+  "title": "Appendix H. External Projects",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:18:34Z",
+  "category": null
+}

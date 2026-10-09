@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-ec789e7684d0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 23588,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/12/runtime-config.html",
+  "title": "Chapter 19. Server Configuration",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:07:02Z",
+  "category": null
+}

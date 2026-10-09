@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/cisco-unified-communications-manager-82683e/loang/cap-run-20260925T020104Z-8c8afdff6b1d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 454,
+  "domain": "cisco.com",
+  "url": "https://www.cisco.com/c/en/us/support/docs/field-notices/620/fn62952.html",
+  "title": "Access Denied",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:07:33Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-f066e8d5232e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 932805,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/es/docs/atlas/atlas-sp/overview/",
+  "title": "Atlas Stream Processing - Atlas - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:56:26Z",
+  "category": "Datastream, en tiempo real, procesamiento de datos, apache kafka"
+}

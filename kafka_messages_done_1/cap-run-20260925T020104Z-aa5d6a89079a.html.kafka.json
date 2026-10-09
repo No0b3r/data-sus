@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/webdav-423342/loang/cap-run-20260925T020104Z-aa5d6a89079a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 379293,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc2617",
+  "title": "RFC 2617: HTTP Authentication: Basic and Digest Access Authentication | RFC Editor",
+  "author": "J Franks; P Hallam-Baker; J Hostetler; S Lawrence; P Leach; A Luotonen; L Stewart",
+  "published_year": 1999,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:01:39Z",
+  "category": "HTTP, security, encryption, hypertext transfer protocol"
+}

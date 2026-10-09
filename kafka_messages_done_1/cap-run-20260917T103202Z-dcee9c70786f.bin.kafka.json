@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20260917T103202Z-dcee9c70786f.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9629,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2020-029-apache-syncope/",
+  "title": "GHSL-2020-029: Server-Side template injection in Apache Syncope (RCE) - CVE-2020-1959",
+  "author": "Pwntester",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:00:50Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-19a1bb5eeb09.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8504,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/id_id/neptune/latest/userguide/graph-get-started.html",
+  "title": "Memulai dengan Amazon Neptunus",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:05:34Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D10_data-center-cloud-overlay-network-security/Tier1/rfc-8926-geneve-generic-network-virtualizati-fdeadc/cap-run-20260925T020104Z-4430a8d9dd50.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 174344,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc8926.html",
+  "title": "Geneve: Generic Network Virtualization Encapsulation",
+  "author": "Jesse Gross; Ilango Ganga; T Sridhar",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:40:38Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260928T065604Z-27c42b8212e4.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 1559,
+  "domain": "docs.influxdata.com",
+  "url": "https://docs.influxdata.com/platform/getting-started/index.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:59:24Z",
+  "category": null
+}

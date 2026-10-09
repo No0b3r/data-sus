@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-c8554e33ce1d.bin.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 71635,
+  "domain": "docs.oracle.com",
+  "url": "http://docs.oracle.com/outsidein/852/supportdocs/Outside_In_8_5_1_Certified_Platforms.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:50:25Z",
+  "category": null
+}

@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260921T033201Z-93bf51b63e86.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": null,
+  "domain": "apisix.apache.org",
+  "url": "https://apisix.apache.org/docs/python-plugin-runner/0.2.0/getting-started/",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T13:23:50Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='apisix.apache.org', port=443): Max retries exceeded with url: /docs/python-plugin-runner/0.2.0/getting-started/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001E1695CB290>, 'Connection to apisix.apache.org timed out. (connect timeout=15.0)'))"
+}

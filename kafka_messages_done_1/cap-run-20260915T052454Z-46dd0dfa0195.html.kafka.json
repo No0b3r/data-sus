@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-46dd0dfa0195.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 373173,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/ja/blog/alloy-one-year/",
+  "title": "誕生から1年を迎えたGrafana Alloy：OpenTelemetry Collectorディストリビューションの現在とこれから | Grafana Labs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:38:41Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

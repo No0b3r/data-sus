@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ssh-f9f69d/loang/cap-run-20260925T020104Z-dbc52684f679.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 272057,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5342/",
+  "title": "RFC 5342: IANA Considerations and IETF Protocol Usage for IEEE 802 Parameters | RFC Editor",
+  "author": "D Eastlake",
+  "published_year": 2008,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:01:30Z",
+  "category": "Ethernet, Ethertype, 802, OUI, EUI, LSAP"
+}

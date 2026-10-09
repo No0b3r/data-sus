@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-d0593a927a83.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 310327,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/mp/resources-hub/?aws-marketplace-cards.sort-by=item.additionalFields.sortOrder&aws-marketplace-cards.sort-order=asc&awsf.aws-marketplace-category=category%23migration-transfer&awsf.aws-marketplace-asset-type=asset-type%23webinar%7Casset-type%23whitepaper%7Casset-type%23deployment-guide%7Casset-type%23video%7Casset-type%23analyst-report&awsf.aws-marketplace-role=*all",
+  "title": "Resources",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:46:49Z",
+  "category": null
+}

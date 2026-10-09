@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-48c28fe0eccb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 244238,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4868",
+  "title": "RFC 4868: Using HMAC-SHA-256, HMAC-SHA-384, and HMAC-SHA-512 with IPsec | RFC Editor",
+  "author": "S Kelly; S Frankel",
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:43Z",
+  "category": "hashed authentication mode, data authentication, integrity verification"
+}

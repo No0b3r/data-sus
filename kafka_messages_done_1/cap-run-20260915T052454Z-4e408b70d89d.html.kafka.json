@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D08_sensor-analog-signal-injection-transduction/Tier1/adversarial-sensor-attack-on-lidar-based-per-6b1f33/cap-run-20260915T052454Z-4e408b70d89d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 46608,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/1907.06826",
+  "title": "Adversarial Sensor Attack on LiDAR-based Perception in Autonomous Driving",
+  "author": "Cao; Yulong; Xiao; Chaowei; Cyr; Benjamin; Zhou; Yimeng; Park; Won; Rampazzi; Sara; Chen; Qi Alfred; Fu; Kevin; Mao; Z Morley",
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:32:02Z",
+  "category": null
+}

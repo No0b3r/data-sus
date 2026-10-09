@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260915T052454Z-d652dc046a75.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 19507,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/9.6/indexes-index-only-scans.html",
+  "title": "Index-Only Scans",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:20:23Z",
+  "category": null
+}

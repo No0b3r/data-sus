@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-1e2a8fe80025.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 310243,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/2022/03/11/we-think-grafana-labs-has-built-something-special-and-two-prestigious-lists-agree/",
+  "title": "We think Grafana Labs has built something special – and two prestigious lists agree | Grafana Labs",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:36:26Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

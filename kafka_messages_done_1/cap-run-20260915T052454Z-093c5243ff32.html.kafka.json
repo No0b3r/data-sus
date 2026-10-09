@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D10_data-center-cloud-overlay-network-security/Tier2/aws-tai-lieu-mang-dam-may-vpc-route-53-elb-d-28a4b5/loang/cap-run-20260915T052454Z-093c5243ff32.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2844,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/forms/aws-doc-feedback?hidden_service_name=AWS%20Command%20Line%20Interface&hidden_guide_name=Reference&topic_url=https%3A%2F%2Fdocs.aws.amazon.com%2Fcli%2Flatest%2Freference/ec2/describe-vpcs.html",
+  "title": "AWS Documentation Feedback",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:41:32Z",
+  "category": null
+}

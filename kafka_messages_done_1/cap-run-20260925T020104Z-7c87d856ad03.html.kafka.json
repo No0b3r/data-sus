@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260925T020104Z-7c87d856ad03.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 34531,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/filebeat-performance-430-containers/390622",
+  "title": "Filebeat performance, 430 containers",
+  "author": "Zerkms",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:57:22Z",
+  "category": "filebeat"
+}

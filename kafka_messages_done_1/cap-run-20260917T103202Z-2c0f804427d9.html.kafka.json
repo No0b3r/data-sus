@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-2c0f804427d9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 343833,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/2024/01/12/incident-response-thats-fast-and-cost-effective-why-these-3-companies-chose-grafana-cloud/?pg=how-to-migrate-to-grafana-irm-find-the-right-path-for-your-organization&plcmt=in-text",
+  "title": "Incident response that’s fast and cost-effective: Why these 3 companies chose Grafana Cloud | Grafana Labs",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:12:34Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

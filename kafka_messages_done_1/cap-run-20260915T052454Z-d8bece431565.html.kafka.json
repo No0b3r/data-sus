@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-micros-simphony-cf2ef4/loang/cap-run-20260915T052454Z-d8bece431565.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1869,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/industries/food-beverage/payments-platform/latest/fbopp&id=PaymentTerminals-E19475DD",
+  "title": "Payment Service Configuration",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:22:49Z",
+  "category": null
+}

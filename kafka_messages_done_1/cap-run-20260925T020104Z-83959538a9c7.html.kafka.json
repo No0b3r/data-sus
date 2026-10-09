@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-83959538a9c7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 396756,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3383",
+  "title": "RFC 3383: Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP) | RFC Editor",
+  "author": "K Zeilenga",
+  "published_year": 2002,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:42Z",
+  "category": "guidelines, extensible values"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-velocity-f1dd16/loang/cap-run-20260929T014911Z-9737ed39adae.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36294,
+  "domain": "apache.org",
+  "url": "https://velocity.apache.org/engine/devel/developer-guide.html",
+  "title": "Apache Velocity Engine",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:49:18Z",
+  "category": null
+}

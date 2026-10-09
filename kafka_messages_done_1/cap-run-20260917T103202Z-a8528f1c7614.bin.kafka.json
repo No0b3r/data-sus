@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-a8528f1c7614.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 114865,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/docs/learning-hub/intro-to-cp-olly/02-cloud-logs/22-azure-logs-functions/",
+  "title": "Azure logs: Functions | Grafana Labs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:38:40Z",
+  "category": null
+}

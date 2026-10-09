@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20260925T020104Z-9b326935a1ac.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1462,
+  "domain": "apache.org",
+  "url": "https://solr.apache.org/docs/10_0_0/modules/analysis-extras/org/apache/solr/schema/package-summary.html",
+  "title": "Package org.apache.solr.schema",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T02:49:44Z",
+  "category": null
+}

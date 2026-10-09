@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-939295a93410.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": null,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/docs/learning-paths/prometheus/",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:34:13Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='grafana.com', port=443): Max retries exceeded with url: /docs/learning-paths/prometheus/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001E169F58610>, 'Connection to grafana.com timed out. (connect timeout=15.0)'))"
+}

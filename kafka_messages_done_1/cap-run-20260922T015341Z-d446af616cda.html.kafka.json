@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-velocity-f1dd16/loang/cap-run-20260922T015341Z-d446af616cda.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3582,
+  "domain": "apache.org",
+  "url": "https://velocity.apache.org/engine/devel/apidocs/org/apache/velocity/app/event/implement/PrintExceptions.html",
+  "title": "Class PrintExceptions",
+  "author": null,
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:45:16Z",
+  "category": null
+}

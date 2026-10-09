@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260923T111036Z-cc8ce6da34ef.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 964308,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ko-kr/docs/atlas/",
+  "title": "MongoDB Atlas: 멀티 클라우드 데이터베이스 서비스 - Atlas - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T08:35:32Z",
+  "category": "overview, Atlas Core, atlas infinite, 판, 비교"
+}

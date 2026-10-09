@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/kernel-dma-protection-microsoft-learn-hardwa-a86802/loang/cap-run-20260915T052454Z-f5d23c4ac3fa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 52174,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/microsoft-desktop-optimization-pack/mbam-v25/about-mbam-25-sp1",
+  "title": "About MBAM 2.5 SP1 - Microsoft Desktop Optimization Pack",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:48Z",
+  "category": null
+}

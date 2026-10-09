@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-a07d90d3bc12.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 866960,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/docs/atlas/operator/v2.16/ak8so-configure-federated-authentication/",
+  "title": "Configure Federated Authentication for Atlas - Atlas Kubernetes Operator v2.16 - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T04:20:04Z",
+  "category": "federated authentication, identity provider, role mappings, code example"
+}

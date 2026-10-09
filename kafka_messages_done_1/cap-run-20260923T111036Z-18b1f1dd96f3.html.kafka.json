@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/apache-kafka-cve-2023-25194-jndi-jaas-inject-915f92/loang/cap-run-20260923T111036Z-18b1f1dd96f3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11286,
+  "domain": "apache.org",
+  "url": "https://kafka.apache.org/42/configuration/configuration-providers/",
+  "title": "Configuration Providers",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:21:01Z",
+  "category": "42"
+}

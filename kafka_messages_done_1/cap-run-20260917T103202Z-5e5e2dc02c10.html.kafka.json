@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-5e5e2dc02c10.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 330970,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/docs/grafana/latest/datasources/graphite/?pg=oss-graphite&plcmt=deploy-box-1",
+  "title": "Graphite data source | Grafana documentation",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:23:12Z",
+  "category": null
+}

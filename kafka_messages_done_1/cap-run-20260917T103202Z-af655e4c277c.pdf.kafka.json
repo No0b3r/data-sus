@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-health-ehr-cerner-millennium-ed62ec/loang/cap-run-20260917T103202Z-af655e4c277c.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 78813,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/en/industries/utilities/opower-platform/release-schedule/release-schedule.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:18:24Z",
+  "category": null
+}

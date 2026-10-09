@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-7afc8b81c315.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1155532,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/docs/ops-manager/current/release-notes/automation-agent/",
+  "title": "Automation Agent Changelog - Ops Manager - MongoDB Docs",
+  "author": null,
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:33:05Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ftp-60371b/loang/cap-run-20260925T020104Z-f643eedbef37.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 119169,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc614",
+  "title": "RFC 614: Response to RFC 607: \"Comments on the File Transfer Protocol\" | RFC Editor",
+  "author": "K T Pogran; N Neigus",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:34:09Z",
+  "category": "ftp, weakness, solutions"
+}

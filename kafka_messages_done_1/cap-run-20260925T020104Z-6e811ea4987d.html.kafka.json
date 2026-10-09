@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D09_service-provider-internet-infrastructure-sec/Tier1/rfc-4271-a-border-gateway-protocol-4-bgp-4-9f3937/cap-run-20260925T020104Z-6e811ea4987d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 259360,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4271.html",
+  "title": null,
+  "author": null,
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:39:52Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/dynamic-dma-mapping-guide-linux-kernel-core-6dcc73/loang/cap-run-20260925T020104Z-8792fe2aa029.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7506,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/core-api/asm-annotations.html",
+  "title": "Assembler Annotations",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:29:14Z",
+  "category": null
+}

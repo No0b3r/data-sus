@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/dns-fcfdce/loang/cap-run-20260925T020104Z-04831fb98d28.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1470865,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc1166",
+  "title": "RFC 1166: Internet numbers | RFC Editor",
+  "author": "S Kirkpatrick; M K Stahl; M Recker",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:08:19Z",
+  "category": null
+}

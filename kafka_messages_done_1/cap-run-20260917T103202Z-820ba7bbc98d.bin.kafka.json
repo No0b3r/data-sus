@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/pickle-python-41c1be/loang/cap-run-20260917T103202Z-820ba7bbc98d.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4101,
+  "domain": "python.org",
+  "url": "https://docs.python.org/3/c-api/abstract.html",
+  "title": "Abstract Objects Layer",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:58:05Z",
+  "category": null
+}

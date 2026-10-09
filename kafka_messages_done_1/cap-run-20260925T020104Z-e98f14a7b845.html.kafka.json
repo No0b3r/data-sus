@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/base64-c86c2f/loang/cap-run-20260925T020104Z-e98f14a7b845.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 222654,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc2938",
+  "title": "RFC 2938: Identifying Composite Media Features | RFC Editor",
+  "author": "G Klyne; L Masinter",
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:52:35Z",
+  "category": "tags, expression, hash"
+}

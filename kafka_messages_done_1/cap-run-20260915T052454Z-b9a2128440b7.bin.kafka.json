@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/intel-tdx-demystified-a-top-down-approach-61a22c/loang/cap-run-20260915T052454Z-b9a2128440b7.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 13972,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/list/physics.atom-ph/recent",
+  "title": "Atomic Physics",
+  "author": "D O Sabulsky; Q Beaufils; A Bertoldi; A Landragin; P Bouyer; B Canuel",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:13Z",
+  "category": null
+}

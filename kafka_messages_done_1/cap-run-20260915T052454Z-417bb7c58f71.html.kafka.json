@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260915T052454Z-417bb7c58f71.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5570,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/zh/blog/2021/06/18/first-ga-version-v1.0-of-apache-apisix-ingress-controller-released/",
+  "title": "Apache APISIX Ingress Controller 首个 GA 版本 v1.0 正式发布！ | Apache APISIX",
+  "author": "张晋涛",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T13:05:42Z",
+  "category": "Community"
+}

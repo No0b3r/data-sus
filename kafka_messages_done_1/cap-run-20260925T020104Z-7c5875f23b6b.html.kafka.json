@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/osv-dev-bulk-data-export-toan-bo-ecosystem-g-003ae8/cap-run-20260925T020104Z-7c5875f23b6b.html.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": 252927,
+  "domain": "osv-vulnerabilities.storage.googleapis.com",
+  "url": "https://osv-vulnerabilities.storage.googleapis.com/",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:53:25Z",
+  "category": null
+}

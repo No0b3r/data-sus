@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/redis-9e7fe3/loang/cap-run-20260915T052454Z-4e1702ba06ec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 160925,
+  "domain": "redis.io",
+  "url": "https://redis.io/docs/latest/operate/rc/changelog/2023/june-2023/",
+  "title": "Redis Cloud changelog (June 2023)",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:29:03Z",
+  "category": "operate"
+}

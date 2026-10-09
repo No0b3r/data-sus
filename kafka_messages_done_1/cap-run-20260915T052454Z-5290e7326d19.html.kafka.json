@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-5290e7326d19.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 56939,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/cn/about-aws/whats-new/2019/03/AmazonRedshift-ConcurrencyScaling/",
+  "title": "Amazon Redshift 宣布推出并发扩展功能：在用户活动猛增期间始终保持快速性能",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:38:52Z",
+  "category": null
+}

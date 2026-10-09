@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/elasticsearch-logstash-kibana-ba1cfb/loang/cap-run-20260922T015341Z-a830cec7ffbe.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 30302,
+  "domain": "elastic.co",
+  "url": "https://www.elastic.co/docs/deploy-manage/monitor/autoops",
+  "title": "AutoOps | Elastic Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:26:19Z",
+  "category": "Elastic Cloud Hosted,Elastic Documentation,Elastic Cloud on Kubernetes,Elastic Cloud Enterprise,Elastic Cloud Serverless"
+}

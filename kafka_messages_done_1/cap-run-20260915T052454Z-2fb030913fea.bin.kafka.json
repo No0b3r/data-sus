@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260915T052454Z-2fb030913fea.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10322,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/docs/apisix/next/debug-mode/",
+  "title": "Debug mode | Apache APISIX",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T13:05:06Z",
+  "category": "API gateway,Apache APISIX,Debug mode"
+}

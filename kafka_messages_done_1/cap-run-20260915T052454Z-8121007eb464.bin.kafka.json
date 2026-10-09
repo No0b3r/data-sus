@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/faultpm-exposing-amd-ftpms-deepest-secrets-5322f0/loang/cap-run-20260915T052454Z-8121007eb464.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 270521,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/html/2304.00409v2",
+  "title": "DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection",
+  "author": "Yizheng Chen Affiliation University",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:27:14Z",
+  "category": "datasets, vulnerability detection, deep learning, large language models"
+}

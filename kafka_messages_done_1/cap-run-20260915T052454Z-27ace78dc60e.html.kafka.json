@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-fusion-cloud-erp-financials-d9d889/loang/cap-run-20260915T052454Z-27ace78dc60e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7530,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/saas/analytics/26r2/fawwn&id=FAHIA-GUID-6CE36E44-BD1E-475A-8AAE-53BAFB4A46CC__section_ncr_rfq_2jc",
+  "title": "Reference for Fusion HCM Analytics",
+  "author": "Oracle Fusion Data Intelligence development; Product Management; Quality Assurance Teams; Jenny Smalling",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:11:35Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-c8ff8839f896.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 501347,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/s3/storage-classes/glacier/",
+  "title": "Secure Storage - Amazon S3 Glacier storage classes - AWS",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:46:23Z",
+  "category": null
+}

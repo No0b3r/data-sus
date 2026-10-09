@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260917T103202Z-582181df8723.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4067,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/zh/docs/general/events/2023-apisix-meetup-malaysia/",
+  "title": "Apache APISIX Community Meetup Malaysia 2023 | Apache APISIX",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T13:14:55Z",
+  "category": null
+}

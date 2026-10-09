@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20260917T103202Z-1705ff6b3828.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11310,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2025-030_GHSL-2025-032_AWS_SAM_CLI",
+  "title": "GHSL-2025-030_GHSL-2025-032: Path traversal in AWS SAM CLI - CVE-2025-3047, CVE-2025-3048",
+  "author": "Kevinbackhouse",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:59:50Z",
+  "category": null
+}

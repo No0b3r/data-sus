@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-a48251058606.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 296389,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/ja/blog/the-view-from-the-field-top-4-reasons-customers-buy-grafana-cloud-and-enterprise/",
+  "title": "現場の視点：お客様が Grafana Cloud と Enterprise を選ぶ4つの主要理由 | Grafana Labs",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:45:02Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

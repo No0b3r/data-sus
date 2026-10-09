@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-698f2d7955fb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 337525,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/opentelemetry-ebpf-instrumentation-beyla-donation/?pg=opentelemetry-and-grafana-labs-whats-new-and-whats-next-in-2026&plcmt=in-text",
+  "title": "Introducing OpenTelemetry eBPF Instrumentation: Why we donated Grafana Beyla to OpenTelemetry | Grafana Labs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:25:37Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

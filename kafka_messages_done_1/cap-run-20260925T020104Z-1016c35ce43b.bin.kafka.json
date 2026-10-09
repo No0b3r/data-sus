@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/https-tls-ssl-1bed3b/loang/cap-run-20260925T020104Z-1016c35ce43b.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 218047,
+  "domain": "rfc-editor.org",
+  "url": "http://www.rfc-editor.org/info/rfc7924",
+  "title": "RFC 7924: Transport Layer Security (TLS) Cached Information Extension | RFC Editor",
+  "author": "S Santesson; H Tschofenig",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:13:52Z",
+  "category": "TLS Cached Information, TLS Cached Info, TLS Extension, TLS Optimization"
+}

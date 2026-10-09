@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-51ffda28f6a7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2198463,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3720/",
+  "title": "RFC 3720: Internet Small Computer Systems Interface (iSCSI) | RFC Editor",
+  "author": "J Satran; K Meth; C Sapuntzakis; M Chadalapaka; E Zeidner",
+  "published_year": 2004,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:46Z",
+  "category": "iSCSI, Internet Small Computer Systems Interface, transport protocol, tcp, transmission control protocol"
+}

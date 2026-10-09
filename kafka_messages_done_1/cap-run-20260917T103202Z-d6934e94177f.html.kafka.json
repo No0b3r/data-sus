@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-d6934e94177f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 390221,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/racad/ensuring-application-continuity.html",
+  "title": "Real Application Clusters Administration and Deployment Guide",
+  "author": "Troy Anthony; Lance Ashdown; Ram Avudaiappan; Prasad Bagal; Mark Bauer; Anand Beldalker; Eric Belden; Gajanan Bhat; David Brower; George Claborn; Maria Colgan; Carol Colrain; Jonathan Creighton; Rajesh Dasari; Mark Dilman; Richard Frank; GP Prabhaker Gongloor; Wei Hu; Yong Hu; Dominique Jeunot; Sameer Joshi; Raj K Kammend; Ankita Khandelwal; Sana Karam; Roland Knapp; Karen Li; Barb Lundhild; Venkat Maddali; Bill Manry; John McHugh; Saar Maoz; Matthew Mckerley; Markus Michalewicz; Anil Nair; Philip Newlan; Michael Nowak; Muthu Olagappan; Bharat Paliwal; Hanlin Qian; Hairong Qin; Mark Ramacher; Sampath Ravindhran; Kevin Reardon; Kathy Rich; Dipak Saggi; Daniel Semler; Ara Shakian; Cathy Shea; Khethavath P Singh; Kesavan Srinivasan; Leo Tominna; Peter Wahl; Tak Wang; Richard Wessman; Douglas Williams; Mike Zampiceni; Michael Zoll; Subhash Chandra",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:43:11Z",
+  "category": "Application Continuity, Fast Application Notification (FAN), overview, load balancing advisory, events and FAN, clients, integrated for FAN events, Oracle Notification Services, API, uses, how events are published, Advanced Queuing, and FAN, parameters and matching database signatures, and high availability events, callouts, definition, callouts, how to use, outages, unplanned, how they are run, maintenance, planned, services, starting after planned maintenance, stopping after planned maintenance, relocating after planned maintenance, managing after planned maintenance, planned maintenance, managing, managing groups of, starting, managing on PDBs, PDBs, managing services on, relocating, stopping, concepts, database request, recoverable error, commit outcome, mutable functions, session state consistency, Transparent Application Continuity, request boundaries, described, configuring connections, establishing initial state, restoring state settings, FAILOVER_RESTORE, recommended values, session states restored, session restore after failover, restoring ALTER SESSION states, keystore, create, wallet, delaying reconnection, using for planned maintenance, using Application Continuity, running without, noreplay keyword (terminating or disconnecting session), mutables, rules for grants, protection-level statistics, dynamic session state consistency, static session state consistency, auto session state consistency, auto, dynamic, static, non-transactional session state, potential side effects, restrictions, Transaction Guard, transaction failover, logical transaction ID, LXTID, transaction idempotence, idempotence, configuring services for, transparent application failover (TAF), and services, ACCHK, Application Continuity Protection Check, Application Continuity Protection Check"
+}

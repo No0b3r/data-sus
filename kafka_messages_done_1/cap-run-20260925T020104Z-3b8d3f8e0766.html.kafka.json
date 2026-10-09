@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier1/rfc-4861-neighbor-discovery-for-ip-version-6-4a2b50/cap-run-20260925T020104Z-3b8d3f8e0766.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 273780,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4861.html",
+  "title": null,
+  "author": null,
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:33:30Z",
+  "category": null
+}

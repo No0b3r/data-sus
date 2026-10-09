@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-0eebdc95b5c3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3747,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_tw/amazondynamodb/latest/developerguide/Programming.html",
+  "title": "使用 DynamoDB 和 AWS SDKs程式設計",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:03:37Z",
+  "category": null
+}

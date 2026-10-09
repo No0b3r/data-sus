@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/glitch-in-the-sky-exploiting-voltage-fault-i-d40e30/loang/cap-run-20260915T052454Z-12a11bc1034b.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40742,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/2604.00112",
+  "title": "Efficient Software Vulnerability Detection Using Transformer-based Models",
+  "author": "Shaik; Sameer; Huang; Zhen; Raicu; Daniela Stan; Furst; Jacob",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:27:30Z",
+  "category": null
+}

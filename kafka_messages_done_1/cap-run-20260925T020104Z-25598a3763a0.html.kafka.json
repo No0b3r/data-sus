@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-25598a3763a0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 926668,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ko-kr/docs/manual/installation/",
+  "title": "MongoDB Community 및 Enterprise Edition 설치 - 데이터베이스 매뉴얼 - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T01:52:34Z",
+  "category": "온프레미스"
+}

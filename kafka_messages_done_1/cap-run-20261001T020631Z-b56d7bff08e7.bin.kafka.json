@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20261001T020631Z-b56d7bff08e7.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9954,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2026-099_Quarkus/",
+  "title": "GHSL-2026-099: Authorization Bypass in Quarkus - CVE-2026-39852",
+  "author": "P",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:09:17Z",
+  "category": null
+}

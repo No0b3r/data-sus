@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/spring-boot-5cc1d5/loang/cap-run-20260921T033201Z-7a8bca3c7131.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 98496,
+  "domain": "spring.io",
+  "url": "https://docs.spring.io/spring-boot/4.2-SNAPSHOT/documentation.html",
+  "title": "Documentation Overview",
+  "author": null,
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:41:03Z",
+  "category": null
+}

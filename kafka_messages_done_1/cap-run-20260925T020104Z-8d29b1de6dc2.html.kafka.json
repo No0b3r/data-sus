@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-8d29b1de6dc2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 402202,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4211/",
+  "title": "RFC 4211: Internet X.509 Public Key Infrastructure Certificate Request Message Format (CRMF) | RFC Editor",
+  "author": "J Schaad",
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:58Z",
+  "category": "X.509-CRMF, certification authority, ca, registration authority, ra, pkix, pki, certificate production, crmf, security, encryption, authenticaion"
+}

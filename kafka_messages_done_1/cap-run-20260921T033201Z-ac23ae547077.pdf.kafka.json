@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-banking-payments-721309/loang/cap-run-20260921T033201Z-ac23ae547077.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 310259,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/F31489_01/PDF/User_Guides/Oracle-Banking-Payments_Base_Reference/Oracle_Banking_Payments_14.4_Accessibility_Guide.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T06:32:08Z",
+  "category": null
+}

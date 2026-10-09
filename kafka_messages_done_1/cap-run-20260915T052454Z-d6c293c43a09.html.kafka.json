@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-micros-simphony-cf2ef4/loang/cap-run-20260915T052454Z-d6c293c43a09.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2426,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/industries/food-beverage/simphony/ccapi/api-v1-menu-items-menu-item-definitions-menu-item-definition-consumer-facing-content.html",
+  "title": "Configuration and Content API Guide",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:22:49Z",
+  "category": null
+}

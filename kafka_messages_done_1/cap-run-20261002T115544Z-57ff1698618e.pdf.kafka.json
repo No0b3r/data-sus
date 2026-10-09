@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D05_cryptographic-network-transport-vpn/Tier2/cisco-secure-firewall-asa-vpn-cli-configurat-9a06ac/cap-run-20261002T115544Z-57ff1698618e.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 6713253,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/security/asa/asa920/configuration/vpn/asa-920-vpn-config.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:02:54Z",
+  "category": null
+}

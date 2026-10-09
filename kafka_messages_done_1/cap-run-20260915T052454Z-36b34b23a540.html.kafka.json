@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-36b34b23a540.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 329344,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/tr/about-aws/whats-new/2018/11/aurora-serverless-query-editor/",
+  "title": "Şimdi Amazon Aurora Sunucusuz Sorgularını Doğrudan AWS Management Console'dan (Beta) çalıştırın - AWS",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:37:02Z",
+  "category": null
+}

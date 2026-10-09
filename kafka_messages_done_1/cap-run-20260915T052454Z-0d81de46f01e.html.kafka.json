@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D10_data-center-cloud-overlay-network-security/Tier2/aws-tai-lieu-mang-dam-may-vpc-route-53-elb-d-28a4b5/loang/cap-run-20260915T052454Z-0d81de46f01e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5041,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/goto/cli2/ec2-2016-11-15/DeleteDhcpOptions",
+  "title": "delete-dhcp-options¶",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:41:43Z",
+  "category": null
+}

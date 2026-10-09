@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-d20c1c501d27.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 521183,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc9864",
+  "title": "RFC 9864: Fully-Specified Algorithms for JSON Object Signing and Encryption (JOSE) and CBOR Object Signing and Encryption (COSE) | RFC Editor",
+  "author": "M B Jones; O Steele",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:07Z",
+  "category": "Cryptographic Algorithm Identifiers, JSON Object Signing and Encryption (JOSE), CBOR Object Signing and Encryption (COSE), Polymorphic Algorithms, Algorithm Cipher Suites"
+}

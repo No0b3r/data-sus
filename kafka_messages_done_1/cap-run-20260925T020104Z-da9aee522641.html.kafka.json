@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/pgp-gpg-14b3df/cap-run-20260925T020104Z-da9aee522641.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 949697,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4880",
+  "title": "RFC 4880: OpenPGP Message Format | RFC Editor",
+  "author": "J Callas; L Donnerhacke; H Finney; D Shaw; R Thayer",
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:53:27Z",
+  "category": "public-key cryptography, symmetric cryptography"
+}

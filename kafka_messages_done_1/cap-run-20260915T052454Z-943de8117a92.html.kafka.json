@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-943de8117a92.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 556681,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/fr-fr/resources/products/platform/event-stream-processing",
+  "title": "Event stream processing explained",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:39:02Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D09_service-provider-internet-infrastructure-sec/Tier2/cisco-ncs-va-ons-tron-bo-tai-lieu-truyen-dan-5fce31/cap-run-20260928T065604Z-6bc088df67e5.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 33426310,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/optical/ron/4-0/solution/guide/ron-solution-guide-40.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:40:00Z",
+  "category": null
+}

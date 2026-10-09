@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20260921T033201Z-d91c5da52652.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 395596,
+  "domain": "securitylab.github.com",
+  "url": "https://securitylab.github.com/assets/img/events-images/jkcso-eficode-1.jpeg?raw=true",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:01:58Z",
+  "category": null
+}

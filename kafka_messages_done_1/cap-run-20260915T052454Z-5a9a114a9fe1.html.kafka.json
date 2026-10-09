@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260915T052454Z-5a9a114a9fe1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1116,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E99083_01/html/Retail_Teller/RTIOM_00.htm",
+  "title": "Oracle ® FLEXCUBE Universal Banking Retail Teller Guide",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T07:03:32Z",
+  "category": null
+}

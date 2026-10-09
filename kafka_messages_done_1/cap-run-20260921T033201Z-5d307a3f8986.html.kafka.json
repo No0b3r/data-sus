@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260921T033201Z-5d307a3f8986.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1125927,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/docs/atlas/terraform-modules-landing-zone/",
+  "title": "Deploy MongoDB Atlas with Terraform Modules - Atlas - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T07:12:36Z",
+  "category": "atlas terraform modules, terraform landing zone, atlas aws, atlas azure, atlas gcp, infrastructure as code"
+}

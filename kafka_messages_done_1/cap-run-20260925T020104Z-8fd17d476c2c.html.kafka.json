@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/rfc-7039-source-address-validation-improveme-efd08b/cap-run-20260925T020104Z-8fd17d476c2c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 39054,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc7039.html",
+  "title": null,
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:56:17Z",
+  "category": null
+}

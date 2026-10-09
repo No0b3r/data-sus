@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-7670eb51b9e6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 851232,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/docs/atlas/operator/v2.16/ak8so-create-vector-search-index/",
+  "title": "Create a Atlas Vector Search Index with Kubernetes - Atlas Kubernetes Operator v2.16 - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T03:17:26Z",
+  "category": null
+}

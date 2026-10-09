@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier1/linux-kernel-hardware-vulnerabilities-admin-1d8f92/loang/cap-run-20260925T020104Z-4e4af6c4dd39.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4138,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/sound/cards/index.html",
+  "title": "Card-Specific Information",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:17:22Z",
+  "category": null
+}

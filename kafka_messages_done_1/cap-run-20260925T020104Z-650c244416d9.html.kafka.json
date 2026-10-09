@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ftp-60371b/loang/cap-run-20260925T020104Z-650c244416d9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 279216,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc524/",
+  "title": "RFC 524: Proposed Mail Protocol | RFC Editor",
+  "author": "J E White",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:33:39Z",
+  "category": null
+}

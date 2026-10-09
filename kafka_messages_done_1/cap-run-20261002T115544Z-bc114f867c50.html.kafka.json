@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20261002T115544Z-bc114f867c50.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4112,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/blog/2021/02/26/install-apache-apisix-from-helm-charts/",
+  "title": "Install Apache APISIX from Helm Charts | Apache APISIX",
+  "author": "Chao Zhang",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:41:09Z",
+  "category": "Ecosystem"
+}

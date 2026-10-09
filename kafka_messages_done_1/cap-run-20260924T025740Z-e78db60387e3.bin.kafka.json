@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/spring-boot-5cc1d5/loang/cap-run-20260924T025740Z-e78db60387e3.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": null,
+  "domain": "docs.spring.io",
+  "url": "https://docs.spring.io/spring-boot/maven-plugin/integration-tests.html",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:48:50Z",
+  "category": null,
+  "_fetch_error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+}

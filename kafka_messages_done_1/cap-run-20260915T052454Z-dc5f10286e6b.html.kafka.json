@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/kernel-dma-protection-microsoft-learn-hardwa-a86802/loang/cap-run-20260915T052454Z-dc5f10286e6b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 84636,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/microsoft-365/admin/misc/organizational-messages-microsoft-365-faq?view=o365-worldwide",
+  "title": "Organizational messages in Microsoft 365 FAQ",
+  "author": "Can we still author Get Started messages created previously",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:38Z",
+  "category": null
+}

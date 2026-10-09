@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260915T052454Z-01f4848bbc43.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 383735,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/E99083_01/PDF/Core/AEOD.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T06:32:45Z",
+  "category": null
+}

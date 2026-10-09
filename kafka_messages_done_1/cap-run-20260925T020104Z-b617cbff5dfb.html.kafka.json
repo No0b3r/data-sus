@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/webdav-423342/loang/cap-run-20260925T020104Z-b617cbff5dfb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 644662,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc1945",
+  "title": "RFC 1945: Hypertext Transfer Protocol -- HTTP/1.0 | RFC Editor",
+  "author": "T Berners-Lee; R Fielding; H Frystyk",
+  "published_year": 1996,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:01:40Z",
+  "category": "HTTP-1.0, HTTP, World-Wide, Web, application"
+}

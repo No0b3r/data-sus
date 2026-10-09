@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-8259773a5b52.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3509,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/cloud/paas/atp-cloud/index.html",
+  "title": "Autonomous Transaction Processing - Get Started",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:38:30Z",
+  "category": null
+}

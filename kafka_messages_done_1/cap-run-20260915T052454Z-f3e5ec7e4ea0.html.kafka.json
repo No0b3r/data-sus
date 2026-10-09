@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-f3e5ec7e4ea0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 58040,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/de/about-aws/whats-new/2019/03/amplify-framework-adds-enhancements-to-authentication-for-ios-android-and-react-native-developers/",
+  "title": "Das Amplify Framework bietet Verbesserungen zur Authentifizierung für iOS, Android und React Native-Entwickler",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:49:14Z",
+  "category": null
+}

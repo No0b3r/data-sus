@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-a295d28af316.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 56928,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/tw/about-aws/whats-new/2019/03/amazon-transcribe-enhances-custom-vocabulary-with-custom-pronunciations-and-display-forms/",
+  "title": "Amazon Transcribe 使用自訂發音和顯示表單增強自訂詞彙",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:43:51Z",
+  "category": null
+}

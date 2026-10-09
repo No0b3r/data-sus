@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/https-tls-ssl-1bed3b/loang/cap-run-20260925T020104Z-982103e82c41.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 210,
+  "domain": "www.rfc-editor.org",
+  "url": "https://www.rfc-editor.org/refs/ref7507.txt",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:14:02Z",
+  "category": null
+}

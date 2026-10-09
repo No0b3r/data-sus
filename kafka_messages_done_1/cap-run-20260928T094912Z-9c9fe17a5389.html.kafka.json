@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20260928T094912Z-9c9fe17a5389.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18120,
+  "domain": "apache.org",
+  "url": "https://solr.apache.org/guide/8_11/taking-solr-to-production.html",
+  "title": "Taking Solr to Production",
+  "author": null,
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T02:59:48Z",
+  "category": null
+}

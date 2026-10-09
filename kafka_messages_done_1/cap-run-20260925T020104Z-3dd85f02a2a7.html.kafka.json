@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-3dd85f02a2a7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 307970,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9393.html",
+  "title": "Concise Software Identification Tags",
+  "author": "Henk Birkholz; Jessica Fitzgerald-McKay; Charles Schmidt; David Waltermire",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:28Z",
+  "category": null
+}

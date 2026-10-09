@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ssh-f9f69d/loang/cap-run-20260925T020104Z-7fb6706196d5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 363113,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc869/",
+  "title": "RFC 869: Host Monitoring Protocol | RFC Editor",
+  "author": "R Hinden",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:01:26Z",
+  "category": "HMP"
+}

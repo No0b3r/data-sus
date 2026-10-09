@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/macof-8-cong-cu-flooding-cam-mac-table-bo-ds-a23acf/loang/cap-run-20260915T052454Z-6ebde4c3a5b5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3530,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/unstable/a2boot/index.html",
+  "title": "Manpages of a2boot in Debian unstable",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:53:42Z",
+  "category": null
+}

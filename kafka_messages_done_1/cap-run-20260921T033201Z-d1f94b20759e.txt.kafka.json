@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/elasticsearch-logstash-kibana-ba1cfb/loang/cap-run-20260921T033201Z-d1f94b20759e.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 3372,
+  "domain": "www.elastic.co",
+  "url": "https://www.elastic.co/docs/reference/scripting-languages/painless/painless.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:10:34Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-950c06e965f1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 107591,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/events/grafanacon/2024/opentelemetry-with-grafana-lgtm-stack/",
+  "title": "OpenTelemetry Looks Good To Me: Loki, Grafana, Tempo, Mimir | Grafana Labs",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:34:47Z",
+  "category": null
+}

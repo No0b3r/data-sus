@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D10_data-center-cloud-overlay-network-security/Tier2/aws-tai-lieu-mang-dam-may-vpc-route-53-elb-d-28a4b5/loang/cap-run-20260915T052454Z-03d5a5f8be14.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3264,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/it_it/ec2/latest/devguide/ec2-api-intro.html",
+  "title": "Accesso programmatico ad Amazon EC2",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:40:57Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/pgp-gpg-14b3df/loang/cap-run-20260925T020104Z-22331f25fed9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 200292,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc1951",
+  "title": "RFC 1951: DEFLATE Compressed Data Format Specification version 1.3 | RFC Editor",
+  "author": "P Deutsch",
+  "published_year": 1996,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:53:27Z",
+  "category": "DEFLATE, compressed, data, format, coding"
+}

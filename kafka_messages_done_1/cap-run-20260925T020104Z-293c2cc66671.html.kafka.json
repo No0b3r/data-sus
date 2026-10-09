@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-293c2cc66671.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 230880,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2312/",
+  "title": "RFC 2312: S/MIME Version 2 Certificate Handling | RFC Editor",
+  "author": "S Dusse; P Hoffman; B Ramsdell; J Weinstein",
+  "published_year": 1998,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:24Z",
+  "category": "SMIME-CERT, secure, multipurpose, internet, mail, extensions"
+}

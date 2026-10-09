@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-d232a6647f39.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 21876,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/cloud/paas/webcenter-portal/wc-portal-marketplace/index.html",
+  "title": "Using Oracle WebCenter Portal 14c (14.1.2) on Marketplace in Oracle Cloud Infrastructure",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:50:35Z",
+  "category": "WebCenter, WebCenter on Marketplace, WebCenter 14.1.2 on Marketplace, WebCenter 14c (14.1.2) on Marketplace"
+}

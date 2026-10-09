@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/kirbi-ccache-kerberos-d444fe/loang/cap-run-20260925T020104Z-e035fca945b6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 137441,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5021/",
+  "title": "RFC 5021: Extended Kerberos Version 5 Key Distribution Center (KDC) Exchanges over TCP | RFC Editor",
+  "author": "S Josefsson",
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:06:47Z",
+  "category": null
+}

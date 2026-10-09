@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-cce50d07e8ed.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3513,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/middleware/12211/lcm/WLDPU/GUID-D37A439D-EB49-40AC-BDA8-0E362E35827F.htm",
+  "title": "Fusion Middleware Creating Templates and Domains Using the Pack and Unpack Commands",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:50:29Z",
+  "category": null
+}

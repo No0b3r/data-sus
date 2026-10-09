@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-f6a6964e4adf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 155070,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4627/",
+  "title": "RFC 4627: The application/json Media Type for JavaScript Object Notation (JSON) | RFC Editor",
+  "author": "D Crockford",
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:16Z",
+  "category": "data interchange format, ECMAScript Programming Language Standard"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/blazor-c3f6f5/loang/cap-run-20260915T052454Z-e76c98b0b64b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 176,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-vscode",
+  "title": "Too Many Requests",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:04:13Z",
+  "category": null
+}

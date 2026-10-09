@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-71f2f3a88533.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 105759,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/whats-new/2026-07-31-grafana-assistant-desktop-app-is-now-in-private-preview/",
+  "title": "Grafana Assistant desktop app is now in private preview | Grafana Labs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:27:37Z",
+  "category": null
+}

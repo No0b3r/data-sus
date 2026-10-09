@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ftp-60371b/loang/cap-run-20260925T020104Z-f014180441af.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 116892,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc468",
+  "title": "RFC 468: FTP data compression | RFC Editor",
+  "author": "R T Braden",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:34:08Z",
+  "category": null
+}

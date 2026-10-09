@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260917T103202Z-842424d6c181.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 803933,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/de-de/solutions/industries/financial-services",
+  "title": "MongoDB für Finanzdienstleistungen: modernisieren, sichern, skalieren",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T07:04:52Z",
+  "category": null
+}

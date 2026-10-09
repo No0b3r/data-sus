@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D05_cryptographic-network-transport-vpn/Tier2/cisco-security-and-vpn-configuration-guide-c-536540/cap-run-20261005T080457Z-76800c54e6b4.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 36046168,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/routers/ios/config/17-x/sec-vpn/b-security-vpn.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:02:54Z",
+  "category": null
+}

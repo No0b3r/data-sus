@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260921T033201Z-a8e0e12ebce3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1658,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/industries/hospitality/opera-cloud-distribution/23.2/ohdig/toc.htm",
+  "title": "Inventory Calculation",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:29:27Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-df9b331310b1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 249444,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/company/blog/technical/performance-best-practices-mongodb-data-modeling-and-memory-sizing",
+  "title": "Performance Best Practices: MongoDB Data Modeling and Memory Sizing",
+  "author": "Henrik Ingo; Mat Keep",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:53:32Z",
+  "category": null
+}

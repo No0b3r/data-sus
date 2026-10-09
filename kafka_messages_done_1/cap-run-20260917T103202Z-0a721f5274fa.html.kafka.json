@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260917T103202Z-0a721f5274fa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8910,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/zh/blog/2022/02/28/apisix-integration-opentelemetry-plugin/",
+  "title": "可观测性能力升级，API 网关 Apache APISIX 集成 OpenTelemetry | Apache APISIX",
+  "author": "庄浩潮",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T13:12:53Z",
+  "category": "Plugins"
+}

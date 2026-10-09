@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260917T103202Z-9b13de3f9eb6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 34772,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/processing-heterogeneous-iot-logs-with-fluent-bit-and-elasticsearch-ingest-pipelines/390311",
+  "title": "Processing Heterogeneous IoT Logs with Fluent Bit and Elasticsearch Ingest Pipelines",
+  "author": "Cchaussat",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:52:56Z",
+  "category": "filebeat"
+}

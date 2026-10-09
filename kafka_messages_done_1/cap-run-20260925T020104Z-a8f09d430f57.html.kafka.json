@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D03_network-layer-security-routing-protocol-hard/Tier1/rfc-6104-rogue-ipv6-router-advertisement-pro-3e6217/cap-run-20260925T020104Z-a8f09d430f57.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 44931,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc6104.html",
+  "title": null,
+  "author": null,
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:57:41Z",
+  "category": null
+}

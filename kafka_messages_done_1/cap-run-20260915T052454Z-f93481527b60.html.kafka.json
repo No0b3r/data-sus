@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-f93481527b60.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 385690,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/comprehend/faqs/",
+  "title": "Amazon Comprehend FAQs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:49:34Z",
+  "category": null
+}

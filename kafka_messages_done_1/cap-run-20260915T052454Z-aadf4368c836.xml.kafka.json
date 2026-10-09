@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-aadf4368c836.xml.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": 1280874,
+  "domain": "aws.amazon.com",
+  "url": "https://aws.amazon.com/sitemaps/sitemap_russia/",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:44:21Z",
+  "category": null
+}

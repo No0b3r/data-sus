@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/spring-boot-5cc1d5/loang/cap-run-20260915T052454Z-3553ee2f1783.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 54624,
+  "domain": "spring.io",
+  "url": "https://docs.spring.io/spring-cloud-build/reference/5.1-SNAPSHOT/contributing.html",
+  "title": "Contributing",
+  "author": null,
+  "published_year": 2008,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:32:00Z",
+  "category": null
+}

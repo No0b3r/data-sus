@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-5cc2f086f7fe.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2349,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/list/pgsql-jobs/2020-03/",
+  "title": "pgsql-jobs - March 2020",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:54:51Z",
+  "category": null
+}

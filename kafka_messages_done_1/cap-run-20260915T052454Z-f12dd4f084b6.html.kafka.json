@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-f12dd4f084b6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 364913,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/ru/about-aws/whats-new/2017/05/amazon-workdocs-now-supports-file-lock-and-unlock/",
+  "title": "Amazon WorkDocs теперь поддерживает блокировку и разблокировку файлов при редактировании контента - AWS",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:49:03Z",
+  "category": null
+}

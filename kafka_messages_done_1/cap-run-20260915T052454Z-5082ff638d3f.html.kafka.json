@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-5082ff638d3f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2750,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/middleware/11119/cross/admintasks.htm",
+  "title": "Administer the Environment 11.1.1.9",
+  "author": null,
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:47:17Z",
+  "category": "None"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-df3d962fc906.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 326714,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/marketplace/features/standardized-contracts",
+  "title": "Standardized contracts",
+  "author": "Can the terms be extended through an authorized reseller",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:48:06Z",
+  "category": null
+}

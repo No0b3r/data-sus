@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260924T083724Z-db974335abcc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1002289,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/es/docs/atlas/atlas-stream-processing/tutorial/",
+  "title": "Comenzando con el Stream Processing de Atlas - Atlas - MongoDB Docs",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T12:00:30Z",
+  "category": null
+}

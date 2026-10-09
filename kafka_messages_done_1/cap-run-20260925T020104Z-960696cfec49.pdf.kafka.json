@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier2/throwhammer-rowhammer-attacks-over-the-netwo-d07a88/cap-run-20260925T020104Z-960696cfec49.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 1455576,
+  "domain": "www.usenix.org",
+  "url": "https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_tatar.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:56Z",
+  "category": null
+}

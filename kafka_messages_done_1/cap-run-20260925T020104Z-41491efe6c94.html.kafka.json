@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/membuster-an-off-chip-attack-on-hardware-enc-6eee36/cap-run-20260925T020104Z-41491efe6c94.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 34420,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/usenixsecurity20/presentation/lee-dayeol",
+  "title": "An {Off-Chip} Attack on Hardware Enclaves via the Memory Bus",
+  "author": "Dayeol Lee; Dongha Jung; Ian T Fang; Chia-Che Tsai; Raluca Ada Popa",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:53Z",
+  "category": null
+}

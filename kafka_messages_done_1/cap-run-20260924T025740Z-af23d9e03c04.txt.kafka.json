@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260924T025740Z-af23d9e03c04.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 5319,
+  "domain": "docs.influxdata.com",
+  "url": "https://docs.influxdata.com/telegraf/controller/install/index.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:47:06Z",
+  "category": null
+}

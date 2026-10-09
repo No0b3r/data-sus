@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-2a6c28d07955.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 128566,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/fr/events/observabilitycon-on-the-road/2024/paris/perennisation-des-strategies-dobservabilite-chez-d-edge/",
+  "title": "Pérennisation des stratégies d'observabilité chez D-EDGE avec OpenTelemetry, Loki, Grafana, Tempo et Mimir | Grafana Labs",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:12:13Z",
+  "category": null
+}

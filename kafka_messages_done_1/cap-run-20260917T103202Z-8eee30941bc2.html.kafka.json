@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-8eee30941bc2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7688,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/data-safe&id=ADMDS-GUID-661CB30C-9B28-4D98-8078-83D4431AA21C",
+  "title": "Oracle Data Safe Overview",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:39:20Z",
+  "category": null
+}

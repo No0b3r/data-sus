@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-aac560e8c0bb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 330729,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc1891/",
+  "title": "RFC 1891: SMTP Service Extension for Delivery Status Notifications | RFC Editor",
+  "author": "K Moore",
+  "published_year": 1996,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:51Z",
+  "category": "SMTP-DSN, simple, mail, transfer, protocol"
+}

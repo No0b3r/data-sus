@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260915T052454Z-99f5bc776cef.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 856188,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/E65588_01/docs/MC_Price_Quotes_Override_Reason_Codes.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:27:01Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260923T111036Z-a7cfa8e4826a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 35392,
+  "domain": "www.postgresql.org",
+  "url": "https://www.postgresql.org/news/related.rss",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:25:07Z",
+  "category": null
+}

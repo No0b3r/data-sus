@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260924T083724Z-25b41ee17355.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18112,
+  "domain": "influxdata.com",
+  "url": "https://docs.influxdata.com/enterprise_influxdb/v1/concepts/schema_and_data_layout/",
+  "title": "InfluxDB schema design and data layout",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:49:33Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-e268387437f5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 57399,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/tw/about-aws/whats-new/2019/03/amazon-quickSight-supports-row-level-security-enabled-email-reports-new-analytical-capabilities-and-more/",
+  "title": "Amazon QuickSight 支援啟用列層級安全性的電子郵件報告、新分析功能等",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:48:11Z",
+  "category": null
+}

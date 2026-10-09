@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/apache-kafka-cve-2023-25194-jndi-jaas-inject-915f92/loang/cap-run-20260917T103202Z-b36df1818b8f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 377383,
+  "domain": "apache.org",
+  "url": "https://kafka.apache.org/26/_print/",
+  "title": "AK 2.6.X",
+  "author": "Authorizer Class Name",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:09:54Z",
+  "category": null
+}

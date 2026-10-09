@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260928T094912Z-764aeecc57db.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 37143,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/logstash-server-location/254115",
+  "title": "Logstash Server Location",
+  "author": "Karl Ofeiche",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:00:22Z",
+  "category": null
+}

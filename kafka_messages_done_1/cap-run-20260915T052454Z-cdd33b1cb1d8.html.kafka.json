@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-cdd33b1cb1d8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55581,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/cn/about-aws/whats-new/2018/10/network-load-balancer-now-supports-inter-region-vpc-peering/",
+  "title": "网络负载均衡器现在支持区域间 VPC 对等连接",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:46:43Z",
+  "category": null
+}

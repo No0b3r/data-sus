@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-9701c6984101.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 242633,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/en/middleware/standalone/outsidein/8.5/oit-supported-formats/OutsideIn_8.5.5_Supported_File_Formats.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:49:10Z",
+  "category": null
+}

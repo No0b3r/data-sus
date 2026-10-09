@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D04_physical-access-debug-interfaces-hardware-re/Tier1/printed-circuit-board-deconstruction-techniq-070268/cap-run-20260928T043119Z-4f3cfebd65cb.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 2093963,
+  "domain": "www.usenix.org",
+  "url": "https://www.usenix.org/system/files/conference/woot14/woot14-grand.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:28:46Z",
+  "category": null
+}

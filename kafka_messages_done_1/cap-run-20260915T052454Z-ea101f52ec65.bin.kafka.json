@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/intel-tdx-demystified-a-top-down-approach-61a22c/loang/cap-run-20260915T052454Z-ea101f52ec65.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 255019,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/search/cs?query=Cheng%2C+P&searchtype=author",
+  "title": "Showing 1–50 of 377 results for author: Cheng, P",
+  "author": "Authors Yu-Chen Den; Zhi Rui Tam; Yung-Yu Shih; Shih-Hsin Wang; Yun-Nung Chen; Pu-Jen Cheng; Eugene Yang",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:17Z",
+  "category": null
+}

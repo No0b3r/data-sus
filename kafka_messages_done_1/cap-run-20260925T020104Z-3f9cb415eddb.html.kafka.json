@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier1/linux-kernel-hardware-vulnerabilities-admin-1d8f92/loang/cap-run-20260925T020104Z-3f9cb415eddb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36063,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/pub/software/scm/git/docs/",
+  "title": "git(1) Manual Page",
+  "author": "Authors",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:16:31Z",
+  "category": null
+}

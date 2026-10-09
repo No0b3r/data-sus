@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-a1276b1d0299.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 370735,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/inside-prezis-cost-saving-switch-to-grafana-alerting-grafana-oncall-and-grafana-incident-from-pagerduty/?pg=grafana-vs-pagerduty&plcmt=txt-img-alternating",
+  "title": "Inside Prezi’s cost-saving switch to Grafana Alerting, Grafana OnCall, and Grafana Incident from PagerDuty | Grafana Labs",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:37:19Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

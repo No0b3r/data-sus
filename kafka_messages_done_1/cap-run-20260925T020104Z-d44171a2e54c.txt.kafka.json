@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-d44171a2e54c.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 185,
+  "domain": "www.rfc-editor.org",
+  "url": "https://www.rfc-editor.org/refs/ref3698.txt",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:13:02Z",
+  "category": null
+}

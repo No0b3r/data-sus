@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier1/rfc-6598-iana-reserved-ipv4-prefix-for-share-563f66/cap-run-20260925T020104Z-85c3d9ff7b71.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 28843,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc6598.html",
+  "title": null,
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:03:05Z",
+  "category": null
+}

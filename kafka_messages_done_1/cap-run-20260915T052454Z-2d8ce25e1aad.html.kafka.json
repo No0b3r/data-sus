@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-2d8ce25e1aad.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1335880,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/blogs/security/the-agentic-ai-security-scoping-matrix-a-framework-for-securing-autonomous-ai-systems/",
+  "title": "The Agentic AI Security Scoping Matrix: A framework for securing autonomous AI systems | Amazon Web Services",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:36:27Z",
+  "category": "Amazon GuardDuty"
+}

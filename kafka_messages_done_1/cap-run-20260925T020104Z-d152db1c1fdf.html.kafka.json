@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-d152db1c1fdf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1112032,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc7231/",
+  "title": "RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content | RFC Editor",
+  "author": "R Fielding; J Reschke",
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:13:01Z",
+  "category": "Hypertext Transfer Protocol, HTTP, HTTP semantics, HTTP payload, HTTP content, HTTP method, HTTP status code"
+}

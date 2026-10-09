@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/beego-e8cdf9/loang/cap-run-20260915T052454Z-f9ecc279783c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "pkg.go.dev",
+  "url": "https://pkg.go.dev/github.com/beego/beego/v2@v2.0.6/test",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:57:04Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='pkg.go.dev', port=443): Max retries exceeded with url: /github.com/beego/beego/v2@v2.0.6/test (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001E11E464E50>, 'Connection to pkg.go.dev timed out. (connect timeout=15.0)'))"
+}

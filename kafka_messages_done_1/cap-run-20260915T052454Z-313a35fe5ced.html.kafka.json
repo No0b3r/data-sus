@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-313a35fe5ced.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 732,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/middleware/12212/wls/INTRO/img_text/GUID-BDE93E2E-013A-4D53-A417-5530E6A39650-default.htm",
+  "title": "Description of the illustration productoverview.gif",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:46:33Z",
+  "category": null
+}

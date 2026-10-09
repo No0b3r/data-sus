@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-16f2a9053142.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 24568,
+  "domain": "amazon.com",
+  "url": "http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/BedrockRuntime.html",
+  "title": "Class: AWS.BedrockRuntime",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:03:53Z",
+  "category": null
+}

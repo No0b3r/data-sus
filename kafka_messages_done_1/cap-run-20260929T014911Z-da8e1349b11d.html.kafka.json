@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/apache-kafka-cve-2023-25194-jndi-jaas-inject-915f92/loang/cap-run-20260929T014911Z-da8e1349b11d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11308,
+  "domain": "apache.org",
+  "url": "https://kafka.apache.org/36/configuration/tiered-storage-configs/",
+  "title": "Tiered Storage Configs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:46:52Z",
+  "category": "36"
+}

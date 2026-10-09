@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-ebb2624cfcd7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 657470,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc8017/",
+  "title": "RFC 8017: PKCS #1: RSA Cryptography Specifications Version 2.2 | RFC Editor",
+  "author": "K Moriarty; B Kaliski; J Jonsson; A Rusch",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:13Z",
+  "category": "RSA public-key cryptosystem, RSA signature scheme, RSA public key, RSA private key, PKCS #1 v1.5, RSA-OAEP, RSA-PSS, Optimal Asymmetric Encryption Padding, Probabilistic Signature Scheme"
+}

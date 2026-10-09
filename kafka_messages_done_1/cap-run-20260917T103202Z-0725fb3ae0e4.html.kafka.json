@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-0725fb3ae0e4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 134924,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/docs/plugins/grafana-catchpoint-datasource/latest/",
+  "title": "Catchpoint data source | Grafana Enterprise Plugins documentation",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:05:19Z",
+  "category": null
+}

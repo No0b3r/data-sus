@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-fusion-cloud-erp-financials-d9d889/loang/cap-run-20260915T052454Z-ba5b5409e4de.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 811851,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/en/applications/enterprise-performance-management/11.2/fruuu/GUID-564AC370-97FE-4E8A-9D58-64DCA4A10ADD-ONPREM.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:13:42Z",
+  "category": null
+}

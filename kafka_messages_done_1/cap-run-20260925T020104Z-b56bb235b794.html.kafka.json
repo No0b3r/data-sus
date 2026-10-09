@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-b56bb235b794.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 611418,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2865/",
+  "title": "RFC 2865: Remote Authentication Dial In User Service (RADIUS) | RFC Editor",
+  "author": "C Rigney; S Willens; A Rubens; W Simpson",
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:03Z",
+  "category": "RADIUS, Remote Authentication Dial In User Service, encryption, NAS, Network Access Server"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier1/rfc-2663-ip-network-address-translator-nat-t-15c247/cap-run-20260925T020104Z-83aa15dad5f3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 82245,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc2663.html",
+  "title": null,
+  "author": null,
+  "published_year": 1999,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:03:05Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-b78c0b14a8c4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 467890,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc9557",
+  "title": "RFC 9557: Date and Time on the Internet: Timestamps with Additional Information | RFC Editor",
+  "author": "U Sharma; C Bormann",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:03Z",
+  "category": "Gregorian calendar, Calendar awareness, Time zone, ISO 8601, Temporal, RFC 3339, Extension, Internet Extended Date/Time Format, IXDTF"
+}

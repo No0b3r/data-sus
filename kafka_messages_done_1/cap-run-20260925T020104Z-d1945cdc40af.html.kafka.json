@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/snmp-3c8380/loang/cap-run-20260925T020104Z-d1945cdc40af.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 113456,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc1021/",
+  "title": "RFC 1021: High-level Entity Management System (HEMS) | RFC Editor",
+  "author": "C Partridge; G Trewitt",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:30:26Z",
+  "category": "HEMS"
+}

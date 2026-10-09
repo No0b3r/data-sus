@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-1a7131591a70.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 290720,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/ja/blog/grafana-labs-security-update-latest-on-tanstack-npm-supply-chain-ransomware-incident/",
+  "title": "Grafana Labsセキュリティアップデート：TanStack npmサプライチェーンに起因するランサムウェアインシデントに関する最新情報 | Grafana Labs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:36:13Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

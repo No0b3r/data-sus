@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-cd47561e8e44.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 350376,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/monitor-the-full-end-user-experience-k6-browser-checks-in-synthetic-monitoring-are-generally-available?pg=synthetic-monitoring&plcmt=resources-2",
+  "title": "Monitor the full end-user experience: k6 browser checks in Synthetic Monitoring are generally available | Grafana Labs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:47:42Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

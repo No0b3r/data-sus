@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/ettercap-8-manpage-mitm-sniffer-content-filt-423ccb/loang/cap-run-20260915T052454Z-dc315d8ef7bd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9263,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/testing/ettercap-common/etterlog.8.en.html",
+  "title": "etterlog(8) — ettercap-common — Debian testing",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:50:21Z",
+  "category": null
+}

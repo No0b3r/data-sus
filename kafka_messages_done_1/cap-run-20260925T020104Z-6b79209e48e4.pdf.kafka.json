@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D07_secure-elements-hardware-crypto-certificatio/Tier3/one-done-a-single-decryption-em-based-attack-eda3ff/cap-run-20260925T020104Z-6b79209e48e4.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 1867740,
+  "domain": "www.usenix.org",
+  "url": "https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-alam.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:32:01Z",
+  "category": null
+}

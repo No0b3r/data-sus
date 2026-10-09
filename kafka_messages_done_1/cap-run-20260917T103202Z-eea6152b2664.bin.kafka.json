@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-eea6152b2664.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 82801,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/developers/plugin-tools/migration-guides/update-from-grafana-versions/migrate-8_3_x-to-8_4_x",
+  "title": "8.3.x to 8.4.x | Grafana Plugin Tools",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:54:10Z",
+  "category": "grafana,plugins,plugin,upgrading,updating,migration"
+}

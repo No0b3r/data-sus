@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D06_hardware-design-trust-supply-chain-assurance/Tier1/a-survey-on-split-manufacturing-attacks-defe-f3c971/cap-run-20260915T052454Z-5a60df653092.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 2372083,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/pdf/2006.04627",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:57Z",
+  "category": null
+}

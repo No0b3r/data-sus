@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-5bfdb7891e61.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 132331,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/ja/events/observabilitycon-on-the-road/2025/tokyo/instrumentation-and-ingestion-in-an-instant-demo-of-grafana-alloy-grafana-beyla-opentelemetry/",
+  "title": "計測とデータ取り込みを一瞬で実現：Grafana Alloy、Grafana Beyla、OpenTelemetryのデモ | Grafana Labs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:22:46Z",
+  "category": null
+}

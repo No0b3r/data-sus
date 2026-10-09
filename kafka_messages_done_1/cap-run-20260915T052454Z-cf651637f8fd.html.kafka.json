@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260915T052454Z-cf651637f8fd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6845,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/about/event/pgconfnepal-2531/",
+  "title": "PgConf.Nepal",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:19:49Z",
+  "category": null
+}

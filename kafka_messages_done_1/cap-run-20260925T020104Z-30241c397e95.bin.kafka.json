@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/cisco-unified-communications-manager-82683e/loang/cap-run-20260925T020104Z-30241c397e95.bin.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 7392781,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/zh_cn/td/docs/voice_ip_comm/cucm/im_presence/configAdminGuide/14_su2/cup0_b_config-and-admin-guide-14su2.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:06:57Z",
+  "category": null
+}

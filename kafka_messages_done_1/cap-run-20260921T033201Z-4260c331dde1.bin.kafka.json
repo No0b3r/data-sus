@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20260921T033201Z-4260c331dde1.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9723,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2024-252_Cloudflare_workers-sdk/",
+  "title": "GHSL-2024-252: Environment variable injection in Cloudflare workers-sdk",
+  "author": "Pwntester",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:01:18Z",
+  "category": null
+}

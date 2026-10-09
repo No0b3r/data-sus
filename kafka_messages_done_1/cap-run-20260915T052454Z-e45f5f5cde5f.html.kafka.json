@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260915T052454Z-e45f5f5cde5f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4276,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E94300_01/html/Savings/SAV02_Overview.htm",
+  "title": "Oracle ® FLEXCUBE Universal Banking Savings User Guide",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T07:47:28Z",
+  "category": null
+}

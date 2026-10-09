@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260917T103202Z-d3fd55958344.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 669350,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/zh-cn/solutions/use-cases/artificial-intelligence",
+  "title": "MongoDB 助力人工智能",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T07:08:37Z",
+  "category": null
+}

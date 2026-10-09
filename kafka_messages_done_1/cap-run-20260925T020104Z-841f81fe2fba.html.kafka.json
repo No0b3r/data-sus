@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-841f81fe2fba.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3414658,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ko-kr/docs/atlas/atlas-vector-search/tutorials/reciprocal-rank-fusion/",
+  "title": "하이브리드 벡터 및 전문 검색 수행 - MongoDB 벡터 검색 - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T03:35:37Z",
+  "category": "MongoDB 벡터 검색, Vector Search, $vectorSearch, $vectorSearch 파이프라인 단계, MongoDB 벡터 검색 파이프라인 단계, MongoDB 벡터 검색 쿼리, MongoDB 벡터 검색 인덱스, $vectorSearch 필터 예시, $vectorSearch 쿼리 예시, $vectorSearch 파이프라인 단계 예시, 근사 최근접 이웃(ANN) 검색, 시맨틱 검색, MongoDB 집계 파이프라인 단계를 사용하여, MongoDB Search, $rankFusion, $scoreFusion"
+}

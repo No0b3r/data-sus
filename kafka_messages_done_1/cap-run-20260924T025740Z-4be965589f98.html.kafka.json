@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260924T025740Z-4be965589f98.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1647743,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/zh-cn/docs/atlas/atlas-vector-search/ingest-quantized-vectors/",
+  "title": "矢量量化 - MongoDB 向量搜索 - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T09:17:42Z",
+  "category": "atlas ui, Node.js, 代码示例, atlas api, atlas cli, java sync, Go, Python, MongoDB Shell, 示例数据集"
+}

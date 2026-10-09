@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-97e032ffcd8b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 227509,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/company/blog/innovation/how-slice-enables-credit-approval-less-than-minute-millions-indians?tck=fraudpage",
+  "title": "How Slice Enables Credit Approval In Less Than A Minute For Millions Of Indians",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:39:57Z",
+  "category": null
+}

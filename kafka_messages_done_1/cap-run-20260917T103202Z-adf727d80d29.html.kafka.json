@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-adf727d80d29.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 261675,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/press/2022/06/14/grafana-labs-announces-release-of-grafana-9.0-featuring-new-visualizations-and-alerting-improvements-and-expands-its-open-source-offerings-with-on-call-management/",
+  "title": "Grafana Labs Announces Release of Grafana 9.0 Featuring New Visualizations and Alerting Improvements, and Expands Its Open Source Offerings with On-call Management",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:39:53Z",
+  "category": null
+}

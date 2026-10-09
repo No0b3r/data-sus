@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-024fafee0aa1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 20343,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/database/oracle/oracle-database/26&id=BRADV-GUID-9997EF87-B293-44D4-92F3-DD938E79170D",
+  "title": "Backup and Recovery User's Guide",
+  "author": "Prakash Jashnani; Douglas Williams; Hemachandran Namachivayam; K Weill; L Ashdown; T Bednar; A Beldalker; Sharath Ballal; Subrahmanyam Kodavaluru; Parvathi Subramanian Iyer; Shrikant Rajpurohit; Marco Calmasini; T Chien; M Dilman; S Fogel; R Guzman; S Haisley; W Hu; A Hwang; A Joshi; V Krishnaswamy; J W Lee; V Moore; M Olagappan; V Panteleenko; S Ranganathan; F Sanchez; Kelly D Smith; V Srihari; M Susairaj; M Stewart; S Wertheimer; Lottie Dowson; Mathew Manuel; W Yang; R Zijlstra; Ramya P",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:31:10Z",
+  "category": "backup and recovery, introduction, definition, data protection, definition, logical backups, backups, logical, physical, physical backups, Oracle Data Pump, strategy, data blocks, corrupted, block change tracking, media failures, failures, recovery, failures requiring, disk failures, media, user errors, application errors, block corruptions, block media recovery, disaster recovery, data preservation, definition of, backup retention policies, long-term, archival backups, archival, data transfer, RMAN, solutions, RMAN repository, user-managed, backup techniques, comparison, V$DATABASE_BLOCK_CORRUPTION view, Flashback Technology, overview, Oracle Flashback Query, Oracle Flashback Version Query, Oracle Flashback Transaction Query, Oracle Flashback Transaction, Oracle Flashback Table, Oracle Flashback Drop, flashback data archive, Oracle Flashback Database, Flashback Database, flashback logs, restore points, guaranteed, guaranteed restore points, Oracle Enterprise Manager Cloud Control, about, accessing the Database Home page, Database Home page, accessing, backing up, with Oracle Enterprise Manager Cloud Control, Zero Data Loss Recovery Appliance"
+}

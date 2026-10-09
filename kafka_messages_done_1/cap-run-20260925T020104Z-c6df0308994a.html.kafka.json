@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-c6df0308994a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 546795,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/products/platform/atlas-vector-search?utm_source=google&utm_campaign=search_gs_pl_evergreen_vector-stream_product_prosp-brand_gic-null_ww-multi_ps-all_desktop_eng_lead&utm_term=mongodb%20vector%20search&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=20445624173&adgroup=155168612071&cq_cmp=20445624173&gad_source=1&gclid=CjwKCAiA7t6sBhAiEiwAsaieYqotjpOC0p1X2v1rAg-YuvchWloKOGEtY2YOsJY9KzDXZ9rIWh7wdxoCVo4QAvD_BwE",
+  "title": "MongoDB Vector Search",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T04:46:12Z",
+  "category": null
+}

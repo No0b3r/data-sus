@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-fd7229119900.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 384048,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/traces-to-metrics-ad-hoc-red-metrics-in-grafana-tempo-with-aggregate-by/",
+  "title": "Traces to metrics: Perform ad hoc queries in Grafana Tempo | Grafana Labs",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:51:17Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-f20a10818ba8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 57105,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/cn/about-aws/whats-new/2019/03/amazon-sagemaker-ground-truth-now-supports-multi-category-boundi/",
+  "title": "Amazon SageMaker Ground Truth 现在支持用于自定义工作流的多类别边界框和新 UI 模板。",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:49:08Z",
+  "category": null
+}

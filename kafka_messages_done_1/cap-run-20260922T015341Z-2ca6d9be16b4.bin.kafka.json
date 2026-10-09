@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/elasticsearch-logstash-kibana-ba1cfb/loang/cap-run-20260922T015341Z-2ca6d9be16b4.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 31246,
+  "domain": "elastic.co",
+  "url": "https://www.elastic.co/docs/solutions/security/detect-and-alert/create-manage-value-lists",
+  "title": "Create and manage value lists | Elastic Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:15:48Z",
+  "category": "Elastic Security,Elastic Documentation,Elastic Cloud Serverless"
+}

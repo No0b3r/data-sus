@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-0810450d2872.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 375752,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/2019/05/02/grafana-tutorial-how-to-create-kiosks-to-display-dashboards-on-a-tv/?pg=graf&plcmt=collaborate",
+  "title": "Grafana Tutorial: How to Create Kiosks to Display Dashboards on a TV | Grafana Labs",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:05:28Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

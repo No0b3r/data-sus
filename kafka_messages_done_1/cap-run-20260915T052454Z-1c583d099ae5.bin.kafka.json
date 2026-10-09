@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/glitch-in-the-sky-exploiting-voltage-fault-i-d40e30/loang/cap-run-20260915T052454Z-1c583d099ae5.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40981,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/2604.01014",
+  "title": "AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration",
+  "author": "Liu; Ruhao; Huang; Weiqi; Qi; Wang; Xinchao",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:27:31Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-96c5cc5f8c5a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 127179,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/blog/post/top-4-reasons-to-use-mongodb-8-0-kr",
+  "title": "MongoDB 8.0을 사용해야 하는 4가지 주요 이유 | MongoDB Blog",
+  "author": "Scott Amerman",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:39:47Z",
+  "category": null
+}

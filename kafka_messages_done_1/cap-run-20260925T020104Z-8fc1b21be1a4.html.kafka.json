@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-8fc1b21be1a4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3412825,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/zh-cn/docs/atlas/atlas-vector-search/tutorials/reciprocal-rank-fusion/",
+  "title": "执行混合向量和全文搜索 - MongoDB 向量搜索 - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T04:00:20Z",
+  "category": "MongoDB向量搜索, Vector Search, $vectorSearch, $vectorSearch 聚合管道阶段, MongoDB向量搜索管道阶段, MongoDB向量搜索查询, MongoDB向量搜索索引, $vectorSearch 过滤示例, $vectorSearch 查询示例, $vectorSearch 管道阶段示例, 近似最近邻搜索, 语义搜索, $search, MongoDB Search, $rankFusion, $scoreFusion"
+}

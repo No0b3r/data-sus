@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260915T052454Z-c98c119ddf46.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1881,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/F42208_01/ref.htm",
+  "title": "Oracle FLEXCUBE Universal BankingRelease 14.5.0.0.0",
+  "author": null,
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T07:37:03Z",
+  "category": "None"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ldap-ae3363/loang/cap-run-20260925T020104Z-16d4709245d6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 214189,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc2829",
+  "title": "RFC 2829: Authentication Methods for LDAP | RFC Editor",
+  "author": "M Wahl; H Alvestrand; J Hodges; R Morgan",
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:06:48Z",
+  "category": "lightweight, directory, access, protocol, security"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D10_data-center-cloud-overlay-network-security/Tier2/aws-tai-lieu-mang-dam-may-vpc-route-53-elb-d-28a4b5/loang/cap-run-20260915T052454Z-0507c91c05ea.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10670,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/de_de/AWSEC2/latest/UserGuide/EC2_GetStarted.html",
+  "title": "Erste Schritte mit Amazon EC2",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:41:01Z",
+  "category": null
+}

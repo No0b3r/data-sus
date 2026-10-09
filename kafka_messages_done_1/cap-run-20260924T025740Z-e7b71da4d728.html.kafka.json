@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-tapestry-d4a007/loang/cap-run-20260924T025740Z-e7b71da4d728.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4095,
+  "domain": "apache.org",
+  "url": "https://tapestry.apache.org/case-insensitivity.html",
+  "title": "Case Insensitivity",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:33:47Z",
+  "category": "tapestry, apache, apache tapestry, framework, java, web, component, open source, application, dynamic, scalable, robust, servlet"
+}

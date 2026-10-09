@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-983d54e95a84.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 271310,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc8132/",
+  "title": "RFC 8132: PATCH and FETCH Methods for the Constrained Application Protocol (CoAP) | RFC Editor",
+  "author": "P van der Stok; C Bormann; A Sehgal",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:47Z",
+  "category": "CoAP"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260915T052454Z-eae8cc66a48a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 883,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E53547_01/opera_5_04_03_core_help/index.htm",
+  "title": "OPERA Knowledgebase",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:27:55Z",
+  "category": null
+}

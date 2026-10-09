@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-velocity-f1dd16/loang/cap-run-20260917T103202Z-f6a3d88620d3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11109,
+  "domain": "apache.org",
+  "url": "https://velocity.apache.org/tools/devel/apidocs/org/apache/velocity/tools/generic/DateTool.html",
+  "title": "Class DateTool",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:44:04Z",
+  "category": null
+}

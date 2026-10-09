@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-c299f41cf9ec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 491888,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/awstv/watch/a7ebc5bb569/",
+  "title": "Amazon Linux 2023: Cloud-Optimized Distribution - AWS",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:45:56Z",
+  "category": null
+}

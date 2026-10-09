@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260929T071812Z-69275d8ed539.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2089,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/F17749_01/",
+  "title": "Oracle Hospitality Hotel Mobile Online Documentation LibraryRelease 1.4",
+  "author": null,
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:30:47Z",
+  "category": "None"
+}

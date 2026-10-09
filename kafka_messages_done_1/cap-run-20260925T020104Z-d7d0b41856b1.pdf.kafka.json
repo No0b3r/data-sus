@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D06_hardware-design-trust-supply-chain-assurance/Tier3/thehuzz-instruction-fuzzing-of-processors-us-470c12/cap-run-20260925T020104Z-d7d0b41856b1.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 973160,
+  "domain": "www.usenix.org",
+  "url": "https://www.usenix.org/system/files/sec22-kande.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:59Z",
+  "category": null
+}

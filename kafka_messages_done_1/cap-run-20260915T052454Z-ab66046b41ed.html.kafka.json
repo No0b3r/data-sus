@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/openvpn-community-chained-for-attack-openvpn-aa58fa/loang/cap-run-20260915T052454Z-ab66046b41ed.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 49923,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2021/03/30/new-security-signals-study-shows-firmware-attacks-on-the-rise-heres-how-microsoft-is-working-to-help-eliminate-this-entire-class-of-threats/",
+  "title": "New Security Signals study shows firmware attacks on the rise; here’s how Microsoft is working to help eliminate this entire class of threats | Microsoft Security Blog",
+  "author": "Microsoft Security Team",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:58:06Z",
+  "category": "Cybersecurity"
+}

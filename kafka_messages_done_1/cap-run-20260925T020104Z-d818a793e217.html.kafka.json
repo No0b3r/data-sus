@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/badfet-defeating-modern-secure-boot-using-se-5022fa/loang/cap-run-20260925T020104Z-d818a793e217.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 46749,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/board-meeting-minutes",
+  "title": "Board of Directors Minutes",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:27:02Z",
+  "category": null
+}

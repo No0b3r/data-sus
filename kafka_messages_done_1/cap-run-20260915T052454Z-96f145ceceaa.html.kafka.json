@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-96f145ceceaa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 174401,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/jp/about-aws/whats-new/2004/",
+  "title": "AWS の最新情報 – クラウドイノベーション & ニュース - 2004 年のアーカイブ",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:43:03Z",
+  "category": null
+}

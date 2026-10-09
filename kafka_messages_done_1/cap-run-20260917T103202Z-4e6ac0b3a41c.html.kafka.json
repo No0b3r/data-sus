@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-4e6ac0b3a41c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 356827,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/2025/08/27/optimize-application-performance-at-the-network-layer-introducing-http-performance-insights-in-frontend-observability/?pg=actionable-insights-into-the-end-user-experience-an-overview-of-grafana-cloud-frontend-observability-dashboards&plcmt=in-text",
+  "title": "Optimize application performance at the network layer: introducing HTTP Performance Insights in Frontend Observability | Grafana Labs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:19:17Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260924T025740Z-6496710aa0aa.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 98470,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/en/industries/hospitality/opera-cloud/26.1/ocsec/Security.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:30:05Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-89689dcf2ff7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 211865,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc8037",
+  "title": "RFC 8037: CFRG Elliptic Curve Diffie-Hellman (ECDH) and Signatures in JSON Object Signing and Encryption (JOSE) | RFC Editor",
+  "author": "I Liusvaara",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:57Z",
+  "category": "Ed25519, Ed448, X25519, X448"
+}

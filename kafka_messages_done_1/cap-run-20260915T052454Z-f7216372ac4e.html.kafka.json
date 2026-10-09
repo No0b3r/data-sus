@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-f7216372ac4e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 316295,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/ja/blog/native-opentelemetry-inside-alloy-now-you-can-get-the-best-of-both-worlds/",
+  "title": "AlloyにOpenTelemetryエンジンがネイティブ統合：2つの世界の「いいとこ取り」が可能に | Grafana Labs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:50:53Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

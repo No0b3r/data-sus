@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-velocity-f1dd16/loang/cap-run-20260923T111036Z-7926c23da826.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5911,
+  "domain": "apache.org",
+  "url": "https://velocity.apache.org/tools/3.1/apidocs/org/apache/velocity/tools/config/ConfigurationUtils.html",
+  "title": "Class ConfigurationUtils",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:45:40Z",
+  "category": null
+}

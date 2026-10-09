@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-b6a01bfedf90.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3931,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html",
+  "title": "Customize your model to improve its performance for your use case",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:25:58Z",
+  "category": null
+}

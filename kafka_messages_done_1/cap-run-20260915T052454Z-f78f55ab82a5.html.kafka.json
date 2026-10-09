@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-f78f55ab82a5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 142197,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/marketplace/b/f198dbb9-6a98-46a8-9407-b6e6c6c49654?ref_=mp_nav_category_f198dbb9-6a98-46a8-9407-b6e6c6c49654",
+  "title": "AWS Marketplace: Search Results",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:49:26Z",
+  "category": null
+}

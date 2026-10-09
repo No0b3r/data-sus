@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-f203521004fc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2253583,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc9810/",
+  "title": "RFC 9810: Internet X.509 Public Key Infrastructure -- Certificate Management Protocol (CMP) | RFC Editor",
+  "author": "H Brockhaus; D von Oheimb; M Ounsworth; J Gray",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:15Z",
+  "category": "CMP, HTTP, Certificate management, PKI"
+}

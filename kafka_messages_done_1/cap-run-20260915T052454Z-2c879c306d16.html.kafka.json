@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-2c879c306d16.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 352941,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/message/5467D2/",
+  "title": "Summary of the Amazon DynamoDB Service Disruption and Related Impacts in the US-East Region",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:36:24Z",
+  "category": null
+}

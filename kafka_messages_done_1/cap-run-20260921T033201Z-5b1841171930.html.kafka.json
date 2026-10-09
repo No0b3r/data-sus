@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-5-pms-on-prem-2b6cf8/loang/cap-run-20260921T033201Z-5b1841171930.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2764,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E98457_01/opera_5_6_core_help/357.htm",
+  "title": "PMS Configuration",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:24:37Z",
+  "category": "PMS Configuration"
+}

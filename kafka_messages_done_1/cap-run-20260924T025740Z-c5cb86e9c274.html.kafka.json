@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-velocity-f1dd16/loang/cap-run-20260924T025740Z-c5cb86e9c274.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5065,
+  "domain": "apache.org",
+  "url": "https://velocity.apache.org/engine/devel/apidocs/org/apache/velocity/runtime/resource/loader/ResourceLoader.html",
+  "title": "Class ResourceLoader",
+  "author": null,
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:46:32Z",
+  "category": null
+}

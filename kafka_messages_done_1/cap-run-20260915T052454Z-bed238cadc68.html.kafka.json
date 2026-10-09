@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mysql-178ea4/loang/cap-run-20260915T052454Z-bed238cadc68.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3988,
+  "domain": "mysql.com",
+  "url": "https://dev.mysql.com/doc/mysql-router/26.7/en/",
+  "title": "Technical Difficulties",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T06:21:43Z",
+  "category": null
+}

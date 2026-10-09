@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-f6ebbd4fdaef.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 339273,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/vi/about-aws/whats-new/2018/11/aurora-serverless-query-editor/",
+  "title": "Bây giờ hãy chạy các truy vấn không máy chủ Amazon Aurora trực tiếp từ Bảng điều khiển quản lý AWS (Beta) - AWS",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:49:25Z",
+  "category": null
+}

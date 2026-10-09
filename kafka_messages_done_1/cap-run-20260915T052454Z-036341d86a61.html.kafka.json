@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-036341d86a61.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 475623,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/ja/blog/breaking-the-iron-triangle-how-ai-powered-investigations-change-the-economics-of-uptime/",
+  "title": "アイアン・トライアングルを打ち破る：AI駆動インシデント調査が稼働率の経済性をどう変えるか｜Grafana Labs | Grafana Labs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:34:27Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D09_service-provider-internet-infrastructure-sec/Tier1/rfc-8484-dns-queries-over-https-doh-10990d/cap-run-20260925T020104Z-15d9f9ca102e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 63045,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc8484.html",
+  "title": null,
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:39:57Z",
+  "category": null
+}

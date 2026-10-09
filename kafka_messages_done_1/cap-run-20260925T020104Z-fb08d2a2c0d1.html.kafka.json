@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-fb08d2a2c0d1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 674938,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5793/",
+  "title": "RFC 5793: PB-TNC: A Posture Broker (PB) Protocol Compatible with Trusted Network Connect (TNC) | RFC Editor",
+  "author": "R Sahita; S Hanna; R Hurst; K Narayan",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:13:10Z",
+  "category": "NEA, Network Endpoint Assessment"
+}

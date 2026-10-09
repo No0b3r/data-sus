@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/macof-8-cong-cu-flooding-cam-mac-table-bo-ds-a23acf/loang/cap-run-20260915T052454Z-1067d8a65b85.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5010,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/bookworm/accel-config/accel-config-config-group.1.en.html",
+  "title": "accel-config-config-group(1) — accel-config — Debian bookworm",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:52:24Z",
+  "category": null
+}

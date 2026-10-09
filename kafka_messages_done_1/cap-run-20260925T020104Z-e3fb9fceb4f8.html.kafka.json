@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D09_service-provider-internet-infrastructure-sec/Tier1/rfc-6810-the-resource-public-key-infrastruct-bb38dd/cap-run-20260925T020104Z-e3fb9fceb4f8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 73777,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc6810.html",
+  "title": null,
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:39:55Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/pptx-706de8/loang/cap-run-20260915T052454Z-b4972dd88ea0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 46092,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/openspecs/office_standards/ms-oreactxml/acba4d8f-4735-48bf-98a8-a36ff8fe84e7",
+  "title": "[MS-OREACTXML]: Office Reaction Extensions to Office Open XML Structure",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:28:36Z",
+  "category": null
+}

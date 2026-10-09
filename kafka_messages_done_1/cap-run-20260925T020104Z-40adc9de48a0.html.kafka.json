@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-40adc9de48a0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 385317,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc7421/",
+  "title": "RFC 7421: Analysis of the 64-bit Boundary in IPv6 Addressing | RFC Editor",
+  "author": "B Carpenter; T Chown; F Gont; S Jiang; A Petrescu; A Yourtchenko",
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:28Z",
+  "category": null
+}

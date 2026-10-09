@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-55320c7bd4cf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 160976,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/es/go/webinar/how-to-instrument-apps-with-otel-and-grafana/",
+  "title": "Cómo instrumentar aplicaciones con OpenTelemetry y Grafana",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:21:02Z",
+  "category": null
+}

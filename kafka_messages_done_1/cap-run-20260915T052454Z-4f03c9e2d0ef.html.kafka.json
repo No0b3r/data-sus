@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-4f03c9e2d0ef.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2624,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E13222_01/wls/docs103/javadocs/weblogic/security/spi/ChallengeIdentityAsserter.html",
+  "title": "weblogic.security.spi Interface ChallengeIdentityAsserter",
+  "author": null,
+  "published_year": 2003,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:47:15Z",
+  "category": "weblogic.security.spi.ChallengeIdentityAsserter interface"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-a77582e6e44c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5823278,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/es/docs/atlas/atlas-vector-search/vector-search-stage/",
+  "title": "Ejecutar query ANN y ENN de búsqueda vectorial - MongoDB búsqueda vectorial - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:42:57Z",
+  "category": "ejemplo de código, conjunto de datos de muestra, motor, java sync, node.js, .NET, go, Rust"
+}

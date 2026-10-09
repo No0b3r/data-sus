@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-87074a7a7b91.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 564028,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/products/cloud/performance-load-testing-k6?pg=solutions-digital-experience-monitoring&plcmt=related-products-cta-3",
+  "title": "Performance and Load Testing | Grafana Cloud k6 | Grafana Labs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:32:01Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-1c5b962c0c93.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 34705,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/database/oracle/oracle-database/26&id=RACAD-GUID-5A1B02A2-A327-42DD-A1AD-20610B2A9D92",
+  "title": "Real Application Clusters Administration and Deployment Guide",
+  "author": "Ram Avudaiappan; Prasad Bagal; Anand Beldalker; Gajanan Bhat; David Brower; George Claborn; Maria Colgan; Jonathan Creighton; Rajesh Dasari; Mark Dilman; Richard Frank; GP Prabhaker Gongloor; Wei Hu; Yong Hu; Dominique Jeunot; Sameer Joshi; Raj K Kammend; Ankita Khandelwal; Sana Karam; Roland Knapp; Karen Li; Barb Lundhild; Venkat Maddali; Bill Manry; John McHugh; Saar Maoz; Markus Michalewicz; Philip Newlan; Michael Nowak; Muthu Olagappan; Bharat Paliwal; Hanlin Qian; Hairong Qin; Mark Ramacher; Sampath Ravindhran; Kevin Reardon; Kathy Rich; Dipak Saggi; Daniel Semler; Ara Shakian; Kesavan Srinivasan; Leo Tominna; Peter Wahl; Tak Wang; Richard Wessman; Douglas Williams; Michael Zoll; Aseem Kashyap; Subhash Chandra",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:32:41Z",
+  "category": "Oracle RAC, overview of administration, Oracle Real Application Clusters, Oracle Clusterware, introduction and concepts of, Oracle Multitenant, PDBs, CDBs, Container Databases, installation overview, database name, uniqueness, pluggable database name, Oracle Automatic Storage Management (Oracle ASM), installation, default database service, cloning, local temporary tablespace, Local Area Network (LAN), public network, defined, interconnect, Network Attached Storage (NAS), Dynamic Database Services, introduction to, TCP/IP, node VIPs, VIPs, node, failure and VIP addresses, multiple public networks, network resources, subnets, valid node checking, services, restricting registration with listeners, network, restricting service registration, VNCR, SCAN listener, and restricting service registration, Blocker Resolver, In-Memory Column Store, overview, IM column store, In-Memory FastStart, design, Oracle Real Application Clusters environments, deploying, Oracle Real Application Clusters environments, administrative tools, overview and concepts, SRVCTL, Server Control Utility, Oracle Enterprise Manager, connecting, to instances, setting instances, Automatic Database Diagnostic Monitor (ADDM), catclustdb.sql script, Database Configuration Assistant (Oracle DBCA), running the catclustdb.sql script, dynamic performance views, GV$, V$, GV$ views, monitoring, using to monitor Oracle RAC environments, performance, using ADDM, Statspack, usage, alternatives, tuning, V$ views, performance evaluation"
+}

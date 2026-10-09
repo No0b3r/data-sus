@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260921T033201Z-954717c912e1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 42653,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/differences-in-values-between-dev-tools-sql-and-visualization/272955",
+  "title": "Differences in values between Dev Tools SQL and Visualization",
+  "author": "Christopher Mello",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:53:31Z",
+  "category": "dashboard"
+}

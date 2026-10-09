@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-4adf4edc7f57.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 2307932,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/E22663_01/doc.11100/e22677.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:35:15Z",
+  "category": null
+}

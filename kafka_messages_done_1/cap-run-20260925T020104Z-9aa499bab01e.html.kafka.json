@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ftp-60371b/loang/cap-run-20260925T020104Z-9aa499bab01e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 265455,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc924/",
+  "title": "RFC 924: Official ARPA-Internet protocols for connecting personal computers to the Internet | RFC Editor",
+  "author": "J K Reynolds; J Postel",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:33:49Z",
+  "category": null
+}

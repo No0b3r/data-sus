@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260915T052454Z-1c587638eb1d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40278,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/synthetics-monitor-status-rule-context-monitorname-and-context-locationname-empty-in-recovery-notifications-after-long-duration-alert/385868",
+  "title": "Synthetics monitor status rule — context.monitorName and context.locationName empty in recovery notifications after long-duration alert",
+  "author": "Marc Hidalgo raya",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:49:33Z",
+  "category": "elastic-stack-alerting"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-health-ehr-cerner-millennium-ed62ec/loang/cap-run-20260917T103202Z-8c85879bebc9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3115,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/industries/energy-water/analytics-visualization/2510/analytics-visualization-user-guide/explore-visualize-analyze-data.html",
+  "title": "Oracle Utilities Analytics Visualization User Guide",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:17:43Z",
+  "category": null
+}

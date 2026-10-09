@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-031208e129ae.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4308,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/database/other-databases/essbase/26/tasks.html",
+  "title": "Oracle Essbase 26ai - Tasks",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:31:13Z",
+  "category": null
+}

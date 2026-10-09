@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier3/pam-2021-de-cix-mpi-for-informatics-brandenb-7bf68c/cap-run-20260915T052454Z-0230aeb887ea.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 3797733,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/pdf/2103.04443",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:02:40Z",
+  "category": null
+}

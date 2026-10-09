@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-dd14302815a5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 378062,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/grafana-labs-at-kubecon-opentelemetry-ebpf-instrumentation-prometheus-deep-dives-and-more",
+  "title": "Grafana Labs at KubeCon: OpenTelemetry eBPF Instrumentation, Prometheus deep dives, and more | Grafana Labs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:50:23Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

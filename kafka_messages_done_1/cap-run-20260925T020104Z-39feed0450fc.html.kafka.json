@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ssh-f9f69d/loang/cap-run-20260925T020104Z-39feed0450fc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 609609,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc926/",
+  "title": "RFC 926: Protocol for providing the connectionless mode network services | RFC Editor",
+  "author": "International Organization",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:01:22Z",
+  "category": null
+}

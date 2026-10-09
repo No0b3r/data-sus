@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-300f34514ce6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 13802,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/14/pltcl-event-trigger.html",
+  "title": "44.7. Event Trigger Functions in PL/Tcl",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:51:00Z",
+  "category": null
+}

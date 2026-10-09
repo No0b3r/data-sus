@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-559557f2c22a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 441606,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/th/architecture/",
+  "title": "AWS Architecture Center",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:39:01Z",
+  "category": null
+}

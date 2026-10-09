@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/cisco-asa-secure-client-f68d60/loang/cap-run-20260925T020104Z-2c4d5d99a788.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 439,
+  "domain": "cisco.com",
+  "url": "https://www.cisco.com/c/en/us/support/security/flexvpn/series.html",
+  "title": "Access Denied",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:06:02Z",
+  "category": null
+}

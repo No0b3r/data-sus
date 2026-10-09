@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20261001T020631Z-b20fcdc69c1b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6655,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/zh/blog/2022/12/27/apisix-ingress-with-gatewayapi/",
+  "title": "APISIX Ingress 对 Gateway API 的支持和应用 | Apache APISIX",
+  "author": "Lingsamuel",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:33:04Z",
+  "category": "Ecosystem"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/intel-tdx-demystified-a-top-down-approach-61a22c/loang/cap-run-20260915T052454Z-8fc71c72768a.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 1816351,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/pdf/2303.15540",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:08Z",
+  "category": null
+}

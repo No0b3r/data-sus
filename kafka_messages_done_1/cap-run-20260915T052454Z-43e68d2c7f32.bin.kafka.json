@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D09_vehicle-robot-control-buses-and-platform-fir/Tier3/scanning-the-internet-for-ros-a-view-of-secu-5e1542/cap-run-20260915T052454Z-43e68d2c7f32.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 42038,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/1808.03322",
+  "title": "Scanning the Internet for ROS: A View of Security in Robotics Research",
+  "author": "DeMarinis; Nicholas; Tellex; Stefanie; Kemerlis; Vasileios; Konidaris; George; Fonseca; Rodrigo",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:33:21Z",
+  "category": null
+}

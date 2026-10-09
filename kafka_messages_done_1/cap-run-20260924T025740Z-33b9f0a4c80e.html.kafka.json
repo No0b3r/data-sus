@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260924T025740Z-33b9f0a4c80e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8902,
+  "domain": "influxdata.com",
+  "url": "https://docs.influxdata.com/influxdb3/explorer/manage-caches/",
+  "title": "Manage caches with InfluxDB 3 Explorer",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:44:29Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-2e60b9794ef4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 385671,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/th/about-aws/whats-new/2019/09/amazon-api-gateway-simplifies-invoking-private-apis/",
+  "title": "เกตเวย์ API ของ Amazon ช่วยลดความยุ่งยากในการเรียกใช้ API ส่วนตัว - AWS",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:36:30Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-velocity-f1dd16/loang/cap-run-20260929T014911Z-b0359a5a3289.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3866,
+  "domain": "apache.org",
+  "url": "https://velocity.apache.org/engine/devel/apidocs/org/apache/velocity/runtime/parser/node/ASTBinaryOperator.html",
+  "title": "Class ASTBinaryOperator",
+  "author": null,
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:49:22Z",
+  "category": null
+}

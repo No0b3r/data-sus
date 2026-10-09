@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/https-tls-ssl-1bed3b/loang/cap-run-20260925T020104Z-22900551670a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 262332,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5548",
+  "title": "RFC 5548: Routing Requirements for Urban Low-Power and Lossy Networks | RFC Editor",
+  "author": "M Dohler; T Watteyne; T Winter; D Barthel",
+  "published_year": 2009,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:13:54Z",
+  "category": "u-lln, roll, routing over low-power and loss"
+}

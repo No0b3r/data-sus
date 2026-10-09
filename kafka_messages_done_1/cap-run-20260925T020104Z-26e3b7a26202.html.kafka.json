@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D05_cryptographic-network-transport-vpn/Tier1/rfc-3711-the-secure-real-time-transport-prot-63de1e/cap-run-20260925T020104Z-26e3b7a26202.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 162698,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc3711.html",
+  "title": null,
+  "author": null,
+  "published_year": 2004,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:02:41Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D08_wireless-rf-network-security/Tier1/cisco-catalyst-9800-series-configuration-bes-00c79f/cap-run-20261002T115544Z-e19d1027df8b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 505,
+  "domain": "cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/wireless/controller/9800/technical-reference/c9800-best-practices.html",
+  "title": "Access Denied",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:38:05Z",
+  "category": null
+}

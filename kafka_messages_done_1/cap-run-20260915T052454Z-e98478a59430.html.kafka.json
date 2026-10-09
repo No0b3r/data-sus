@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-e98478a59430.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1543,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E13196_01/platform/suppconfigs/config_wlss.html",
+  "title": "BEA WebLogic SIP Server Supported Configurations",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:51:07Z",
+  "category": null
+}

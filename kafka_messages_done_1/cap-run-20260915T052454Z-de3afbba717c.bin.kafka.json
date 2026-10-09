@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-de3afbba717c.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 122419,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/developers/plugin-tools/how-to-guides/extend-configurations",
+  "title": "Extend default configurations | Grafana Plugin Tools",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:48:49Z",
+  "category": "grafana,plugins,plugin,frontend,tooling,configuration,webpack,playwright"
+}

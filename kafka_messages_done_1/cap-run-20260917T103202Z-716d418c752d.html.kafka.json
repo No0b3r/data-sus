@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-716d418c752d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3535,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/tdppt/index.html",
+  "title": "Database 2 Day + Performance Tuning Guide",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:37:34Z",
+  "category": null
+}

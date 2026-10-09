@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-ccd20e052a6d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 421053,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/ja/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/",
+  "title": "すべてを自動化する：Grafana CloudのAIを活用して運用負荷を軽減する方法 | Grafana Labs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:47:38Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

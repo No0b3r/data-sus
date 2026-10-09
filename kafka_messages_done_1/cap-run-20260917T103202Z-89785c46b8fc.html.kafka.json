@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-89785c46b8fc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 254985,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/press/2020/05/18/grafana-7.0-delivers-major-visualization-upgrades-and-empowers-users-to-unite-transform-data-from-all-sources-ranging-from-metrics-and-logs-to-traces-and-beyond/",
+  "title": "Grafana 7.0 Delivers Major Visualization Upgrades and Empowers Users to Unite & Transform Data from All Sources Ranging from Metrics and Logs to Traces and Beyond",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:32:15Z",
+  "category": null
+}

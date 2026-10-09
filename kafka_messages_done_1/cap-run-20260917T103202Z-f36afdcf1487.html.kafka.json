@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-f36afdcf1487.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 450293,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/how-grafana-labs-switched-to-karpenter-to-reduce-costs-and-complexities-in-amazon-eks",
+  "title": "How Grafana Labs switched to Karpenter to reduce costs and complexities in Amazon EKS | Grafana Labs",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:55:06Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

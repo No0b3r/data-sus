@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260929T071812Z-b7ace86e94f9.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12779,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/docs/apisix/3.11/plugins/grpc-transcode/",
+  "title": "grpc-transcode | Apache APISIX",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:26:00Z",
+  "category": "Apache APISIX,API Gateway,Plugin,gRPC Transcode,grpc-transcode"
+}

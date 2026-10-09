@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D05_cryptographic-network-transport-vpn/Tier1/rfc-9325-recommendations-for-secure-use-of-t-1fdfec/cap-run-20260925T020104Z-4fddfdddb4b4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 215569,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9325.html",
+  "title": "Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)",
+  "author": "Yaron Sheffer; Peter Saint-Andre; Thomas Fossati",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:02:46Z",
+  "category": null
+}

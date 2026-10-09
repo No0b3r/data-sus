@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-f3ac80800bb2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 753754,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/resources/basics/databases/nosql-explained",
+  "title": "What Is NoSQL? NoSQL Databases Explained",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T05:29:38Z",
+  "category": null
+}

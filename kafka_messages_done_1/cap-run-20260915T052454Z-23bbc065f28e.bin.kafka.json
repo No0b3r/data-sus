@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/redis-9e7fe3/loang/cap-run-20260915T052454Z-23bbc065f28e.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 4841,
+  "domain": "redis.io",
+  "url": "https://redis.io/docs/latest/images/favicons/apple-touch-icon-152x152.png",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:28:50Z",
+  "category": null
+}

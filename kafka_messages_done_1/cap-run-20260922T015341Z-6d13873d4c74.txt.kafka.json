@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/elasticsearch-logstash-kibana-ba1cfb/loang/cap-run-20260922T015341Z-6d13873d4c74.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": null,
+  "domain": "www.elastic.co",
+  "url": "https://www.elastic.co/docs/release-notes/edot/sdks/java.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:21:20Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='www.elastic.co', port=443): Read timed out. (read timeout=15.0)"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/spring-boot-5cc1d5/loang/cap-run-20260915T052454Z-72e7e455c029.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38804,
+  "domain": "spring.io",
+  "url": "https://docs.spring.io/spring-cloud-zookeeper/reference/4.2/other-componentes.html",
+  "title": "Using Spring Cloud Zookeeper with Spring Cloud Components",
+  "author": null,
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:33:42Z",
+  "category": null
+}

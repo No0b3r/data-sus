@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/intel-tdx-demystified-a-top-down-approach-61a22c/loang/cap-run-20260915T052454Z-48567d50e07b.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3737,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/list/physics.atm-clus/recent",
+  "title": "Atomic and Molecular Clusters",
+  "author": "Barry Y Li; Chern Chuang; Tim Duong; Tucker Allen; Justin R Caram; Daniel Neuhauser",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:06Z",
+  "category": null
+}

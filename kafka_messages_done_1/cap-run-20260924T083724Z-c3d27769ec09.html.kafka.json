@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260924T083724Z-c3d27769ec09.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 224051,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/de-de/blog/post/mongodb-changing-way-we-hire-veterans?utm_campaign=life_at_mongodb_blog&utm_source=careers_site&utm_medium=life_at_mongodb",
+  "title": "MongoDB is Changing the Way We Hire Veterans: Learn How",
+  "author": "MongoDB",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T11:49:37Z",
+  "category": null
+}

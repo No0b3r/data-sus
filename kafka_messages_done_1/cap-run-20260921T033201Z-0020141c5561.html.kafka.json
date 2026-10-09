@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-0020141c5561.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11802,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/about/news/swiss-pgday-2026-schedule-published-new-bof-format-3298/",
+  "title": "Swiss PGDay 2026: Schedule Published + New BoF Format",
+  "author": "Swiss PostgreSQL Users Group",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:47:04Z",
+  "category": null
+}

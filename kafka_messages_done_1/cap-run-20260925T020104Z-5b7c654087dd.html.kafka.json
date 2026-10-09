@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-5b7c654087dd.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2935082,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc9788/",
+  "title": "RFC 9788: Header Protection for Cryptographically Protected Email | RFC Editor",
+  "author": "D K Gillmor; B Hoeneisen; A Melnikov",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:35Z",
+  "category": "Header Protection, Header Confidentiality Policy, HCP, cryptographic email, email encryption, encryption, encrypt, signature, sign, S/MIME, PGP/MIME, Legacy Display, Legacy Display Element, MIME, Privacy, HP-Outer, hp-legacy-display, hp"
+}

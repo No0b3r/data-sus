@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20261002T115544Z-5800032ac667.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5017,
+  "domain": "apache.org",
+  "url": "https://solr.apache.org/guide/operator/0_4/solr-cloud/zookeeper.html",
+  "title": "Zookeeper Reference",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:26:31Z",
+  "category": null
+}

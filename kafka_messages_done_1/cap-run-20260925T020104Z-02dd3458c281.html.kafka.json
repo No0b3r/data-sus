@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-02dd3458c281.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 953126,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ja-jp/docs/atlas/architecture/current/solutions-library/document-intelligence/",
+  "title": "エージェント的AIとMongoDBによるドキュメント インテリジェンス - Atlas Architecture Center - MongoDB Docs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T12:23:25Z",
+  "category": "ドキュメント Intelligence, エージェント型 AI, MongoDB, 金融サービス, MongoDB Atlas Vector Search, 投票AI, マルチエージェントオーケストレーション, エージェント型 RAG, 会社クレジット評価, 支払いプロセシングにおける例外処理, 運用調査, クライアント オンボード（KeyC）, 保証開始"
+}

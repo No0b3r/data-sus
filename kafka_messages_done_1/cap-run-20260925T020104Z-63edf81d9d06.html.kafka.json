@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-63edf81d9d06.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1014933,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc9334",
+  "title": "RFC 9334: Remote ATtestation procedureS (RATS) Architecture | RFC Editor",
+  "author": "H Birkholz; D Thaler; M Richardson; N Smith; W Pan",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:49Z",
+  "category": "evidence, attestation results, epoch, epoch-id, endorsement, attestating environment, reference value, target environment, layered attestation, appraisal policy, background check model, passport model, freshness, recentness"
+}

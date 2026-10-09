@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20261001T020631Z-06aa80896881.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3971,
+  "domain": "apache.org",
+  "url": "https://solr.apache.org/docs/10_0_0/core/org/apache/solr/cluster/placement/package-summary.html",
+  "title": "Package org.apache.solr.cluster.placement",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:17:00Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-c6f703ca7f5c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 336272,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/message/680342/",
+  "title": "Summary of the October 22, 2012 AWS Service Event in the US-East Region",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:46:17Z",
+  "category": null
+}

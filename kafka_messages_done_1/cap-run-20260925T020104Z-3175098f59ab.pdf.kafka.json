@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_cyber-physical-systems-security-ics-ot/D10_chuoi-thoi-gian-qua-trinh-cong-nghiep-co-nha/Tier1/hai-1-0-hil-based-augmented-ics-security-dat-0e54e8/cap-run-20260925T020104Z-3175098f59ab.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 628987,
+  "domain": "www.usenix.org",
+  "url": "https://www.usenix.org/system/files/cset20-paper-shin.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:03Z",
+  "category": null
+}

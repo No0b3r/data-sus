@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/pptx-706de8/loang/cap-run-20260915T052454Z-d65841df6074.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 68283,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/openspecs/office_standards/ms-odrawxml/06cff208-c6e1-4db7-bb68-665135e5f0de",
+  "title": "[MS-ODRAWXML]: Office Drawing Extensions to Office Open XML Structure",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:28:36Z",
+  "category": null
+}

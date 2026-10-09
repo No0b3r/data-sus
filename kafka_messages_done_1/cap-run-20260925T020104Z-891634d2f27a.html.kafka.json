@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ssh-f9f69d/loang/cap-run-20260925T020104Z-891634d2f27a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 429561,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2065/",
+  "title": "RFC 2065: Domain Name System Security Extensions | RFC Editor",
+  "author": "D Eastlake; C Kaufman",
+  "published_year": 1997,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:01:27Z",
+  "category": "DNS-SEC, DNS, authentication, encryption"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier1/linux-kernel-hardware-vulnerabilities-admin-1d8f92/loang/cap-run-20260925T020104Z-5ab486b593c2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5452,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/translations/pt_BR/process/kernel-driver-statement.html",
+  "title": "Declaração sobre Drivers do Kernel",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:18:15Z",
+  "category": null
+}

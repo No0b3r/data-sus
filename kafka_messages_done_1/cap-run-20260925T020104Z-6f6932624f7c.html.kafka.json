@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-6f6932624f7c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 178717,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc8419/",
+  "title": "RFC 8419: Use of Edwards-Curve Digital Signature Algorithm (EdDSA) Signatures in the Cryptographic Message Syntax (CMS) | RFC Editor",
+  "author": "R Housley",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:38Z",
+  "category": null
+}

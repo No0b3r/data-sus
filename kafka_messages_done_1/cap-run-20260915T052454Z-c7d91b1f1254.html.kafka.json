@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-c7d91b1f1254.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 275770,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/pt-br/company/blog/innovation/four-ways-telcos-deliver-mission-critical-network-performance-reliability",
+  "title": "4 Maneiras pelas Quais as Telcos Entregam Desempenho e Confiabilidade de Rede de Missão Crítica",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:49:41Z",
+  "category": null
+}

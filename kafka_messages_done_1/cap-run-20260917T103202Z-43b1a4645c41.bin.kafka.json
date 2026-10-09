@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-43b1a4645c41.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 33102,
+  "domain": "oracle.com",
+  "url": "http://docs.oracle.com/cd/E13222_01/wls/docs81/secmanage/ssl.html",
+  "title": "Configuring SSL",
+  "author": null,
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:34:52Z",
+  "category": "WebLogic Server"
+}

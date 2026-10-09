@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-eff7df379784.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 340687,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/aws-cost-management/aws-budgets/?trk=7504c6b7-ef4c-4589-8f82-4724d52283bc&sc_channel=el",
+  "title": "Cloud Cost And Usage Budgets - AWS Budgets - AWS",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:48:58Z",
+  "category": null
+}

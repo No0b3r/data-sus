@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260915T052454Z-0fd9eb3f4769.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1971,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/F15508_01/",
+  "title": "OPERA to Cloud Migration – On-Premise Client Application",
+  "author": null,
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:25:27Z",
+  "category": "None"
+}

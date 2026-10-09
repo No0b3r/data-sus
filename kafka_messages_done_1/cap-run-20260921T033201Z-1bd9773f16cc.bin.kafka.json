@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260921T033201Z-1bd9773f16cc.bin.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 129625,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/en/industries/hospitality/hotel-property/8.17/hpiig/G55561_05.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:29:08Z",
+  "category": null
+}

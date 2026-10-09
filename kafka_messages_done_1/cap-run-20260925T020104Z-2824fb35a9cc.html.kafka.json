@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260925T020104Z-2824fb35a9cc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "discuss.elastic.co",
+  "url": "https://discuss.elastic.co/t/kibana-ui-change/325938",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:56:34Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='discuss.elastic.co', port=443): Max retries exceeded with url: /t/kibana-ui-change/325938 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001E16DFA3B10>, 'Connection to discuss.elastic.co timed out. (connect timeout=15.0)'))"
+}

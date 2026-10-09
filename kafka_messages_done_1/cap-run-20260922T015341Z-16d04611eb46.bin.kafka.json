@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/elasticsearch-logstash-kibana-ba1cfb/loang/cap-run-20260922T015341Z-16d04611eb46.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 28777,
+  "domain": "elastic.co",
+  "url": "https://www.elastic.co/docs/deploy-manage/deploy/cloud-enterprise/advanced-cluster-configuration",
+  "title": "Advanced cluster configuration | Elastic Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:13:42Z",
+  "category": "Elastic Cloud Enterprise,Elastic Documentation"
+}

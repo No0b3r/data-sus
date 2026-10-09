@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20260930T034226Z-b502b6a78a4c.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9273,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2024-200_GHSL-2024-201_Uptrain/",
+  "title": "GHSL-2024-200_GHSL-2024-201: Zero click RCE in Uptrain - CVE-2025-27771, CVE-2025-27772",
+  "author": "Kwstubbs",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:08:37Z",
+  "category": null
+}

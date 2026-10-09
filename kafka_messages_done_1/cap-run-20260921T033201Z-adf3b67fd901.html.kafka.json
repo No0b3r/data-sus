@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/macof-8-cong-cu-flooding-cam-mac-table-bo-ds-a23acf/loang/cap-run-20260921T033201Z-adf3b67fd901.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4661,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/bookworm/389-ds-base/dirsrv.systemd.5.en.html",
+  "title": "Debian Manpages",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:56:12Z",
+  "category": null
+}

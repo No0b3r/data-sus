@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260921T033201Z-1a1c51bf117d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 45671,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/spark-structured-streaming-sink-in-append-mode/105664",
+  "title": "Spark Structured Streaming - sink in append mode",
+  "author": "Hcloli",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:53:08Z",
+  "category": "es-hadoop"
+}

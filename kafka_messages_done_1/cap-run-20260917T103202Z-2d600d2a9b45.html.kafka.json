@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-2d600d2a9b45.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 998,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/launch?doc=%2fdocs%2fgrafana-cloud%2fobserve-and-act%2fmonitor-infrastructure%2fmonitor-cloud-provider%2faws%2fcloudwatch-metrics%2fmetric-dashboards%2faws-ec2-dashboard%2f",
+  "title": "Grafana Cloud",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:13:01Z",
+  "category": null
+}

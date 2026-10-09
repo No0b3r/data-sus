@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D08_sensor-analog-signal-injection-transduction/Tier1/taxonomy-and-challenges-of-out-of-band-signa-b08ed9/loang/cap-run-20260915T052454Z-32f1baaf5b1a.gz",
+  "data_type": "document",
+  "file_type": "unknown",
+  "file_size": 26803,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/src/1901.00832",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:32:06Z",
+  "category": null
+}

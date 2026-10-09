@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-5829f2533662.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 359426,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/japan-observability-survey-25/?pg=grafana-labs-brings-grafana-cloud-grafana-byoc-to-japan-with-aws-tokyo-region-availability&plcmt=in-text",
+  "title": "Observability trends in Japan: Insights from Grafana Labs’ latest survey | Grafana Labs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:21:47Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-531b79ac88ea.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1921,
+  "domain": "oracle.com",
+  "url": "http://docs.oracle.com/cd/E48200_01/doc.1130/dotnet/namespaces.html",
+  "title": "Oracle Database Mobile Server .Net Sync API: Packages",
+  "author": null,
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:35:47Z",
+  "category": null
+}

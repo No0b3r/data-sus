@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-4cb248a3fe4e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 169768,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc8740/",
+  "title": "RFC 8740: Using TLS 1.3 with HTTP/2 | RFC Editor",
+  "author": "D Benjamin",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:31Z",
+  "category": "HTTP, renegotiation, post-handshake client authentication"
+}

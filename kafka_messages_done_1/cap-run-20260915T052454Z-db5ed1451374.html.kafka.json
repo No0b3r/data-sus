@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260915T052454Z-db5ed1451374.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1325,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E99083_01/html/AEOD/AEODTOC.htm",
+  "title": "Oracle ® FLEXCUBE Universal Banking Automated End of Day User Guide",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T07:44:28Z",
+  "category": null
+}

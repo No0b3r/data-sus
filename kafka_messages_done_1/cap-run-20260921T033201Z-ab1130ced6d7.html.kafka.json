@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-ab1130ced6d7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 29725,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/devel/libpq-example.html",
+  "title": "32.22. Example Programs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:01:27Z",
+  "category": null
+}

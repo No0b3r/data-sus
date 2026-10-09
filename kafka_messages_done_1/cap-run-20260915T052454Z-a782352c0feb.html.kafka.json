@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-a782352c0feb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 338477,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/vi/about-aws/whats-new/2019/10/aws-iot-device-tester-v-2-1-0-for-aws-greengrass-now-available/",
+  "title": "AWS IoT Device Tester v 2.1.0 dành cho AWS Greengrass hiện đã có sẵn - AWS",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:44:08Z",
+  "category": null
+}

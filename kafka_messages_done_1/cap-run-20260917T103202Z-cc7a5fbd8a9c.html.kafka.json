@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-cc7a5fbd8a9c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4899,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/database/other-databases/nosql-database/26.1/nsqrt&id=NSSRE-GUID-D3C8A5BD-8DD7-4F0A-AA6A-5E8F9943A3AA",
+  "title": "GROUP BY Clause",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:42:42Z",
+  "category": null
+}

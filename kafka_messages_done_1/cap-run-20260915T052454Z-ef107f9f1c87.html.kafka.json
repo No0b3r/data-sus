@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-ef107f9f1c87.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 20996,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/middleware/12212/lcm/ASADM/GUID-04C07B93-C721-4665-BBA5-D73566F20D1B.htm",
+  "title": "Fusion Middleware Administering Oracle Fusion Middleware",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:51:16Z",
+  "category": null
+}

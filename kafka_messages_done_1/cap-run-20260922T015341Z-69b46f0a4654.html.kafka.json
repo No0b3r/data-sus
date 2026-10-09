@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260922T015341Z-69b46f0a4654.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 956485,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/docs/atlas/atlas-stream-processing/manage-processing-instance/",
+  "title": "Manage Stream Processing Workspaces - Atlas - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T07:30:06Z",
+  "category": "atlas stream processing, atlas stream processing overview, streaming data, data stream, real time, data processing, apache kafka, kafka"
+}

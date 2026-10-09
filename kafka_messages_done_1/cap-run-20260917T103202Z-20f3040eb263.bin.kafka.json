@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-banking-payments-721309/loang/cap-run-20260917T103202Z-20f3040eb263.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 8854,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/F42401_01/PDF/APACK/Templates/USA_Host/CHIPS_Payments.zip",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T06:30:22Z",
+  "category": null
+}

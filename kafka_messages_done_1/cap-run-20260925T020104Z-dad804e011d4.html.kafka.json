@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-dad804e011d4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 335625,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc8414",
+  "title": "RFC 8414: OAuth 2.0 Authorization Server Metadata | RFC Editor",
+  "author": "M Jones; N Sakimura; J Bradley",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:10Z",
+  "category": "OAuth, Discovery, Metadata, Discovery Metadata, Configuration Information, Authorization Server, WebFinger, JavaScript Object Notation, JSON, JSON Web Token, JWT"
+}

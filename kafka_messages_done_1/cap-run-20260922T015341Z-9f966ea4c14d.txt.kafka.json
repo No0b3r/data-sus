@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260922T015341Z-9f966ea4c14d.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 2002,
+  "domain": "docs.influxdata.com",
+  "url": "https://docs.influxdata.com/influxdb3/cloud-dedicated/query-data/execute-queries/influxctl-cli/index.md",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:35:50Z",
+  "category": null
+}

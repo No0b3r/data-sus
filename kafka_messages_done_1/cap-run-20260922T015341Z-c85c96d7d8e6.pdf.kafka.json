@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260922T015341Z-c85c96d7d8e6.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 12780761,
+  "domain": "www.postgresql.org",
+  "url": "https://www.postgresql.org/files/documentation/pdf/8.1/postgresql-8.1-A4.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:16:38Z",
+  "category": null
+}

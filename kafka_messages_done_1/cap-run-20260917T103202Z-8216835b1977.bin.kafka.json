@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-health-ehr-cerner-millennium-ed62ec/loang/cap-run-20260917T103202Z-8216835b1977.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 157328,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/en/industries/energy-water/cloud-integrations/254/arcgis-wacs-configuration-guide/ArcGIS-WACS-Data-Mapping-Sheets-25.4.zip",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:17:24Z",
+  "category": null
+}

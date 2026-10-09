@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier1/rfc-4987-tcp-syn-flooding-attacks-and-common-0f7206/cap-run-20260925T020104Z-23739614e60e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 58396,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4987.html",
+  "title": null,
+  "author": null,
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:00:42Z",
+  "category": null
+}

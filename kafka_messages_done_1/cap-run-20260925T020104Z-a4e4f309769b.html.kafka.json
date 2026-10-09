@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/https-tls-ssl-1bed3b/loang/cap-run-20260925T020104Z-a4e4f309769b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 227677,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc5929",
+  "title": "RFC 5929: Channel Bindings for TLS | RFC Editor",
+  "author": "J Altman; N Williams; L Zhu",
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:14:02Z",
+  "category": "TLS, channel, binding, channel-binding, tls-unique, tls-server-end-point, tls-unique-for-telnet"
+}

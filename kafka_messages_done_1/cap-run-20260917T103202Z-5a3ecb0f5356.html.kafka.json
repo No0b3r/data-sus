@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-5a3ecb0f5356.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 270468,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/ja/tags/",
+  "title": "Grafana: The open and composable observability platform | Grafana Labs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:22:20Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

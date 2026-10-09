@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D10_data-center-cloud-overlay-network-security/Tier2/aws-tai-lieu-mang-dam-may-vpc-route-53-elb-d-28a4b5/loang/cap-run-20260915T052454Z-156cdd6cfcdd.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4494,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/zh_cn/vpc/latest/userguide/working-with-igw.html",
+  "title": "向子网添加互联网访问权限",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T22:16:07Z",
+  "category": null
+}

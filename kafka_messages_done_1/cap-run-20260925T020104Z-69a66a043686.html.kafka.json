@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-fusion-cloud-manufacturing-390e44/cap-run-20260925T020104Z-69a66a043686.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1985,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/cloud/saas/supply-chain-and-manufacturing/26c/faumf/index.html",
+  "title": "Using Manufacturing",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:14:29Z",
+  "category": null
+}

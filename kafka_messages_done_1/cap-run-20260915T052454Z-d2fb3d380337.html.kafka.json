@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/dompurify-61abf8/loang/cap-run-20260915T052454Z-d2fb3d380337.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 683523,
+  "domain": "github.com",
+  "url": "https://github.com/colbymchenry/codegraph",
+  "title": "GitHub - colbymchenry/codegraph: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:10:07Z",
+  "category": "repository:1137078255"
+}

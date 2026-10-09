@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-health-ehr-cerner-millennium-ed62ec/loang/cap-run-20260917T103202Z-df110e07ee93.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4112,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/industries/energy-water/data-intelligence/24c/data-intelligence-admin-guide/EWDI/24C/administration-guide/topics/Customize_Oracle_Energy_and_Water_Data_Intelligence.html",
+  "title": "Oracle Energy and Water Data Intelligence Administration Guide",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:19:28Z",
+  "category": null
+}

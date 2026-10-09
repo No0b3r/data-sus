@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/wordpress-e3dbaa/cap-run-20260915T052454Z-8a2a00d4ce1b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 250466,
+  "domain": "wordpress.org",
+  "url": "https://developer.wordpress.org/news/2026/08/hands-on-with-the-wordpress-7-1-icon-registration-api/",
+  "title": "Hands-on with the WordPress 7.1 Icon Registration API",
+  "author": "Justin Tadlock",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:01:43Z",
+  "category": null
+}

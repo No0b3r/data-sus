@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/faultpm-exposing-amd-ftpms-deepest-secrets-5322f0/loang/cap-run-20260915T052454Z-fb8931c44567.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 450501,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/html/2304.00265v1",
+  "title": "Pointcheval-Sanders Signature-Based Synchronized Aggregate SignatureThanks: A preliminary version [41] of this paper is appeared in Information Security and Cryptology ICISC 2022 - 25th International Conference.",
+  "author": "Affiliation National Institute; Tsuruoka College; Yamagata; Japan Email tezuka m-nct ac jp",
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:27:24Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-2b661b96c568.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11115,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/eks/latest/userguide/creating-an-add-on.html",
+  "title": "Create an Amazon EKS add-on",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:07:26Z",
+  "category": null
+}

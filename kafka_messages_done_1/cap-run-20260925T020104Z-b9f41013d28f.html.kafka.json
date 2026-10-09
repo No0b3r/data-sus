@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier1/linux-kernel-hardware-vulnerabilities-admin-1d8f92/loang/cap-run-20260925T020104Z-b9f41013d28f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11430,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/admin-guide/thunderbolt.html",
+  "title": "USB4 and Thunderbolt",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:23:21Z",
+  "category": null
+}

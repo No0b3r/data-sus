@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260915T052454Z-d1fa0cd2d928.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 19181,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/about/news/postgresql-145-138-1212-1117-1022-and-15-beta-3-released-2496/",
+  "title": "PostgreSQL 14.5, 13.8, 12.12, 11.17, 10.22, and 15 Beta 3 Released!",
+  "author": "PostgreSQL Global Development Group",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:20:00Z",
+  "category": null
+}

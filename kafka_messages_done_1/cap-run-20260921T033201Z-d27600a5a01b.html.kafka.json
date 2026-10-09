@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grails-837fea/loang/cap-run-20260921T033201Z-d27600a5a01b.html.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": 178027,
+  "domain": "grails.apache.org",
+  "url": "https://grails.apache.org/rss.xml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:57:05Z",
+  "category": null
+}

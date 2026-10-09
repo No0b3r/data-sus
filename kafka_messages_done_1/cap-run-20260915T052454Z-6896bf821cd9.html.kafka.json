@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-6896bf821cd9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7126,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/lambda/latest/dg/with-mq.html",
+  "title": "Using Lambda with Amazon MQ",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:19:40Z",
+  "category": null
+}

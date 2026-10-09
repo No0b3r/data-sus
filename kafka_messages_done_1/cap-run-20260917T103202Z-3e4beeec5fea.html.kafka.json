@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-health-ehr-cerner-millennium-ed62ec/loang/cap-run-20260917T103202Z-3e4beeec5fea.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3213,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/industries/energy-water/market-settlements-management/254/msm-licensing-guide/index.html",
+  "title": "Market Settlements Management Licensing Information User Manual",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:16:00Z",
+  "category": null
+}

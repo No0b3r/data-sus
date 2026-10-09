@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-micros-simphony-cf2ef4/loang/cap-run-20260915T052454Z-b830646b19cf.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1876,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E65624_01/index.html",
+  "title": "Oracle MICROS Keyboard Workstation 270 Document Library",
+  "author": null,
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:22:35Z",
+  "category": "None"
+}

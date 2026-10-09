@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-ce67ab213ec1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4440,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/amazonq/detector-library/index.html",
+  "title": "Amazon Q, Detector Library",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:29:25Z",
+  "category": "home,detectors,java,python,security,program analysis,aws,best pratices"
+}

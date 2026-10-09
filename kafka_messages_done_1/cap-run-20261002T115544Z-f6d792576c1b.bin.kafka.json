@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20261002T115544Z-f6d792576c1b.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9651,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/zh/blog/2025/01/15/apisix-practice-in-soyoung-data-security-gateway/",
+  "title": "APISIX 在新氧科技数据安全网关的实践 | Apache APISIX",
+  "author": "新氧信息安全团队",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:43:24Z",
+  "category": "Case Studies"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-0ae1e6732c8b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 269745,
+  "domain": "contentstack.io",
+  "url": "https://www.mongodb.com/ja-jp/company/blog/product-release-announcements/improved-multitenancy-support-in-vector-search-introducing-flat-indexes",
+  "title": "Improved Multitenancy Support in Vector Search: Introducing Flat Indexes",
+  "author": "Elliott Gluck; Prakul Agarwal",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:09:12Z",
+  "category": null
+}

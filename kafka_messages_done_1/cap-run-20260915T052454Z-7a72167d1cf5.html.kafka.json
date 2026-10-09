@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-fusion-cloud-erp-financials-d9d889/loang/cap-run-20260915T052454Z-7a72167d1cf5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2574,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/cloud/saas/financials/26c/faufa/get-help-FA.html",
+  "title": "Using Financials for the Americas",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:12:51Z",
+  "category": null
+}

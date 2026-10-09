@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-6f1c3cc77b59.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2695,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/middleware/1213/oer/OERUG/toc.htm",
+  "title": "Fusion Middleware Upgrade Guide for Oracle Enterprise Repository",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:48:04Z",
+  "category": null
+}

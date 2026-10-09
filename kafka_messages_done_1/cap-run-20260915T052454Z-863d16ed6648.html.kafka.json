@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/openvpn-community-chained-for-attack-openvpn-aa58fa/loang/cap-run-20260915T052454Z-863d16ed6648.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 48189,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2021/04/19/surface-expands-its-secured-core-portfolio-with-the-new-surface-laptop-4-powered-by-amd-ryzen-mobile-processors/",
+  "title": "Surface expands its Secured-core portfolio with the new Surface Laptop 4 powered by AMD Ryzen™ Mobile Processors | Microsoft Security Blog",
+  "author": "Enterprise; OS Security",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:58:03Z",
+  "category": "Cybersecurity"
+}

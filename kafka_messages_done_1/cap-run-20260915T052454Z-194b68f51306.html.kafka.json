@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/kernel-dma-protection-microsoft-learn-hardwa-a86802/loang/cap-run-20260915T052454Z-194b68f51306.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 37836,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/windows-hardware/design/minimum/minimum-hardware-requirements-overview",
+  "title": "Minimum hardware requirements",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:30:16Z",
+  "category": null
+}

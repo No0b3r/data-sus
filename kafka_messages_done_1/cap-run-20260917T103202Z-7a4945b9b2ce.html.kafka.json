@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-health-ehr-cerner-millennium-ed62ec/loang/cap-run-20260917T103202Z-7a4945b9b2ce.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2033,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/health-sciences/ohf-721/OHCIG/part1.htm",
+  "title": "Healthcare Foundation Installation Guide",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:17:14Z",
+  "category": null
+}

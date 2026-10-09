@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-2eb7226d8196.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 17855,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/middleware/12212/wls/DEPGD/redeploy.htm",
+  "title": "Fusion Middleware Deploying Applications to Oracle WebLogic Server",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:46:29Z",
+  "category": null
+}

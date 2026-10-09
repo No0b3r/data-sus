@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-26c709572f3d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18058,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/15/spi-spi-execute-with-args.html",
+  "title": "SPI_execute_with_args",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:50:16Z",
+  "category": null
+}

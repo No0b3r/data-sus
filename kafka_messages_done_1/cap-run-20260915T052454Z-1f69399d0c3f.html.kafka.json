@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-1f69399d0c3f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 204384,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/resources/products/capabilities/cybersecurity-building-the-next-generation-of-threat-intelligence-with-mongodb",
+  "title": "NoSQL Database Security",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:13:35Z",
+  "category": null
+}

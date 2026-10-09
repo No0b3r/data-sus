@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/faultpm-exposing-amd-ftpms-deepest-secrets-5322f0/loang/cap-run-20260915T052454Z-e0242ff31619.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 41306,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/abs/2304.00160",
+  "title": "Secure Federated Learning against Model Poisoning Attacks via Client Filtering",
+  "author": "Yaldiz; Duygu Nur; Zhang; Tuo; Avestimehr; Salman",
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:27:21Z",
+  "category": null
+}

@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20260929T014911Z-4c2ba883de46.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "solr.apache.org",
+  "url": "https://solr.apache.org/guide/solr/9_2/getting-started/tutorial-techproducts.html",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:04:53Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='solr.apache.org', port=443): Max retries exceeded with url: /guide/solr/9_2/getting-started/tutorial-techproducts.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001E157A19450>, 'Connection to solr.apache.org timed out. (connect timeout=15.0)'))"
+}

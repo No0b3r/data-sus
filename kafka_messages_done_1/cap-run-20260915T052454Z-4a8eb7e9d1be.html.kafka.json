@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260915T052454Z-4a8eb7e9d1be.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 921,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E53533_01/opera_5_5_1_0_core_help/index.htm",
+  "title": "OPERA Hotel Edition",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:26:05Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-fc7ea75008f0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 245389,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/library/atlas-database-v2/video-how-to-deploy-free-mongodb-atlas-cluster",
+  "title": "How to Deploy a Free MongoDB Atlas Cluster",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:58:33Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20260929T014911Z-7ab0c99ca7fc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3391,
+  "domain": "apache.org",
+  "url": "https://solr.apache.org/docs/9_7_0/modules/ltr/index.html",
+  "title": "Solr 9.7.0 ltr API",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:06:01Z",
+  "category": null
+}

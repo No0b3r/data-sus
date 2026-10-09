@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grails-837fea/loang/cap-run-20260921T033201Z-0bbdc5ad8889.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9065,
+  "domain": "apache.org",
+  "url": "https://grails.apache.org/blog/2021-04-07-publish-grails-plugin-to-maven-central.html",
+  "title": "How to Publish a Grails Plugin to the Maven Central Repository",
+  "author": "Puneet Behl",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:55:40Z",
+  "category": "grails,jvm,framework,groovy,gradle,spring-boot,gorm"
+}

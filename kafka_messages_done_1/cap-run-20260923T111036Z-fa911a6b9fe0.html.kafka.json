@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260923T111036Z-fa911a6b9fe0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 64955,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/7.2/runtime-config.html",
+  "title": "Run-time configuration",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:28:21Z",
+  "category": null
+}

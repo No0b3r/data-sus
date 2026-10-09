@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-092ab92d3da2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 190263,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc2631",
+  "title": "RFC 2631: Diffie-Hellman Key Agreement Method | RFC Editor",
+  "author": "E Rescorla",
+  "published_year": 1999,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:31Z",
+  "category": "Diffie-Hellman, encryption, management, certificate"
+}

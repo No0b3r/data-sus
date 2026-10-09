@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-velocity-f1dd16/loang/cap-run-20260924T083724Z-75f3909ee5a2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1430,
+  "domain": "apache.org",
+  "url": "https://velocity.apache.org/engine/devel/apidocs/org/apache/velocity/runtime/resource/loader/class-use/DataSourceResourceLoader.html",
+  "title": "Uses of Class org.apache.velocity.runtime.resource.loader.DataSourceResourceLoader",
+  "author": null,
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:46:57Z",
+  "category": null
+}

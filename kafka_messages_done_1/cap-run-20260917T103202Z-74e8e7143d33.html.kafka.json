@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260917T103202Z-74e8e7143d33.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 971594,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/docs/atlas/atlas-stream-processing/autoscaling/",
+  "title": "Atlas Stream Processing Vertical Autoscaling - Atlas - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T07:04:15Z",
+  "category": "atlas stream processing, vertical scaling, tiers, minTier, maxTier, code example"
+}

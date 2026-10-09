@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-20d013b734f9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 128374,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/events/observabilitycon-on-the-road/2023/berlin/deliveryhero-scalable-and-cost-efficient-observability-with-grafana-mimir-and-loki/",
+  "title": "DeliveryHero's scalable and cost efficient observability with Grafana Mimir and Loki | Grafana Labs",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:36:31Z",
+  "category": null
+}

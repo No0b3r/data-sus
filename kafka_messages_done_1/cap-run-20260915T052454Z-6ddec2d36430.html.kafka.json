@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-6ddec2d36430.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 300992,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-additional-iam-condition-keys/",
+  "title": "Amazon ECS adds support for additional IAM condition keys - AWS",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:40:26Z",
+  "category": null
+}

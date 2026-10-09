@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260921T033201Z-b6a7c5eda3b0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2631,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/industries/hospitality/mobile-guest-experience/24.3/index.html",
+  "title": "OPERA Cloud Guest Experience Release 24.3 - Get Started",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:29:29Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-ff9c5e3b3bec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18012,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/9.2/plpython.html",
+  "title": "PL/Python - Python Procedural Language",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:08:31Z",
+  "category": null
+}

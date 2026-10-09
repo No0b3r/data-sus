@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-66315d938b48.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 554630,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc6979",
+  "title": "RFC 6979: Deterministic Usage of the Digital Signature Algorithm (DSA) and Elliptic Curve Digital Signature Algorithm (ECDSA) | RFC Editor",
+  "author": "T Pornin",
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:50Z",
+  "category": "dsa, ecdsa, digital signature, deterministic"
+}

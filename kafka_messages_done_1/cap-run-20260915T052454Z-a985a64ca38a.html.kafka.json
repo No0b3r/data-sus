@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-a985a64ca38a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8236,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/pt_br/documentdb/latest/devguide/get-started-guide.html",
+  "title": "Conceitos básicos do Amazon DocumentDB",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:25:01Z",
+  "category": null
+}

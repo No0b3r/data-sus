@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/redis-9e7fe3/loang/cap-run-20260915T052454Z-edddb69c169c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1592387,
+  "domain": "redis.io",
+  "url": "https://redis.io/nosql/what-is-nosql/",
+  "title": "What is NoSQL? Fast data solutions for devs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:30:14Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-8e6dde20ca77.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 128570,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/pt-br/events/observabilitycon-on-the-road/sao-paulo/dos-dashboards-as-decisoes-como-a-ia-com-agentes-inteligentes-esta-transformando-a-observabilidade/",
+  "title": "Dos dashboards às decisões: como a IA com agentes inteligentes está transformando a observabilidade | Grafana Labs",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:33:12Z",
+  "category": null
+}

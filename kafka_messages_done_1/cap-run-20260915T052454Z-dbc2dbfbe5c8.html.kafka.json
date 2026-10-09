@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-dbc2dbfbe5c8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6383,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ja_jp/whitepapers/latest/overview-deployment-options/amazon-elastic-container-service.html",
+  "title": "Amazon Elastic Container Service",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:29:46Z",
+  "category": null
+}

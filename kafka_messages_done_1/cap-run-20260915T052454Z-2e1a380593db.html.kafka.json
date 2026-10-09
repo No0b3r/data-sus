@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-2e1a380593db.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 38981,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/cn/about-aws/events/webinar/2017/intro-to-amazon-rekognition05092017/",
+  "title": "Amazon Rekognition 介绍 - 易于使用的基于深度学习的托管式图像分析服务",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:36:29Z",
+  "category": null
+}

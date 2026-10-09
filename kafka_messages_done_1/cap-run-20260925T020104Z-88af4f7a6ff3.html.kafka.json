@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/snmp-3c8380/loang/cap-run-20260925T020104Z-88af4f7a6ff3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 218848,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc1189/",
+  "title": "RFC 1189: Common Management Information Services and Protocols for the Internet (CMOT and CMIP) | RFC Editor",
+  "author": "U S Warrier; L Besaw; L LaBarre; B D Handspicker",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:30:24Z",
+  "category": "CMOT"
+}

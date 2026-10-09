@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-97e1d89c1f0a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 13528,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/list/pgsql-general/2023-07/",
+  "title": "pgsql-general - July 2023",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:59:54Z",
+  "category": null
+}

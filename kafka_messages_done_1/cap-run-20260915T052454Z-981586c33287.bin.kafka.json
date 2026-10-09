@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-981586c33287.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14188,
+  "domain": "amazon.com",
+  "url": "http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/CloudSearchDomain.html",
+  "title": "Class: AWS.CloudSearchDomain",
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:22:51Z",
+  "category": null
+}

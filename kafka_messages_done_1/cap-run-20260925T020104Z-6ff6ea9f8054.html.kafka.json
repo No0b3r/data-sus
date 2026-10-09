@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier2/cisco-troubleshoot-tcp-slowness-issues-due-t-813ee0/loang/cap-run-20260925T020104Z-6ff6ea9f8054.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 517,
+  "domain": "cisco.com",
+  "url": "https://www.cisco.com/c/zh_tw/tech/ip/ip-routed-protocols/tsd-technology-support-troubleshooting-technotes-list.html",
+  "title": "Access Denied",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:01:36Z",
+  "category": null
+}

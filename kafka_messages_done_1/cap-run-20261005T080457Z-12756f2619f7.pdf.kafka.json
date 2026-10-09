@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D08_wireless-rf-network-security/Tier2/cisco-mesh-deployment-guide-catalyst-9800-io-fc2d46/cap-run-20261005T080457Z-12756f2619f7.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 8847870,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/dam/en/us/td/docs/wireless/controller/9800/17-1/deployment-guide/c9800-mesh-rel-17-1.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:39:28Z",
+  "category": null
+}

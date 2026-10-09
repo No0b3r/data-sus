@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/beego-e8cdf9/loang/cap-run-20260915T052454Z-2ccc16f63cc5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 142,
+  "domain": "go.dev",
+  "url": "https://pkg.go.dev/github.com/beego/beego/v2@v2.0.2-beta.1/client/cache",
+  "title": "429",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:53:23Z",
+  "category": null
+}

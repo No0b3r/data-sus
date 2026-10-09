@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260915T052454Z-d7cb70f63d61.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 43898,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/elasticsearch-2-1-1-on-localhost-java-client-error-masternotdiscoveredexception-waited-for-30s/39294",
+  "title": "Elasticsearch 2.1.1 on localhost Java client error MasterNotDiscoveredException waited for 30s",
+  "author": "Jigar Gosar",
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:52:11Z",
+  "category": null
+}

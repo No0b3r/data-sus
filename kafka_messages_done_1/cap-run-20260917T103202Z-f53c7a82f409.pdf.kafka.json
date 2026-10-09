@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-hospitality-integration-platform-ohip-2157a3/loang/cap-run-20260917T103202Z-f53c7a82f409.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 3079363,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/F14695_01/docs/F14989-02.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:21:23Z",
+  "category": null
+}

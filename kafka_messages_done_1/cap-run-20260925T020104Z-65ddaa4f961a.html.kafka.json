@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier1/rfc-9260-stream-control-transmission-protoco-c819ab/cap-run-20260925T020104Z-65ddaa4f961a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 683336,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc9260.html",
+  "title": "Stream Control Transmission Protocol",
+  "author": "Randall R Stewart; Michael Tüxen; Karen E E Nielsen",
+  "published_year": 1995,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:00:43Z",
+  "category": null
+}

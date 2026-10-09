@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-743a8f439633.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5173,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/database/other-databases/nosql-database/22.3/develop.html",
+  "title": "Oracle NoSQL Database Release 22.3 - Develop",
+  "author": null,
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:37:44Z",
+  "category": null
+}

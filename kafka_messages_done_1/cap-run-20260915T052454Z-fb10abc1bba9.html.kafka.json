@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/macof-8-cong-cu-flooding-cam-mac-table-bo-ds-a23acf/loang/cap-run-20260915T052454Z-fb10abc1bba9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4961,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/bookworm/4g8/4g8.1.en.html",
+  "title": "4g8(1) — 4g8 — Debian bookworm",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:55:12Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-397b4407c05e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 442585,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc9277",
+  "title": "RFC 9277: On Stable Storage for Items in Concise Binary Object Representation (CBOR) | RFC Editor",
+  "author": "M Richardson; C Bormann",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:27Z",
+  "category": null
+}

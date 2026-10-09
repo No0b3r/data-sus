@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-e64705db9eda.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 370880,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/getting-started/hands-on/?nc2=h_rsc_lrn_gs_h",
+  "title": "AWS Hands-On",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:48:25Z",
+  "category": null
+}

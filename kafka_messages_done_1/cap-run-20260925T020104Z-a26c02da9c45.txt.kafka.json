@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/cgi-dd0b48/loang/cap-run-20260925T020104Z-a26c02da9c45.txt.gz",
+  "data_type": "document",
+  "file_type": "txt",
+  "file_size": 26726,
+  "domain": "www.rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc1867.txt",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:04:28Z",
+  "category": null
+}

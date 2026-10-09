@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/npm-4ab1b0/cap-run-20260930T034226Z-0d65214673ec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 48601,
+  "domain": "npmjs.com",
+  "url": "https://docs.npmjs.com/",
+  "title": "npm Docs",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T06:21:50Z",
+  "category": null
+}

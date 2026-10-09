@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/ettercap-8-manpage-mitm-sniffer-content-filt-423ccb/loang/cap-run-20260921T033201Z-25015448e6d6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5313,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/testing/aboot-cross/isomarkboot.1.de.html",
+  "title": "isomarkboot(1) — aboot-cross — Debian testing",
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:51:38Z",
+  "category": null
+}

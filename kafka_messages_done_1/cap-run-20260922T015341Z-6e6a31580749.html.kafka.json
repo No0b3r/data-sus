@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260922T015341Z-6e6a31580749.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 15216,
+  "domain": "influxdata.com",
+  "url": "https://docs.influxdata.com/influxdb3/core/admin/identify-version/",
+  "title": "Identify InfluxDB 3 Core version",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:34:52Z",
+  "category": null
+}

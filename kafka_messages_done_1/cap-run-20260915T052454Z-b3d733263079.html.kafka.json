@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-b3d733263079.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 904184,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/zh-cn/docs/compass/indexes/",
+  "title": "管理索引 - Compass - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:45:15Z",
+  "category": null
+}

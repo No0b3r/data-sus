@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-tapestry-d4a007/loang/cap-run-20260928T094912Z-79f95e62fd55.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5777,
+  "domain": "apache.org",
+  "url": "https://tapestry.apache.org/supported-environments-and-versions.html",
+  "title": "Supported Environments and Versions",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:34:29Z",
+  "category": "tapestry, apache, apache tapestry, framework, java, web, component, open source, application, dynamic, scalable, robust, servlet"
+}

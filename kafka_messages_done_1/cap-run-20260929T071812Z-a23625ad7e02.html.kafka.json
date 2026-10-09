@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2024-36991-splunk-3a904a/loang/cap-run-20260929T071812Z-a23625ad7e02.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2445,
+  "domain": "splunk.com",
+  "url": "https://advisory.splunk.com/advisories/SVD-2025-1206",
+  "title": "Incorrect permissions assignment on Splunk Universal Forwarder for Windows during new installation or upgrade",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:47:26Z",
+  "category": null
+}

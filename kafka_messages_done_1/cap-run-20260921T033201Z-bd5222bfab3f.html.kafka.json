@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-bd5222bfab3f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 73269,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/list/pgsql-bugs/2025-09/",
+  "title": "pgsql-bugs - September 2025",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:02:53Z",
+  "category": null
+}

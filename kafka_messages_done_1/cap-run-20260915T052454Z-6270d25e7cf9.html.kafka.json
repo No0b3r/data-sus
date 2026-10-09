@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-6270d25e7cf9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 332743,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/tr/about-aws/whats-new/2019/08/amazon-rekognition-now-detects-violence-weapons-and-self-injury-in-images-and-videos-improves-accuracy-for-nudity-detection/",
+  "title": "Amazon Rekognition artık görüntülerde ve videolarda şiddet, silah ve kendine zarar verme tespit ediyor; çıplaklık algılama doğruluğunu artırıyor - AWS",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:39:54Z",
+  "category": null
+}

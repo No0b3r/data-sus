@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260915T052454Z-f00cfe4b087c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2921,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/message-id/002301c827d4%244a988a40%246b01a8c0%40toshibauser",
+  "title": "Reg Can You Stop Message",
+  "author": null,
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:22:52Z",
+  "category": null
+}

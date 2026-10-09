@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-e99a4b8d891c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 191927,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc1334/",
+  "title": "RFC 1334: PPP Authentication Protocols | RFC Editor",
+  "author": "B Lloyd; W Simpson",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:13Z",
+  "category": "point, serial, line, dial-up"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-ef7d1ce0c804.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18531,
+  "domain": "amazon.com",
+  "url": "http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/CleanRoomsML.html",
+  "title": "Class: AWS.CleanRoomsML",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:32:18Z",
+  "category": null
+}

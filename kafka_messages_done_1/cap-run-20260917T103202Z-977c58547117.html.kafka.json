@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-977c58547117.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 430069,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/2020/10/26/observabilitycon-2020-your-guide-to-the-newest-announcements-from-grafana-labs/?pg=obscon-2021&plcmt=past-highlights-3",
+  "title": "ObservabilityCON 2020: Your guide to the newest announcements from Grafana Labs | Grafana Labs",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:35:14Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

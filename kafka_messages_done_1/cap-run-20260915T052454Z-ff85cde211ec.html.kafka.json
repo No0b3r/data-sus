@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260915T052454Z-ff85cde211ec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 44343,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/logstash-monitoring-is-not-enabled-despite-helm-values/385998",
+  "title": "Logstash monitoring is not enabled despite Helm values",
+  "author": "CitizenSteak",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:52:42Z",
+  "category": "elastic-stack-monitoring"
+}

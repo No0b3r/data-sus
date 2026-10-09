@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260917T103202Z-cc0f87821144.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1759,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/solutions/wls-on-oke-marketplace&id=WLKUG-GUID-68139E1B-ACF4-46E8-8AAB-EA6951AF0248",
+  "title": "Using Oracle WebLogic Server for OKE",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:52:58Z",
+  "category": null
+}

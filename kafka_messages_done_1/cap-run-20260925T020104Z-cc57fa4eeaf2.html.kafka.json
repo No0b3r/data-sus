@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/rfc-6105-ipv6-router-advertisement-guard-ra-c49df4/cap-run-20260925T020104Z-cc57fa4eeaf2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 25644,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc6105.html",
+  "title": null,
+  "author": null,
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:56:17Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260917T103202Z-e4a87c1986ca.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2018,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/middleware/standalone/weblogic-server/15.1.1/jeemg/index.html",
+  "title": "Developing Jakarta Management Applications for Oracle WebLogic Server",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:53:13Z",
+  "category": null
+}

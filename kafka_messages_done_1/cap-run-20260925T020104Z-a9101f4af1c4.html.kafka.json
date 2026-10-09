@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier1/rfc-8085-udp-usage-guidelines-bcp-145-8a4b1e/cap-run-20260925T020104Z-a9101f4af1c4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 187055,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc8085.html",
+  "title": null,
+  "author": null,
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:00:42Z",
+  "category": null
+}

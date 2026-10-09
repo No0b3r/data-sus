@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20260928T094912Z-d882c8be5d12.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9724,
+  "domain": "apache.org",
+  "url": "https://solr.apache.org/guide/solr/9_3/deployment-guide/distributed-tracing.html",
+  "title": "Distributed Tracing",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:01:35Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-3922cbc30c5f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 373872,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/2021/01/13/how-to-get-started-quickly-with-metrics-logs-and-traces-using-grafana-cloud-integrations/?pg=exec-briefing&plcmt=lt-box-environment",
+  "title": "How to get started quickly with metrics, logs, and traces using Grafana Cloud integrations | Grafana Labs",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:37:48Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

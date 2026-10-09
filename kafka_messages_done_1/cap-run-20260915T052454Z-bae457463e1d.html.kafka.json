@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/macof-8-cong-cu-flooding-cam-mac-table-bo-ds-a23acf/loang/cap-run-20260915T052454Z-bae457463e1d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5999,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/bookworm/9mount/9umount.1.en.html",
+  "title": "9umount(1) — 9mount — Debian bookworm",
+  "author": null,
+  "published_year": 2008,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:54:29Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20261001T020631Z-8a57124073f0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 12623,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/zh/blog/2025/05/29/apisix-ai-gateway-from-cloud-native-to-ai-native/",
+  "title": "从云原生到 AI 原生：Apache APISIX 的 AI 网关架构设计与智能实践 | Apache APISIX",
+  "author": "王院生",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:31:46Z",
+  "category": "Case Studies"
+}

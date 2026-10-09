@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260923T111036Z-f49d1bce279d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 821436,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/docs/cloud-manager/data-explorer/databases-collections/",
+  "title": "Manage Databases and Collections in Data Explorer - Cloud Manager - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T08:46:27Z",
+  "category": null
+}

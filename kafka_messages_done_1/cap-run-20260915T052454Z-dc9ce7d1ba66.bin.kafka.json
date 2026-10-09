@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-dc9ce7d1ba66.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 127092,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/developers/plugin-tools/e2e-test-a-plugin/test-a-data-source-plugin/configurations",
+  "title": "Test configurations | Grafana Plugin Tools",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:48:43Z",
+  "category": "grafana,plugins,plugin,testing,e2e,data-source,configuration editor,config"
+}

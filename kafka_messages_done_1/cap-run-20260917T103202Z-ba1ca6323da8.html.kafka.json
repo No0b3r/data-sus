@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-ba1ca6323da8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 352806,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/products/bring-your-own-cloud-byoc/?pg=pricing&plcmt=enterprise-option",
+  "title": "Grafana BYOC | Fully managed observability in your AWS or GCP | Grafana Labs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:42:34Z",
+  "category": null
+}

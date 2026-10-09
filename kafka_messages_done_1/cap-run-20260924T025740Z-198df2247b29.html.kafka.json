@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260924T025740Z-198df2247b29.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9366,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/blog/2022/12/06/choose-the-right-api-style-technology/",
+  "title": "How to choose the right API Style and Technology | Apache APISIX",
+  "author": "Bobur Umurzokov",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T13:43:35Z",
+  "category": "Ecosystem"
+}

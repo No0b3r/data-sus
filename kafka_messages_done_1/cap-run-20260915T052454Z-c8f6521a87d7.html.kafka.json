@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-c8f6521a87d7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 241530,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/library/vector-search/mongodb-vector-search-ai-essentials-explained?lb-mode=overlay",
+  "title": "MongoDB Vector Search and AI",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:49:56Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-a9bf82d79415.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 177629,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc1279/",
+  "title": "RFC 1279: X.500 and Domains | RFC Editor",
+  "author": "S E Hardcastle-Kille",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:51Z",
+  "category": "Domain, Name, naming"
+}

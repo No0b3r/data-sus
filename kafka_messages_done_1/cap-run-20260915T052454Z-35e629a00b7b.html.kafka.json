@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-35e629a00b7b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 301325,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2024/10/organization-wide-views-agreements-spend-aws-marketplace/?trk=3dc3b44c-d5d7-41cb-8f0b-98b1d3ad2f18",
+  "title": "Access organization-wide views of agreements and spend in AWS Marketplace - AWS",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:37:00Z",
+  "category": null
+}

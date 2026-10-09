@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-opera-cloud-bbd84c/loang/cap-run-20260915T052454Z-3c11861c5751.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 175392,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/E80482_01/docs/hpi-8.10.0.1-rn.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:25:55Z",
+  "category": null
+}

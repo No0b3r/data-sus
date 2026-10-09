@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D03_fault-injection-glitching-voltage-clock-em-o/Tier3/badfet-defeating-modern-secure-boot-using-se-5022fa/loang/cap-run-20260925T020104Z-650f5813ed21.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 18521,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/usenix-poster-sessions-instructions-presenters",
+  "title": "Instructions for Poster Session Presenters",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:26:35Z",
+  "category": null
+}

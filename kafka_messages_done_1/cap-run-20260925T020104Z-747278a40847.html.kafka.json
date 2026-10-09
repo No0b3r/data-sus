@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-747278a40847.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1039200,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc8152",
+  "title": "RFC 8152: CBOR Object Signing and Encryption (COSE) | RFC Editor",
+  "author": "J Schaad",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:54Z",
+  "category": "CoAP, ECC, Elliptic Curve"
+}

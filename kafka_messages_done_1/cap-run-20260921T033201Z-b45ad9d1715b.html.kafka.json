@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-b45ad9d1715b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10186,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/about/news/new-modern-jdbc-driver-for-postgresql-3354/",
+  "title": "New Modern JDBC Driver for PostgreSQL",
+  "author": "JDBC Project",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:02:08Z",
+  "category": null
+}

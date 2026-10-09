@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/rtf-8c35ad/cap-run-20260915T052454Z-5dbde0679860.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55006,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-oleds",
+  "title": "[MS-OLEDS]: Object Linking and Embedding (OLE) Data Structures",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:30:17Z",
+  "category": null
+}

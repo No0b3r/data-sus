@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260917T103202Z-c0202a977330.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 221824,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/company/newsroom/press-releases/mongodb-is-used-by-now-tv-to-help-provide-scale-and-a-seamless-user-experience",
+  "title": "MongoDB Is Used By NOW TV To Help Provide Scale And A Seamless User Experience",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T07:07:48Z",
+  "category": null
+}

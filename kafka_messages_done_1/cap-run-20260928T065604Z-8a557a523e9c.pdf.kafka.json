@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D03_network-layer-security-routing-protocol-hard/Tier2/cisco-isr-asr-1000-nfvis-va-router-iot-tron-cfb6b7/cap-run-20260928T065604Z-8a557a523e9c.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 23142278,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/routers/connectedgrid/iot_fnd/guide/5_1/b-iot-fnd-user-guide-51.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:57:44Z",
+  "category": null
+}

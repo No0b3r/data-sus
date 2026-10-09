@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-8042fd0adf0d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 89311,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc8725.html",
+  "title": "JSON Web Token Best Current Practices",
+  "author": "Yaron Sheffer; Dick Hardt; Michael B Jones",
+  "published_year": 1997,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:55Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-e4a0d781b2d6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 341787,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc7599/",
+  "title": "RFC 7599: Mapping of Address and Port using Translation (MAP-T) | RFC Editor",
+  "author": "X Li; C Bao; W Dec; O Troan; S Matsushima; T Murakami",
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:13:07Z",
+  "category": null
+}

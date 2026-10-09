@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-8c20b87c16b1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 151168,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4559/",
+  "title": "RFC 4559: SPNEGO-based Kerberos and NTLM HTTP Authentication in Microsoft Windows | RFC Editor",
+  "author": "K Jaganathan; L Zhu; J Brezak",
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:44Z",
+  "category": "msie, microsoft internet explorer, iis, internet information services, simple and protected negotiate, nt lan manager"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/pptx-706de8/loang/cap-run-20260915T052454Z-ac7596f0d904.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 46026,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/openspecs/office_standards/ms-ointxml/2514490a-71de-4543-8c22-3ac4b94606af",
+  "title": "[MS-OINTXML]: Office Intelligence Extensions to Office Open XML Structure",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:28:36Z",
+  "category": null
+}

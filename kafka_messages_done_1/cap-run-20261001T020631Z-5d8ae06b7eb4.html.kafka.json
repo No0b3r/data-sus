@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-velocity-f1dd16/loang/cap-run-20261001T020631Z-5d8ae06b7eb4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3396,
+  "domain": "apache.org",
+  "url": "https://velocity.apache.org/engine/devel/apidocs/org/apache/velocity/runtime/parser/node/AbstractExecutor.html",
+  "title": "Class AbstractExecutor",
+  "author": null,
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:50:40Z",
+  "category": null
+}

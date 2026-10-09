@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-699b9eb60728.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 134045,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/docs/learning-hub/is-grafana-cloud-right-for-me/05-observability-solutions/06-cloud-provider-observability-is-it-right-for-me/",
+  "title": "Cloud Provider Observability: Is it right for you | Grafana Labs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:40:52Z",
+  "category": null
+}

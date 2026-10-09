@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260925T020104Z-0f5e4f3eb349.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 14014,
+  "domain": "influxdata.com",
+  "url": "https://docs.influxdata.com/kapacitor/v1/guides/load_directory/",
+  "title": "Load directory service",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:54:13Z",
+  "category": null
+}

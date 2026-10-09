@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-60ba831e95f3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 419011,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc9039",
+  "title": "RFC 9039: Uniform Resource Names for Device Identifiers | RFC Editor",
+  "author": "J Arkko; C Jennings; Z Shelby",
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:36Z",
+  "category": "URN, device identifier, IMEI, 1-Wire, MAC address, EUI-48, EUI-64"
+}

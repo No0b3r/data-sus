@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier2/cisco-troubleshoot-tcp-slowness-issues-due-t-813ee0/loang/cap-run-20260925T020104Z-7ec74097f40b.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 544,
+  "domain": "cisco.com",
+  "url": "https://www.cisco.com/c/en/us/support/docs/ip/transmission-control-protocol-tcp/222338-troubleshoot-tcp-slowness-issues-due-to.epub",
+  "title": "Access Denied",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:01:36Z",
+  "category": null
+}

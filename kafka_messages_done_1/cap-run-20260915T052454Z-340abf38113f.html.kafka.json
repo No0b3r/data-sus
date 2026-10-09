@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-340abf38113f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 448653,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/?nc2=h_dsc_ex_s5",
+  "title": "Agent Toolkit for AWS - For Kiro, Claude Code, Codex, & MCP-Compatible Agents",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:36:52Z",
+  "category": null
+}

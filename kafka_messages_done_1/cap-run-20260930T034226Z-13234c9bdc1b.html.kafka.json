@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/jar-c9015e/loang/cap-run-20260930T034226Z-13234c9bdc1b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3914,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/javase/9/",
+  "title": "Oracle JDK 9 Documentation",
+  "author": null,
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:03:19Z",
+  "category": "None"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260923T111036Z-52480d22ff6b.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 5770230,
+  "domain": "www.postgresql.org",
+  "url": "https://www.postgresql.org/files/documentation/pdf/9.0/postgresql-9.0-A4.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:21:55Z",
+  "category": null
+}

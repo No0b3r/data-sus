@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-struts-1b80f7/cap-run-20260915T052454Z-2e0ba2452db3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4433,
+  "domain": "apache.org",
+  "url": "https://struts.apache.org/download.cgi",
+  "title": "Download a Release of the Apache Struts",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:32:07Z",
+  "category": null
+}

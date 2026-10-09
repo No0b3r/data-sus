@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-94f86d8e7edc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 401084,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc9338",
+  "title": "RFC 9338: CBOR Object Signing and Encryption (COSE): Countersignatures | RFC Editor",
+  "author": "J Schaad",
+  "published_year": 2022,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:46Z",
+  "category": "digital signature"
+}

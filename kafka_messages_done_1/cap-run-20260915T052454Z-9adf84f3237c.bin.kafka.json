@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-9adf84f3237c.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1362905,
+  "domain": "amazon.com",
+  "url": "http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/CloudFront_20171030.html",
+  "title": "Class: AWS.CloudFront (2017-10-30)",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:22:54Z",
+  "category": null
+}

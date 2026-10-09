@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260924T025740Z-93ae6e027d38.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5827140,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ko-kr/docs/atlas/atlas-vector-search/vector-search-stage/",
+  "title": "벡터 검색 근사 최근접 이웃 및 등가 최근접 이웃 쿼리 실행 - MongoDB 벡터 검색 - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T09:45:08Z",
+  "category": "코드 예제, 샘플 데이터세트, 모터, java sync, node.js, .NET, Go, Rust"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260917T103202Z-7d07b392432e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 10096,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/about/news/new-trademark-policy-and-recognised-user-group-guidelines-2133/",
+  "title": "New Trademark Policy and Recognised User Group Guidelines",
+  "author": "PostgreSQL Core Team",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:35:21Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/macof-8-cong-cu-flooding-cam-mac-table-bo-ds-a23acf/loang/cap-run-20260915T052454Z-aa4d770065a5.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3915,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/testing/9base/index.html",
+  "title": "Manpages of 9base in Debian testing",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:54:18Z",
+  "category": null
+}

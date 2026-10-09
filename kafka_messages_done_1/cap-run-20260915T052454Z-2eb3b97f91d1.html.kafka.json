@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-wicket-85868a/loang/cap-run-20260915T052454Z-2eb3b97f91d1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2170,
+  "domain": "apache.org",
+  "url": "https://wicket.apache.org/news/2013/05",
+  "title": "Monthly archive for May 2013",
+  "author": null,
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:51:56Z",
+  "category": null
+}

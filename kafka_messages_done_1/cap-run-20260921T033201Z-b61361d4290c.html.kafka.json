@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-b61361d4290c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8997,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/6.4/typeconv2979.htm",
+  "title": "Query Targets",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:02:19Z",
+  "category": null
+}

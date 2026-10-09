@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/elasticsearch-logstash-kibana-ba1cfb/loang/cap-run-20260922T015341Z-810fc72f48c4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 86811,
+  "domain": "elastic.co",
+  "url": "https://www.elastic.co/blog/elastic-security-detecting-covert-data-exfiltration",
+  "title": "Hunting with Elastic Security: Detecting covert data exfiltration",
+  "author": "Justin Higdon",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:22:50Z",
+  "category": ""
+}

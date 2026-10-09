@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-35aa3852b2c3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 564169,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc7049/",
+  "title": "RFC 7049: Concise Binary Object Representation (CBOR) | RFC Editor",
+  "author": "C Bormann; P Hoffman",
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:11:39Z",
+  "category": "parser, encoder, binary format, data interchange format, JSON"
+}

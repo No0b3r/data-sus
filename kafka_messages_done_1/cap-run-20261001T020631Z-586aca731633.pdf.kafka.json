@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-solr-567836/loang/cap-run-20261001T020631Z-586aca731633.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 808575,
+  "domain": "solr.apache.org",
+  "url": "https://solr.apache.org/theme/images/identity/Solr_Logo_on_white.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:19:11Z",
+  "category": null
+}

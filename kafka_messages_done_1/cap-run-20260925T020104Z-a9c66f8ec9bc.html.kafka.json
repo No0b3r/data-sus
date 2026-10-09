@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ftp-60371b/loang/cap-run-20260925T020104Z-a9c66f8ec9bc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 150370,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3146/",
+  "title": "RFC 3146: Transmission of IPv6 Packets over IEEE 1394 Networks | RFC Editor",
+  "author": "K Fujisawa; A Onoe",
+  "published_year": 2001,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:33:52Z",
+  "category": "IPv6, link-local, addresses, statelessly, autoconfigured"
+}

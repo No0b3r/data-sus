@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/influxdb-3-core-d3ce49/loang/cap-run-20260915T052454Z-34bee3f5c1f2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 19156,
+  "domain": "influxdata.com",
+  "url": "https://docs.influxdata.com/influxdb3/enterprise/admin/upgrade-from-core/",
+  "title": "Upgrade from InfluxDB 3 Core",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:15:35Z",
+  "category": "upgrade"
+}

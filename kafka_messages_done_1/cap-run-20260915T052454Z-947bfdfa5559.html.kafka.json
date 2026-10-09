@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-947bfdfa5559.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 339216,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/vi/about-aws/whats-new/2020/03/amazon-connect-adds-phone-numbers-in-twelve-new-countries/",
+  "title": "Amazon Connect bổ sung số điện thoại ở 12 quốc gia mới - AWS",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:42:55Z",
+  "category": null
+}

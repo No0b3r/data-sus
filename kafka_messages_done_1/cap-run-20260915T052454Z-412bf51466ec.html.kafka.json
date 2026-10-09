@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-412bf51466ec.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 325608,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/id/about-aws/whats-new/2018/11/monitor-and-visualize-training-metrics-of-your-machine-learning-/",
+  "title": "Pantau dan Visualisasikan Metrik Pelatihan Model Pembelajaran Mesin Anda dengan Amazon SageMaker dan Amazon CloudWatch - AWS",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:37:47Z",
+  "category": null
+}

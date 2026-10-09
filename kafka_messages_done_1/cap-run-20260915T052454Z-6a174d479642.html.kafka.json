@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-6a174d479642.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 229550,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/library/mainframe-modernization/intelligenly-manage-store-data?lb-mode=overlay",
+  "title": "Intelligently Manage and Store Data Where You Want with MongoDB",
+  "author": "Author",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:28:55Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/jar-c9015e/loang/cap-run-20260928T094912Z-fa296ed2be9a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4276,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/java/javase/12",
+  "title": "JDK 12 Documentation - Home",
+  "author": null,
+  "published_year": 2021,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:03:15Z",
+  "category": null
+}

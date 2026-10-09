@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-b5c23196cf9e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 784,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/middleware/12212/wls/WLCAG/img_text/GUID-03BC9ABE-1CB4-473E-8340-DDE03DCBBF66-default.htm",
+  "title": "Description of the illustration latency_1s.gif",
+  "author": null,
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:49:55Z",
+  "category": null
+}

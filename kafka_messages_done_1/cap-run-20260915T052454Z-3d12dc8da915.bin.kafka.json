@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D08_sensor-analog-signal-injection-transduction/Tier1/adversarial-sensor-attack-on-lidar-based-per-6b1f33/cap-run-20260915T052454Z-3d12dc8da915.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3499,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/user/create",
+  "title": "Log in to arXiv.org",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:32:02Z",
+  "category": null
+}

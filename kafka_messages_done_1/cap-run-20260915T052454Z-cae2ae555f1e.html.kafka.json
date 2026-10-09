@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260915T052454Z-cae2ae555f1e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 23186,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/about/news/postgresql-171-165-159-1414-1317-and-1221-released-2955/",
+  "title": "PostgreSQL 17.1, 16.5, 15.9, 14.14, 13.17, and 12.21 Released!",
+  "author": "PostgreSQL Global Development Group",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:19:24Z",
+  "category": null
+}

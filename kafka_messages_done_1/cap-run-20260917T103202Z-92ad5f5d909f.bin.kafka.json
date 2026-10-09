@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-92ad5f5d909f.bin.gz",
+  "data_type": "book",
+  "file_type": "epub",
+  "file_size": 475056,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/E22663_01/doc.11100/E22676-03.epub",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:39:32Z",
+  "category": null
+}

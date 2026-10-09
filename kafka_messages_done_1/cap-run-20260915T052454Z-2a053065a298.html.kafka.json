@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/blazor-c3f6f5/loang/cap-run-20260915T052454Z-2a053065a298.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 62829,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/visualstudio/ide/using-intellisense",
+  "title": "Use IntelliSense for quick information & completion - Visual Studio (Windows)",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:02:24Z",
+  "category": null
+}

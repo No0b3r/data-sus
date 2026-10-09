@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/pem-3e603c/cap-run-20260925T020104Z-4535252db031.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 274127,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc7468",
+  "title": "RFC 7468: Textual Encodings of PKIX, PKCS, and CMS Structures | RFC Editor",
+  "author": "S Josefsson; S Leonard",
+  "published_year": 2015,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:53:27Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-b88157110fb2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 56889,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/es/about-aws/whats-new/2019/03/aws-robomaker-announces-service-level-agreement/",
+  "title": "Presentación de un acuerdo de nivel de servicios del 99,9 % para AWS RoboMaker",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:45:14Z",
+  "category": null
+}

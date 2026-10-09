@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260921T033201Z-06539f15c21b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 40060,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/replace-the-kibana-icon-in-web-page-tabs/88248",
+  "title": "Replace the Kibana icon in Web page tabs",
+  "author": "TrungNguyen",
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:53:06Z",
+  "category": null
+}

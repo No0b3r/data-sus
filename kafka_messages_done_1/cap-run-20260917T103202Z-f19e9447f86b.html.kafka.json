@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-f19e9447f86b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3000,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/database/other-databases/nosql-database/26.1/nsqrt&id=NSSRE-GUID-A5F43105-E474-4A45-BA19-5E221126320C",
+  "title": "Inserting rows with an MR_COUNTER column",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:44:33Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-4ae60c91b0d1.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 92731,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/developers/plugin-tools/how-to-guides/data-source-plugins/add-query-editor-help",
+  "title": "Add query editor help | Grafana Plugin Tools",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:38:57Z",
+  "category": "grafana,plugins,plugin,queries,query editor,query editor help"
+}

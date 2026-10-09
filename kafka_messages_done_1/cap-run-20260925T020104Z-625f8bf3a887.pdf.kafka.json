@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D04_physical-access-debug-interfaces-hardware-re/Tier3/reverse-engineering-a-cryptographic-rfid-tag-2f3773/cap-run-20260925T020104Z-625f8bf3a887.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 282132,
+  "domain": "www.usenix.org",
+  "url": "https://www.usenix.org/legacy/event/sec08/tech/full_papers/nohl/nohl.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:28:47Z",
+  "category": null
+}

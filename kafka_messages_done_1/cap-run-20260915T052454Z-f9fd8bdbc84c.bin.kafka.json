@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-f9fd8bdbc84c.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 163858,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/developers/plugin-tools/tutorials/build-a-logs-data-source-plugin",
+  "title": "Build a logs data source plugin | Grafana Plugin Tools",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:50:59Z",
+  "category": "grafana,plugins,plugin,logs,logs data source,datasource"
+}

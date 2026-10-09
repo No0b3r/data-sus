@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/kernel-dma-protection-microsoft-learn-hardwa-a86802/loang/cap-run-20260915T052454Z-6abb9a1ee694.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 75155,
+  "domain": "learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/microsoft-365/media/om-urgentmessages_annotated.png?view=o365-worldwide",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:30:54Z",
+  "category": null
+}

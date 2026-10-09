@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier1/kernel-dma-protection-microsoft-learn-hardwa-a86802/loang/cap-run-20260915T052454Z-d897de26ab0b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55512,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/previous-versions/mt728163(v=technet.10)",
+  "title": "Enabling remote access with Windows Hello for Business in Windows 10",
+  "author": null,
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:36Z",
+  "category": null
+}

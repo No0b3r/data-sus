@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260917T103202Z-c2206939b843.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 440659,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/en/middleware/standalone/weblogic-server/15.1.1/start/administering-server-startup-and-shutdown-oracle-weblogic-server.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:52:54Z",
+  "category": null
+}

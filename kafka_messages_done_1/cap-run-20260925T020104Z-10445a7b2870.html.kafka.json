@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D03_network-layer-security-routing-protocol-hard/Tier1/rfc-7123-security-implications-of-ipv6-on-ip-cc7d64/cap-run-20260925T020104Z-10445a7b2870.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 55161,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc7123.html",
+  "title": null,
+  "author": null,
+  "published_year": 2014,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:57:42Z",
+  "category": null
+}

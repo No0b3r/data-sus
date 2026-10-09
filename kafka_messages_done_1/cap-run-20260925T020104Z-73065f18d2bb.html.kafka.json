@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-73065f18d2bb.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 971133,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/pt-br/docs/atlas/architecture/current/solutions-library/fincrime-mitigation/",
+  "title": "Mitigação de crimes financeiros com MongoDB Atlas - Atlas Architecture Center - MongoDB Docs",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T03:09:25Z",
+  "category": "RAG, Atlas"
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-58d532a33aa1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 339498,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/docs/grafana/latest/manage-users/?pg=graf&plcmt=collaborate",
+  "title": "Roles and permissions | Grafana documentation",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:21:56Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/apache-kafka-cve-2023-25194-jndi-jaas-inject-915f92/loang/cap-run-20260928T065604Z-22bc2b42e38c.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9011,
+  "domain": "apache.org",
+  "url": "https://kafka.apache.org/blog/2026/05/30/apache-kafka-4.2.1-release-announcement/",
+  "title": "Apache Kafka 4.2.1 Release Announcement",
+  "author": "PoAn Yang",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:38:15Z",
+  "category": "blog"
+}

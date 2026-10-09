@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/ettercap-8-manpage-mitm-sniffer-content-filt-423ccb/loang/cap-run-20260917T103202Z-023e5842d85a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4667,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/testing/acbuild/acbuild-set-group.1.en.html",
+  "title": "acbuild-set-group(1) — acbuild — Debian testing",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:50:23Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D08_sensor-analog-signal-injection-transduction/Tier3/dolphinatack-inaudible-voice-commands-ccs-20-77fdc3/loang/cap-run-20260915T052454Z-8e158d086857.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 2719693,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/pdf/1708.09537",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:33:14Z",
+  "category": null
+}

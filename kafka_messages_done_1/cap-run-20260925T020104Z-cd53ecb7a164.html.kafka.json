@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D03_network-layer-security-routing-protocol-hard/Tier1/rfc-4732-internet-denial-of-service-consider-40f909/cap-run-20260925T020104Z-cd53ecb7a164.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 113903,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc4732.html",
+  "title": null,
+  "author": null,
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:57:40Z",
+  "category": null
+}

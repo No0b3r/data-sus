@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-139133e8e52b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 16913,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/13/xplang.html",
+  "title": "Chapter 41. Procedural Languages",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:48:36Z",
+  "category": null
+}

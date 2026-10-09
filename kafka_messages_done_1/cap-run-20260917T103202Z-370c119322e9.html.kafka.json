@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-370c119322e9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 327169,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/save-the-date-grafanacon-2025-is-coming-to-seattle-in-may",
+  "title": "Save the date: GrafanaCON 2025 is coming to Seattle in May! | Grafana Labs",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:14:24Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

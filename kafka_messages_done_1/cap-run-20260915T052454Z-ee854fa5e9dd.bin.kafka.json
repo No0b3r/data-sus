@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260915T052454Z-ee854fa5e9dd.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": 306110412,
+  "domain": "docs.oracle.com",
+  "url": "http://docs.oracle.com/cds/E94389_01.zip",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T07:51:41Z",
+  "category": null
+}

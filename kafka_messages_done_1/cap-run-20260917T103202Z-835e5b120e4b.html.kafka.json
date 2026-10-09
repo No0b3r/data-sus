@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-flexcube-universal-banking-7dd9a7/loang/cap-run-20260917T103202Z-835e5b120e4b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9168,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E99083_01/html/CS/CS07_Project_Finance_A.htm",
+  "title": "Oracle ® FLEXCUBE Universal Banking Core Services User Guide",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T08:29:27Z",
+  "category": null
+}

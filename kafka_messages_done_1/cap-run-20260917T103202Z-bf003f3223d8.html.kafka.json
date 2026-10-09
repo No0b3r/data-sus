@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-bf003f3223d8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 22419,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E11882_01/owb.112/e10935/toc.htm",
+  "title": "Warehouse Builder Data Modeling, ETL, and Data Quality Guide",
+  "author": null,
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:42:00Z",
+  "category": null
+}

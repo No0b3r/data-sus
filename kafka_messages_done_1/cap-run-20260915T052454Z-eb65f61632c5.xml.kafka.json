@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/macof-8-cong-cu-flooding-cam-mac-table-bo-ds-a23acf/loang/cap-run-20260915T052454Z-eb65f61632c5.xml.gz",
+  "data_type": "document",
+  "file_type": "xml",
+  "file_size": 473,
+  "domain": "manpages.debian.org",
+  "url": "https://manpages.debian.org/opensearch.xml",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:55:04Z",
+  "category": null
+}

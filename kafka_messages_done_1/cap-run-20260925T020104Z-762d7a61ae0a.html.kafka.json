@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D09_service-provider-internet-infrastructure-sec/Tier1/rfc-5920-security-framework-for-mpls-and-gmp-68ca1a/cap-run-20260925T020104Z-762d7a61ae0a.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 182042,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc5920.html",
+  "title": null,
+  "author": null,
+  "published_year": 2010,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:39:54Z",
+  "category": null
+}

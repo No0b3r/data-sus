@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D07_secure-elements-hardware-crypto-certificatio/Tier1/a-survey-on-physical-unclonable-function-puf-4e2e46/cap-run-20260915T052454Z-7cc553895255.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 3430824,
+  "domain": "arxiv.org",
+  "url": "https://arxiv.org/pdf/1907.12525",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:32:00Z",
+  "category": null
+}

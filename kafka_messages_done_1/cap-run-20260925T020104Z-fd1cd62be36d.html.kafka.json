@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ldap-ae3363/loang/cap-run-20260925T020104Z-fd1cd62be36d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 159395,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc3771",
+  "title": "RFC 3771: The Lightweight Directory Access Protocol (LDAP) Intermediate Response Message | RFC Editor",
+  "author": "R Harrison; K Zeilenga",
+  "published_year": 2004,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:06:51Z",
+  "category": "LDAPv3, LDAv3, x.500"
+}

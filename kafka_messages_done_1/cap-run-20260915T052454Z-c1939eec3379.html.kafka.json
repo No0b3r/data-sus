@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D07_perimeter-enforcement-firewalling-nat-segmen/Tier2/aws-network-firewall-developer-guide-example-b394d1/loang/cap-run-20260915T052454Z-c1939eec3379.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9525,
+  "domain": "amazon.com",
+  "url": "https://docs.aws.amazon.com/ko_kr/AmazonECS/latest/developerguide/ECS_AWSCLI_Fargate.html",
+  "title": "AWS CLI를 사용하여 Fargate에 대한 Amazon ECS Linux 태스크 생성",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:26:14Z",
+  "category": null
+}

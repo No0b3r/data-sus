@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-11059d502a4e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 116255,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/events/observabilitycon/2023/how-actian-created-customizable-observability-tool-with-grafana/",
+  "title": "Actian & Grafana Cloud: The search for a customizable observability tool | Grafana Labs",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:07:10Z",
+  "category": null
+}

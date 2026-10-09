@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-7c3696c67de8.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 828763,
+  "domain": "twitter.com",
+  "url": "https://grafana.com/docs/grafana-cloud/send-data/fleet-management/?pg=native-opentelemetry-inside-alloy-now-you-can-get-the-best-of-both-worlds&plcmt=in-text",
+  "title": "Fleet Management in Grafana Cloud | Grafana Cloud documentation",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:29:51Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20261001T020631Z-359aebfff3f9.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 11426,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2026-225_actions_attest/",
+  "title": "GHSL-2026-225: Artifact metadata injection in actions/attest",
+  "author": "Jarlob",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:08:56Z",
+  "category": null
+}

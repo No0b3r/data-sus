@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-fdd6c294d5e0.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 494728,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc8322",
+  "title": "RFC 8322: Resource-Oriented Lightweight Information Exchange (ROLIE) | RFC Editor",
+  "author": "J Field; S Banghart; D Waltermire",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:17Z",
+  "category": "syndication, atom, atom publishing protocol, atom syndication format, rest, information sharing, security automation"
+}

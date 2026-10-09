@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier2/linux-kernel-documentation-networking-ip-sys-8ee787/loang/cap-run-20260925T020104Z-56f43a6d1a6f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2929,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/netlink/specs/index.html",
+  "title": "Netlink Family Specifications",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:01:54Z",
+  "category": null
+}

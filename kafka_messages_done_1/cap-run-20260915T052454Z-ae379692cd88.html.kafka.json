@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260915T052454Z-ae379692cd88.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 217135,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/library/lending-leasing/reducing-bias-credit-scoring-genai?lb-mode=overlay",
+  "title": "Reducing Bias in Credit Scoring with Generative AI",
+  "author": null,
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:44:09Z",
+  "category": null
+}

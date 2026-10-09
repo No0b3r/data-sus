@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/grafana-cve-2025-4123-client-path-traversal-71cc1c/loang/cap-run-20260917T103202Z-483f0c2c507b.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 101344,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/developers/plugin-tools/how-to-guides/panel-plugins/add-value-mappings-support",
+  "title": "Add value mappings support to panel plugins | Grafana Plugin Tools",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:17:48Z",
+  "category": "grafana,plugins,plugin,panel,value mappings,field config"
+}

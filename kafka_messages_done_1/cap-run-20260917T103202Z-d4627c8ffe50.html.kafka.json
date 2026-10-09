@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-sql-4f80ef/loang/cap-run-20260917T103202Z-d4627c8ffe50.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5496,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/database/bdb181/books.htm",
+  "title": "Oracle Berkeley DB Version 18.1",
+  "author": null,
+  "published_year": 2006,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:43:05Z",
+  "category": "None"
+}

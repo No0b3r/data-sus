@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-velocity-f1dd16/loang/cap-run-20260915T052454Z-3a4f2b9ee014.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": null,
+  "domain": "velocity.apache.org",
+  "url": "https://velocity.apache.org/engine/devel/apidocs/org/apache/velocity/package-summary.html",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:41:50Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='velocity.apache.org', port=443): Max retries exceeded with url: /engine/devel/apidocs/org/apache/velocity/package-summary.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001E1579D8ED0>, 'Connection to velocity.apache.org timed out. (connect timeout=15.0)'))"
+}

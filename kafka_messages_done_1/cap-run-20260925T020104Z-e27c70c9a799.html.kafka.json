@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/cisco-asa-secure-client-f68d60/loang/cap-run-20260925T020104Z-e27c70c9a799.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 461,
+  "domain": "cisco.com",
+  "url": "https://www.cisco.com/c/en/us/support/security/firepower-1000-series/series.html",
+  "title": "Access Denied",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:06:34Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier1/ettercap-8-manpage-mitm-sniffer-content-filt-423ccb/loang/cap-run-20260917T103202Z-bb6b06c7ecdc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 5619,
+  "domain": "debian.org",
+  "url": "https://manpages.debian.org/testing/acedb-other-belvu/belvu.1.en.html",
+  "title": "belvu(1) — acedb-other-belvu — Debian testing",
+  "author": null,
+  "published_year": 2016,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:51:20Z",
+  "category": null
+}

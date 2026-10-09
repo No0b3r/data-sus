@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier1/linux-kernel-hardware-vulnerabilities-admin-1d8f92/loang/cap-run-20260925T020104Z-ed8ca71754a6.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6723,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/gpu/rfc/i915_small_bar.html",
+  "title": "I915 Small BAR RFC Section",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:25:24Z",
+  "category": null
+}

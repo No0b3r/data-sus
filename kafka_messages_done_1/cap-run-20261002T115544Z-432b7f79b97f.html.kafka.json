@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20261002T115544Z-432b7f79b97f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 6296,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/zh/blog/2025/04/21/host-mcp-server-with-api-gateway/",
+  "title": "从 stdio 到 HTTP SSE：使用 APISIX 托管 MCP Server | Apache APISIX",
+  "author": "Ming Wen",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:37:37Z",
+  "category": "Ecosystem"
+}

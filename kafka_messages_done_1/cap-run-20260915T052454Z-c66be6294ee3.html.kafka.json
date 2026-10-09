@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-c66be6294ee3.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 401364,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/blog/less-is-more-how-grafana-mimir-queries-run-faster-and-more-cost-efficiently-with-fewer-indexes/",
+  "title": "How Grafana Mimir runs faster queries with fewer indexes | Grafana Labs",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:47:18Z",
+  "category": "Logs,Grafana,Traces,Metrics,Observability,Monitoring,Analytics"
+}

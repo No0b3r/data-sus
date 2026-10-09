@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D02_side-channel-analysis-power-em-microarchitec/Tier1/linux-kernel-hardware-vulnerabilities-admin-1d8f92/loang/cap-run-20260925T020104Z-71d12306d43f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 33204,
+  "domain": "kernel.org",
+  "url": "https://www.kernel.org/doc/html/latest/arch/sparc/oradax/oracle-dax.html",
+  "title": "Oracle Data Analytics Accelerator (DAX)",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:19:27Z",
+  "category": null
+}

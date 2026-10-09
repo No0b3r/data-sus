@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-f0a677c62d6d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 205898,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/marketplace/seller-profile?id=0af153a3-339f-48c2-8b42-3b9fa26d3367",
+  "title": "IMDb",
+  "author": null,
+  "published_year": 2012,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:49:00Z",
+  "category": null
+}

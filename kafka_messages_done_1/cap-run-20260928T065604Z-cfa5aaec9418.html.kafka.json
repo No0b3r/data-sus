@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/cve-2021-43557-apache-apisix-89c243/loang/cap-run-20260928T065604Z-cfa5aaec9418.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 7666,
+  "domain": "apache.org",
+  "url": "https://apisix.apache.org/blog/2020/12/11/beike-how-to-build-gateway-based-on-apache-apisix/",
+  "title": "Ke Holdings Inc chooses Apache APISIX as API Gateway | Apache APISIX",
+  "author": "Hui Wang",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T14:06:20Z",
+  "category": "Case Studies"
+}

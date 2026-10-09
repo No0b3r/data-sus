@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-35f7f98ed18b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 117262,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/jp/about-aws/events/2016/atoz-osaka/register/",
+  "title": "参加お申し込み - 今こそ知りたいAWSクラウドのA to Z (2016 年 4 月 19 日 大阪開催） | AWS",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:37:00Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/apache-tomcat-9f19e0/loang/cap-run-20260915T052454Z-0d31c6424bdf.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 740589,
+  "domain": "tomcat.apache.org",
+  "url": "https://tomcat.apache.org/presentations/2017-09-26-tomcatcon-london-clustering.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T03:36:01Z",
+  "category": null
+}

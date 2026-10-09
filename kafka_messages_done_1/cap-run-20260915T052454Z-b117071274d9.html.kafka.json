@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/openvpn-community-chained-for-attack-openvpn-aa58fa/cap-run-20260915T052454Z-b117071274d9.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 330533,
+  "domain": "microsoft.com",
+  "url": "https://www.microsoft.com/en-us/security/blog/2024/08/08/chained-for-attack-openvpn-vulnerabilities-discovered-leading-to-rce-and-lpe",
+  "title": "Chained for attack: OpenVPN vulnerabilities discovered leading to RCE and LPE | Microsoft Security Blog",
+  "author": "Microsoft Threat Intelligence",
+  "published_year": 2024,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:57:54Z",
+  "category": null
+}

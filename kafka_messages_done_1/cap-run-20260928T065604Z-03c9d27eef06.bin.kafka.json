@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/rocket-chat-ghsl-2026-004-005-auth-bypass-an-2618ef/loang/cap-run-20260928T065604Z-03c9d27eef06.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9390,
+  "domain": "github.com",
+  "url": "https://securitylab.github.com/advisories/GHSL-2024-325_GHSL-2024-326_Actual/",
+  "title": "GHSL-2024-325_GHSL-2024-326: Poisoned Pipeline execution via Code Injection and Execution of untrusted code in Actual",
+  "author": "Pwntester",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:06:53Z",
+  "category": null
+}

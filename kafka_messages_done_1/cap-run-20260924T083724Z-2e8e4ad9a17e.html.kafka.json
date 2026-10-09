@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260924T083724Z-2e8e4ad9a17e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1977949,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/blog/post/women-leaders-mongodb-lena-smart-discusses-clarity-goal-setting?utm_campaign=life_at_mongodb_blog&utm_source=careers_site&utm_medium=life_at_mongodb",
+  "title": "Life at MongoDB | MongoDB Blog",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T10:51:28Z",
+  "category": null
+}

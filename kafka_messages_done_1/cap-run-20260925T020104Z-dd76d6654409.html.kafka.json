@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/https-tls-ssl-1bed3b/loang/cap-run-20260925T020104Z-dd76d6654409.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 252785,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc4101/",
+  "title": "RFC 4101: Writing Protocol Models | RFC Editor",
+  "author": "E Rescorla; IAB",
+  "published_year": 2005,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:14:06Z",
+  "category": "document review"
+}

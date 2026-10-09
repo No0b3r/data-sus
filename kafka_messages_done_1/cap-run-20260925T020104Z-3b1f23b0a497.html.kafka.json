@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-3b1f23b0a497.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 931917,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ja-jp/docs/vector-search/crud-embeddings/automated-embedding/",
+  "title": "自動埋め込みの概要 - MongoDB ベクトル検索 - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T02:12:56Z",
+  "category": "ベクトル埋め込み, 埋め込みモデル, ベクトルデータベース, vectorSearch, セマンティック検索, 生成系検索, サンプルデータセット, コードの例, node.js, Python, Compass, mongosh"
+}

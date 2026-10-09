@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-820de4ebd83f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9520,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/cd/E13197_01/rfid/enterprise_server/docs20/install/prepare.html",
+  "title": "Installing WebLogic RFID Enterprise Server",
+  "author": null,
+  "published_year": 2000,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:48:29Z",
+  "category": null
+}

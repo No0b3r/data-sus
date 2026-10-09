@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D05_memory-bus-attacks-dram-rowhammer-dma-pcie-u/Tier2/throwhammer-rowhammer-attacks-over-the-netwo-d07a88/cap-run-20260925T020104Z-6d735747f256.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 36344,
+  "domain": "usenix.org",
+  "url": "https://www.usenix.org/conference/atc18/presentation/tatar",
+  "title": "Throwhammer: Rowhammer Attacks over the Network and Defenses",
+  "author": "Andrei Tatar; Radhesh Krishnan Konoth; Elias Athanasopoulos; Cristiano Giuffrida; Herbert Bos; Kaveh Razavi",
+  "published_year": 2018,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:31:55Z",
+  "category": null
+}

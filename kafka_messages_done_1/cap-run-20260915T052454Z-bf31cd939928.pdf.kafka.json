@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-banking-payments-721309/loang/cap-run-20260915T052454Z-bf31cd939928.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 2356216,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/cd/F31489_01/PDF/User_Guides/Oracle-Banking-Payments_Common_Core/CommonCore_Gateway.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T06:28:56Z",
+  "category": null
+}

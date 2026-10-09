@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-e90410d763c4.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 113596,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc607/",
+  "title": "RFC 607: Comments on the File Transfer Protocol | RFC Editor",
+  "author": "M Krilanovich; G Gregg",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:12Z",
+  "category": "solutions, weakness, ftp"
+}

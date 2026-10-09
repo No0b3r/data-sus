@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D04_transport-layer-security-mechanics-attacks-l/Tier1/cisco-resolve-ipv4-fragmentation-mtu-mss-and-39c5f4/cap-run-20260925T020104Z-69a2a92c5fc4.xml.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 440,
+  "domain": "cisco.com",
+  "url": "https://www.cisco.com/web/sitemap/www_cisco_com_ar_sa_index.xml",
+  "title": "Access Denied",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:58:14Z",
+  "category": null
+}

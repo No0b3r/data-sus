@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/apache-kafka-cve-2023-25194-jndi-jaas-inject-915f92/loang/cap-run-20260924T083724Z-1b761a43a8c7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 8915,
+  "domain": "apache.org",
+  "url": "https://kafka.apache.org/blog/2026/03/17/apache-kafka-4.1.2-release-announcement/",
+  "title": "Apache Kafka 4.1.2 Release Announcement",
+  "author": "Andrew Schofield",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:30:05Z",
+  "category": "blog"
+}

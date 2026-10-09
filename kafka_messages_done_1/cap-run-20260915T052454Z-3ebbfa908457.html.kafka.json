@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-3ebbfa908457.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 21172,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/middleware/standalone/weblogic-server/14.1.1.0/sysrs/system-requirements-and-specifications.html",
+  "title": "System Requirements and Specifications for Oracle Weblogic Server and Coherence",
+  "author": "Oracle Corporation",
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:46:52Z",
+  "category": null
+}

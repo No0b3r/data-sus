@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-fusion-cloud-erp-financials-d9d889/loang/cap-run-20260915T052454Z-38f9d603544b.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 2851,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/saas/analytics/26r2/fawwn&id=ACUBI-GUID-C8F52D9E-88E0-417D-A687-69811149C770",
+  "title": "Visualizing Data and Building Reports in Oracle Analytics Cloud",
+  "author": "Anna Moat; Oracle Analytics Cloud development; Product Management; Quality Assurance Teams; Pete Brownbridge",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:11:50Z",
+  "category": "urn:ohc:tag:,urn:ohc:application:,urn:ohc:application-type:,urn:ohc:industry:"
+}

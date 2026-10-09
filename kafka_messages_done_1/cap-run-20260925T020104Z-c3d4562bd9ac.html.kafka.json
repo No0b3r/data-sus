@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ftp-60371b/loang/cap-run-20260925T020104Z-c3d4562bd9ac.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 363751,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc908/",
+  "title": "RFC 908: Reliable Data Protocol | RFC Editor",
+  "author": "D Velten; R M Hinden; J Sax",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:33:58Z",
+  "category": "RDP"
+}

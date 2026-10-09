@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/webdav-423342/loang/cap-run-20260925T020104Z-805ddc9a62e1.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 153333,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5013/",
+  "title": "RFC 5013: The Dublin Core Metadata Element Set | RFC Editor",
+  "author": "J Kunze; T Baker",
+  "published_year": 2007,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T12:01:39Z",
+  "category": "resource description, object descriptors, digital library collections"
+}

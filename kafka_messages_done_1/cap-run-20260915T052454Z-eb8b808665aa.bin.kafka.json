@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-eb8b808665aa.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 131185,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/developers/plugin-tools/tutorials/build-a-panel-plugin",
+  "title": "Build a panel plugin | Grafana Plugin Tools",
+  "author": null,
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:49:52Z",
+  "category": "grafana,plugins,plugin,visualization,custom visualization,dashboard,dashboards"
+}

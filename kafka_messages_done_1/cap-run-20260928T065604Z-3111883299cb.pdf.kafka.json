@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D02_data-link-physical-layer-security-l1-l2/Tier2/cisco-vlan-configuration-guide-ios-xe-17-17-d7bca8/cap-run-20260928T065604Z-3111883299cb.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 3402964,
+  "domain": "www.cisco.com",
+  "url": "https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst9500/software/release/17-17/configuration_guide/vlan/b_1717_vlan_9500_cg.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:57:28Z",
+  "category": null
+}

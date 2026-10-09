@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-898ec1e104ff.bin.gz",
+  "data_type": "book",
+  "file_type": "epub",
+  "file_size": 392683,
+  "domain": "docs.oracle.com",
+  "url": "https://docs.oracle.com/middleware/1221/wls/WLSCC.epub",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:48:42Z",
+  "category": null
+}

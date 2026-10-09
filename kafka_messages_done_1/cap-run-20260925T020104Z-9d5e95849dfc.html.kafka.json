@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9334-remote-attestation-procedures-rats-9acd6f/loang/cap-run-20260925T020104Z-9d5e95849dfc.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 520828,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5209",
+  "title": "RFC 5209: Network Endpoint Assessment (NEA): Overview and Requirements | RFC Editor",
+  "author": "P Sangster; H Khosravi; M Mani; K Narayan; J Tardo",
+  "published_year": 2008,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:12:00Z",
+  "category": "Posture, Remediation, reassessment, Validator, Collector, Broker, compliance, privacy, disclosure, replay, trust, policy"
+}

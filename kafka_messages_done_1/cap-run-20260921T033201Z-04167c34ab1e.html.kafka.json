@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-04167c34ab1e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 9831,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/about/news/pgbouncer-1251-released-fixing-a-bunch-of-bugs-before-christmas-including-cve-2025-12819-3189/",
+  "title": "PgBouncer 1.25.1 released - Fixing a bunch of bugs before Christmas (including CVE-2025-12819)",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T10:47:21Z",
+  "category": null
+}

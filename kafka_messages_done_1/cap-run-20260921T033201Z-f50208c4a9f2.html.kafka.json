@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260921T033201Z-f50208c4a9f2.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 33739,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/9.2/ddl-constraints.html",
+  "title": "Constraints",
+  "author": null,
+  "published_year": 2017,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:07:42Z",
+  "category": null
+}

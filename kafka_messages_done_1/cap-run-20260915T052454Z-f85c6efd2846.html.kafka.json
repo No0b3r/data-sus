@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/pptx-706de8/loang/cap-run-20260915T052454Z-f85c6efd2846.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 63695,
+  "domain": "microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd",
+  "title": "[MS-DOCX]: Word Extensions to the Office Open XML (.docx) File Format",
+  "author": null,
+  "published_year": 2025,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:28:37Z",
+  "category": null
+}

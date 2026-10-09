@@ -1,0 +1,17 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/php-43e095/loang/cap-run-20260923T111036Z-55af348a2a68.bin.gz",
+  "data_type": "document",
+  "file_type": "bin",
+  "file_size": null,
+  "domain": "www.php.net",
+  "url": "https://www.php.net/manual/en/language.functions.php",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:54:10Z",
+  "category": null,
+  "_fetch_error": "HTTPSConnectionPool(host='www.php.net', port=443): Max retries exceeded with url: /manual/en/language.functions.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E162CFB210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+}

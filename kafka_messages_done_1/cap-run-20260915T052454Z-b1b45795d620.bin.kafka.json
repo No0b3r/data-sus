@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-b1b45795d620.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 81334,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/developers/plugin-tools/publish-a-plugin/sign-a-plugin",
+  "title": "Sign a plugin | Grafana Plugin Tools",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:45:54Z",
+  "category": "grafana,plugins,plugin,sign plugin,signing plugin"
+}

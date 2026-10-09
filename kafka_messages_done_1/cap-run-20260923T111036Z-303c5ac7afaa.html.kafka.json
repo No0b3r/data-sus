@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/postgresql-ce9f8a/loang/cap-run-20260923T111036Z-303c5ac7afaa.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 16898,
+  "domain": "postgresql.org",
+  "url": "https://www.postgresql.org/docs/current/libpq-pgpass.html",
+  "title": "32.16. The Password File",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T11:20:43Z",
+  "category": null
+}

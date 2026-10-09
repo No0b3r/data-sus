@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/https-tls-ssl-1bed3b/loang/cap-run-20260925T020104Z-a0cc64a520d1.bin.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 605777,
+  "domain": "rfc-editor.org",
+  "url": "http://www.rfc-editor.org/info/rfc6101",
+  "title": "RFC 6101: The Secure Sockets Layer (SSL) Protocol Version 3.0 | RFC Editor",
+  "author": "A Freier; P Karlton; P Kocher",
+  "published_year": 2011,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:14:02Z",
+  "category": "Transport layer security"
+}

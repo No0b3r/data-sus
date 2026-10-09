@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t2-thuc-hanh/Tier2/elasticsearch-logstash-kibana-elastic-securi-7d0f15/loang/cap-run-20260929T071812Z-e0ffb03b4e6e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 61386,
+  "domain": "elastic.co",
+  "url": "https://discuss.elastic.co/t/ingest-pipeline-drops-the-field-as-timestamp-while-loading-elasticsearchs-server-and-slowlog-using-filebeat/247031",
+  "title": "Ingest pipeline drops the field as @timestamp while loading Elasticsearch's server and slowlog using filebeat",
+  "author": "Prashant Agrawal",
+  "published_year": 2020,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T15:03:07Z",
+  "category": "ingest-pipeline"
+}

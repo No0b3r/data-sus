@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-weblogic-server-c8ec55/loang/cap-run-20260915T052454Z-6cbc6cfdfb59.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3860,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/middleware/developer-tools/jdeveloper/12.2.1.4/release-notes-jdev-adf/index.html",
+  "title": "Release Notes",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:47:58Z",
+  "category": null
+}

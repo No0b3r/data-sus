@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/https-tls-ssl-1bed3b/loang/cap-run-20260925T020104Z-b080364f41ae.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 168945,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc5487/",
+  "title": "RFC 5487: Pre-Shared Key Cipher Suites for TLS with SHA-256/384 and AES Galois Counter Mode | RFC Editor",
+  "author": "M Badra",
+  "published_year": 2009,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T05:14:03Z",
+  "category": "PSK, Diffie-Hellman, Key Exchange, advanced encryption standard, gcm, digest algorithm, ciphersuite"
+}

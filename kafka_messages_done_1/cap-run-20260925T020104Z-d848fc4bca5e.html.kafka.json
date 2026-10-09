@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/ftp-60371b/loang/cap-run-20260925T020104Z-d848fc4bca5e.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 102169,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc433",
+  "title": "RFC 433: Socket number list | RFC Editor",
+  "author": "J Postel",
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:34:02Z",
+  "category": null
+}

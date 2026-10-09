@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D01_network-fundamentals-protocol-architecture/Tier3/aws-summary-of-the-amazon-dynamodb-service-d-830b67/loang/cap-run-20260915T052454Z-0707e0103977.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 326603,
+  "domain": "amazon.com",
+  "url": "https://aws.amazon.com/id/about-aws/whats-new/2017/03/amazon-cloudwatch-events-adds-routing-to-amazon-ec2-run-command/",
+  "title": "Amazon CloudWatch Events Menambahkan Routing ke Amazon EC2 Run Command - AWS",
+  "author": null,
+  "published_year": 2019,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:34:00Z",
+  "category": null
+}

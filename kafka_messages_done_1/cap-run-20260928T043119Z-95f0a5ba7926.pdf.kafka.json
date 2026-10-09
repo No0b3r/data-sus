@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D06_hardware-design-trust-supply-chain-assurance/Tier3/the-unpatchable-silicon-a-full-break-of-the-b9f66e/cap-run-20260928T043119Z-95f0a5ba7926.pdf.gz",
+  "data_type": "book",
+  "file_type": "pdf",
+  "file_size": 402362,
+  "domain": "www.usenix.org",
+  "url": "https://www.usenix.org/system/files/sec20-ender.pdf",
+  "title": null,
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:32:00Z",
+  "category": null
+}

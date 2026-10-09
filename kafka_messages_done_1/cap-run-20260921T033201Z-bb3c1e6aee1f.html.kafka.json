@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/jar-c9015e/loang/cap-run-20260921T033201Z-bb3c1e6aee1f.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 4049,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/javase/8/docs/api/java/security/class-use/PermissionCollection.html",
+  "title": "Uses of Class java.security.PermissionCollection",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T06:02:43Z",
+  "category": null
+}

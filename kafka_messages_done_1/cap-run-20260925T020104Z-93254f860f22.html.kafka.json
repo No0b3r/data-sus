@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_network-security/D06_network-access-control-network-identity/Tier1/rfc-8907-the-tacacs-protocol-a5090b/cap-run-20260925T020104Z-93254f860f22.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 215854,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/rfc/rfc8907.html",
+  "title": "The Terminal Access Controller Access-Control System Plus (TACACS+) Protocol",
+  "author": "Thorsten Dahm; Andrej Ota; Douglas C Medway Gash; David Carrel; Lol Grant",
+  "published_year": 1997,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T17:02:59Z",
+  "category": null
+}

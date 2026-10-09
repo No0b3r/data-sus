@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/grafana-684849/loang/cap-run-20260915T052454Z-7b114e60bb04.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 998,
+  "domain": "grafana.com",
+  "url": "https://grafana.com/auth/sign-up/create-user?pg=gartner-mq&plcmt=grafana-labs-is-honored-to-be-recognized-for-the-third-consecutive-year-as-a-leader-in-the-2026-gartner-magic-quadrant-for-observability-platforms",
+  "title": "Grafana Cloud",
+  "author": null,
+  "published_year": null,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-07T04:42:10Z",
+  "category": null
+}

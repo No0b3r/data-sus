@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/oracle-health-ehr-cerner-millennium-ed62ec/loang/cap-run-20260917T103202Z-0a93d4baae9d.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 3207,
+  "domain": "oracle.com",
+  "url": "https://docs.oracle.com/en/industries/energy-water/digital-asset-management/20012/dam-installation-guide/index.html",
+  "title": "Digital Asset Management Installation Guide",
+  "author": null,
+  "published_year": 2023,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T09:14:49Z",
+  "category": null
+}

@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A3_infra/KA_hardware-security/D01_trusted-execution-secure-boot-firmware-integ/Tier1/rfc-9711-the-entity-attestation-token-eat-21a536/loang/cap-run-20260925T020104Z-e048fee2c5b7.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 218391,
+  "domain": "rfc-editor.org",
+  "url": "https://www.rfc-editor.org/info/rfc7071/",
+  "title": "RFC 7071: A Media Type for Reputation Interchange | RFC Editor",
+  "author": "N Borenstein; M Kucherawy",
+  "published_year": 2013,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T16:13:05Z",
+  "category": "reputation, domain, security, messaging, dkim, spf, authentication"
+}

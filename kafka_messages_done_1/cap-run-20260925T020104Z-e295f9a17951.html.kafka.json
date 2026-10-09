@@ -1,0 +1,16 @@
+{
+  "s3_bucket": "backups",
+  "s3_key": "l0/A2_swp/KA_web-security/D00_t1-ly-thuyet/Tier1/mongodb-1b5eda/loang/cap-run-20260925T020104Z-e295f9a17951.html.gz",
+  "data_type": "document",
+  "file_type": "html",
+  "file_size": 1707663,
+  "domain": "mongodb.com",
+  "url": "https://www.mongodb.com/ko-kr/docs/atlas/atlas-vector-search/rag/",
+  "title": "MongoDB 사용한 검색 증강 생성(RAG) - MongoDB 벡터 검색 - MongoDB Docs",
+  "author": null,
+  "published_year": 2026,
+  "language": null,
+  "crawler_source": null,
+  "crawled_at": "2026-10-08T05:17:34Z",
+  "category": "RAG, 검색 증강 생성, AI, LLM, 벡터 데이터베이스, Vector Search, 시맨틱 검색, 생성형 검색, 코드 예제, Java, Python, Go, node.js, Hugging Face, C#, .NET, OpenAI"
+}
